@@ -12,7 +12,7 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-tren-ubuntu-cac-phan-mem-web-developer-can-cai-dat.html
 ---
 
-IO scheduling cách thức mà hệ điều hành quyết định thứ tự các khối lệnh vào/ra sẽ được chuyển đến bộ nhớ lưu trữ. Mặc định ubuntu 14.04 sử dụng chế độ deadline, đây không phải là chế độ đạt tốc độ cao nhất mà ổ cứng hỗ trợ, tuy nhiên chúng ta có thể thay đổi chế độ này để đạt hiệu quả cao nhất cho ubuntu.
+IO scheduling là cách thức mà hệ điều hành quyết định thứ tự các khối lệnh vào/ra sẽ được chuyển đến bộ nhớ lưu trữ. Mặc định ubuntu 14.04 sử dụng chế độ deadline, đây không phải là chế độ đạt tốc độ cao nhất mà ổ cứng hỗ trợ, tuy nhiên chúng ta có thể thay đổi chế độ này để đạt hiệu quả cao nhất cho ubuntu.
 
 Xét về tốc độ và hiệu suất làm việc trên ubuntu thì chúng ta có thể sắp xếp các chế độ như sau: bfq > cfq > deadline > noop
 
