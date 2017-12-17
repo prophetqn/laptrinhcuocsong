@@ -19,7 +19,7 @@ Tôi viết bài này để tôn vinh tất cả các lập trình viên, bởi 
 
 Cảm ơn tất cả các bạn đã tạo nên thế giới hiện đại ngày hôm nay nơi mà tất cả mọi thứ, từ xe cộ, điện thoại, điều hòa, tivi, những tòa nhà, đèn giao thông, máy móc... đều được tạo ra từ phần mềm của các bạn, những con người sáng tạo và đầy tài năng.
 
-Nếu một ngày không có các bạn, những đoạn mã lập trình biến mất, thế giới sẽ trở về thời kỳ đồ đá, nhân loại sẽ chìm trong bóng tối của sự ngu dốt tối tăm. Chúc các bạn sức khỏe và thành công, tiếp tục theo đuổi đam mê của mình, thế giới cần các bạn.
+Nếu một ngày không có các bạn, [những đoạn mã lập trình biến mất](http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html), thế giới sẽ trở về thời kỳ đồ đá, nhân loại sẽ chìm trong bóng tối của sự ngu dốt tối tăm. Chúc các bạn sức khỏe và thành công, tiếp tục theo đuổi đam mê của mình, thế giới cần các bạn.
 
 ## Ngày lập trình viên, tôi làm gì ?
 
