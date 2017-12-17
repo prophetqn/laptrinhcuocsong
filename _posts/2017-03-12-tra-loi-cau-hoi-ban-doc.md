@@ -30,7 +30,7 @@ Việc lựa chọn theo frontend hay backend là ở chính bạn, và không h
 
 > **Trần Duy Thiên**: Em học cao đẳng FPT, chuyên ngành thiết kế website, đang làm thêm ở An Phước lương tháng 9tr, k biết ra trường lương IT ngon hơn k, đang tính bỏ -_- vì k thể vừa học vừa làm, học k hiệu quả. Em đang nghĩ sẽ làm 2 năm, trong thời gian đó tự học, có đủ tiền rồi thì tập trung vào học. Em mới học kì 2 năm 1. mong a tư vấn
 
-Thực sự mình nghĩ bạn mới học năm 1 mà đã làm thêm với mức lương 9 triệu là khá tốt rồi, nhiều bạn bè của mình ra trường còn chưa được mức đó nữa. Tất nhiên lúc ra trường thì lương cao hơn lúc đang học, mình nghĩ bạn không nên bỏ làm thêm khi vừa có mức lương khá vừa có cơ hội học hỏi nhiều điều. Bạn nên cân bằng việc học và làm thêm thì sẽ tốt hơn.
+Thực sự mình nghĩ bạn mới học năm 1 mà đã làm thêm với mức lương 9 triệu là khá tốt rồi, nhiều bạn bè của mình ra trường còn chưa được mức đó nữa. Tất nhiên [lúc ra trường thì lương cao hơn lúc đang học](http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html), mình nghĩ bạn không nên bỏ làm thêm khi vừa có mức lương khá vừa có cơ hội học hỏi nhiều điều. Bạn nên cân bằng việc học và làm thêm thì sẽ tốt hơn.
 
 > **Lan Anh**: Mình đang theo php mà nhiều người bảo còn gái ko lên theo lập trình làm mình nản quá
 
