@@ -16,7 +16,7 @@ Có thể khi đọc xong tiêu đề, bạn sẽ nghĩ cái thằng này thật
 
 ## Bạn đã sai.
 
-Bản chất việc tạo ra phần mềm là một quá trình sáng tạo, chứ không phải là "chuyển yêu cầu của cấp trên thành mã máy" như bạn nghĩ. Trong hầu hết các trường hợp, bạn sẽ phải đóng góp ý tưởng cho dự án, vì đến cả ông project owner cũng chỉ tượng tượng chung chung về dự án mà thôi. Tất cả các tính năng, giao diện, UI & UX khi lên wireframe đều thường do các thành viên cùng đóng góp cả.
+Bản chất việc tạo ra phần mềm là một quá trình sáng tạo, chứ không phải là "chuyển yêu cầu của cấp trên thành mã máy" như bạn nghĩ. Trong hầu hết các trường hợp, bạn sẽ phải đóng góp ý tưởng cho dự án, vì đến cả ông project owner cũng chỉ tượng tượng chung chung về dự án mà thôi. Tất cả các tính năng, giao diện, UI & UX khi lên [wireframe](http://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html) đều thường do các thành viên cùng đóng góp cả.
 
 Tin xấu là không phải tất cả chúng ta sinh ra đã có tư duy suy nghĩ sáng tạo, tin tốt là kỹ năng sáng tạo hoàn toàn có thể học và rèn luyện được. Tin xấu là quá trình rèn luyện tư duy suy nghĩ sáng tạo rất tốn thời gian và công sức phải rèn luyện thường xuyên, tin tốt là nếu bạn đã có lối tư duy sáng tạo, thì hiệu quả công việc sẽ được cải thiện rất, rất nhiều.
 
