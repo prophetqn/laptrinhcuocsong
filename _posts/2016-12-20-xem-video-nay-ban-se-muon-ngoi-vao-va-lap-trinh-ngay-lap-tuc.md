@@ -16,7 +16,7 @@ related_posts:
 
 Một phóng sự của VTV, thật sự là xem lại 2 lần video này vẫn còn thấy lâng lâng. Giọng đọc hào hùng làm mình thấy sao mà tự hào quá, một nền công nghiệp của tri thức, vĩ mô, thân thiện với môi trường và theo kịp xu thế thời đại.
 
-Mình lại chỉ mong tiền lương anh em lập trình viên chúng ta mà bằng nửa cái giọng đọc hào hùng đó thì đã tốt lắm rồi.
+Mình lại chỉ mong tiền [lương anh em lập trình viên](http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html) chúng ta mà bằng nửa cái giọng đọc hào hùng đó thì đã tốt lắm rồi.
 
 Dù sao cũng là một video rất hay, anh em thêm niềm đam mê của mình, và xem xong bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức :)
 
