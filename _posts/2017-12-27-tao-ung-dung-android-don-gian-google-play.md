@@ -54,7 +54,9 @@ Sau 10 tiếng nhanh gọn bạn đã có một sản phẩm với tính năng �
 
 Khi đưa ra ý tưởng, chúng ta có xu hướng thêm thắt nhiều tính năng râu ria mà không thật sự cần thiết. Với 10 tiếng, bạn phải mạnh dạn bỏ đi các tính năng không cần thiết để tập trung vào tính năng chính.
 
-Học được nhiều thứ: Không tốn quá nhiều thời gian nhưng bạn học được kỹ năng quản lý cân đong thời gian, dứt điểm dự án, không bỏ dở,  làm ra ngôn ra khoai...
+**Học được nhiều thứ**:
+
+Không tốn quá nhiều thời gian nhưng bạn học được kỹ năng quản lý cân đong thời gian, dứt điểm dự án, không bỏ dở,  làm ra ngôn ra khoai...
 
 ## Cái con số 10 tiếng nghe có vẻ ngớ ngẩn
 
@@ -68,7 +70,9 @@ Ví dụ cho phương pháp trên, gần đây mình có làm một cái app r�
 
 > Sự thật thú vị là ứng dụng android mang đến những thông tin thú vị vui vẻ có thật trên thế giới, những điều đang sảy ra xung quanh chúng ta mà nếu không để ý chúng ta sẽ không biết đến. Chỉ cần chạm và thưởng thức :))
 
-Link tải trên google play: [https://play.google.com/store/apps/details?id=com.laptrinhcuocsong.suthatthuvi](https://play.google.com/store/apps/details?id=com.laptrinhcuocsong.suthatthuvi)
+Link tải trên google play:
+
+[https://play.google.com/store/apps/details?id=com.laptrinhcuocsong.suthatthuvi](https://play.google.com/store/apps/details?id=com.laptrinhcuocsong.suthatthuvi)
 
 **Vẽ ra giao diện**:
 
