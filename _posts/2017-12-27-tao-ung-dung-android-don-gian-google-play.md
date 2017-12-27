@@ -70,7 +70,7 @@ Ví dụ cho phương pháp trên, gần đây mình có làm một cái app r�
 
 > Sự thật thú vị là ứng dụng android mang đến những thông tin thú vị vui vẻ có thật trên thế giới, những điều đang sảy ra xung quanh chúng ta mà nếu không để ý chúng ta sẽ không biết đến. Chỉ cần chạm và thưởng thức :))
 
-Link tải trên google play:
+Link tải trên google play, anh em cài và rate 5 sao ủng hộ nhé:
 
 [https://play.google.com/store/apps/details?id=com.laptrinhcuocsong.suthatthuvi](https://play.google.com/store/apps/details?id=com.laptrinhcuocsong.suthatthuvi)
 
