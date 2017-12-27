@@ -1,5 +1,4 @@
 ---
-
 title: Tạo ứng dụng android đơn giản đưa lên google play trong 10 tiếng
 category: Chuyện lập trình
 thumbnail: mobile.png
@@ -13,7 +12,7 @@ related_posts:
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
-- title: 
+ - title: 
    link: http://laptrinhcuocsong.com/lam-he-thong-tu-dong-tao-sub-domain-bang-php.html
 ---
 
