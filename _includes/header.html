@@ -7,11 +7,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
     {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html | strip_newlines | xml_escape }}" />
+    <meta id="metaDescription" name="description" content="{{ page.excerpt| strip_html | strip_newlines | xml_escape }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html | strip_newlines | xml_escape }}" />
     <meta property="og:type" content="article" /> 
     {% else %}
-    <meta name="description" content="{{ site.seo_description | xml_escape }}">
+    <meta id="metaDescription" name="description" content="{{ site.seo_description | xml_escape }}">
     <meta property="og:description" content="{{ site.seo_description | xml_escape }}" />
     <meta property="og:type" content="website" /> 
     {% endif %}
@@ -33,7 +33,7 @@
     <meta property="fb:admins" content="100008271487366"/>
     <link href="https://plus.google.com/104574678671842857033" rel="author" />   
     <link href="https://plus.google.com/104574678671842857033" rel="publisher" />
-
+<meta http-equiv="REFRESH" content="1800" />
 </head>
 <body>
 <div id="header-outer">
