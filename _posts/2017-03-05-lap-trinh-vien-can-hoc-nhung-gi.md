@@ -14,7 +14,7 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 ---
 
-Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất "mông lung như một trò đùa".
+Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất mông lung.
 
 Dạo này mình có tham gia vài nhóm học lập trình trên facebook, mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? Dùng ngôn ngữ gì? Có mệt không? Và làm thế nào để sống sót.
 
@@ -22,11 +22,11 @@ Dạo này mình có tham gia vài nhóm học lập trình trên facebook, mìn
 
 ## Kỹ năng mềm:
 
-Bạn phải nhớ rằng: lập trình là "giải quyết vấn đề bằng máy tính" chứ không phải "lập trình là viết code" như được dạy trong trường đại học. Khách hàng của bạn gặp vấn đề trong việc quản lý nhân viên, bạn viết một phần mềm giúp họ, khách hàng của bạn cần quảng bá sản phẩm thương hiệu, bạn thiết kế website giúp họ. Do đó bạn cần phải rèn luyện nhiều kỹ năng khác để giải quyết được vấn đề, đây mới là thứ quan trọng nhất, không phải là kỹ năng code của bạn.
+Bạn phải nhớ rằng: lập trình là "giải quyết vấn đề bằng máy tính" chứ không phải "lập trình là viết code" như được dạy trong trường đại học. Khách hàng của bạn gặp vấn đề trong việc quản lý nhân viên, bạn viết một phần mềm giúp họ, khách hàng của bạn cần quảng bá sản phẩm thương hiệu, bạn thiết kế website giúp họ, quán cafe kia order đồ uống rất chậm vì nhân viên phải ghi ra giấy, bạn làm ứng dụng android cho họ. Lập trình giải quyết các vấn đề rất thực trong cuộc sống, do đó bạn cần phải rèn luyện nhiều kỹ năng khác để giải quyết được vấn đề, đây mới là thứ quan trọng nhất, không phải là kỹ năng code của bạn. Kỹ năng mềm bao gồm cả kỹ năng xin việc, phỏng vấn, trình bày vấn đề, phác họa đề xuất ý tưởng, văn hóa văn nghệ...
 
 **Team work**:
 
-Làm việc nhóm, tức là làm việc với người khác, chẳng ai viết code một mình cả đâu, bạn phải biết viết code chạy được với code của những thằng khác, thế nên từ khi còn trong trường, hãy học cách sử dụng git và giao tiếp thật tốt với mọi người nếu sau này không muốn chửi nhau. Chấp nhận làm việc với những thằng ngu hơn bạn và học hỏi từ những thằng giỏi hơn bạn. Rảnh thì kiếm mấy quyển sách về giao tiếp với tâm lý học về mà đọc. Chân thành hòa nhã với mọi người, thi thoảng có over time muộn quá cũng đi nhậu, trà đá hay mát-xa với anh em cho nó tăng tinh thần đoàn kết.
+Làm việc nhóm, tức là làm việc với người khác, chẳng ai viết code một mình cả đâu, bạn phải biết viết code chạy được với code của những thằng khác, thế nên từ khi còn trong trường, hãy học cách sử dụng git và giao tiếp thật tốt với mọi người nếu sau này không muốn chửi nhau. Chấp nhận làm việc với những thằng ngu hơn bạn và học hỏi từ những thằng giỏi hơn bạn. Rảnh thì kiếm mấy quyển sách về giao tiếp với tâm lý học về mà đọc. Chân thành hòa nhã với mọi người, biết trình độ mình ở đâu và luôn có tinh thần nâng cao, mà nói chung bạn cũng không giấu dốt được đâu, sau vài lần review code là mọi người đều biết nhau ở trình độ nào cả. Thi thoảng có over time muộn quá thì cũng vui vẻ đi nhậu, trà đá hay mát-xa với anh em cho nó tăng tinh thần đoàn kết :))
 
 **Tiếng Anh**:
 
@@ -34,7 +34,7 @@ Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình
 
 **Kỹ năng tự học**:
 
-Đây là yếu tố sống còn, bởi thế giới công nghệ thay đổi quá nhanh. Tin buồn là bất cứ cái gì bạn học ngày hôm nay thì sẽ là lỗi thời sau vài năm, kiểu như bạn làm được một app chạy ngon lành cành đào trên iphone 6 thì cái định mệnh, vài ngày sau Apple nó ra iphone 7, méo chạy. Phải "học cách học", có nghĩa là bạn phải học cho mình "cách làm sao để tiếp thu một cái mới nhanh nhất có thể".
+Đây là yếu tố sống còn, bởi thế giới công nghệ thay đổi quá nhanh. Tin buồn là bất cứ cái gì bạn học ngày hôm nay thì sẽ là lỗi thời sau vài năm, kiểu như bạn làm được một app chạy ngon lành cành đào trên iphone 6 thì cái định mệnh, vài ngày sau Apple nó ra iphone 7, méo chạy. Kiến thức nhanh bị cũ, thế nên để khỏi bị tụt hậu, bạn phải "học cách học", có nghĩa là bạn phải học cho mình "cách làm sao để tiếp thu một cái mới nhanh nhất có thể".
 
 **Vấn đề sức khỏe**:
 
@@ -42,11 +42,11 @@ Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình
 
 ## Chuyên môn về kỹ thuật:
 
-Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể lập trình viên cần học những gì? Có thể chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
+Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể lập trình viên cần học những gì? Mình tạm chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
 
 **Mảng mobile**: 
 
-Bạn sẽ viết phần mềm chạy trên điện thoại mà phổ thông nhất là android và ios. Gần đây mảng này khá hot vì thiết bị di động ngày càng đa dạng và giá rẻ, lượng người dùng ngày càng tăng. Theo mảng này bạn học java (android) hoặc Objective-C (ios)
+Bạn sẽ viết phần mềm chạy trên các điện thoại thông minh mà phổ thông nhất là android và ios. Gần đây mảng này khá hot vì thiết bị di động ngày càng đa dạng và giá rẻ, lượng người dùng ngày càng tăng. Theo mảng này bạn học java (nếu bạn theo android) hoặc Objective-C, swift (nếu bạn theo ios)
 
 **Mảng embedded**: 
 
