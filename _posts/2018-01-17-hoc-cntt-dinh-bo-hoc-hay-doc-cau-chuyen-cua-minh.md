@@ -18,7 +18,7 @@ related_posts:
 
 Dạo gần đây có rất nhiều tranh cãi xung quanh vấn đề bằng cấp đối với lập trình viên, người bảo cần thiết, người bảo không. Khi mình bắt đầu chính thức làm việc cho một công ty về phần mềm cách đây 3 năm, lúc đó mình hoàn toàn không có một bằng cấp nào cả. Một vài bạn đã gửi yêu cầu viết bài, tâm sự về ý định bỏ đại học, đây là bài viết dành cho các bạn.
 
-Trước hết chúng ta xác định với nhau là, nếu bạn cho rằng "Không việc gì phải đọc bài viết vớ vẩn của một thằng không có trình độ đại học", hoặc là thằng này "không học nổi đại học" thì cũng được, không sao cả. Đây chỉ là những gì mình đã trải qua, mang giá trị tham khảo.
+> Trước hết chúng ta xác định với nhau là, nếu bạn cho rằng "Không việc gì phải đọc bài viết vớ vẩn của một thằng không có trình độ đại học", hoặc là thằng này "không học nổi đại học" thì cũng được, không sao cả. Đây chỉ là những gì mình đã trải qua, mang giá trị tham khảo.
 
 Theo quan điểm của mình, nếu bạn muốn bỏ đại học, mình khuyên bạn hãy quay lại trường ngay lập tức, hoàn thành chương trình học và lấy tấm bằng, sẽ ngon lành hơn rất nhiều. Đừng có quá tin tưởng ngưỡng mộ các gương bỏ học mà thành công, số lượng đó nó ít lắm, họ đã giỏi sẵn rồi, có tốt nghiệp hay không thì họ vẫn thành công cả thôi.
 
@@ -64,4 +64,4 @@ Giá trị của tấm bằng chính là nó tượng trưng cho quá trình b�
 
 Theo cách nhìn này, thì với một người học chỉ để có cái bằng, không chịu nâng cao kỹ năng bản thân, tấm bằng không có giá trị nhiều. Còn với một người khác, họ đã rất cố gắng trong quá trình học, không những học, họ còn chịu khó tìm hiểu nâng cao kiến thức, thì tấm bằng quả là có giá trị như vàng.
 
-Bỏ học không giúp bạn thành công, bỏ học chỉ thành công khi bạn có kế hoạch vững chắc, hãy thành công theo cách của bạn, mỗi người có một định nghĩa về thành công khác nhau, con đường đi đến thành công cũng khác nhau. Mình strongly recommend bạn đừng bỏ lỡ cơ hội được học, dù ở bất kỳ hoàn cảnh nào.
+Bỏ học không giúp bạn thành công, bỏ học chỉ thành công khi bạn có kế hoạch vững chắc, hãy thành công theo cách của bạn, mỗi người có một định nghĩa về thành công khác nhau, con đường đi đến thành công cũng khác nhau. Mình **strongly recommend** bạn đừng bỏ lỡ cơ hội được học, dù ở bất kỳ hoàn cảnh nào.
