@@ -18,7 +18,7 @@ Thử tìm kiếm với từ khóa "iphone 7" thì thấy như thế này:
 
 ![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/mh0excozyx_c1.png)
 
-Ai chà, url đẹp phết, mình thích url này rồi đấy, search key đã được bỏ dấu và thêm dấu gạch ngang cho hợp chuẩn. Thử thêm một ít html vào xem sao:
+Ai chà, url đẹp phết, mình thích url này rồi đấy, search key đã được bỏ dấu và thêm dấu gạch ngang cho hợp chuẩn. Thử thêm một ít html vào thì thế này (ảnh nhỏ các bạn mở ở tab mới để xem nhé)
 
 ![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/xq1tymmaf1_c2.png)
 
