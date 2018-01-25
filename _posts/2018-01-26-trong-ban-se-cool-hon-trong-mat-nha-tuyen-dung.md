@@ -30,7 +30,7 @@ Thứ hai, đó là học được kỹ năng trình bày vấn đề một các
 
 ![Tìm việc](images/tim-viec-1.jpg)
 
-## 2. Project đã thực hiện
+## 2. Dự án đã thực hiện
 
 Đừng quên ghi trong CV một vài dự án bạn đã từng làm, đây là thứ thông tin rất giá trị đối với nhà tuyển dụng. Nó phản ánh đầy đủ kinh nghiệm, trình độ, tính cách và các kỹ năng liên quan của bạn với vị trí đang ứng tuyển
 
