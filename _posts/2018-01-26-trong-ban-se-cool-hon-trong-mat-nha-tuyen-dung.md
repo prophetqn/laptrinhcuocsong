@@ -52,7 +52,7 @@ Nhà tuyển dụng cũng có thể xem trang facebook cá nhân của bạn, th
 
 ## 5. Github - show your great code
 
-Github lại là cái sân khấu để anh em ta biểu diễn tài nghệ và show cả bug lên đó, nhưng không sao, không ai soi từng dòng code của bạn đâu. Nó chứng tỏ bạn có những ý tưởng và đang thực hiện các project của riêng mình, chứng tỏ bạn có đam mê và học hỏi không ngừng. Đây là một cách nói ngầm rằng "Tao đang làm cái này nè, tao đang nghiên cứu cái kia nè" để nhà tuyển dụng hiểu thêm về bạn. Thế nên, chả mất gì, cứ ném cái link github vào CV bạn nhé.
+Anh em lập trình viên hiền lành chất phác, ngoài code ra thì còn cái gì để khoe nữa đâu. Github là cái sân khấu để anh em ta biểu diễn tài nghệ và show cả bug lên đó, nhưng không sao, không ai soi từng dòng code của bạn đâu. Nó chứng tỏ bạn có những ý tưởng và đang thực hiện các project của riêng mình, chứng tỏ bạn có đam mê và học hỏi không ngừng. Đây là một cách nói ngầm rằng "Tao đang làm cái này nè, tao đang nghiên cứu cái kia nè" để nhà tuyển dụng hiểu thêm về bạn. Thế nên, chả mất gì, cứ ném cái link github vào CV bạn nhé.
 
 ![Tìm việc](images/tim-viec-2.jpg)
 
@@ -60,7 +60,7 @@ Github lại là cái sân khấu để anh em ta biểu diễn tài nghệ và 
 
 Cái này thì không chắc chắn lắm, nhưng theo chia sẻ của con bạn mình (làm HR) thì sếp của nó hay thích những người có cái riêng. Tất nhiên bạn không cần phải mặc đồ hiphop hay xỏ khuyên tai mới gọi là cá tính. Mà định nghĩa cá tính nó có vẻ mơ hồ, kiểu như bạn thích chơi nhạc cụ nào đó, thích đi phượt, mê rô bốt, thích sưu tầm tem chẳng hạn, kiểu kiểu thế. 
 
-Sau khi anh em có hết tất cả các thứ trên thì tớ chắc chắn là anh em trông đã rất ngon lành, lương vài nghìn mỹ kim. Lưu ý: Đây là tài liệu lưu hành nội bộ. Mọi hình thức để lộ nhà tuyển dụng biết được sẽ mất tác dụng. Tác giả không chịu trách nhiệm nếu bạn bị các em HR xinh đẹp vây kín làm phiền.
+Sau khi anh em có hết tất cả các thứ trên thì tớ chắc chắn là anh em trông đã rất ngon lành, lương vài nghìn mỹ kim. Lưu ý: Đây là tài liệu lưu hành nội bộ, mọi hình thức để lộ nhà tuyển dụng biết được sẽ mất tác dụng. Tác giả không chịu trách nhiệm nếu bạn bị các em HR xinh đẹp vây kín làm phiền.
 
 
 
