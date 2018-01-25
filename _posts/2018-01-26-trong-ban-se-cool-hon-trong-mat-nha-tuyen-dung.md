@@ -60,7 +60,7 @@ Anh em lập trình viên hiền lành chất phác, ngoài code ra thì còn c�
 
 Cái này thì không chắc chắn lắm, nhưng theo chia sẻ của con bạn mình (làm HR) thì sếp của nó hay thích những người có cái riêng. Tất nhiên bạn không cần phải mặc đồ hiphop hay xỏ khuyên tai mới gọi là cá tính. Mà định nghĩa cá tính nó có vẻ mơ hồ, kiểu như bạn thích chơi nhạc cụ nào đó, thích đi phượt, mê rô bốt, thích sưu tầm tem chẳng hạn, kiểu kiểu thế. 
 
-Sau khi anh em có hết tất cả các thứ trên thì tớ chắc chắn là anh em trông đã rất ngon lành, lương vài nghìn mỹ kim. Lưu ý: Đây là tài liệu lưu hành nội bộ, mọi hình thức để lộ nhà tuyển dụng biết được sẽ mất tác dụng. Tác giả không chịu trách nhiệm nếu bạn bị các em HR xinh đẹp vây kín làm phiền.
+Sau khi anh em có hết tất cả các thứ trên thì tớ chắc chắn là anh em trông đã rất chuẩn soái ca, lương vài nghìn mỹ kim. Lưu ý: Đây là tài liệu lưu hành nội bộ, mọi hình thức để lộ nhà tuyển dụng biết được sẽ mất tác dụng. Tác giả không chịu trách nhiệm nếu bạn bị các em HR xinh đẹp vây kín làm phiền.
 
 
 
