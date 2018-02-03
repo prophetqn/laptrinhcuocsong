@@ -3,6 +3,9 @@ layout: post
 title: Thất vọng sự trở lại của hiệp hội hacker Việt Nam - HVA
 category: Chuyện bên lề
 thumbnail: hacker.png
+tags:
+ - hoc-hack-co-ban
+ - hacking-co-ban
 related_posts:
  - title: Tôi đã hack Chợ Tốt như thế nào
    link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
