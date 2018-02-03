@@ -7,6 +7,7 @@ tags:
  - lap-trinh-mot-game-don-gian
  - lam-game-don-gian
  - lap-trinh-game-bang-javascript
+ - lap-trinh-javascript
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
