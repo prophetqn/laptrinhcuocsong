@@ -2,7 +2,7 @@
 layout: default
 title: Chuyện lập trình
 permalink: chuyen-lap-trinh.html
-excerpt: Chuyện lập trình, các bài viết liên quan đến kỹ thuật, lập trình, các vấn đề công nghệ, thủ thuật dành cho các bạn lập trình viêns
+excerpt: Chuyện lập trình, các bài viết liên quan đến kỹ thuật, lập trình, các vấn đề công nghệ, thủ thuật dành cho các bạn lập trình viên
 ---
 
 <div id="index">
