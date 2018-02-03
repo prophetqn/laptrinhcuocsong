@@ -6,9 +6,10 @@ layout: default
   <h1 itemprop="name">{{ page.title }}</h1>
   <div class="post-body" itemprop="articleBody">
     {{ content }}
+    <br>
+    Tags:
     {% if post.tags %}
     <div>
-    Tags: 
     {% for tag in post.tags %}
       <a href="{{ site.site_url }}/tags/{{ tag }}">{{ tag }}</a>,
     {% endfor %}
