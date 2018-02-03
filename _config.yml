@@ -24,6 +24,8 @@ tags_config:
     name: Lập trình game đơn giản
   tu-hoc-linux:
     name: Tự học linux
+  jquery:
+    name: Jquery
 sass:
   style: :compressed
 gems:
