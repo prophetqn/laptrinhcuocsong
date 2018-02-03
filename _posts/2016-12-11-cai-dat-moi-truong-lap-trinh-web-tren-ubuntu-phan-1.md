@@ -3,6 +3,8 @@ layout: post
 title: Cài đặt môi trường lập trình web trên ubuntu - Phần 1
 category: Linux - ubuntu
 thumbnail: ubuntu-php.jpg
+tags:
+ - tu-hoc-linux
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-2.html
