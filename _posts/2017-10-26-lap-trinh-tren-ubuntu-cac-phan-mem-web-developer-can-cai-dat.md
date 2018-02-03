@@ -4,6 +4,7 @@ title: Lập trình trên ubuntu, tổng hợp các phần mềm web developer c
 category: Linux - ubuntu
 tags:
  - tu-hoc-linux
+ - hoc-ubuntu
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
