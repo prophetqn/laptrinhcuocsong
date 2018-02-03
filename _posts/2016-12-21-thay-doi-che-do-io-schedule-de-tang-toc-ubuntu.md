@@ -5,6 +5,7 @@ category: Linux - ubuntu
 thumbnail: ubuntu-php.jpg
 tags:
  - tu-hoc-linux
+ - hoc-ubuntu
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-2.html
