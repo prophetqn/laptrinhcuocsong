@@ -1,2 +1,0 @@
-# Repository of laptrinhcuocsong.com
-
