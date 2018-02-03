@@ -8,7 +8,7 @@ layout: default
     {{ content }}
     tags: {% if post.tags %}
     {% for tag in post.tags %}
-    {{post.tag}}
+    {{tag}}
     {% endfor %}
     {% endif %}
     {% if page.related_posts %}
