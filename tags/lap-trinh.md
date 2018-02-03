@@ -1,6 +1,6 @@
 ---
 layout: default
-tag: lap-trinhy
-permalink: /tag/lap-trinh
+tag: lap-trinh
+permalink: /tags/lap-trinh
 ---
 Tag lap trinh page
