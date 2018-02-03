@@ -3,21 +3,21 @@ layout: page
 title: Về blog Lập trình cuộc sống
 permalink: /gioi-thieu.html
 ---
-Xin chào tất cả các bạn, tôi là Bùi Văn Nguyện, tác giả của blog Lập Trình Cuộc Sống. Tôi viết blog này với mục đích nâng cao khả năng diễn đạt, đồng thời chia sẻ những kinh nghiệm tôi học được khi làm việc trong ngành lập trình.
+Xin chào tất cả các bạn, mình là Bùi Văn Nguyện, tác giả của blog Lập Trình Cuộc Sống. mình viết blog này với mục đích nâng cao khả năng diễn đạt, đồng thời chia sẻ những kinh nghiệm mình học được khi làm việc trong ngành lập trình.
 
 ## Tại sao lại là Lập trình cuộc sống?
 
-Cái tên "Lập trình cuộc sống" xuất phát từ một câu danh ngôn mà tôi rất thích của Les Brown: "Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn". Blog này một phần ghi lại quá trình mà tôi tự "lập trình chính mình" không chỉ trong nghề nghiệp mà còn cả trong cuộc sống.
+Cái tên "Lập trình cuộc sống" xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown: "Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn". Blog này một phần ghi lại quá trình mà mình tự "lập trình chính mình" không chỉ trong nghề nghiệp mà còn cả trong cuộc sống.
 
 ## Về bản thân:
 
-Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html), tôi bắt đầu làm freelance thiết kế web từ năm 2010 đến 2014, sau đó tôi rời Sài Gòn về quê làm vài công việc chân tay (làm xưởng cao su, phục vụ nhà hàng) để học kế toán với mong muốn làm nhà nước, sáng cắp cặp đi tối cắp cặp về.
+Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html), mình bắt đầu làm freelance thiết kế web từ năm 2010 đến 2014, sau đó mình rời Sài Gòn về quê làm vài công việc chân tay (làm xưởng cao su, phục vụ nhà hàng) để học kế toán với mong muốn làm nhà nước, sáng cắp cặp đi tối cắp cặp về.
 
-Đầu năm 2015, tôi [xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê của mình](http://www.ddth.com/showthread.php/1314521-X%C3%A1ch-ba-l%C3%B4-ra-HN-theo-%C4%91u%E1%BB%95i-ngh%E1%BB%81-l%E1%BA%ADp-tr%C3%ACnh-web), từ đó đến nay mình làm cho công ty, không biết có thể gọi là fullstack không, nhưng tôi đụng đâu làm đấy, cả backend và frontend. Và hiện tại đang khá enjoy với công việc của mình.
+Đầu năm 2015, mình [xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê của mình](http://www.ddth.com/showthread.php/1314521-X%C3%A1ch-ba-l%C3%B4-ra-HN-theo-%C4%91u%E1%BB%95i-ngh%E1%BB%81-l%E1%BA%ADp-tr%C3%ACnh-web), từ đó đến nay mình làm cho công ty, không biết có thể gọi là fullstack không, nhưng mình đụng đâu làm đấy, cả backend và frontend. Và hiện tại đang khá enjoy với công việc của mình.
 
 ![Bùi Văn Nguyện](images/buivannguyen.jpg)
 
-## Các bạn có thể kết bạn và tìm hiểu thêm về tôi:
+## Các bạn có thể kết bạn và tìm hiểu thêm về mình:
 
 > Website: [http://buivannguyen.com](http://buivannguyen.com)<br>
 Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n)<br>
@@ -25,15 +25,19 @@ Twitter: [https://twitter.com/bui_van_nguyen](https://twitter.com/bui_van_nguyen
 Instagram: [https://www.instagram.com/bui_van_nguyen/](https://www.instagram.com/bui_van_nguyen/)<br>
 Facebook: [https://www.facebook.com/buivanguyen](https://www.facebook.com/buivanguyen)<br>
 
-## Những câu hỏi thường gặp về tôi và blog này:
+## Những câu hỏi thường gặp về mình và blog này:
 
 Nếu đây là lần đầu tiên bạn đọc trang này, đây là các câu hỏi thường gặp có thể giúp ích cho bạn.
 
 ## Bạn ăn trộm bài viết của TeckTalk với VietnamWorks à ?
 
-Tất cả các bài viết trên blog này hoàn toàn do tôi viết, có thể bạn đã được đọc ở đâu đó nên cảm thấy quen quen. Đó là vì các trang web khác đã đăng tải lại bài viết trên blog này và được sự đồng ý của tôi như đã nêu trong [trang điều khoản](http://laptrinhcuocsong.com/policies.html).
+Tất cả các bài viết trên blog này hoàn toàn do mình viết, có thể bạn đã được đọc ở đâu đó nên cảm thấy quen quen. Đó là vì các trang web khác đã đăng tải lại bài viết trên blog này và được sự đồng ý của mình như đã nêu trong [trang điều khoản](http://laptrinhcuocsong.com/policies.html).
 
 ## Bạn thì biết cái gì mà "dạy đời" người khác ?
 
-Trước hết, tôi không "dạy" ai cả, đây là blog cá nhân, có nghĩa rằng đây là cách nhìn nhận vấn đề trong hoàn cảnh điều kiện và khả năng của riêng tôi, tôi không giỏi nên các bài viết có thể không hoàn toàn đúng trong mọi hoàn cảnh. Rất hoan nghênh ý kiến đóng góp của các bạn để tôi hoàn thiện bản thân cũng như blog hơn. Nếu blog này làm bạn thấy phiền, bực bội, bức xúc, phản đối... hay bất kỳ cảm xúc tiêu cực nào, xin dừng truy cập blog.
+Trước hết, mình không "dạy" ai cả, đây là blog cá nhân, có nghĩa rằng đây là cách nhìn nhận vấn đề trong hoàn cảnh điều kiện và khả năng của riêng mình, mình không giỏi nên các bài viết có thể không hoàn toàn đúng trong mọi hoàn cảnh. Rất hoan nghênh ý kiến đóng góp của các bạn để mình hoàn thiện bản thân cũng như blog hơn. Nếu blog này làm bạn thấy phiền, bực bội, bức xúc, phản đối... hay bất kỳ cảm xúc tiêu cực nào, xin dừng truy cập blog.
+
+## Trang này đơn giản thế? Bạn làm lập trình mà không làm được cái web cho ra hồn à?
+
+Mình đang cố giữ cho trang này đơn giản nhất có thể, để bạn tập trung vào việc đọc mà không bị phân tâm bởi các họa tiết hoa lá cành trang trí không cần thiết. Đồng thời giúp mình tiết kiệm thời gian tập trung vào việc viết, điều đó không có nghĩa rằng mình không thể tạo một giao diện phức tạp hơn.
 
