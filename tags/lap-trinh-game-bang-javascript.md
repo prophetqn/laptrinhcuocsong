@@ -6,8 +6,8 @@ permalink: /tags/lap-trinh-game-bang-javascript
 ---
 <div id="index">
 <div class="category_detail">
-    <h1>{{site.title}}</h1>
-    <p>{{site.excerpt}}</p>
+    <h1>{{page.title}}</h1>
+    <p>{{page.excerpt}}</p>
 </div>
 {% for post in site.posts %}
 {% if post.tags contains 'lap-trinh-mot-game-don-gian' %}
