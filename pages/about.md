@@ -17,7 +17,9 @@ Sau khi bỏ đại học ở một trường không mấy danh tiếng, tôi b�
 
 ## Đây là tôi:
 
-Các bạn có thể kết bạn và tìm hiểu thêm về tôi:
+![Bùi Văn Nguyện](images/buivannguyen.jpg)
+
+## Các bạn có thể kết bạn và tìm hiểu thêm về tôi:
 
 > Website: [http://buivannguyen.com](http://buivannguyen.com)<br>
 Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n)<br>
