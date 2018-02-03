@@ -3,6 +3,8 @@ layout: post
 title: Lập trình viên PHP đứng đầy đường
 thumbnail: php.png
 category: Chuyện nghề nghiệp
+tags:
+ - tu-hoc-linux
 related_posts:
  - title: Lập trình viên cần học những gì ?
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
