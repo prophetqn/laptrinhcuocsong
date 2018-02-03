@@ -3,6 +3,7 @@ layout: post
 title: Viết tính năng tự động nâng cấp phiên bản cho code PHP (PHP auto-upgrade system)
 thumbnail: upgrade_thumb.png
 category: Chuyện lập trình
+tags: tu hoc lap trinh, lap-trinh
 related_posts:
  - title: Series nghịch ngợm - Lập trình phần mềm paint, vẽ trên web với html5 và javascript
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
