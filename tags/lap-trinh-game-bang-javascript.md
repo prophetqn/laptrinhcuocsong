@@ -10,7 +10,7 @@ permalink: /tags/lap-trinh-game-bang-javascript
     <p>{{page.excerpt}}</p>
 </div>
 {% for post in site.posts %}
-{% if post.tags contains 'lap-trinh-mot-game-don-gian' %}
+{% if post.tags contains 'lap-trinh-game-bang-javascript' %}
 <article class="post" itemscope itemtype="http://schema.org/Article">
   <h1 itemprop="name"><a itemprop="url" href="{{ site.site_url }}{{ post.url }}" title="{{ post.title | xml_escape }}" >{{ post.title | xml_escape }}</a></h1>
   {% if post.thumbnail %}
