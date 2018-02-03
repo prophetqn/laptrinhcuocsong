@@ -15,8 +15,6 @@ Sau khi bỏ đại học ở một trường không mấy danh tiếng, tôi b�
 
 Đầu năm 2015, tôi xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê của mình, từ đó đến nay mình làm cho công ty, hiện mình đang là frontend developer.
 
-## Đây là tôi:
-
 ![Bùi Văn Nguyện](images/buivannguyen.jpg)
 
 ## Các bạn có thể kết bạn và tìm hiểu thêm về tôi:
