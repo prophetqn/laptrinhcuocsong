@@ -2,6 +2,8 @@
 layout: post
 title: Lập trình trên ubuntu, tổng hợp các phần mềm web developer cần cài đặt
 category: Linux - ubuntu
+tags:
+ - tu-hoc-linux
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
