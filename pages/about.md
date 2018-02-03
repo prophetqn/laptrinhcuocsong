@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Về blog Lập trình cuộc sống
-excerpt: Cái tên Lập trình cuộc sống xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown: Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn
 permalink: /gioi-thieu.html
+excerpt: Cái tên Lập trình cuộc sống xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown: Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn
 ---
 Xin chào tất cả các bạn, mình là Bùi Văn Nguyện, tác giả của blog Lập Trình Cuộc Sống. mình viết blog này với mục đích nâng cao khả năng diễn đạt, đồng thời chia sẻ những kinh nghiệm mình học được khi làm việc trong ngành lập trình.
 
