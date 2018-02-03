@@ -13,7 +13,7 @@ Cái tên "Lập trình cuộc sống" xuất phát từ một câu danh ngôn m
 
 Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html), tôi bắt đầu làm freelance thiết kế web từ năm 2010 đến 2014, sau đó tôi rời Sài Gòn về quê làm vài công việc chân tay (làm xưởng cao su, phục vụ nhà hàng) để học kế toán với mong muốn làm nhà nước, sáng cắp cặp đi tối cắp cặp về.
 
-Đầu năm 2015, tôi [xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê của mình](http://www.ddth.com/showthread.php/1314521-X%C3%A1ch-ba-l%C3%B4-ra-HN-theo-%C4%91u%E1%BB%95i-ngh%E1%BB%81-l%E1%BA%ADp-tr%C3%ACnh-web), từ đó đến nay mình làm cho công ty, hiện mình đang là frontend developer.
+Đầu năm 2015, tôi [xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê của mình](http://www.ddth.com/showthread.php/1314521-X%C3%A1ch-ba-l%C3%B4-ra-HN-theo-%C4%91u%E1%BB%95i-ngh%E1%BB%81-l%E1%BA%ADp-tr%C3%ACnh-web), từ đó đến nay mình làm cho công ty, không biết có thể gọi là fullstack không, nhưng tôi đụng đâu làm đấy, cả backend và frontend. Và hiện tại đang khá enjoy với công việc của mình.
 
 ![Bùi Văn Nguyện](images/buivannguyen.jpg)
 
