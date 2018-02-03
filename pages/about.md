@@ -24,3 +24,16 @@ Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com
 Twitter: [https://twitter.com/bui_van_nguyen](https://twitter.com/bui_van_nguyen)<br>
 Instagram: [https://www.instagram.com/bui_van_nguyen/](https://www.instagram.com/bui_van_nguyen/)<br>
 Facebook: [https://www.facebook.com/buivanguyen](https://www.facebook.com/buivanguyen)<br>
+
+## Những câu hỏi thường gặp về tôi và blog này:
+
+Nếu đây là lần đầu tiên bạn đọc trang này, đây là các câu hỏi thường gặp có thể giúp ích cho bạn.
+
+## Bạn ăn trộm bài viết của TeckTalk với VietnamWorks à ?
+
+Tất cả các bài viết trên blog này hoàn toàn do tôi viết, có thể bạn đã được đọc ở đâu đó nên cảm thấy quen quen. Đó là vì các trang web khác đã đăng tải lại bài viết trên blog này và được sự đồng ý của tôi như đã nêu trong [trang điều khoản](http://laptrinhcuocsong.com/policies.html).
+
+## Bạn thì biết cái gì mà "dạy đời" người khác ?
+
+Trước hết, tôi không "dạy" ai cả, đây là blog cá nhân, có nghĩa rằng đây là cách nhìn nhận vấn đề trong hoàn cảnh điều kiện và khả năng của riêng tôi, tôi không giỏi nên các bài viết có thể không hoàn toàn đúng trong mọi hoàn cảnh. Rất hoan nghênh ý kiến đóng góp của các bạn để tôi hoàn thiện bản thân cũng như blog hơn. Nếu blog này làm bạn thấy phiền, bực bội, bức xúc, phản đối... hay bất kỳ cảm xúc tiêu cực nào, xin dừng truy cập blog.
+
