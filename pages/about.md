@@ -29,13 +29,17 @@ Facebook: [https://www.facebook.com/buivanguyen](https://www.facebook.com/buivan
 
 Nếu đây là lần đầu tiên bạn đọc trang này, đây là các câu hỏi thường gặp có thể giúp ích cho bạn.
 
-## Bạn ăn trộm bài viết của TeckTalk với VietnamWorks à ?
+## Bạn ăn trộm bài viết của TechTalk với VietnamWorks à ?
 
 Tất cả các bài viết trên blog này hoàn toàn do mình viết, có thể bạn đã được đọc ở đâu đó nên cảm thấy quen quen. Đó là vì các trang web khác đã đăng tải lại bài viết trên blog này và được sự đồng ý của mình như đã nêu trong [trang điều khoản](http://laptrinhcuocsong.com/policies.html).
 
 ## Bạn thì biết cái gì mà "dạy đời" người khác ?
 
 Trước hết, mình không "dạy" ai cả, đây là blog cá nhân, có nghĩa rằng đây là cách nhìn nhận vấn đề trong hoàn cảnh điều kiện và khả năng của riêng mình, mình không giỏi nên các bài viết có thể không hoàn toàn đúng trong mọi hoàn cảnh. Rất hoan nghênh ý kiến đóng góp của các bạn để mình hoàn thiện bản thân cũng như blog hơn. Nếu blog này làm bạn thấy phiền, bực bội, bức xúc, phản đối... hay bất kỳ cảm xúc tiêu cực nào, xin dừng truy cập blog.
+
+## Blog này hay quá, tôi muốn bạn viết cái này, cái kia
+
+Bạn có thể yêu cầu mình viết về bất kỳ chủ đề nào liên quan đến lĩnh vực công nghệ, đời sống lập trình viên bằng cách click vào menu yêu cầu viết bài. Mình sẵn sàng chia sẻ hết những gì mình biết với mong muốn các bài viết có thể giúp ích được gì đó cho bạn.
 
 ## Trang này đơn giản thế? Bạn làm lập trình mà không làm được cái web cho ra hồn à?
 
