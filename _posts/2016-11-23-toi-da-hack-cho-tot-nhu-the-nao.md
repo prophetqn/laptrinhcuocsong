@@ -3,6 +3,9 @@ layout: post
 title: Tôi đã hack Chợ Tốt như thế nào
 thumbnail: hack-cho-tot.jpg
 category: Chuyện lập trình
+tags:
+ - hoc-hack-co-ban
+ - hacking-co-ban
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
