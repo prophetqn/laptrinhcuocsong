@@ -20,7 +20,7 @@ Sau khi bỏ đại học ở một trường không mấy danh tiếng, tôi b�
 Các bạn có thể kết bạn và tìm hiểu thêm về tôi:
 
 > Website: [http://buivannguyen.com](http://buivannguyen.com)<br>
-Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n)
+Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n)<br>
 Twitter: [https://twitter.com/bui_van_nguyen](https://twitter.com/bui_van_nguyen)<br>
 Instagram: [https://www.instagram.com/bui_van_nguyen/](https://www.instagram.com/bui_van_nguyen/)<br>
 Facebook: [https://www.facebook.com/buivanguyen](https://www.facebook.com/buivanguyen)<br>
