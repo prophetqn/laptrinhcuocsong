@@ -8,7 +8,7 @@ Xin chào tất cả các bạn, mình là Bùi Văn Nguyện, tác giả của 
 
 ## Tại sao lại là Lập trình cuộc sống?
 
-Cái tên "Lập trình cuộc sống" xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown: "Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn". Blog này một phần ghi lại quá trình mà mình tự "lập trình chính mình" không chỉ trong nghề nghiệp mà còn cả trong cuộc sống.
+Cái tên "Lập trình cuộc sống" xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown: "Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn". Blog này là nơi mình với các bạn có cùng đam mê chia sẻ, tự "lập trình chính mình" không chỉ trong nghề nghiệp mà còn cả trong cuộc sống.
 
 ## Về bản thân:
 
