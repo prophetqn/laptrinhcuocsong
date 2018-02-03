@@ -3,6 +3,9 @@ layout: post
 title: Tạo và xuất bản một jquery plugin trong 30 phút
 category: Chuyện lập trình
 thumbnail: jquery-plugin.png
+tags:
+ - lap-trinh-javascript
+ - jquery
 related_posts:
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
