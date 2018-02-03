@@ -8,9 +8,9 @@ layout: default
     {{ content }}
     {% if page.tags %}
     <div>
-    Tags:
+    Tag:
     {% for tag in page.tags %}
-      <a href="{{ site.site_url }}/tags/{{ tag }}">{{ site.tags }}</a>,
+      <a href="{{ site.site_url }}/tags/{{ tag }}">{{ site.tags[tag] }}</a>,
     {% endfor %}
     </div>
     {% endif %}
