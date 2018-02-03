@@ -11,19 +11,19 @@ markdown: kramdown
 syntax_highlighter: rouge
 tags:
   hacking-co-ban:
-    title: Hacking cơ bản
+    name: Hacking cơ bản
   hoc-hack-co-ban:
-    title: Học hack cơ bản
+    name: Học hack cơ bản
   hoc-ubuntu:
-    title: Học ubuntu
+    name: Học ubuntu
   lap-trinh-game-bang-javascript:
-    title: Lập trình game javascript
+    name: Lập trình game javascript
   lap-trinh-javascript:
-    title: Lập trình javascript
+    name: Lập trình javascript
   lap-trinh-mot-game-don-gian:
-    title: Lập trình game đơn giản
+    name: Lập trình game đơn giản
   tu-hoc-linux:
-    title: Tự học linux
+    name: Tự học linux
 sass:
   style: :compressed
 gems:
