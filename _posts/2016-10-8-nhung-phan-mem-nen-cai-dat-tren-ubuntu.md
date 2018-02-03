@@ -4,6 +4,7 @@ title: Những phần mềm nên cài đặt trên ubuntu
 category: Linux - ubuntu
 tags:
  - tu-hoc-linux
+ - hoc-ubuntu
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
