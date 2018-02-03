@@ -3,6 +3,8 @@ layout: post
 title: Series nghịch ngợm - Lập trình phần mềm paint, vẽ trên web với html5 và javascript
 thumbnail: drawing.png
 category: Chuyện lập trình
+tags:
+ - lap-trinh-javascript
 related_posts:
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
