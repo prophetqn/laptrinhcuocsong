@@ -3,6 +3,9 @@ layout: post
 title: Series nghịch ngợm - Làm game hứng trứng
 thumbnail: lam-game-hung-trung.png
 category: Chuyện lập trình
+tags:
+ - lap-trinh-mot-game-don-gian
+ - lam-game-don-gian
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
