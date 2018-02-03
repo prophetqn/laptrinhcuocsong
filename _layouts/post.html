@@ -10,7 +10,7 @@ layout: default
     <div>
     Tag:
     {% for tag in page.tags %}
-      <a href="{{ site.site_url }}/tags/{{ tag }}">{{ site.tags_config[tag] }}</a>,
+      <a href="{{ site.site_url }}/tags/{{ tag }}">{{ site.tags_config[tag].name }}</a>,
     {% endfor %}
     </div>
     {% endif %}
