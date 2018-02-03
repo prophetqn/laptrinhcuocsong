@@ -5,7 +5,10 @@ permalink: chuyen-ben-le.html
 excerpt: Các bài viết về mọi thứ liên quan đến cuộc sống của một lập trình viên
 ---
 <div id="index">
-
+  <div class="category_detail">
+    <h1>Chuyện bên lề</h1>
+    <p>Chuyện bên lề - là chuyên mục viết về mọi thứ liên quan đến cuộc sống của một thằng coder.</p>
+  </div>
     {% for post in site.categories['Chuyện bên lề'] %}
 
     <article class="post" itemscope itemtype="http://schema.org/Article">
