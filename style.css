@@ -302,13 +302,17 @@ code.highlighter-rouge {
 }
 
 #videos .video img {
-    width: 160px;
+    width: 140px;
     float: left;
     margin-right: 20px;
 }
-
+#videos .video {
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e8e8e8;
+}
 #videos .video h3 {
-	
+  font-size: 28px;
 }
 
 ul.related_posts {
