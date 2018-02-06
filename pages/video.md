@@ -17,10 +17,14 @@ videos:
     title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
     id: xfcDMzcqdZ4
 ---
-{% for video in page.videos %}
-<img src="https://img.youtube.com/vi/{{ video.id }}/0.jpg" alt="{{ video.title }}" />
-{% endfor %}
-{{ page.videos }}
+<div id="videos">
+  {% for video in page.videos %}
+  <div class="video">
+    <img src="https://img.youtube.com/vi/{{ video.id }}/0.jpg" alt="{{ video.title }}" />
+    <h3>{{ video.title }}</h3>
+  </div>
+  {% endfor %}
+</div>
 
 
 
