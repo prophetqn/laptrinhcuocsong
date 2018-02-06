@@ -20,8 +20,10 @@ videos:
 <div id="videos">
   {% for video in page.videos %}
   <div class="video">
-    <img src="https://img.youtube.com/vi/{{ video.id }}/0.jpg" alt="{{ video.title }}" />
-    <h3>{{ video.title }}</h3>
+    <a href="https://www.youtube.com/watch?v={{ video.id }}">
+      <img src="https://img.youtube.com/vi/{{ video.id }}/0.jpg" alt="{{ video.title }}" />
+    </a>
+    <h3><a href="https://www.youtube.com/watch?v={{ video.id }}">{{ video.title }}</a></h3>
   </div>
   {% endfor %}
 </div>
