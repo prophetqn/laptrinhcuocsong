@@ -302,9 +302,11 @@ code.highlighter-rouge {
 }
 
 #videos .video img {
-    width: 250px;
+    width: 160px;
     float: left;
+    margin-right: 20px;
 }
+
 #videos .video h3 {
 	
 }
