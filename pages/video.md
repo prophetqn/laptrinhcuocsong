@@ -18,7 +18,7 @@ videos:
     id: xfcDMzcqdZ4
 ---
 {% for video in page.videos %}
-<img src="https://img.youtube.com/vi/jwuxH1BeNG0/{{ video.id }}.jpg" alt="{{ video.title }}" />
+<img src="https://img.youtube.com/vi/{{ video.id }}/0.jpg" alt="{{ video.title }}" />
 {% endfor %}
 {{ page.videos }}
 
