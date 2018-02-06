@@ -300,6 +300,15 @@ code.highlighter-rouge {
 .post_extra {
     margin-bottom: 35px;
 }
+
+#videos .video img {
+    width: 250px;
+    float: left;
+}
+#videos .video h3 {
+	
+}
+
 ul.related_posts {
     border-top: 1px solid #ebebeb;
     padding-top: 35px;
