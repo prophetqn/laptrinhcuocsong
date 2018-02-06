@@ -24,6 +24,7 @@ videos:
       <img src="https://img.youtube.com/vi/{{ video.id }}/0.jpg" alt="{{ video.title }}" />
     </a>
     <h3><a href="https://www.youtube.com/watch?v={{ video.id }}">{{ video.title }}</a></h3>
+    <div class="clear"></div>
   </div>
   {% endfor %}
 </div>
