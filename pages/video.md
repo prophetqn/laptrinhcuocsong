@@ -10,8 +10,16 @@ videos:
   -
     title: Live stream hướng dẫn lập trình game hứng trứng
     id: reN5y17YzCI
+  -
+    title: Lập trình phần mềm paint trên web
+    id: pDSxzvyJ6k8
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
 ---
-
+{% for video in page.videos %}
+<img src="https://img.youtube.com/vi/jwuxH1BeNG0/{{ video.id }}.jpg" alt="{{ video.title }}" />
+{% endfor %}
 {{ page.videos }}
 
 
