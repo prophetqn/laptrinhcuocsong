@@ -3,6 +3,8 @@ layout: post
 title: Cùng nhau tạo restful API đơn giản với php
 thumbnail: restful-api.jpg
 category: Chuyện lập trình
+tags:
+ - lap-trinh-php
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html

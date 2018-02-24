@@ -4,6 +4,8 @@ title: Kiếm tiền bằng lập trình web như thế nào?
 category: Chuyện nghề nghiệp
 thumbnail: web-money.png
 excerpt: Lập trình web kiếm tiền có lẽ không còn xa lạ với hầu hết các lập trình viên. Thời đại chấm com rồi, nhà nhà làm web, người người làm web, đến cả cái quán bún chả đầu ngõ nhà mình cũng có web nữa. Web là cái đầu tiên người ta nghĩ đến khi xây dựng thương hiệu online trên internet, thế nên hiện tại thì lập trình viên web không bao giờ thiếu việc.
+tags:
+ - lap-trinh-web
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
