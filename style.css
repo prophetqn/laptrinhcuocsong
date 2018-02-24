@@ -281,6 +281,12 @@ img.emoji {
 	padding: 5px 20px;
 	background-color: #ededed;
 	overflow-x: auto;
+	-webkit-touch-callout: auto; /* iOS Safari */
+	-webkit-user-select: auto; /* Safari */
+	-khtml-user-select: auto; /* Konqueror HTML */
+	-moz-user-select: auto; /* Firefox */
+	-ms-user-select: auto; /* Internet Explorer/Edge */
+	user-select: auto; /* Non-prefixed version, currently supported by Chrome and Opera */
 }
 code.highlighter-rouge {
 	padding: 3px 0px !important;
