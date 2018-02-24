@@ -3,6 +3,8 @@ layout: post
 title: Làm hệ thống tạo sub-domain tự động theo username bằng php
 thumbnail: sub-domain.png
 category: Chuyện lập trình
+tags:
+ - lap-trinh-php
 related_posts:
  - title: Viết tính năng tự động nâng cấp phiên bản cho code PHP (PHP auto-upgrade system)
    link: http://laptrinhcuocsong.com/viet-tinh-nang-tu-dong-cap-nhat-phien-ban-code-php.html

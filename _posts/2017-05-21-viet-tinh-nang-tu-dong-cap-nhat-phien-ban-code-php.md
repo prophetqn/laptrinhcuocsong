@@ -6,6 +6,8 @@ category: Chuyện lập trình
 tags:
  - tu hoc lap trinh
  - lap-trinh
+ - lap-trinh-php
+ - lap-trinh-web
 related_posts:
  - title: Series nghịch ngợm - Lập trình phần mềm paint, vẽ trên web với html5 và javascript
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
