@@ -26,6 +26,8 @@ tags_config:
     name: Tự học linux
   jquery:
     name: Jquery
+  kinh-nghiem-phong-van-xin-viec-cntt:
+    name: Kinh nghiệm phỏng vấn
 sass:
   style: :compressed
 gems:

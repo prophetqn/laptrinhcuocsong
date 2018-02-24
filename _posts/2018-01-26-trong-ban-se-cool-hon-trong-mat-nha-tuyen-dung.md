@@ -3,6 +3,8 @@ title: Trông bạn sẽ cool hơn trong mắt nhà tuyển dụng nếu bạn c
 category: Chuyện nghề nghiệp
 thumbnail: tim-viec.png
 excerpt: Nhà tuyển dụng dễ dàng có được những thông tin cần thiết, đọc được những bài viết trên blog, họ sẽ hiểu bạn hơn, một là họ ghét bạn, hai là họ thích bạn, từ đó bạn dễ tìm được môi trường làm việc phù hợp hơn.
+tags:
+ - kinh-nghiem-phong-van-xin-viec-cntt
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
