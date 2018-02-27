@@ -393,7 +393,7 @@ ul.related_posts {
 	float: right;
 }
 #footer ul li {
-	display: inline;
+	display: inline-block;
 	padding: 0px 20px;
 	color: black;
 	border-right: 1px solid #c3c3c3;
@@ -405,6 +405,9 @@ ul.related_posts {
 #footer ul li a {
 	color: #525252;
 	font-size: 15px;
+}
+#footer ul li a:hover {
+	color: black;
 }
 
 
@@ -434,9 +437,6 @@ ul.related_posts {
 	}
 	#header h1, #header h1 span, #header ul {
 		width: 90%;
-		float: none;
-		text-align: center;
-		margin: 10px auto;
 		display: block;
 	}
 	#header ul {
@@ -472,7 +472,7 @@ ul.related_posts {
 	
 	.post, .category_detail {
 		padding: 0px;
-		margin-left: 0px;
+		margin-right: 0px;
 	}
 	#footer p {
 		float: none;
