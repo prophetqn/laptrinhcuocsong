@@ -186,7 +186,7 @@ display: inline-block;
 
 #sidebar ul li a:hover {
 	border-color: #c4c4c4;
-	padding-left: 7px;
+	padding-left: 30px;
 	background-color: #f5f7fa;
 }
 .excerpt {
