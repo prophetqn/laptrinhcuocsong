@@ -356,14 +356,13 @@ ul.related_posts {
 	margin-top: 25px;
 }
 .pagination {
-	margin-bottom: 30px;
+	margin-bottom: 25px;
 	margin-right: 35px;
 }
-.pagination .prev-link{
-	float: left;
-}
-.pagination .next-link{
-	float: right;
+.pagination a{
+	margin-bottom: 5px;
+	display: block;
+	text-align: center;
 }
 .pagination .prev-link:hover, .pagination .next-link:hover {
 	background-color: #9c9c9c;
