@@ -105,28 +105,32 @@ display: inline-block;
     background-color: #808080;
 }
 #header-outer {
-    padding: 70px 0px;
+    padding: 20px 0px;
     margin-bottom: 30px;
-    background: #2c4762 url(https://www.zoho.com/images/zoho1-celebration-bg.png) repeat center top;
+    background: #2c4762;
     background-size: contain;
 }
+#header > div {
+	width: 300px;
+	float: left;
+}
 #header h1 {
-    font-size: 38px;
+    font-size: 25px;
     color: #f3f3f3;
-    text-align: center;
 }
 #header h1 a:hover {
 	color: #d4d4d4;
 }
-#header h1 span {
-    font-size: 24px;
-    margin-top: 19px;
+#header h2 {
+    font-size: 15px;
+    margin-top: 10px;
     font-weight: normal;
     display: block;
+    color: white;
 }
 #header ul {
-    margin-top: 50px;
-    text-align: center;
+	float: right;
+	margin-top: 10px;
 }
 
 #header ul li {
@@ -135,7 +139,7 @@ display: inline-block;
 #header ul li a {
 	color: #f3f3f3;
 	display: inline-block;
-	padding: 10px 25px;
+	padding: 10px 20px;
 	background-color: #476584;
 	border-radius: 18px;
 	border: 1px solid #273e56;
@@ -146,18 +150,18 @@ display: inline-block;
 }
 #content {
 	width: 750px;
-	float: right;
-	border-left: 1px solid #e5e5e5;
+	float: left;
+	border-right: 1px solid #e5e5e5;
 	min-height: 800px;	
 }
 #sidebar {
 	width: 250px;
-	float: left;
+	float: right;
 	margin-bottom: 20px;
 }
 #sidebar ul li a {
 	display: block;
-	padding: 0px 40px 0px 0px;
+    padding: 0px 0px 0px 20px;
 	border-right: none;
 	height: 55px;
 	line-height: 55px;
@@ -192,7 +196,7 @@ display: inline-block;
 	border-bottom: 1px solid #e5e5e5;
 	padding-bottom: 30px;
 	margin-bottom: 30px;
-	margin-left: 60px;
+	margin-right: 60px;
 	color: #333;
 	text-shadow: 0px 0px 0px rgba(0,0,0,0.5);
 }
@@ -353,7 +357,7 @@ ul.related_posts {
 }
 .pagination {
 	margin-bottom: 30px;
-	margin-left: 35px;
+	margin-right: 35px;
 }
 .pagination .prev-link{
 	float: left;
