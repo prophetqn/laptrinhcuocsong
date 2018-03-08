@@ -159,7 +159,7 @@ display: inline-block;
 	float: right;
 	margin-bottom: 20px;
 }
-#sidebar ul li a {
+#categories ul li a {
 	display: block;
     padding: 0px 0px 0px 20px;
 	border-right: none;
@@ -171,7 +171,7 @@ display: inline-block;
 	transition: padding-left .4s;
 
 }
-#sidebar ul li a:after {
+#categories ul li a:after {
 	width: 0px;
 	height: 0px;
 	content: ' ';
@@ -184,11 +184,29 @@ display: inline-block;
 	border-top: 6px solid transparent;
 }
 
-#sidebar ul li a:hover {
+#categories ul li a:hover {
 	border-color: #c4c4c4;
 	padding-left: 30px;
 	background-color: #f5f7fa;
 }
+
+.links {
+	border-top: 1px solid #ebebeb;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.links h3 {
+	margin-bottom: 15px;
+}
+.links ul li {
+	list-style: circle inside none;
+}
+.links ul li a {
+	line-height: 30px;
+
+}
+
 .excerpt {
 	line-height: 30px;
 }
@@ -409,6 +427,9 @@ ul.related_posts {
 #footer ul li a:hover {
 	color: black;
 }
+#footer_links {
+	display: none;
+}
 
 
 /** responsive for facebook like box **/
@@ -447,15 +468,15 @@ ul.related_posts {
 		width: 100%;
 		border: none;
 	}
-	#sidebar ul {
+	#categories ul {
 		margin-top: 0px;
 	}
-	#sidebar ul li {
+	#categories ul li {
 		display: inline-block;
 		margin-bottom: 0px;
 		height: 40px;
 	}
-	#sidebar ul li a {
+	#categories ul li a {
 		display: inline;
 		padding: 6px 10px;
 		border: 1px solid #e5e5e5;
@@ -463,7 +484,7 @@ ul.related_posts {
 		text-align: center;
 		font-size: 14px;
 	}
-	#sidebar ul li a:after {
+	#categories ul li a:after {
 		display: none;
 	}
 	#fb-follow-sidebar {
@@ -483,6 +504,12 @@ ul.related_posts {
 		text-align: center;
 		margin-top: 15px;
 		margin-bottom: 20px;	
+	}
+	#sidebar_links {
+		display: none;
+	}
+	#footer_links {
+		display: block;
 	}
 }
 @media (max-width:720px){
@@ -504,6 +531,9 @@ ul.related_posts {
 		font-size: 20px;
 		line-height: 25px;
 		margin-bottom: 10px;
+	}
+	.excerpt {
+	    line-height: 25px;
 	}
 
 }
