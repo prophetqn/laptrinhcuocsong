@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Nhảy việc
-category: Chuyện bên lề
+categories:
+ - Chuyện bên lề
+ - Chuyện cuộc sống
 related_posts:
  - title: Tại sao dân lập trình thường FA
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html

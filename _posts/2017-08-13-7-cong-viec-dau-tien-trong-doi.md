@@ -2,7 +2,9 @@
 layout: post
 title: 7 công việc đầu tiên trong đời
 thumbnail: 7-cong-viec-dau-tien-thumbnail.jpg
-category: Chuyện bên lề
+categories:
+ - Chuyện bên lề
+ - Chuyện cuộc sống
 related_posts:
  - title: Tại sao dân lập trình thường FA
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
