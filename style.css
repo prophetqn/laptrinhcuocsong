@@ -489,6 +489,23 @@ ul.related_posts {
 	h1 {
 		font-size: 20px;
 	}
+	.post_thumbnail {
+	    margin-right: 15px;
+	    margin-bottom: 15px;
+	    width: 100px;
+	}
+}
+
+@media (max-width:500px){
+	h1 {
+		font-size: 20px;
+	}
+	.post h1 {
+		font-size: 20px;
+		line-height: 25px;
+		margin-bottom: 10px;
+	}
+
 }
 
 
