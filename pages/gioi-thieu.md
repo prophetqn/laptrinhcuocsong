@@ -10,6 +10,9 @@ Xin chào tất cả các bạn, mình là [Bùi Văn Nguyện](https://plus.goo
 
 Cái tên "Lập trình cuộc sống" xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown: "Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn". Blog này là nơi mình với các bạn có cùng đam mê chia sẻ, tự "lập trình chính mình" không chỉ trong nghề nghiệp mà còn cả trong cuộc sống.
 
+> "Sai thì sửa, bug thì fix, quan trọng là làm sao tìm ra được bug trong chính con người bạn mà thôi."<br>
+Bùi Văn Nguyện - Laptrinhcuocsong.com
+
 ## Về bản thân:
 
 Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html), mình bắt đầu làm freelance thiết kế web từ năm 2010 đến 2014, sau đó mình rời Sài Gòn về quê làm vài công việc chân tay (làm xưởng cao su, phục vụ nhà hàng) để học kế toán với mong muốn làm nhà nước, sáng cắp cặp đi tối cắp cặp về.
