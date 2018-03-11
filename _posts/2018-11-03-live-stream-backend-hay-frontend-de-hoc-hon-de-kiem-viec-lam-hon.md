@@ -21,3 +21,13 @@ Trong buổi live stream ngày 10/3/2017 cùng bạn đọc, mình đã trả l�
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VvPv9kiB01A" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Vì video khá dài, nên để anh em dễ theo dõi, anh em có thể tua đến đoạn mình cần xem:
+
+> Phút 01:38 - Blog Lập trình cuộc sống có kiếm được nhiều tiền không? <br>
+Phút 04:05 - Backend hay frontend dễ học và dễ tìm việc làm hơn? <br>
+Phút 12:55 - Học ngôn ngữ nào dễ nhất ? <br>
+Phút 16:42 - Lập trình viên có bắt buộc phải biết sử dụng linux không? Học linux như thế nào cho hiệu quả? <br>
+Phút 26:40 - Tại sao dạo này Lập Trình Cuộc Sống ít ra bài mới? <br>
+Phút 29:20 - Là con gái có nên theo học lập trình không? Có vất vả không? <br>
+Phút 43:00 - Vấn đề sức khỏe của lập trình viên, ngồi nhiều có nhanh tỏi không?
