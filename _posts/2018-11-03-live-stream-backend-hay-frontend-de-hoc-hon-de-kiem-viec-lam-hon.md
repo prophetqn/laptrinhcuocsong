@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Phát trực tuyến - Backend hay frontend dễ học hơn, dễ kiếm việc làm hơn?
+thumbnail: live-stream-11-3-2017.png
 categories:
  - Chuyện lập trình
  - Chuyện bên lề
