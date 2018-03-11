@@ -5,6 +5,7 @@ thumbnail: live-stream-11-3-2017.png
 categories:
  - Chuyện lập trình
  - Chuyện bên lề
+tags:
  - Live stream lập trình
 related_posts:
  - title: Trông bạn sẽ cool hơn trong mắt nhà tuyển dụng nếu bạn có những thứ này
