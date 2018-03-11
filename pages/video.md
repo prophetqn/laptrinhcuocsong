@@ -4,6 +4,9 @@ title: Video trên kênh youtube của Lập Trình Cuộc Sống
 permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
+  -
+    title: Live stream - backend hay frontend dễ kiếm việc làm hơn
+    id: VvPv9kiB01A
   - 
     title: Một giờ trong đời của lập trình viên (speed 6x)
     id: jwuxH1BeNG0
