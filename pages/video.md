@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Lập trình viên và chuyện tình yêu, chia tay, buồn, cắm đầu vào code
+    id: Nbu8tBtef3c
+  -
     title: Live stream - backend hay frontend dễ kiếm việc làm hơn
     id: VvPv9kiB01A
   - 
