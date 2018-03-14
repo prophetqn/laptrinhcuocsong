@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Đang code mà buồn tè thì làm thế nào?
+    id: 5lkDOd8PKHc
+  -
     title: Lập trình viên và chuyện tình yêu, chia tay, buồn, cắm đầu vào code
     id: Nbu8tBtef3c
   -
