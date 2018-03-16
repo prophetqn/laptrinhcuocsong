@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Làm product và làm outsource khác nhau như thế nào?
+    id: pAMh5j53BXI
+  -
     title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
     id: N0K7ZONRs6w
   -
