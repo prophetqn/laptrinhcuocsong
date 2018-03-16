@@ -39,7 +39,7 @@ Tất cả các bài viết trên blog này hoàn toàn do mình viết, có th�
 
 ## Bạn thì biết cái gì mà "dạy đời" người khác ?
 
-Trước hết, mình không "dạy" ai cả, đây là blog cá nhân, có nghĩa rằng đây là cách nhìn nhận vấn đề trong hoàn cảnh điều kiện và khả năng của riêng mình, mình không giỏi nên các bài viết có thể không hoàn toàn đúng trong mọi hoàn cảnh. Rất hoan nghênh ý kiến đóng góp của các bạn để mình hoàn thiện bản thân cũng như blog hơn. Nếu blog này làm bạn thấy phiền, bực bội, bức xúc, phản đối... hay bất kỳ cảm xúc tiêu cực nào, xin dừng truy cập blog.
+Trước hết, mình không "dạy" ai cả, đây là blog cá nhân, có nghĩa rằng đây là cách nhìn nhận vấn đề trong hoàn cảnh điều kiện và khả năng của riêng mình, các bài viết có thể không hoàn toàn đúng trong mọi hoàn cảnh. Rất hoan nghênh ý kiến đóng góp của các bạn để mình hoàn thiện bản thân cũng như blog hơn. Nếu blog này làm bạn thấy phiền, bực bội, bức xúc, phản đối... hay bất kỳ cảm xúc tiêu cực nào, xin dừng truy cập blog.
 
 ## Blog này hay quá, tôi muốn bạn viết cái này, cái kia
 
