@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+    id: N0K7ZONRs6w
+  -
     title: Đang code mà buồn tè thì làm thế nào?
     id: 5lkDOd8PKHc
   -
