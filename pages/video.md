@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
+    id: bJqNTFSnNa0
+  -
     title: Làm product và làm outsource khác nhau như thế nào?
     id: pAMh5j53BXI
   -
