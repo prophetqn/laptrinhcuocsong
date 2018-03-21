@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Phỏng vấn xin việc IT như thế nào? 
+    id: GaMExVaxHc8
+  -
     title: Nghề lập trình - tiền hay đam mê
     id: bLC6yA73lFw
   -
