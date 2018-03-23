@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
+  -
     title: Tạo blog nhanh chóng miễn phí với github
     id: CpmE5RTpPwQ
   -
