@@ -64,6 +64,12 @@ Cái này thì không chắc chắn lắm, nhưng theo chia sẻ của con bạn
 
 Sau khi anh em có hết tất cả các thứ trên thì tớ chắc chắn là anh em trông đã rất chuẩn soái ca, lương vài nghìn mỹ kim, chiến trường nào cũng chiến đấu được.
 
+Video: Phỏng vấn xin việc IT như thế nào? 
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GaMExVaxHc8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Lưu ý: Đây là tài liệu lưu hành nội bộ, mọi hình thức để lộ nhà tuyển dụng biết được sẽ mất tác dụng. Tác giả không chịu trách nhiệm nếu bạn bị các em HR xinh đẹp vây kín làm phiền.
 
 
