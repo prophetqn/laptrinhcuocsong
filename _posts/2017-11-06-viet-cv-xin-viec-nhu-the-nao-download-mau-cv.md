@@ -40,3 +40,9 @@ Chúng ta không biết ở bên kia chiến tuyến, nhà tuyển dụng đang 
 [Download bộ CV cho dân IT của Scuti](https://drive.google.com/drive/folders/0Byby9x37n82oSlc4cHRVbUNGak0)
 
 Chúc các bạn thành công.
+
+Video liên quan: Phỏng vấn xin việc IT như thế nào? 
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GaMExVaxHc8" frameborder="0" allowfullscreen></iframe>
+</div>
