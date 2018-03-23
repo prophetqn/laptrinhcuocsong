@@ -68,3 +68,9 @@ Bây giờ bạn hãy lấy cái bằng ra, bạn thấy chữ gì không? Nó g
 Trên đây mình chỉ viết dưới góc nhìn của cá nhân, theo những gì mình đã trải qua dưới góc độ của một lập trình viên, đã tham gia bán sức lao động được vài năm, bởi mình cũng đã từng mông lung, mò mẫm tự tìm con đường cho chính mình, không định hướng, và đã từng ngã vập mặt.
 
 Nếu bạn thật sự giỏi, thật sự sáng tạo, năng động ham học hỏi thì IT là một nghề rất tiềm năng, lương các bạn có thể chót vót. Cái nghề nào cũng thế thôi, nghề tiềm năng hay không phụ thuộc vào chính cách nghĩ của bạn, đừng hi vọng quá nhiều vào môi trường làm việc sau khi ra trường, lương cao hay thấp là ở chính bạn, bạn sẽ phải xây dựng từ đầu. TẤT CẢ.
+
+Video liên quan: Nghề lập trình: Tiền hay đam mê?
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bLC6yA73lFw" frameborder="0" allowfullscreen></iframe>
+</div>
