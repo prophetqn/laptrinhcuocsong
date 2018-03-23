@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Tổng hợp các bài viết hay trên Blog Lập Trình Cuộc Sống
 permalink: bai-viet-hay.html
 excerpt: Tổng hợp cập nhật các bài viết hay, được bạn đọc quan tâm cũng như có ích cho người đọc nhất

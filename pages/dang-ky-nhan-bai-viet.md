@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Đăng ký nhận bài viết qua email
 permalink: dang-ky-nhan-bai-viet.html
 excerpt: Đăng ký nhận bài viết từ blog Lập trình cuộc sống qua email
