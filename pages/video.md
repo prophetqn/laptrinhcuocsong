@@ -5,6 +5,12 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Crush nhờ cài win thì phải làm gì? 
+    id: AecrHFq_9BI
+  -
+    title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
+    id: zNCk6jctVW8
+  -
     title: Mình đã học lập trình như thế nào?
     id: qvjWF0HWeWw
   -
