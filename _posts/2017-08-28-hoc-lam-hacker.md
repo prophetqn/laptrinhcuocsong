@@ -31,6 +31,12 @@ Mình nói thật, không biết lập trình thì bỏ đi, không có hack hi�
 
 Có, cho vui thì được, hiện có rất nhiều tools, hướng dẫn trên Google để bạn có thể tự mình hack, để đặt avatar mặt nạ anonymous cho ngầu để tán gái, chỉ cần bạn có một đam mê khám phá và tinh thần học hỏi. Nhưng dù gì thì gì, hack vẫn là một hành động phạm tội, và bạn sẽ không tiến xa được với cách tiếp cận này đâu. Mình đã gặp rất nhiều bạn Sky's vì xem nhiều phim hacker mà sinh ra ảo tưởng, hừng hực trên con đường "nghiên cứu bảo mật" mà thất vọng, chán nản bất mãn với đời =)) Cứ thử học một khóa lập trình đi, rồi bạn sẽ thấy ước muốn trở thành hacker của mình nó ngớ ngẩn đến mức nào.
 
+## Hack rất tốn thời gian và công sức
+
+Có thể bạn đã xem ở bộ phim nào đó cảnh một hacker tay lướt trên bàn phím, trên màn hình hiện rất nhiều dòng chữ chạy loạn xạ trên màn hình đen và chỉ vài giây sau hiện lên dòng chữ xanh "Access granted ". Hay một anh chàng đẹp trai vài phút đã có thể hack được hệ thống giao thông sau đó chơi luôn cả một cái vệ tinh.
+
+Ngoài đời hoàn toàn không giống như thế đâu, cũng không phải lúc nào cũng có sẵn một cái vệ tinh trên đầu bạn. Hack tốn thời gian và công sức hơn thế rất nhiềuuuuu. Bạn phải theo dõi thu thập thông tin, xem từng request, phân tích từng cái url, đọc từng mẩu code, viết code để thực hiện cái gì đó... có thể kéo dài cả ngày thậm chí cả tuần, và hơn thế nữa. Cũng không phải cái gì cũng có thể hack được, có những cái cần phải có thiết bị chuyên dụng ở gần mục tiêu... tóm lại là mệt mỏi hơn bạn tưởng tượng rất là nhiều.
+
 ## Làm thế nào để hack một website?
 
 Lảm nhảm khá nhiều mới đến chủ đề chính, chúng ta sẽ tìm hiểu cách một website bị hack như thế nào. Tất nhiên đây chỉ là dưới góc độ cá nhân, vì như ở trên đã nói, mình chỉ là dạng tay mơ, không phải các bước của một hacker chuyên nghiệp, để các bạn đọc chơi cho vui.
