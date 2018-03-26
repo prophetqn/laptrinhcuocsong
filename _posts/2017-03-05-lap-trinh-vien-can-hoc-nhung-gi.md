@@ -16,7 +16,7 @@ related_posts:
 
 Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất mông lung.
 
-Dạo này mình có tham gia vài nhóm học lập trình trên facebook, mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? Dùng ngôn ngữ gì? Có mệt không? Và làm thế nào để sống sót.
+Mình có tham gia vài nhóm lập trình trên facebook, mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? Dùng ngôn ngữ gì? Có mệt không? Và làm thế nào để sống sót.
 
 ![lập trình viên](images/lap-trinh-vien.png)
 
@@ -30,7 +30,7 @@ Làm việc nhóm, tức là làm việc với người khác, chẳng ai viết
 
 **Tiếng Anh**:
 
-Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình ngon, google thì cũng phải google bằng tiếng Anh nó mới nhanh ra đáp án. Tuy nhiên bạn không cần phải chém tiếng Anh như gió hay đạt 900 điểm TOEIC mới lập trình giỏi. Bạn chỉ cần đọc hiểu tài liệu là đủ, gặp lỗi gì còn lên stackoverflow mà tìm cách fix được, viết tên hàm thì cũng phải viết tiếng Anh, trong thời buổi toàn cầu hóa hiện nay, outsource nhiều, code của bạn có thể được đọc bởi một thằng tây nào đó là chuyện bình thường. Đừng quá lo lắng, theo cách của mình cứ đọc gặp từ nào khó thì tra từ điển, sau một thời gian sẽ đọc được cả thôi.
+Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình ngon, google thì cũng phải google bằng tiếng Anh nó mới nhanh ra đáp án. Tuy nhiên bạn không cần phải chém tiếng Anh như gió hay đạt điểm cao TOEIC mới lập trình giỏi. Bạn chỉ cần đọc hiểu tài liệu là đủ, gặp lỗi gì còn lên stackoverflow mà tìm cách fix được, viết tên hàm thì cũng phải viết tiếng Anh, trong thời buổi toàn cầu hóa hiện nay, outsource nhiều, code của bạn có thể được đọc bởi một thằng tây nào đó là chuyện bình thường. Đừng quá lo lắng, theo cách của mình cứ đọc gặp từ nào khó thì tra từ điển, sau một thời gian sẽ đọc được cả thôi.
 
 **Kỹ năng tự học**:
 
@@ -39,6 +39,8 @@ Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình
 **Vấn đề sức khỏe**:
 
 Đừng tưởng làm lập trình ngồi một chỗ trong phòng máy lạnh thì không lo bệnh tật. Sau vài năm bạn sẽ thấy có vài vấn đề như đau lưng, mỏi vai hay hoa mắt... Hãy bỏ ngay các thói quen thức quá khuya, ăn uống không đúng giờ và sử dụng chất kích thích như rượu bia, thuốc lá... Một số thanh niên sau khi code điên cuồng làm vài ván dota để giải trí, lại ngồi thêm vài tiếng nữa,. Nói chung nếu không chịu khó vận động, sắp xếp thời gian chơi thể thao thì đừng mong tồn tại, bạn có sức khỏe mới theo đuổi đam mê được.
+
+Video liên quan: <a target="_blank" href="https://www.youtube.com/watch?v=5lkDOd8PKHc">Vấn đề sức khỏe của lập trình viên</a>
 
 ## Chuyên môn về kỹ thuật:
 

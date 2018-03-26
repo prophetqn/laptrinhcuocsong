@@ -35,7 +35,7 @@ Có, cho vui thì được, hiện có rất nhiều tools, hướng dẫn trên
 
 Có thể bạn đã xem ở bộ phim nào đó cảnh một hacker tay lướt trên bàn phím, trên màn hình hiện rất nhiều dòng chữ chạy loạn xạ trên màn hình đen và chỉ vài giây sau hiện lên dòng chữ xanh "Access granted ". Hay một anh chàng đẹp trai vài phút đã có thể hack được hệ thống giao thông sau đó chơi luôn cả một cái vệ tinh.
 
-Ngoài đời hoàn toàn không giống như thế đâu, cũng không phải lúc nào cũng có sẵn một cái vệ tinh trên đầu bạn. Hack tốn thời gian và công sức hơn thế rất nhiềuuuuu. Bạn phải theo dõi thu thập thông tin, xem từng request, phân tích từng cái url, đọc từng mẩu code, viết code để thực hiện cái gì đó... có thể kéo dài cả ngày thậm chí cả tuần, và hơn thế nữa. Cũng không phải cái gì cũng có thể hack được, có những cái cần phải có thiết bị chuyên dụng ở gần mục tiêu... tóm lại là mệt mỏi hơn bạn tưởng tượng rất là nhiều.
+Ngoài đời hoàn toàn không giống như thế đâu, cũng không phải lúc nào cũng có sẵn một cái vệ tinh trên đầu bạn. Hack tốn thời gian và công sức hơn thế rất nhiềuuuuu. Bạn phải theo dõi thu thập thông tin, xem từng request, phân tích từng cái url, đọc từng mẩu code, viết code để thực hiện cái gì đó... có thể kéo dài cả ngày thậm chí cả tuần, và hơn thế nữa. Cũng không phải cái gì cũng có thể hack được, có những cái cần phải có thiết bị hỗ trợ ở gần mục tiêu... tóm lại là mệt mỏi hơn bạn tưởng tượng rất là nhiều.
 
 ## Làm thế nào để hack một website?
 
