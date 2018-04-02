@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
+    id: Zo8pGBDi6SA
+  -
     title: Python làm được gì? Có nên học ngôn ngữ lập trình Python không? 
     id: 278ig6WPjiI
   -
