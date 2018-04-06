@@ -82,7 +82,7 @@ Xem kênh Make [tại đây](https://www.youtube.com/user/makemagazine)
 
 ### 9. Lập trình cuộc sống
 
-![Lập trình cuộc sống youtube](images/youtuber-lap-trinh-cuoc-song.jpg)
+![Lập trình cuộc sống youtube](https://img.youtube.com/vi/Zo8pGBDi6SA/0.jpg)
 
 Lập Trình Cuộc Sống là một kênh vlog định hướng ngành IT dành cho tất cả lập trình viên và sinh viên công nghệ. Các video chia sẻ một cách hài hước không chỉ lập trình mà còn về mọi mặt của đời sống dân IT.
 
