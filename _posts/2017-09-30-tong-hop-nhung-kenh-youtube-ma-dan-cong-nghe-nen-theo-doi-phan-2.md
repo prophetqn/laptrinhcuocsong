@@ -97,7 +97,7 @@ Xem kênh Code Babes [tại đây](https://www.youtube.com/channel/UCVg4DAiKW5Wg
 
 ![Lập trình cuộc sống](images/youtuber-lap-trinh-cuoc-song.jpg)
 
-Đưa kênh Lập trình cuộc sống vào bài viết này chỉ mang tính chất quảng cáo, đây là kênh chính thức của blog này trên youtube với vẻn vẹn vài video vớ vẩn. Thời gian tới cũng đang có kế hoạch phát triển kênh này bởi vì mình thấy chia sẻ bằng video là cách khá hiệu quả mà đôi khi viết blog như thế này không thể truyền tải hết được. Hãy subscribe ủng hộ nhé.
+Lập Trình Cuộc Sống là một kênh vlog định hướng ngành IT dành cho tất cả lập trình viên và sinh viên công nghệ. Các video chia sẻ một cách hài hước không chỉ lập trình mà còn về mọi mặt của đời sống dân IT. Hãy subscribe ủng hộ nhé.
 
 Xem kênh Lập trình cuộc sống [tại đây](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
 

@@ -80,12 +80,12 @@ Cũng giống như kênh sáng tạo .Com nhưng chất lượng video thì hơn
 
 Xem kênh Make [tại đây](https://www.youtube.com/user/makemagazine)
 
-### 9. Thenewboston
+### 9. Lập trình cuộc sống
 
-![Thenewboston](images/youtube_thenewboston.jpg)
+![Lập trình cuộc sống youtube](images/youtuber-lap-trinh-cuoc-song.jpg)
 
-Thenewboston là một kênh hướng dẫn lập trình có đến gần 1,5 triệu lượt subscrible. Các bài hướng dẫn rất chi tiết và có hệ thống, dẫn dắt người xem từ chưa biết gì đến giỏi một ngôn ngữ, kênh luôn được cập nhật video mới về chủ để python, c++, html5, android và nodejs.
+Lập Trình Cuộc Sống là một kênh vlog định hướng ngành IT dành cho tất cả lập trình viên và sinh viên công nghệ. Các video chia sẻ một cách hài hước không chỉ lập trình mà còn về mọi mặt của đời sống dân IT.
 
-Xem kênh Thenewboston [tại đây](https://www.youtube.com/user/thenewboston)
+Xem kênh Lập Trình Cuộc Sống [tại đây](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1)
 
 Bạn thích nhất kênh nào? Hãy để lại comment bên dưới để cùng chia sẻ những kênh video hay nhé.
