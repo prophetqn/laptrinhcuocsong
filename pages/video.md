@@ -5,6 +5,12 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Troll zero9 - Lập trình viên nghĩ gì khi xem clip của zero9 
+    id: xsI6r6zYTp0
+  -
+    title: Gặp bug thì làm gì? Lập trình viên chiến đấu với bọn tester như thế nào? 
+    id: wFQ1h8RNcEs
+  -
     title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
     id: Zo8pGBDi6SA
   -
