@@ -7,58 +7,18 @@ permalink: share.html
 	<title>Share facebook</title>
 
 
-        <meta property="fb:app_id" content="299675953750632" />
-        <meta property="og:url" content="http://drib.tech/fbsharetest/quiz.html" >
-        <meta property="og:type" content="article" >
-        <meta property="og:title" content="Are you the real Star Trek geek?" >
-        <meta property="og:description" content="Prove your Star Trek geekhood! Are you wise like Yoda or Jar Jar Binks?" >
-        <meta property="og:image" content="http://drib.tech/fbsharetest/quiz_landing.jpg" >
-        <meta property="og:image:width" content="1200" >
-        <meta property="og:image:height" content="630" >
+
 </head>
 <body>
-
-<script>
-  window.fbAsyncInit = function() {
-	FB.init({
-	  appId            : '299675953750632',
-	  autoLogAppEvents : true,
-	  xfbml            : true,
-	  version          : 'v2.10'
-	});
-	FB.AppEvents.logPageView();
-
-	var overrideLink = "https://www.youtube.com/watch?v=0UO9UKjVQ68";
-	var overrideTitle = "Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm";
-	var overrideDescription = "Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm";
-	var overrideImage = "https://img.youtube.com/vi/0UO9UKjVQ68/0.jpg";
-	FB.ui({
-		method: 'share_open_graph',
-		action_type: 'og.shares',
-		action_properties: JSON.stringify({
-			object: {
-				'og:url': overrideLink,
-				'og:title': overrideTitle,
-				'og:description': overrideDescription,
-				'og:image': overrideImage
-			}
-		})
-	},
-	function (response) {
-	// Action after response
-	});
-  };
- 
-  (function(d, s, id){
-	 var js, fjs = d.getElementsByTagName(s)[0];
-	 if (d.getElementById(id)) {return;}
-	 js = d.createElement(s); js.id = id;
-	 js.src = "//connect.facebook.net/en_US/sdk.js";
-	 fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-<script type="text/javascript">
-
-</script>
+	<script type="text/javascript">
+        document.write('<meta property="fb:app_id" content="299675953750632" />');
+        document.write('<meta property="og:url" content="http://drib.tech/fbsharetest/quiz.html" >');
+        document.write('<meta property="og:type" content="article" >');
+        document.write('<meta property="og:title" content="Are you the real Star Trek geek?" >');
+        document.write('<meta property="og:description" content="Prove your Star Trek geekhood! Are you wise like Yoda or Jar Jar Binks?" >');
+        document.write('<meta property="og:image" content="http://drib.tech/fbsharetest/quiz_landing.jpg" >');
+        document.write('<meta property="og:image:width" content="1200" >');
+        document.write('<meta property="og:image:height" content="630" >');
+    </script>
 </body>
 </html>
