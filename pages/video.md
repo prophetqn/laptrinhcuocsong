@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Sinh viên IT ngày xưa như thế nào? Dùng máy tính mạnh không?
+    id: ClsOD7jAsQ4
+  -
     title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
     id: 0UO9UKjVQ68
   -
