@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: video_list
 title: Video trên kênh youtube của Lập Trình Cuộc Sống
 permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
