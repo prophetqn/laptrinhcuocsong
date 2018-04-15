@@ -3,6 +3,11 @@ layout: post
 title: Hướng dẫn giải whiteHat warGame - web security bài 1 đến bài 4
 thumbnail: hacker-whitehat.png
 category: Chuyện bên lề
+tags:
+ - hoc-hack-co-ban
+ - hacking-co-ban
+ - cach-tro-thanh-hacker-mu-den
+ - day-lam-hacker-tu-a-z
 related_posts:
  - title: Lập trình viên cần học những gì ?
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
