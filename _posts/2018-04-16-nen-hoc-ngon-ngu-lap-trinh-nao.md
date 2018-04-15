@@ -1,7 +1,7 @@
 ---
 title: Nên học ngôn ngữ lập trình nào?
 category: Chuyện nghề nghiệp
-thumbnail: fly-get-money.png
+thumbnail: ngon-ngu-lap-trinh.png
 excerpt: Đối với các bạn mới học lập trình, lựa chọn ngôn ngữ lập trình để học là một việc rất khó khăn. Mỗi ngôn ngữ có những đặc điểm riêng, không có ngôn ngữ nào mạnh hơn ngôn ngữ nào cả. Bạn không biết ngôn ngữ nào phù hợp với mình, bài viết này sẽ giúp bạn.
 related_posts:
  - title: 
