@@ -19,7 +19,7 @@ Thường thì mỗi ngôn ngữ được thiết kế để tập trung vào gi
 
 ## Chọn ngôn ngữ lập trình theo mục đích cụ thể
 
-Để lựa chọn ngôn ngữ lập trình, bạn hãy trả lời câu hỏi: "Tôi đang muốn làm cái gì?". Rồi tùy theo bạn muốn làm cái gì mà chọn ngôn ngữ phù hợp,
+Để lựa chọn ngôn ngữ lập trình, bạn hãy trả lời câu hỏi: "Tôi đang muốn làm cái gì?". Rồi tùy theo bạn muốn làm cái gì mà chọn ngôn ngữ phù hợp.
 
 Nếu bạn muốn làm web: php là ngôn ngữ rất tốt
 
@@ -32,6 +32,8 @@ Nếu bạn muốn làm phần mềm chạy trên điện thoại android thì j
 ## Chọn ngôn ngữ theo dự đoán triển vọng của ngôn ngữ đó trong tương lai
 
 Có những ngôn ngữ và công nghệ bị mất đi theo thời gian khi nó không còn đáp ứng được nhu cầu ở hiện tại nữa. Khi lựa chọn ngôn ngữ để học, bạn cũng cần phải cân nhắc về độ phổ biến cũng như triển vọng của ngôn ngữ đó trong tương lai. Python có thể là ngôn ngữ phổ biến trong tương lai khi nó hỗ trợ rất nhiều thư viện lập trình Machine learning.
+
+![Ngôn ngữ lập trình](images/ngon-ngu-lap-trinh-big.png)
 
 ## Thật ra thì lựa chọn học ngôn ngữ nào là không quan trọng
 
