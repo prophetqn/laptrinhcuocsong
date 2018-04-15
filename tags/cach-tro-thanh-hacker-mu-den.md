@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Dạy làm hacker từ A đến Z
-excerpt: Tổng hợp các bài viết dạy bạn làm hacker từ A đến Z đầy đủ các hướng dẫn dễ hiểu nhất. Các bài học đầu tiên để trở thành hacker
+title: Cách trở thành hacker mũ đen
+excerpt: Dạy bạn làm hacker mũ đen đầy đủ các hướng dẫn dễ hiểu nhất. Các bài học đầu tiên cơ bản nhất để trở thành hacker mũ đen. Hacker mũ đen là những người thâm nhập vào các trang web, tấn công vào các hệ thống nhằm phục vụ lợi ích cá nhân như đánh cắp thông tin người dùng hay tài khoản ngân hàng.
 permalink: /tags/day-lam-hacker-tu-a-z
 ---
 <div id="index">
@@ -9,7 +9,6 @@ permalink: /tags/day-lam-hacker-tu-a-z
     <h1>{{page.title}}</h1>
     <p>{{page.excerpt}}</p>
 </div>
-
 {% for post in site.posts %}
 {% if post.tags contains 'hacking-co-ban' %}
 <article class="post" itemscope itemtype="http://schema.org/Article">
