@@ -5,11 +5,11 @@ thumbnail: ngon-ngu-lap-trinh.png
 excerpt: Đối với các bạn mới học lập trình, lựa chọn ngôn ngữ lập trình để học là một việc rất khó khăn. Mỗi ngôn ngữ có những đặc điểm riêng, không có ngôn ngữ nào mạnh hơn ngôn ngữ nào cả. Bạn không biết ngôn ngữ nào phù hợp với mình, bài viết này sẽ giúp bạn.
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: 
    link: http://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/sang-tao-la-gi-lam-the-nao-de-tro-nen-sang-tao.html
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: 
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
 ---
@@ -41,8 +41,8 @@ Nếu bạn mới học lập trình, lựa chọn học ngôn ngữ nào là kh
 
 Do đó đừng quá băn khoăn khi lựa chọn, hầu hết lập trình viên đều biết nhiều hơn 1 ngôn ngữ. Trong quá trình làm việc, gặp thêm những vấn đề mới, bạn cũng sẽ phải học thêm một vài ngôn ngữ mới mà thôi.
 
-Video liên quan: Nghề lập trình: Tiền hay đam mê?
+Video liên quan: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
 
 <div class="youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bLC6yA73lFw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bJqNTFSnNa0" frameborder="0" allowfullscreen></iframe>
 </div>
