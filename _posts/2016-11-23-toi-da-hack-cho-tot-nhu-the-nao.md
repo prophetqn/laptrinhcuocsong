@@ -6,6 +6,8 @@ category: Chuyện lập trình
 tags:
  - hoc-hack-co-ban
  - hacking-co-ban
+ - cach-tro-thanh-hacker-mu-den
+ - day-lam-hacker-tu-a-z
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
