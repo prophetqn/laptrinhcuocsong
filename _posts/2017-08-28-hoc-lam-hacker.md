@@ -6,6 +6,8 @@ category: Chuyện bên lề
 tags:
  - hoc-hack-co-ban
  - hacking-co-ban
+ - cach-tro-thanh-hacker-mu-den
+ - day-lam-hacker-tu-a-z
 related_posts:
  - title: Tôi đã hack Chợ Tốt như thế nào
    link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html

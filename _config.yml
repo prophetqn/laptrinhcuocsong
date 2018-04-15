@@ -34,6 +34,8 @@ tags_config:
     name: Lập trình web
   live-stream-lap-trinh:
     name: Live stream lập trình
+  cach-tro-thanh-hacker-mu-den:
+    name: Cách trở thành hacker mũ đen
 sass:
   style: :compressed
 plugins:
