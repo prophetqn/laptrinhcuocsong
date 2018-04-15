@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Đang code mà buồn đi tè thì phải làm sao?
-thumbnail: ban-phim.jpg
+thumbnail: thumb-lap-trinh-vien-met-moi.png
 categories:
  - Chuyện lập trình
  - Chuyện bên lề
