@@ -17,7 +17,7 @@ related_posts:
 
 Thường thì mỗi ngôn ngữ được thiết kế để tập trung vào giải quyết một hoặc vài việc cụ thể, ví dụ php chỉ để làm web, swift để làm ứng dụng ios. Tất nhiên vẫn có những ngôn ngữ phục vụ nhiều mục đích khác nhau, java chẳng hạn, nó được thiết kế để làm rất nhiều thứ.
 
-Chọn ngôn ngữ lập trình theo mục đích cụ thể
+## Chọn ngôn ngữ lập trình theo mục đích cụ thể
 
 Để lựa chọn ngôn ngữ lập trình, bạn hãy trả lời câu hỏi: "Tôi đang muốn làm cái gì?". Rồi tùy theo bạn muốn làm cái gì mà chọn ngôn ngữ phù hợp,
 
@@ -29,11 +29,11 @@ Còn nếu bạn muốn làm robot, lập trình vi điều khiển? C và C++ l
 
 Nếu bạn muốn làm phần mềm chạy trên điện thoại android thì java là ngôn ngữ dành cho bạn. Với phần mềm trên điện thoại ios thì bạn hãy chọn swift.
 
-Chọn ngôn ngữ theo dự đoán triển vọng của ngôn ngữ đó trong tương lai
+## Chọn ngôn ngữ theo dự đoán triển vọng của ngôn ngữ đó trong tương lai
 
 Có những ngôn ngữ và công nghệ bị mất đi theo thời gian khi nó không còn đáp ứng được nhu cầu ở hiện tại nữa. Khi lựa chọn ngôn ngữ để học, bạn cũng cần phải cân nhắc về độ phổ biến cũng như triển vọng của ngôn ngữ đó trong tương lai. Python có thể là ngôn ngữ phổ biến trong tương lai khi nó hỗ trợ rất nhiều thư viện lập trình Machine learning.
 
-Thật ra thì lựa chọn học ngôn ngữ nào là không quan trọng
+## Thật ra thì lựa chọn học ngôn ngữ nào là không quan trọng
 
 Tại sao mình nói như thế, bởi vì tất cả các ngôn ngữ lập trình đều giống nhau, ngôn ngữ nào cũng bắt nguồn từ những thứ cơ bản như vòng lặp, biến, hàm, hằng số.... Khi bạn đã thành thạo một ngôn ngữ, việc học một ngôn ngữ mới là rất dễ dàng. 
 
