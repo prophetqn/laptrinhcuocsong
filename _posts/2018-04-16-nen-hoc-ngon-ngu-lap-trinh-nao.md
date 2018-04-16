@@ -41,7 +41,7 @@ Tại sao mình nói như thế, bởi vì tất cả các ngôn ngữ lập tr�
 
 Nếu bạn mới học lập trình, lựa chọn học ngôn ngữ nào là không quá quan trọng. Cái quan trọng là bạn phải học được cái "tư duy lập trình" mà thôi, khi bạn đã giải quyết được vấn đề nào đó trong javascript, thì bạn cũng có thể dùng cách đấy trong java hay python rất dễ dàng.
 
-Do đó đừng quá băn khoăn khi lựa chọn, hầu hết lập trình viên đều biết nhiều hơn 1 ngôn ngữ. Trong quá trình làm việc, gặp thêm những vấn đề mới, bạn cũng sẽ phải học thêm một vài ngôn ngữ mới mà thôi.
+Do đó đừng quá băn khoăn khi lựa chọn, nếu mới học, pascal cũng là lựa chọn tốt. Hầu hết lập trình viên đều biết nhiều hơn 1 ngôn ngữ, trong quá trình làm việc, gặp thêm những vấn đề mới, bạn cũng sẽ phải học thêm một vài ngôn ngữ mới mà thôi.  
 
 Video liên quan: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
 
