@@ -13,7 +13,7 @@ related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
 ---
-Đối với các bạn mới học lập trình, lựa chọn ngôn ngữ lập trình để học là một việc rất khó khăn. Mỗi ngôn ngữ có những đặc điểm riêng, không có ngôn ngữ nào mạnh hơn ngôn ngữ nào cả. Bạn không biết ngôn ngữ nào phù hợp với mình, bài viết này sẽ giúp bạn.
+Đối với các bạn mới học lập trình, lựa chọn ngôn ngữ lập trình để học là một việc rất khó khăn. Có hàng tá ngôn ngữ, mỗi ngôn ngữ có những đặc điểm riêng, không có ngôn ngữ nào mạnh hơn ngôn ngữ nào cả. Bạn không biết ngôn ngữ nào phù hợp với mình, bài viết này sẽ giúp bạn.
 
 Thường thì mỗi ngôn ngữ được thiết kế để tập trung vào giải quyết một hoặc vài việc cụ thể, ví dụ php chỉ để làm web, swift để làm ứng dụng ios. Tất nhiên vẫn có những ngôn ngữ phục vụ nhiều mục đích khác nhau, java chẳng hạn, nó được thiết kế để làm rất nhiều thứ.
 
@@ -21,17 +21,17 @@ Thường thì mỗi ngôn ngữ được thiết kế để tập trung vào gi
 
 Để lựa chọn ngôn ngữ lập trình, bạn hãy trả lời câu hỏi: "Tôi đang muốn làm cái gì?". Rồi tùy theo bạn muốn làm cái gì mà chọn ngôn ngữ phù hợp.
 
-Nếu bạn muốn làm web: php là ngôn ngữ rất tốt
+Nếu bạn muốn làm web: php là ngôn ngữ rất tốt.
 
-Nếu bạn muốn làm phần mềm chạy trên máy tính: C# là một lựa chọn không tồi
+Nếu bạn muốn làm phần mềm chạy trên máy tính: C# là một lựa chọn không tồi.
 
-Còn nếu bạn muốn làm robot, lập trình vi điều khiển? C và C++ là ngôn ngữ dành cho bạn
+Còn nếu bạn muốn làm robot, lập trình vi điều khiển? C và C++ là ngôn ngữ dành cho bạn.
 
 Nếu bạn muốn làm phần mềm chạy trên điện thoại android thì java là ngôn ngữ dành cho bạn. Với phần mềm trên điện thoại ios thì bạn hãy chọn swift.
 
 ## Chọn ngôn ngữ theo dự đoán triển vọng của ngôn ngữ đó trong tương lai
 
-Có những ngôn ngữ và công nghệ bị mất đi theo thời gian khi nó không còn đáp ứng được nhu cầu ở hiện tại nữa. Khi lựa chọn ngôn ngữ để học, bạn cũng cần phải cân nhắc về độ phổ biến cũng như triển vọng của ngôn ngữ đó trong tương lai. Python có thể là ngôn ngữ phổ biến trong tương lai khi nó hỗ trợ rất nhiều thư viện lập trình Machine learning.
+Có những ngôn ngữ và công nghệ bị mất đi theo thời gian khi nó không còn đáp ứng được nhu cầu ở hiện tại nữa. Khi lựa chọn ngôn ngữ để học, bạn cũng cần phải cân nhắc về độ phổ biến cũng như triển vọng của ngôn ngữ đó trong tương lai. Điều này thực sự rất quan trọng, ảnh hưởng đến mức lương của bạn trong tương lai. Chẳng hạn, python có thể là ngôn ngữ phổ biến trong tương lai khi nó hỗ trợ rất nhiều thư viện lập trình Machine learning.
 
 ![Ngôn ngữ lập trình](images/ngon-ngu-lap-trinh-big.png)
 
