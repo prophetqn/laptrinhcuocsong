@@ -93,12 +93,12 @@ Chính xác đây là một kênh về lập trình, nhưng có phần giải tr
 
 Xem kênh Code Babes [tại đây](https://www.youtube.com/channel/UCVg4DAiKW5WgPKKbQAJ89MA)
 
-## Lập trình cuộc sống
+## Lập trình viên TV
 
 ![Lập trình cuộc sống](https://img.youtube.com/vi/Zo8pGBDi6SA/0.jpg)
 
-Lập Trình Cuộc Sống là một kênh vlog định hướng ngành IT dành cho tất cả lập trình viên và sinh viên công nghệ. Các video chia sẻ một cách hài hước không chỉ lập trình mà còn về mọi mặt của đời sống dân IT. Hãy subscribe ủng hộ nhé.
+Lập trình viên TV là một kênh vlog định hướng ngành IT dành cho tất cả lập trình viên và sinh viên công nghệ. Các video chia sẻ một cách hài hước không chỉ lập trình mà còn về mọi mặt của đời sống dân IT. Hãy subscribe ủng hộ nhé.
 
-Xem kênh Lập trình cuộc sống [tại đây](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
+Xem kênh Lập trình viên TV [tại đây](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
 
 Trên đây là phần 2 của  những kênh youtube mà dân công nghệ nên theo dõi. Bạn thích nhất kênh nào? Hãy để lại comment bên dưới để cùng chia sẻ những kênh video hay nhé. 

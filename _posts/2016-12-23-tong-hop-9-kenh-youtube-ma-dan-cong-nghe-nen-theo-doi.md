@@ -80,12 +80,12 @@ Cũng giống như kênh sáng tạo .Com nhưng chất lượng video thì hơn
 
 Xem kênh Make [tại đây](https://www.youtube.com/user/makemagazine)
 
-### 9. Lập trình cuộc sống
+### 9. Lập trình viên TV
 
 ![Lập trình cuộc sống youtube](https://img.youtube.com/vi/Zo8pGBDi6SA/0.jpg)
 
-Lập Trình Cuộc Sống là một kênh vlog định hướng ngành IT dành cho tất cả lập trình viên và sinh viên công nghệ. Các video chia sẻ một cách hài hước không chỉ lập trình mà còn về mọi mặt của đời sống dân IT.
+Lập trình viên TV là một kênh vlog định hướng ngành IT dành cho tất cả lập trình viên và sinh viên công nghệ. Các video chia sẻ một cách hài hước không chỉ lập trình mà còn về mọi mặt của đời sống dân IT.
 
-Xem kênh Lập Trình Cuộc Sống [tại đây](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1)
+Xem kênh Lập trình viên TV [tại đây](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1)
 
 Bạn thích nhất kênh nào? Hãy để lại comment bên dưới để cùng chia sẻ những kênh video hay nhé.
