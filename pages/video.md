@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Thiết kế website cá nhân trên photoshop
+    id: 9RQkB365RwQ
+  -
     title: Sinh viên IT ngày xưa như thế nào? Dùng máy tính mạnh không?
     id: ClsOD7jAsQ4
   -
