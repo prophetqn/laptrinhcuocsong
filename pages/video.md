@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Học lập trình nên tự học hay học ở trung tâm?
+    id: sgkNOWEbLSw
+  -
     title: Thiết kế website cá nhân trên photoshop
     id: 9RQkB365RwQ
   -
