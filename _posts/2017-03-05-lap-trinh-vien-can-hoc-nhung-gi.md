@@ -16,7 +16,7 @@ related_posts:
 
 Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất mông lung.
 
-Mình có tham gia vài nhóm lập trình trên facebook, mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? Dùng ngôn ngữ gì? Có mệt không? Và làm thế nào để sống sót.
+Mình có tham gia vài nhóm lập trình trên facebook, mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? [Dùng ngôn ngữ gì](http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html)? Có mệt không? Và làm thế nào để sống sót.
 
 ![lập trình viên](images/lap-trinh-vien.png)
 
