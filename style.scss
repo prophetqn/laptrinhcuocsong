@@ -65,13 +65,9 @@ h1 {
     font-size: 30px;
     font-weight: bold;
     color: #222;
-    text-shadow: 0px 0px 1px rgba(0,0,0,0.3);
 }
 h1 a {
     color: inherit;
-}
-h1 a:hover {
-    text-shadow: 0px 0px 1px rgba(44, 85, 255, 0.2);
 }
 h2 {
     font-size: 18px;
@@ -251,7 +247,6 @@ display: inline-block;
     margin-bottom: 30px;
     margin-right: 60px;
     color: #333;
-    text-shadow: 0px 0px 0px rgba(0,0,0,0.5);
 }
 .post:last-child {
     border: none;   
@@ -371,49 +366,59 @@ code.highlighter-rouge {
     -webkit-flex-direction: row; /* Safari */
     flex-wrap: wrap;
     -webkit-flex-wrap: wrap; /* Safari */
-}
-#videos .video img {
-    width: calc(100% - 30px);
-    display: block;
-    margin: 15px auto;
-}
-#videos .video {
-    margin-bottom: 30px;
-    padding-bottom: 30px;
-    width: calc(33% - 2px);
-}
-#videos .video h3 {
-  font-size: 20px;
-  margin: 10px;
+
+    .video {
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+        width: calc(33% - 2px);
+
+        img {
+            width: calc(100% - 30px);
+            display: block;
+            margin: 15px auto;
+        }
+
+        h3 {
+            font-size: 15px;
+            margin: 10px;
+            line-height: 20px;
+        }
+    }
 }
 
-ul.related_posts {
+.related_posts {
     border-top: 1px solid #ebebeb;
     padding-top: 35px;
     border-bottom: 1px solid #ebebeb;
     margin-bottom: 30px;
+
+    li {
+        display: block;
+
+        &:before {
+            display: none;
+        }
+
+        a {
+            display: inline-block;
+            vertical-align: middle;
+            font-size: 17px;
+
+            img {
+                display: inline;
+                max-width: 50px;
+                height: auto;
+            }
+        }
+
+        h3 {
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 7px;
+        }
+    }
 }
-.related_posts li {
-    display: block;
-}
-.related_posts li:before {
-    display: none;
-}
-.related_posts a {
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 17px;
-}
-.related_posts a img {
-    display: inline;
-    max-width: 50px;
-    height: auto;
-}
-.related_posts h3 {
-    display: inline-block;
-    vertical-align: middle;
-    margin-left: 7px;
-}
+
 .social-share {
     margin-top: 25px;
 }
