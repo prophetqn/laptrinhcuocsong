@@ -1,5 +1,5 @@
 ---
-layout: video_list
+layout: default
 title: Video trên kênh youtube của Lập Trình Cuộc Sống
 permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
@@ -92,6 +92,9 @@ videos:
     title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
     id: xfcDMzcqdZ4
 ---
+
+### Video trên youtube
+
 <div id="videos">
   {% for video in page.videos %}
   <div class="video">

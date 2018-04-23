@@ -1,11 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
-	<link rel="icon" type="image/x-icon" href="{{ site.site_url }}/favicon.ico">
-	<meta content='index, follow' name='robots'/>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+    <link rel="icon" type="image/x-icon" href="{{ site.site_url }}/favicon.ico">
+    <meta content='index, follow' name='robots'/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+    <link href='https://fonts.googleapis.com/css?family=Roboto&subset=latin,vietnamese' rel='stylesheet' type='text/css'>
     {% if page.excerpt %}
     <meta id="metaDescription" name="description" content="{{ page.excerpt| strip_html | strip_newlines | xml_escape }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html | strip_newlines | xml_escape }}" />
@@ -21,7 +22,7 @@
     {% if page.url %}
     <meta property="og:url" content="{{ site.site_url }}{{ page.url }}" />
     {% endif %}
-  	{% if page.thumbnail %}
+    {% if page.thumbnail %}
     <meta property='og:image' content='{{ site.site_url }}/images/{{ page.thumbnail }}' />
     <meta property="og:image:type" content="image/jpeg" /> 
     <meta property="og:image:width" content="250" />
@@ -35,7 +36,7 @@
     <link href="https://plus.google.com/104574678671842857033" rel="publisher" />
     <meta property="fb:pages" content="367752623589322" />
 <meta http-equiv="REFRESH" content="1800" />
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-8923737368733440",
@@ -44,21 +45,16 @@
 </script>
 </head>
 <body>
-<div id="header-outer">
-	<header id="header" class="container">
-        <div>
-    		<h1><a href="{{ site.site_url }}">{{ site.name }}</a></h1>
-            <h2>{{ site.description }}</h2>
-        </div>
-		<ul>
-			<li><a href="{{ site.site_url }}">Trang chủ</a></li>
-			<li><a href="{{ site.site_url }}/gioi-thieu.html">About me</a></li>
-			<li><a href="{{ site.site_url }}/bai-viet-hay.html">Bài viết hay</a></li>
-			<li><a target="_blank" href="https://www.facebook.com/laptrinhcuocsongdotcom/">Fanpage</a></li>
-			<li><a target="_blank" href="https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1">Youtube</a></li>
-        </ul>
-        <div class="clear"></div>
-    </header>
+<header id="header">
+    <div id="logo">
+        <h1><a href="{{ site.site_url }}">{{ site.name }}</a></h1>
+    </div>
+    <ul>
+        <li><a href="{{ site.site_url }}">Trang chủ</a></li>
+        <li><a href="{{ site.site_url }}/gioi-thieu.html">About me</a></li>
+        <li><a href="{{ site.site_url }}/bai-viet-hay.html">Bài viết hay</a></li>
+        <li><a target="_blank" href="https://www.facebook.com/laptrinhcuocsongdotcom/">Fanpage</a></li>
+        <li><a target="_blank" href="https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1">Youtube</a></li>
+    </ul>
     <div class="clear"></div>
-</div>
-<div id="main" class="container">
+</header>
