@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Hỏi về lập trình như thế nào để khỏi bị chửi ngu?
+    id: 3KvYW1ECe4c
+  -
     title: Học lập trình nên tự học hay học ở trung tâm?
     id: sgkNOWEbLSw
   -
