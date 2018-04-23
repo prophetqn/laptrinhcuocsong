@@ -184,7 +184,7 @@ display: inline-block;
     width: 300px;
     height: 100%;
     position: fixed;
-    padding: 70px 10px 10px 10px;
+    padding: 100px 10px 10px 10px;
     z-index: 2;
     border-left: 1px solid #e5e5e5;
 }
@@ -219,6 +219,24 @@ display: inline-block;
     border-color: #c4c4c4;
     padding-left: 30px;
     background-color: #f5f7fa;
+}
+
+#socials-follow {
+    h4 {
+        font-size: 18px;
+        color: black;
+        margin-bottom: 15px;
+    }
+    .fb-like {
+        width: 105px !important;
+        margin: 10px auto !important;
+        display: block;
+    }
+    .youtube_subscrible {
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+    }
 }
 
 .links {
@@ -509,10 +527,6 @@ code.highlighter-rouge {
         display: none;
     }
 
-    #fb-follow-sidebar {
-        display: none;
-    }
-    
     .post, .category_detail {
         padding: 0px;
         margin-right: 0px;
