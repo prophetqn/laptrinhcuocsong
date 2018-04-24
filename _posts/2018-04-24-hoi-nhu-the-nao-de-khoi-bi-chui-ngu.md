@@ -17,7 +17,7 @@ related_posts:
 Các cụ đã nói rồi, "muốn biết phải hỏi muốn giỏi phải học", điều này đúng, tuy nhiên hỏi như thế nào để được trả lời và không bị chửi ngu lại là vấn đề nhức nhối. Trên facebook, trên diễn đàn, mình đã gặp nhiều câu hỏi gây ức chế bực bội cho người trả lời.
 
 <div class="youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UC5CIt5W4kq4ie0KJEdg2ztg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3KvYW1ECe4c" frameborder="0" allowfullscreen></iframe>
 </div>
 
 > Bài viết đang được hoàn thiện, cứ để đây viết tiếp sau.
