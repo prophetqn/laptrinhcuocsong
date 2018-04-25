@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: Thay đổi chế độ đọc ghi lên đĩa cứng (io scheduling) để tăng tốc ubuntu
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+ - title:
+   link: http://laptrinhcuocsong.com/trong-ban-se-cool-hon-trong-mat-nha-tuyen-dung.html
 ---
 Bạn không biết phải làm gì, đáng lẽ nó phải hoàn thành sớm hơn bạn nghĩ, bạn bị nhấn chìm bởi những ý nghĩ tiêu cực bao quanh, những ý nghĩ kiểu như: mình không thể làm kịp việc này trong thời gian ngắn như thế, trông mình thật thảm hại trong mắt đồng nghiệp. Bạn thất vọng, nghi ngờ chính bản thân mình.
 
