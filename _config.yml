@@ -14,8 +14,17 @@ category_configs:
     name: Chuyện lập trình
     url: chuyen-lap-trinh.html
   -
+    name: Chuyện nghề nghiệp
+    url: chuyen-nghe-nghiep.html
+  -
     name: Chuyện bên lề
     url: chuyen-ben-le.html
+  -
+    name: Linux ubuntu
+    url: linux-ubuntu.html
+  -
+    name: Chuyện cuộc sống
+    url: chuyen-cuoc-song.html
 
 tags_config:
   hacking-co-ban:
