@@ -20,8 +20,11 @@ related_posts:
 
 Các cụ đã nói rồi, "muốn biết phải hỏi muốn giỏi phải học", điều này đúng, tuy nhiên hỏi như thế nào để được trả lời và không bị chửi ngu lại là vấn đề nhức nhối. Trên facebook, trên diễn đàn,  đâu đâu cũng có những câu hỏi gây ức chế bực bội cho người trả lời.
 
+Khi tiếp cận một ngôn ngữ, công nghệ mới sẽ không tránh khỏi những lúc gặp khó khăn vướng mắc phải hỏi, thế nhưng không phải ai cũng "biết cách hỏi". Thế đấy, hỏi cũng là một kỹ năng, mà tôi nghĩ đây phải là kỹ năng đầu tiên nên học. 
+
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3KvYW1ECe4c" frameborder="0" allowfullscreen></iframe>
 </div>
+
 
 > Bài viết đang được hoàn thiện, cứ để đây viết tiếp sau.
