@@ -15,6 +15,16 @@ layout: default
       {% endif %}
     {% endfor %}
     </div>
+    <div>
+    Category:
+    {% for category in page.categories %}
+      {% for site_category in site.category_configs %}
+        {% if category == site_category.name %}
+        <a href="{{ site.site_url }}/{{ site_category.url }}">{{ category }}</a>,
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </div>
     {% endif %}
     {% if page.related_posts %}
     <ul class="related_posts">

@@ -9,6 +9,14 @@ permalink: /:title.html
 version: v1.2.0
 markdown: kramdown
 syntax_highlighter: rouge
+category_configs:
+  -
+    name: Chuyện lập trình
+    url: chuyen-lap-trinh.html
+  -
+    name: Chuyện bên lề
+    url: chuyen-ben-le.html
+
 tags_config:
   hacking-co-ban:
     name: Hacking cơ bản
@@ -38,6 +46,8 @@ tags_config:
     name: Cách trở thành hacker mũ đen
   day-lam-hacker-tu-a-z:
     name: Dạy làm hacker từ A đến Z
+  doi-song-lap-trinh-vien:
+    name: Đời sống lập trình viên
 sass:
   style: :compressed
 plugins:
