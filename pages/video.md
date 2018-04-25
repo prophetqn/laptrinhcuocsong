@@ -99,7 +99,7 @@ videos:
   {% for video in page.videos %}
   <div class="video">
     <a target="_blank" href="https://www.youtube.com/watch?v={{ video.id }}">
-      <img src="https://img.youtube.com/vi/{{ video.id }}/0.jpg" alt="{{ video.title }}" />
+      <img src="https://img.youtube.com/vi/{{ video.id }}/mqdefault.jpg" alt="{{ video.title }}" />
     </a>
     <h3><a target="_blank" href="https://www.youtube.com/watch?v={{ video.id }}">{{ video.title }}</a></h3>
     <div class="clear"></div>
