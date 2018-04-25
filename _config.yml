@@ -20,7 +20,7 @@ category_configs:
     name: Chuyện bên lề
     url: chuyen-ben-le.html
   -
-    name: Linux ubuntu
+    name: Linux - ubuntu
     url: linux-ubuntu.html
   -
     name: Chuyện cuộc sống
