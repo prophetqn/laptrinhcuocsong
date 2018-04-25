@@ -6,7 +6,7 @@ categories:
 tags:
  - live-stream-lap-trinh
 thumbnail: question.png
-excerpt: Muốn biết phải hỏi muốn giỏi phải học, điều này đúng, tuy nhiên hỏi như thế nào để được trả lời và không bị chửi ngu lại là vấn đề nhức nhối. Trên facebook, trên diễn đàn, mình đã gặp nhiều câu hỏi gây ức chế bực bội cho người trả lời.
+excerpt: Muốn biết phải hỏi muốn giỏi phải học, điều này đúng, tuy nhiên hỏi như thế nào để được trả lời và không bị chửi ngu lại là vấn đề nhức nhối. Trên facebook, trên diễn đàn, đâu đâu cũng có những câu hỏi gây ức chế bực bội cho người trả lời.
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
@@ -18,7 +18,7 @@ related_posts:
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
 ---
 
-Các cụ đã nói rồi, "muốn biết phải hỏi muốn giỏi phải học", điều này đúng, tuy nhiên hỏi như thế nào để được trả lời và không bị chửi ngu lại là vấn đề nhức nhối. Trên facebook, trên diễn đàn, mình đã gặp nhiều câu hỏi gây ức chế bực bội cho người trả lời.
+Các cụ đã nói rồi, "muốn biết phải hỏi muốn giỏi phải học", điều này đúng, tuy nhiên hỏi như thế nào để được trả lời và không bị chửi ngu lại là vấn đề nhức nhối. Trên facebook, trên diễn đàn,  đâu đâu cũng có những câu hỏi gây ức chế bực bội cho người trả lời.
 
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3KvYW1ECe4c" frameborder="0" allowfullscreen></iframe>

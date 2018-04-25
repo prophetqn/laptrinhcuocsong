@@ -93,7 +93,7 @@ videos:
     id: xfcDMzcqdZ4
 ---
 
-### Video trên youtube
+# Video trên youtube
 
 <div id="videos">
   {% for video in page.videos %}
