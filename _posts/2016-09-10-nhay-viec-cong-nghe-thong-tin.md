@@ -11,6 +11,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
+ - title:
+   link: http://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
 ---
 Tôi quyết định nhảy việc, tôi đã xin nghỉ công việc hiện tại để đi tìm một chỗ làm mới phù hợp hơn. Một chút ghi lại, bởi đây là một quyết định khó khăn nhất mà tôi đã từng trải qua.
 

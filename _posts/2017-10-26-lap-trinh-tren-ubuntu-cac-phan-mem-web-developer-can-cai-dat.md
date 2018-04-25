@@ -12,6 +12,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
  - title: 
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+ - title:
+   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 ---
 Các bạn lập trình viên khi mới chuyển qua môi trường linux, mà cụ thể ở đây là Ubuntu thường hỏi cần phải cài đặt những phần mềm gì để có thể "lập trình được". Đã có rất nhiều bài viết về vấn đề này, ở đây chúng ta sẽ tổng hợp lại, dưới đây là các phần mềm mà bản thân mình đang dùng, có thể tạm gọi là complete setup để lập trình viên PHP lập trình trên Ubuntu.
 

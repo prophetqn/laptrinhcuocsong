@@ -13,6 +13,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-tren-ubuntu-cac-phan-mem-web-developer-can-cai-dat.html
  - title: 
    link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
+ - title: 
+   link: http://laptrinhcuocsong.com/tang-5-dolar-wcx-coin-tien-ao-chi-dung-sau-bitcoin.html
 ---
 Bạn là web developer trên ngôn ngữ php và muốn sử dụng ubuntu trong công việc của mình. Ubuntu hoàn toàn có đủ khả năng và hỗ trợ tốt công việc của bạn. Trong bài viết này mình sẽ giới thiệu cách thiết lập môi trường cho lập trình viên web trên ubuntu.
 

@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+ - title:
+   link: http://laptrinhcuocsong.com/7-cong-viec-dau-tien-trong-doi.html
 ---
 
 Có thể khi đọc xong tiêu đề, bạn sẽ nghĩ cái thằng này thật vớ vẩn, lập trình thì liên quan quái gì đến sáng tạo? Đây là blog lập trình, thì viết về code đi chứ viết mấy cái thứ hàn lâm vớ vẩn này để làm gì? Bố cứ code đúng logic theo yêu cầu, hoàn thành các task được giao là được chứ gì?

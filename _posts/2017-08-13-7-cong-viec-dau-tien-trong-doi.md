@@ -12,6 +12,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
+ - title:
+   link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
 ---
 
 Dạo này trên facebook rộn trào lưu chia sẻ 7 công việc đầu tiên trong đời, thấy khá là hay. Trước khi làm lập trình, mình đã từng làm khá nhiều nghề, nhìn lại chưa làm được điều gì lớn lao, nhưng cũng trân trọng những tháng ngày vất vả để kiếm được đồng tiền, nó mang lại nhiều trải nghiệm mà khó có thể quên được. Ghi lại, để thấy sự lớn lên của bản thân mỗi ngày.

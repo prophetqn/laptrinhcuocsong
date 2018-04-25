@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
  - title: Lập trình viên PHP đứng đầy đường
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+ - title:
+   link: http://laptrinhcuocsong.com/sang-tao-la-gi-lam-the-nao-de-tro-nen-sang-tao.html
 ---
 Hôm bữa valentine, trong khi thiên hạ đang nườm nượp chở gấu đi chơi, tặng hoa hòe các kiểu, nhà nghỉ hết phòng, thì đâu đó trên thế giới ảo vẫn có những thanh niên đang online. Đâu đó skype của các lập trình viên vẫn sáng, họ đang ngồi ở xó xỉnh nào đó, viết những dòng mã lệnh, theo đuổi niềm đam mê tận cùng.
 

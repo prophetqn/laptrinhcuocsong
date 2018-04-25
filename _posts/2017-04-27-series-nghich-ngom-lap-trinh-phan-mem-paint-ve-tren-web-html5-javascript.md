@@ -13,6 +13,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
  - title: Lập trình viên PHP đứng đầy đường
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+ - title:
+   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
 ---
 Lập trình phần mềm vẽ là một trong những đề tài mà hầu hết các bạn đang học IT muốn làm, bởi vì nó rất thú vị. Hiểu đơn giản nó giống phần mềm paint của windows, người dùng có thể chọn màu, chọn độ dày nét bút và vẽ tự do lên đó.
 

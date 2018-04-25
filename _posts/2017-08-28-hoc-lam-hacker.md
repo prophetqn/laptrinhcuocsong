@@ -15,6 +15,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Thất vọng sự trở lại của hiệp hội hacker Việt Nam - HVA
    link: http://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
+ - title:
+   link: http://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
 ---
 
 Để trở thành hacker cần phải học gì, cần có những hiểu biết cơ bản gì, hack như thế nào?  Thật sự nó quá khó để trả lời, ngay cả nếu hỏi một hacker chuyên nghiệp, vì họ không có chuyên môn sư phạm, một câu trả lời không thể giúp bạn trở thành hacker , nó là cả một quá trình tích lũy kinh nghiệm. Để không bị chửi hay ném đá, bài viết này mình chỉ chia sẻ và trả lời câu hỏi "Làm thế nào để hack một website" , câu hỏi mà mình nhận được quá nhiều sau khi đăng bài viết "[tôi đã hack Chợ Tốt như thế nào?](http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html)".

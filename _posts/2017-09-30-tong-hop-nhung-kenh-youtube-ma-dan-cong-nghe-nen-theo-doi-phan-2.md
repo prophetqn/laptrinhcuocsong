@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+ - title:
+   link: http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html
 ---
 Thế giới đã chuyển qua một thời đại khác, thời đại của băng thông rộng, tốc độ internet không còn là vấn đề, hàng triệu kênh youtube đã xuất hiện, mang đến phương pháp học tập chia sẻ một cách sinh động và trực quan. Trong phần 1, mình đã giới thiệu [9 kênh youtube mà dân công nghệ nên theo dõi](http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html), hôm nay chúng ta sẽ tiếp tục với những kênh mà mình đã đăng ký, không kém phần bổ ích và thú vị.
 

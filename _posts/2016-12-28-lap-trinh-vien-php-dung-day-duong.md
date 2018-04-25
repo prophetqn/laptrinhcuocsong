@@ -13,6 +13,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/tra-loi-cau-hoi-ban-doc.html
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
+ - title:
+   link: http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
 ---
 Thật khó để đặt tiêu đề bài viết này như thế nào cho sát thực nhất, ban đầu tớ định đặt là "Lập trình viên PHP, những kẻ khờ dại" hoặc "Lập trình viên PHP - Những kẻ đáng thương", thật khó lựa chọn tiêu đề nào để miêu tả hết số phận của những lập trình viên đang theo đuổi một ngôn ngữ củ chuối nhất: PHP.
 

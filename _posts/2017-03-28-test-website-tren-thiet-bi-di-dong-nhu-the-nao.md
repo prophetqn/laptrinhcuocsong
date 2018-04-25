@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Lập trình viên PHP đứng đầy đường
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+ - title:
+   link: http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html
 ---
 Cùng với sự phát triển của các thiết bị di động, lượng người sử dụng smartphone và máy tính bảng để truy cập internet ngày càng tăng. Do đó việc test một website trên thiết bị di động trước khi xuất bản nó là rất quan trọng và cần thiết.
 

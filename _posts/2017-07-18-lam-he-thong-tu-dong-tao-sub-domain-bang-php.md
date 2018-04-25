@@ -12,6 +12,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/test-website-tren-thiet-bi-di-dong-nhu-the-nao.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+ - title:
+   link: http://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
 ---
 
 Chắc hẳn bạn thấy rất nhiều trang web cung cấp cho người dùng những url như thế này: `username.tenmien.com` trong đó username là do người dùng tự chọn. Những sub-domain kiểu này trông rất thân thiện và chuyên nghiệp, rất tuyệt vời phải không? Mình rất thích những trang web như thế, và trong bài viết này, chúng ta sẽ làm tính năng tương tự.

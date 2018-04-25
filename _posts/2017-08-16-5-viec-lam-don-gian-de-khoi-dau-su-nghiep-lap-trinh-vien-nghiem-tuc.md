@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/sang-tao-la-gi-lam-the-nao-de-tro-nen-sang-tao.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+ - title:
+   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 ---
 Có những việc rất nhỏ, có thể làm trong vài phút, nhưng hiệu quả mang lại cực kỳ lớn mà bạn có thể làm ngay hôm nay. Cho dù bạn là một developer, bạn có kỹ năng code huyền diệu, khả năng teamwork tuyệt vời, hay bạn là sinh viên, đang dần hoàn thiện kỹ năng để trở thành lập trình viên trong tương lai. Thì những việc làm rất đơn giản sau sẽ giúp bạn có một khởi đầu tốt hơn rất nhiều.
 

@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+ - title:
+   link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
 ---
 
 Khi cắt giao diện html/css chúng ta luôn được dạy rằng phải sử dụng ít thẻ html nhất có thể nhằm tăng tốc độ khi trình duyệt render mã html, số lượng thẻ html ít hơn thì trình duyệt sẽ không phải tính toán chiều rộng, chiều cao, màu sắc... của các element không cần thiết, từ đó tăng tốc độ hiển thị trang web. Trong series nghịch ngợm (nghịch dại) lần này, chúng ta sẽ cùng thử nghiệm khả năng xử lý của trình duyệt chrome bằng cách vẽ 1 triệu thẻ div lên màn hình.

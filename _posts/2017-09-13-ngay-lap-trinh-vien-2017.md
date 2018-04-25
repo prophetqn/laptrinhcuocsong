@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: Tại sao dân lập trình thường FA
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+ - title:
+   link: http://laptrinhcuocsong.com/suc-khoe-lap-trinh-vien-dang-code-ma-buon-di-te.html
 ---
 Bạn có biết hôm nay là một ngày đặc biệt, ngày thứ 256 của năm, ngày mà rất nhiều nơi trên thế giới xem là ngày lập trình viên. Người ta đẻ ra bao nhiêu ngày, ngày nhà giáo, ngày phụ nữ,  ngày thiếu nhi, ngày thầy thuốc, ngày thương binh liệt sĩ... Nhưng không ai, kể cả các bạn biết ngày hôm nay là ngày gì cả.
 

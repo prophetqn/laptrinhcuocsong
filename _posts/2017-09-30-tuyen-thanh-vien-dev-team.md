@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: Tại sao dân lập trình thường FA
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+ - title:
+   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 ---
 Xin chào các bạn yêu mến Lập Trình Cuộc Sống Chấm Com! Với mong muốn kết nối tất cả các bạn. Chúng tôi có ý tưởng thành lập team để cùng nhau phát triển một sản phẩm hoàn thiện. Qua đó, các lập trình viên và sinh viên có thể làm việc cùng nhau, để học hỏi hoàn thiện kỹ năng và xa hơn nữa, là đóng góp chút gì đó cho xã hội.
 

@@ -10,6 +10,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
+ - title:
+   link: http://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
 ---
 
 Tech Expo được xem là sự kiện tuyển dụng công nghệ lớn nhất Việt Nam có sự tham gia của các đơn vị hàng đầu trong lĩnh vực công nghệ thông tin và truyền thông. Với nhiều các hoạt động: tuyển dụng, hội thảo và trình diễn công nghệ, Tech Expo năm thứ 2 đã thu hút hàng nghìn lập trình viên tham dự.

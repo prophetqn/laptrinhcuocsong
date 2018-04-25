@@ -11,6 +11,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
  - title: 
    link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
+ - title: Tại sao dân lập trình thường FA
+   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 ---
 WCX – đồng tiền ảo mới dựa trên nền tảng Ethereum (đứng thứ 2 thế giới chỉ sau đồng tiền ảo Bitcoin). Dự kiến sẽ hoạt động vào ngày 31 tháng 10 năm 2017.
 
