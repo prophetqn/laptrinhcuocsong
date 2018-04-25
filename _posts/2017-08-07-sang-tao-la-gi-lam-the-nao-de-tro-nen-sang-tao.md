@@ -3,6 +3,8 @@ layout: post
 title: Sáng tạo là gì? Làm thế nào để trở nên sáng tạo
 thumbnail: sang-tao.png
 category: Chuyện cuộc sống
+tags:
+  - doi-song-lap-trinh-vien
 related_posts:
  - title: Các bước tạo một wireframe tuyệt vời
    link: http://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html

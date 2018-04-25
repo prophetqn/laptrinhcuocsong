@@ -3,6 +3,8 @@ layout: post
 title: Sự kiện Tech Expo 2016, thử làm phi hành gia công nghệ
 thumbnail: tech-expo.jpg
 category: Chuyện bên lề
+tags:
+  - doi-song-lap-trinh-vien
 related_posts:
  - title: Tại sao dân lập trình thường FA
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html

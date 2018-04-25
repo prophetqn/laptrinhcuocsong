@@ -3,6 +3,8 @@ layout: post
 title: Tổng hợp những kênh youtube mà dân công nghệ nên theo dõi - phần 2
 category: Chuyện bên lề
 thumbnail: youtube-chanel-2.png
+tags:
+ - doi-song-lap-trinh-vien
 related_posts:
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html

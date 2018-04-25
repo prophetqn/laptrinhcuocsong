@@ -3,6 +3,8 @@ layout: post
 title: Nếu một ngày những đoạn mã lập trình biến mất
 thumbnail: lap-trinh.jpg
 category: Chuyện bên lề
+tags:
+  - doi-song-lap-trinh-vien
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/hoc-lam-hacker.html

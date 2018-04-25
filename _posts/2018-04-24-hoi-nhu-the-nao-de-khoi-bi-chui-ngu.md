@@ -5,6 +5,7 @@ categories:
  - Chuyện bên lề
 tags:
  - live-stream-lap-trinh
+ - doi-song-lap-trinh-vien
 thumbnail: question.png
 excerpt: Muốn biết phải hỏi muốn giỏi phải học, điều này đúng, tuy nhiên hỏi như thế nào để được trả lời và không bị chửi ngu lại là vấn đề nhức nhối. Trên facebook, trên diễn đàn, đâu đâu cũng có những câu hỏi gây ức chế bực bội cho người trả lời.
 related_posts:

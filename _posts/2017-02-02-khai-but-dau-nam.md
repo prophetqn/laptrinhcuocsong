@@ -3,6 +3,8 @@ layout: post
 title: Khai bút đầu năm
 thumbnail: happy-new-year.jpg
 category: Chuyện bên lề
+tags:
+  - doi-song-lap-trinh-vien
 ---
 
 Khai bút đầu năm là truyền thống của các lập trình viên, đoạn mã đầu tiên của năm mới, họ sẽ viết để in ra màn hình những ước mong của họ, và gửi đến những người họ yêu quý.

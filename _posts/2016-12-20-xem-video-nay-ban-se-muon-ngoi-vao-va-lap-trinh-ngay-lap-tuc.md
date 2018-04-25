@@ -3,6 +3,8 @@ layout: post
 title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
 thumbnail: ban-phim.jpg
 category: Chuyện bên lề
+tags:
+  - doi-song-lap-trinh-vien
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html

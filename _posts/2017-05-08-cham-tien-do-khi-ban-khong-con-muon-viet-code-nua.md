@@ -3,6 +3,8 @@ layout: post
 title: Chậm tiến độ - khi bạn không còn muốn viết code nữa
 thumbnail: thumb-lap-trinh-vien-met-moi.png
 category: Chuyện nghề nghiệp
+tags:
+  - doi-song-lap-trinh-vien
 related_posts:
  - title: Lập trình viên cần học những gì ?
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
