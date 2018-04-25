@@ -14,8 +14,6 @@ related_posts:
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: 
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
- - title: 
-   link: http://laptrinhcuocsong.com/sang-tao-la-gi-lam-the-nao-de-tro-nen-sang-tao.html
 ---
 
 Tớ thấy một điều cực kỳ bức xúc là anh em lập trình nhà mình đẹp trai đã đành, code lại giỏi, ấy thế mà vẫn bị mấy em HR nó bơ. Mà xin việc lại là chuyện hệ trọng liên quan đến miếng cơm manh áo, quyết định đến cả việc ăn mỳ tôm hay ăn cơm. Thế nên phải viết gấp bài này bổ túc cho anh em tí kinh nghiệm "thả thính" nhà tuyển dụng. Hãy cùng Lập Trình Cuộc Sống điểm danh những item cực kỳ lợi hại mà các cao thủ đang dùng, trông bạn sẽ rất cool ngầu trong mắt nhà tuyển dụng nếu bạn có những thứ này.

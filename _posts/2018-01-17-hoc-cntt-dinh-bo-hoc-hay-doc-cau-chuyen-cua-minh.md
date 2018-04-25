@@ -12,8 +12,6 @@ related_posts:
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: 
    link: http://laptrinhcuocsong.com/tang-5-dolar-wcx-coin-tien-ao-chi-dung-sau-bitcoin.html
- - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 ---
 
 Dạo gần đây có rất nhiều tranh cãi xung quanh vấn đề bằng cấp đối với lập trình viên, người bảo cần thiết, người bảo không. Khi mình bắt đầu chính thức làm việc cho một công ty về phần mềm cách đây 3 năm, lúc đó mình hoàn toàn không có một bằng cấp nào cả. Một vài bạn đã gửi yêu cầu viết bài, tâm sự về ý định bỏ đại học, đây là bài viết dành cho các bạn.

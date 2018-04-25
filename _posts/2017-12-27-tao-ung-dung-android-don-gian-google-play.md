@@ -12,8 +12,6 @@ related_posts:
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
- - title: 
-   link: http://laptrinhcuocsong.com/lam-he-thong-tu-dong-tao-sub-domain-bang-php.html
 ---
 
 Mình chưa code android bao giờ, nhưng vẫn muốn có một app trên Google Play, điều này có vẻ không khả thi, mission imposible, đặc biệt là với một thằng mù java android như mình. Sau 10 tiếng lăn lộn vật vã cuối cùng cũng ra được ứng dụng đầu tiên, chút ghi chép lại, đồng thời chia sẻ với các bạn cách mà mình làm những dự án pet project nho nhỏ như thế này.
