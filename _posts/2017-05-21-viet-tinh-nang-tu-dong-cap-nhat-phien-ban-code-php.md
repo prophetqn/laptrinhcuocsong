@@ -4,7 +4,7 @@ title: Viết tính năng tự động nâng cấp phiên bản cho code PHP (PH
 thumbnail: upgrade_thumb.png
 category: Chuyện lập trình
 tags:
- - tu hoc lap trinh
+ - tu-hoc-lap-trinh
  - lap-trinh
  - lap-trinh-php
  - lap-trinh-web
