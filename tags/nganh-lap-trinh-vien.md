@@ -2,7 +2,7 @@
 layout: default
 title: Ngành lập trình viên
 excerpt: Các bài viết về ngành lập trình viên, ngành lập trình hiện đang là một ngành hot, lương cũng khá cao, các bài viết cập nhật các thông tin mới nhất.
-permalink: /tags/lap-trinh-php
+permalink: /tags/nganh-lap-trinh-vien
 ---
 <div id="index">
 <div class="category_detail">
