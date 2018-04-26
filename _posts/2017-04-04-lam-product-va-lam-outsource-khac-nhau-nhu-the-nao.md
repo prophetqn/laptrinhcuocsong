@@ -19,6 +19,18 @@ Trong ngành công nghệ thông tin có hai xu hướng rất điển hình đ�
 Vậy làm product là gì và làm outsource là gì? Đặc điểm và sự khác nhau giữa chúng như thế nào?
 Lập trình viên làm product và outsource có những điểm gì khác nhau trong tư duy cũng như cơ hội thăng tiến trong nghề nghiệp?
 
+## Môi trường product:
+
+Làm product, tức là công ty tự tạo ra sản phẩm phần mềm và tự phát hành, quảng bá và kinh doanh phần mềm đó. Họ được tiền từ chính người dùng của mình.
+
+## Môi trường outsource:
+
+Làm outsource, hay còn gọi là gia công phần mềm, là hình thức làm thuê cho một đơn vị khác, phát triển sản phẩm cho họ, không trực tiếp kinh doanh.
+
+## Lập trình viên trong môi trường product và outsource khác nhau như thế nào?
+
+Do đây là hai hình thức khác nhau, nên lập trình viên trong mỗi môi trường cũng có những đặc điểm riêng. Trong video này mình sẽ phân tích cái hay cái dở riêng của từng môi trường.
+
 Video chi tiết:
 
 <div class="youtube">
