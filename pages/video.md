@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
+    id: NSd4DPxHv3c
+  -
     title: Hỏi về lập trình như thế nào để khỏi bị chửi ngu?
     id: 3KvYW1ECe4c
   -
