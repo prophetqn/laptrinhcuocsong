@@ -5,6 +5,7 @@ thumbnail: tim-viec.png
 excerpt: Nhà tuyển dụng dễ dàng có được những thông tin cần thiết, đọc được những bài viết trên blog, họ sẽ hiểu bạn hơn, một là họ ghét bạn, hai là họ thích bạn, từ đó bạn dễ tìm được môi trường làm việc phù hợp hơn.
 tags:
  - kinh-nghiem-phong-van-xin-viec-cntt
+ - nganh-lap-trinh-vien
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html

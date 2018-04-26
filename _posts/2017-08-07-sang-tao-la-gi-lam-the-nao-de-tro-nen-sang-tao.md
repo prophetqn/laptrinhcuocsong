@@ -5,6 +5,7 @@ thumbnail: sang-tao.png
 category: Chuyện cuộc sống
 tags:
   - doi-song-lap-trinh-vien
+  - nganh-lap-trinh-vien
 related_posts:
  - title: Các bước tạo một wireframe tuyệt vời
    link: http://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html

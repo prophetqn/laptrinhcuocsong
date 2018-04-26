@@ -57,6 +57,8 @@ tags_config:
     name: Dạy làm hacker từ A đến Z
   doi-song-lap-trinh-vien:
     name: Đời sống lập trình viên
+  nganh-lap-trinh-vien:
+    name: Ngành lập trình viên
 sass:
   style: :compressed
 plugins:

@@ -6,6 +6,7 @@ categories:
  - Chuyện cuộc sống
 tags:
   - doi-song-lap-trinh-vien
+  - nganh-lap-trinh-vien
 related_posts:
  - title: Tại sao dân lập trình thường FA
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
