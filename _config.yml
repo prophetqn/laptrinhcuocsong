@@ -59,6 +59,8 @@ tags_config:
     name: Đời sống lập trình viên
   nganh-lap-trinh-vien:
     name: Ngành lập trình viên
+  cach-lap-trinh-game:
+    name: Cách lập trình game
 sass:
   style: :compressed
 plugins:
