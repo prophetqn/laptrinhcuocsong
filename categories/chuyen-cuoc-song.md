@@ -2,7 +2,7 @@
 layout: default
 title: Chuyện cuộc sống
 permalink: chuyen-cuoc-song.html
-excerpt: Các bài viết về những buồn vui, khó khăn, trăn trở trong nghề lập trình
+excerpt: Các bài viết về những buồn vui trong cuộc sống của lập trình viên và những người làm trong ngành công nghệ
 ---
 
 <div id="index">
