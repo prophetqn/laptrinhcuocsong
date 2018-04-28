@@ -258,6 +258,7 @@ display: inline-block;
 
 .excerpt {
     line-height: 30px;
+    font-size: 17px;
 }
 .post, .category_detail {
     border-bottom: 1px solid #e5e5e5;
@@ -278,7 +279,7 @@ display: inline-block;
 }
 .post h1 {
     margin-bottom: 30px;
-    font-size: 25px;
+    font-size: 27px;
     line-height: 35px;
 }
 .post-body p, .post-body h3, .post-body .highlighter-rouge, .post-body ul, .post-body h2 {
@@ -287,14 +288,14 @@ display: inline-block;
 }
 .post-body p {
     padding-bottom: 25px;
-    line-height: 30px;
-    font-size: 17px;
+    line-height: 32px;
+    font-size: 18px;
 }
 .post-body h2 {
     padding-bottom: 5px;
     margin-bottom: 25px;
     margin-top: 25px;
-border-bottom: 1px solid rgba(0,0,0,0.1);
+    border-bottom: 1px solid rgba(0,0,0,0.1);
     color: #1d1d1d;
 }
 .post-body ul li:before {
