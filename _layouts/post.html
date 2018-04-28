@@ -26,24 +26,29 @@ layout: default
     {% endfor %}
     </div>
     {% endif %}
-    {% if page.related_posts %}
-    <ul class="related_posts">
-      {% for related_post in page.related_posts %}{% for post in site.posts %}{% assign full_post_url = site.site_url | append: post.url %}{% if related_post.link == full_post_url %}
-        <li>
-        {% if post.thumbnail %}
-        <a href="{{ post.url }}" target="_blank"><img src="{{ site.site_url }}/images/{{ post.thumbnail }}" alt="{{ post.title }}"></a>
-        {% else %}
-        <a href="{{ post.url }}" target="_blank"><img src="{{ site.site_url }}/images/thumbnail_default.png" alt="{{ post.title }}"></a>
-        {% endif %}
-        <h3><a href="{{ post.url }}" title="{{ post.title | xml_escape }}" target="_blank">{{ post.title | xml_escape }}</a></h3>
-        </li>
-      {% endif %}{% endfor %}{% endfor %}
-    </ul>
-    {% endif %}
-    <div class="facebook-like">
-      <div id="fb-root"></div>
-    </div>
+
+    
   </div>
+
+</article>
+{% if page.related_posts %}
+<ul class="related_posts">
+  {% for related_post in page.related_posts %}{% for post in site.posts %}{% assign full_post_url = site.site_url | append: post.url %}{% if related_post.link == full_post_url %}
+    <li>
+    {% if post.thumbnail %}
+    <a href="{{ post.url }}" target="_blank"><img src="{{ site.site_url }}/images/{{ post.thumbnail }}" alt="{{ post.title }}"></a>
+    {% else %}
+    <a href="{{ post.url }}" target="_blank"><img src="{{ site.site_url }}/images/thumbnail_default.png" alt="{{ post.title }}"></a>
+    {% endif %}
+    <h3><a href="{{ post.url }}" title="{{ post.title | xml_escape }}" target="_blank">{{ post.title | xml_escape }}</a></h3>
+    </li>
+  {% endif %}{% endfor %}{% endfor %}
+</ul>
+{% endif %}
+<div class="facebook-like">
+  <div id="fb-root"></div>
+</div>
+<div id="comments">
   <div class="fb-like" data-href="{{ site.site_url }}{{ page.url }}" data-layout="standard" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
   <div class="fb-comments" data-href="{{ site.site_url }}{{ page.url }}" data-numposts="10"></div>
-</article>
+</div>

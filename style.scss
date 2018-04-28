@@ -339,13 +339,13 @@ img.emoji {
     height: 0;
     max-width: 80%;
     margin: 20px auto;
-}
-.youtube iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 }
 .highlight {
     padding: 5px 20px;
@@ -368,10 +368,10 @@ code.highlighter-rouge {
     padding: 10px 15px;
     border-radius: 5px;
     border: 1px solid #1d5a4e;
-}
-.download:hover {
-    background-color: #125044;
-    color: white;
+    &:hover {
+        background-color: #125044;
+        color: white;
+    }
 }
 .post_extra {
     margin-bottom: 35px;
@@ -405,6 +405,7 @@ code.highlighter-rouge {
 }
 
 .related_posts {
+    margin-right: 60px;
     border-top: 1px solid #ebebeb;
     padding-top: 35px;
     border-bottom: 1px solid #ebebeb;
@@ -448,19 +449,24 @@ code.highlighter-rouge {
 .social-share {
     margin-top: 25px;
 }
+#comments, .facebook-like {
+    margin-right: 60px;
+}
+
 .pagination {
     margin-bottom: 25px;
     margin-right: 35px;
+    a{
+        margin-bottom: 5px;
+        display: block;
+        text-align: center;
+    }
+    .prev-link:hover, .pagination .next-link:hover {
+        background-color: #9c9c9c;
+        color: white;
+    }
 }
-.pagination a{
-    margin-bottom: 5px;
-    display: block;
-    text-align: center;
-}
-.pagination .prev-link:hover, .pagination .next-link:hover {
-    background-color: #9c9c9c;
-    color: white;
-}
+
 .category_detail p {
     margin-top: 30px;
     margin-bottom: 30px;
@@ -472,39 +478,35 @@ code.highlighter-rouge {
     padding: 20px 0px;
     margin-top: 30px;
 }
-#footer form input {
-    padding: 10px;
-    border: 1px solid #b9b9b9;
-    width: 300px;
-    border-radius: 5px;
-    outline: none;
+#footer {
+    p {
+        float: left;
+    }
+    ul {
+        float: right;
+        li {
+            display: inline-block;
+            padding: 0px 20px;
+            color: black;
+            border-right: 1px solid #c3c3c3;
+            &:last-child {
+                padding-right: 0px;
+                border-right: none;
+            }
+            a {
+                color: #525252;
+                font-size: 15px;
+                &:hover {
+                    color: black;
+                }
+            }
+        }
+    }
+    #footer_links {
+        display: none;
+    }
 }
-#footer p {
-    float: left;
-}
-#footer ul {
-    float: right;
-}
-#footer ul li {
-    display: inline-block;
-    padding: 0px 20px;
-    color: black;
-    border-right: 1px solid #c3c3c3;
-}
-#footer ul li:last-child {
-    padding-right: 0px;
-    border-right: none;
-}
-#footer ul li a {
-    color: #525252;
-    font-size: 15px;
-}
-#footer ul li a:hover {
-    color: black;
-}
-#footer_links {
-    display: none;
-}
+
 
 
 /** responsive for facebook like box **/
