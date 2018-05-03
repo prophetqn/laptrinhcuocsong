@@ -27,7 +27,7 @@ Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http:/
 Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n)<br>
 Twitter: [https://twitter.com/bui_van_nguyen](https://twitter.com/bui_van_nguyen)<br>
 Instagram: [https://www.instagram.com/bui_van_nguyen/](https://www.instagram.com/bui_van_nguyen/)<br>
-Facebook: [https://www.facebook.com/buivanguyen](https://www.facebook.com/buivanguyen)<br>
+Facebook: [https://www.facebook.com/laptrinhcuocsongdotcom/](https://www.facebook.com/laptrinhcuocsongdotcom/)<br>
 
 ## Những câu hỏi thường gặp về mình và blog này:
 
