@@ -13,6 +13,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+ - title:
+   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 ---
 Jquery có lẽ không còn xa lạ với các bạn web developer, nó là một thư viện javascript giúp tạo nhiều hiệu ứng trên website nhanh với cú pháp code đơn giản hơn. Jquery được sử dụng rộng rãi và ngày càng mạnh mẽ bởi nhiều plugin mở rộng. Cũng đú theo phong trào ấy, chúng ta sẽ cùng nhau tạo và xuất bản một plugin đơn giản nhất.
 
