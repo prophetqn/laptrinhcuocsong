@@ -26,6 +26,3 @@ Khi tiếp cận một ngôn ngữ, công nghệ mới sẽ không tránh khỏi
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3KvYW1ECe4c" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
-> Bài viết đang được hoàn thiện, cứ để đây viết tiếp sau.
