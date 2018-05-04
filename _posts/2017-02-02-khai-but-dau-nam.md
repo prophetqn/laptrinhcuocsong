@@ -5,6 +5,15 @@ thumbnail: happy-new-year.jpg
 category: Chuyện bên lề
 tags:
   - doi-song-lap-trinh-vien
+related_posts:
+ - title: Cùng nhau tạo restful API đơn giản với php
+   link: http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html
+ - title: Tôi đã hack Chợ Tốt như thế nào
+   link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
+ - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
+   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+ - title:
+   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 ---
 
 Khai bút đầu năm là truyền thống của các lập trình viên, đoạn mã đầu tiên của năm mới, họ sẽ viết để in ra màn hình những ước mong của họ, và gửi đến những người họ yêu quý.

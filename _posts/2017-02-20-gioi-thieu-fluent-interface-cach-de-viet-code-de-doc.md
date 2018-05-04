@@ -8,6 +8,10 @@ related_posts:
    link: http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html
  - title: Tôi đã hack Chợ Tốt như thế nào
    link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
+ - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
+   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+ - title:
+   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 ---
 Fluent interface được đặt ra bởi Eric Evans và Martin Fowler, là sự mở rộng của kỹ thuật "Lời gọi theo chuỗi" (method chaining) nhằm làm cho mã lập trình dễ đọc hơn. Method chaining là một kỹ thuật về cú pháp chung cho cách gọi nhiều lần tới các hàm khác trong lập trình hướng đối tượng.
 
