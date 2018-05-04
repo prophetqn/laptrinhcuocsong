@@ -25,7 +25,7 @@ Hơi buồn để nói ra điều này, thực trạng các lập trình viên t
 
 Code, code nữa đi mà chết.
 
-Nếu các lập trình viên không quan tâm đến sức khỏe của chính mình, thì sẽ ảnh hưởng đến tư duy và công việc. Hãy từ bỏ các thói quen thức khuya, ăn uống thiếu khoa học, không chịu vận động... để bảo về sức khỏe của bản thân bạn nhé.
+Người chứ có phải trâu đâu, nếu các lập trình viên không quan tâm đến sức khỏe của chính mình, thì sẽ ảnh hưởng đến tư duy và công việc. Hãy từ bỏ các thói quen thức khuya, ăn uống thiếu khoa học, không chịu vận động... để bảo về sức khỏe của bản thân.
 
 Trong video này, mình sẽ tổng hợp các thói quen giúp anh em lập trình trở về với tổ tiên sớm hơn
 
