@@ -23,7 +23,7 @@ Nghề lập trình không giống bất kỳ nghề nghiệp nào khác, chúng
 
 Hơi buồn để nói ra điều này, thực trạng các lập trình viên thờ ơ với sức khỏe của mình. Bạn có công nhận với tớ rằng hầu hết các lập trình viên mà bạn gặp có thân hình còi cọc với đôi kính cận hay không?
 
-Code, code nữa đi mà chết.
+## Code, code nữa đi mà chết.
 
 Người chứ có phải trâu đâu, nếu các lập trình viên không quan tâm đến sức khỏe của chính mình, thì sẽ ảnh hưởng đến tư duy và công việc. Hãy từ bỏ các thói quen thức khuya, ăn uống thiếu khoa học, không chịu vận động... để bảo về sức khỏe của bản thân.
 
