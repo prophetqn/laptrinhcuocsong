@@ -3,6 +3,8 @@ layout: post
 title: Series tạo app mobile cho website wordpress - Phần 1 - Sử dụng wordpress làm backend
 thumbnail: mobile-app.png
 category: Chuyện lập trình
+tags:
+ - bi-quyet-hoc-lap-trinh
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/viet-tinh-nang-tu-dong-cap-nhat-phien-ban-code-php.html

@@ -6,6 +6,7 @@ category: Chuyện cuộc sống
 tags:
   - doi-song-lap-trinh-vien
   - nganh-lap-trinh-vien
+  - nhung-dieu-co-ban-ve-lap-trinh
 related_posts:
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html

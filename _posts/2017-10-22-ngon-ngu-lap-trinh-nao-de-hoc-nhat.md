@@ -6,6 +6,8 @@ categories:
 tags:
  - live-stream-lap-trinh
  - doi-song-lap-trinh-vien
+ - bi-quyet-hoc-lap-trinh
+ - nhung-dieu-co-ban-ve-lap-trinh
 excerpt: Khi mới học lập trình, các bạn thường hỏi ngôn ngữ nào dễ học, dễ dàng tiếp cận nhất. Tuy nhiên mình nghĩ rằng việc lựa chọn ngôn ngữ lập trình nào là không quan trọng.
 related_posts:
  - title: 

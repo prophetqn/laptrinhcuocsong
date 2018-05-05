@@ -6,6 +6,8 @@ thumbnail: jquery-plugin.png
 tags:
  - lap-trinh-javascript
  - jquery
+ - bi-quyet-hoc-lap-trinh
+ - nhung-dieu-co-ban-ve-lap-trinh
 related_posts:
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html

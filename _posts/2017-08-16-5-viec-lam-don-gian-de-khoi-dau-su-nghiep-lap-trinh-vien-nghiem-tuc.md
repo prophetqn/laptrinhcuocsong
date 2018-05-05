@@ -3,6 +3,9 @@ layout: post
 title: 5 việc làm đơn giản để khởi đầu "sự nghiệp" lập trình viên nghiêm túc
 thumbnail: thanh-cong.png
 category: Chuyện nghề nghiệp
+tags:
+ - nganh-lap-trinh-vien
+ - nhung-dieu-co-ban-ve-lap-trinh
 related_posts:
  - title: Lập trình viên cần học những gì ?
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html

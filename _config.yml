@@ -61,6 +61,10 @@ tags_config:
     name: Ngành lập trình viên
   cach-lap-trinh-game:
     name: Cách lập trình game
+  bi-quyet-hoc-lap-trinh:
+    name: Bí quyết học lập trình
+  nhung-dieu-co-ban-ve-lap-trinh:
+    name: Những điều cơ bản về lập trình
 sass:
   style: :compressed
 plugins:

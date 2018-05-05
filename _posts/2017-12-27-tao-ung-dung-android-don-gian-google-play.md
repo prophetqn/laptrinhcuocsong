@@ -3,6 +3,8 @@ title: Tạo ứng dụng android đơn giản đưa lên google play trong 10 t
 category: Chuyện lập trình
 thumbnail: mobile.png
 excerpt: Mình chưa code android bao giờ, nhưng vẫn muốn có một app trên Google Play, điều này có vẻ không khả thi, mission imposible, đặc biệt là với một thằng mù java android như mình. Sau 10 tiếng lăn lộn vật vã cuối cùng cũng ra được ứng dụng đầu tiên, chút ghi chép lại, đồng thời chia sẻ với các bạn cách mà mình làm những dự án pet project nho nhỏ như thế này.
+tags:
+ - bi-quyet-hoc-lap-trinh
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html

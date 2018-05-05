@@ -6,6 +6,8 @@ excerpt: Hồi mới ra trường mình cũng như các bạn, tưởng rằng l
 tags:
   - doi-song-lap-trinh-vien
   - nganh-lap-trinh-vien
+  - bi-quyet-hoc-lap-trinh
+  - nhung-dieu-co-ban-ve-lap-trinh
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html

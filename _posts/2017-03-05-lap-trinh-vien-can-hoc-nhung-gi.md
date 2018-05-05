@@ -6,6 +6,8 @@ category: Chuyện nghề nghiệp
 tags:
  - doi-song-lap-trinh-vien
  - nganh-lap-trinh-vien
+ - bi-quyet-hoc-lap-trinh
+ - nhung-dieu-co-ban-ve-lap-trinh
 related_posts:
  - title: Tôi đã hack Chợ Tốt như thế nào
    link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html

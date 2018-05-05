@@ -3,6 +3,10 @@ layout: post
 title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
 thumbnail: web-developer.png
 category: Chuyện lập trình
+tags:
+ - nganh-lap-trinh-vien
+ - bi-quyet-hoc-lap-trinh
+ - nhung-dieu-co-ban-ve-lap-trinh
 related_posts:
  - title: Lập trình viên cần học những gì ?
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html

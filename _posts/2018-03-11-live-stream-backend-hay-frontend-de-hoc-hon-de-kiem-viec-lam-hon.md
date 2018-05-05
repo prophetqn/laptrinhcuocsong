@@ -7,6 +7,7 @@ categories:
  - Chuyện bên lề
 tags:
  - live-stream-lap-trinh
+ - bi-quyet-hoc-lap-trinh
 related_posts:
  - title: Trông bạn sẽ cool hơn trong mắt nhà tuyển dụng nếu bạn có những thứ này
    link: http://laptrinhcuocsong.com/trong-ban-se-cool-hon-trong-mat-nha-tuyen-dung.html

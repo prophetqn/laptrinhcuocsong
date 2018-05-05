@@ -4,6 +4,7 @@ category: Chuyện nghề nghiệp
 excerpt: Trong ngành công nghệ thông tin có hai xu hướng rất điển hình đó là làm product và làm outsource. Vậy làm product là gì và làm outsource là gì? Đặc điểm và sự khác nhau giữa chúng như thế nào?
 tags:
  - nganh-lap-trinh-vien
+ - nhung-dieu-co-ban-ve-lap-trinh
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
