@@ -1,6 +1,6 @@
 ---
 title: CNTT thì thi khối nào? Khối D là câu trả lời
-category: Chuyện nghề nghiệp
+category: Chuyện bên lề
 thumbnail: tra-loi-cau-hoi-thumb.png
 excerpt: Thường thì các trường đại học tuyển sinh ngành công nghệ thông tin là khối A, tuy nhiên theo mình thì khối D mới là khối phù hợp nhất, tại sao không phải là khối A như chúng ta thường nghĩ?
 tags:
