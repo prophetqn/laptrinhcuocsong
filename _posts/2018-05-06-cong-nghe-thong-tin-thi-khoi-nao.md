@@ -21,7 +21,7 @@ Thường thì các trường đại học tuyển sinh ngành công nghệ thô
 
 ## Khối A:
 
-- Toán: ok toán rất cần trong lập trình, tuy nhiên lập trình viên không cần phải quá giỏi toán để có thể lập trình tốt. Những người giỏi toán thường có tư duy logic tốt
+- Toán: ok toán rất cần trong lập trình, tuy nhiên lập trình viên không cần phải quá giỏi toán để có thể lập trình tốt. Những người giỏi toán thường có tư duy logic tốt, một trong những kỹ năng tối quan trọng.
 
 - Vật lý: Lập trình có cần phải biết định luật bảo toàn động lượng, phương trình chuyển động của chất điểm, sự nở vì nhiệt của vật rắn, dòng điện, cấu tạo hạt nhân nguyên tử hay các định luật niuton không? Trừ những ngành nghiên cứu chuyên sâu, còn lại thì những kiến thức vật lý cũng không được ứng dụng nhiều vào phần mềm lắm.
 
