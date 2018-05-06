@@ -23,7 +23,7 @@ Thường thì các trường đại học tuyển sinh ngành công nghệ thô
 
 - Toán: ok toán rất cần trong lập trình, tuy nhiên lập trình viên không cần phải quá giỏi toán để có thể lập trình tốt. Những người giỏi toán thường có tư duy logic tốt
 
-- Vật lý: Lập trình có cần phải biết định luật bảo toàn động lượng, phương trình chuyển động của chất điểm, sự nở vì nhiệt của vật rắn, cấu tạo hạt nhân nguyên tử hay các định luật niuton không? Mình nghĩ là không.
+- Vật lý: Lập trình có cần phải biết định luật bảo toàn động lượng, phương trình chuyển động của chất điểm, sự nở vì nhiệt của vật rắn, dòng điện, cấu tạo hạt nhân nguyên tử hay các định luật niuton không? Trừ những ngành nghiên cứu chuyên sâu, còn lại thì những kiến thức vật lý cũng không được ứng dụng nhiều vào phần mềm lắm.
 
 - Hóa học: Phản ứng oxi hoá - khử, hoá trị, liên kết cộng hóa trị, aldehyde, acid carboxylic, phenol, halogen cũng ko cần thiết trong ngành lắm. Đặc biệt khi lập trình chúng ta không cần dùng bảng tuần hoàn các nguyên tố hoá học.
 
@@ -35,7 +35,7 @@ Nói chung những người giỏi khối A thường có tư duy logic tốt, m
 
 - Văn: Làm phần mềm không chỉ là tư duy logic, mà còn có cả yếu tốt nghệ thuật trong đó nữa, có cả một ngành nghiên cứu ux (trải nghiệm người dùng) dựa trên yếu tố cảm xúc. Phần mềm tốt không chỉ là chạy đúng, mà còn phải đẹp, phải tiện dụng, mang lại cảm xúc tốt cho người sử dụng nữa.
 
-- Ngoại ngữ: Đặc biết là tiếng Anh và tiếng Nhật, ngoại ngữ là cực kỳ cần thiết trên con đường trở thành lập trình viên.
+- Ngoại ngữ: Đặc biết là tiếng Anh và tiếng Nhật, cái này thì chắc bạn nghe nói rất nhiều rồi, ngoại ngữ là cực kỳ cần thiết trên con đường trở thành lập trình viên.
 
 ## Chung quy lại
 
