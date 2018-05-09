@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
+    id: aYA_Jsoe-jM
+  -
     title: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
     id: NSd4DPxHv3c
   -
