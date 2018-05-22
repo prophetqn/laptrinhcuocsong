@@ -633,10 +633,18 @@ code.highlighter-rouge {
         font-size: 12px;
     }
 
+    #sidebar {
+        margin-top: 80px;
+    }
+
     .post h1 {
         font-size: 20px;
         line-height: 25px;
         margin-bottom: 10px;
+    }
+    .post-body h2 {
+        margin-bottom: 15px;
+        margin-top: 15px;
     }
     .related_posts {
         margin-right: 0px;
@@ -645,11 +653,6 @@ code.highlighter-rouge {
             a {
                 img {
                     width: 20%;
-                }
-            }
-            h3 {
-                a {
-                    
                 }
             }
         }
