@@ -329,6 +329,8 @@ img.emoji {
 }
 .post {
     line-height: 25px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 .youtube {
     position: relative;
