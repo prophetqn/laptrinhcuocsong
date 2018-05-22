@@ -641,6 +641,19 @@ code.highlighter-rouge {
         font-size: 12px;
     }
 
+    #categories ul {
+        li {
+            height: 35px;
+            a {
+                display: inline;
+                padding: 4px 5px;
+                border: 1px solid #e5e5e5;
+                border-radius: 4px;
+                text-align: center;
+                font-size: 13px;
+            }
+        }
+    }
 
     .post h1 {
         font-size: 20px;
