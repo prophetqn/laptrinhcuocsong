@@ -638,6 +638,22 @@ code.highlighter-rouge {
         line-height: 25px;
         margin-bottom: 10px;
     }
+    .related_posts {
+        margin-right: 0px;
+        li {
+            width: 100%;
+            a {
+                img {
+                    width: 20%;
+                }
+            }
+            h3 {
+                a {
+                    
+                }
+            }
+        }
+    }
     .excerpt {
         line-height: 25px;
     }
