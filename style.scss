@@ -563,11 +563,17 @@ code.highlighter-rouge {
         h1 {
             font-size: 20px;
             text-align: center;
+            line-height: 35px;
         }
         ul {
             float: none;
             display: block;
             text-align: center;
+            li {
+                a {
+                    line-height: 30px;
+                }
+            }
         }
     }
 
