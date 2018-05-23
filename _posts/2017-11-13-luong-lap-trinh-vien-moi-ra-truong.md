@@ -28,7 +28,7 @@ Cộng thêm một điểm đặc trưng của ngành IT, đó là nó được 
 
 ![Kiếm tiền](images/fly-get-money-big.png)
 
-Tất nhiên ai cũng có quyền mong muốn một công việc tốt, nhưng làm ơn, hãy xuống mặt đất đi, nhìn nhận thực tế đi, kẻo lại ngã sml như mình ngày xưa. Bởi vì đến bây giờ, tất cả những người mình quen biết trong nghề, không nhiều người đạt được mức 2000 đô một tháng đâu.
+Tất nhiên ai cũng có quyền mong muốn một công việc tốt, nhưng làm ơn, hãy xuống mặt đất đi, nhìn nhận thực tế đi. Bởi vì đến bây giờ, tất cả những người mình quen biết trong nghề, không nhiều người đạt được mức 2000 đô một tháng đâu.
 
 ## Trước hết là cái tư tưởng
 
@@ -40,7 +40,7 @@ Nhiều bạn sinh viên bây giờ, mới ra trường mắc thêm căn bệnh 
 
 Đi làm là đang tham gia vào thị trường lao động, chứ không phải là làm công việc trong mơ, là theo đuổi đam mê hay bất kỳ một cái gì to lớn vĩ đại cả. Lập trình ở đây là bán sức lao động của mình để lấy tiền, là kiếm miếng cơm manh áo, đơn giản chỉ có vậy thôi.
 
-Nhiều bạn vẫn nghĩ rằng mình đã tốt nghiệp đại học, tức là mình thuộc “tầng lớp trí thức” tách biệt với bọn lao động phổ thông. Điều này sai hoàn toàn, thật ra thì lập trình với làm thợ hồ hay phục vụ bàn cũng chả khác méo gì nhau, đều là bán sức lao động để đổi lấy đồng tiền cả thôi.
+Nhiều bạn vẫn nghĩ rằng mình đã tốt nghiệp đại học, tức là mình thuộc “tầng lớp trí thức” tách biệt với bọn lao động phổ thông. Điều này sai hoàn toàn, thật ra thì lập trình với làm thợ hồ hay phục vụ bàn cũng chả khác méo gì nhau, đều là bán sức lao động để đổi lấy đồng tiền cả.
 
 ## Ra trường rồi, thì xông ra đời mà kiếm tiền đi
 
