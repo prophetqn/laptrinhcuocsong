@@ -91,3 +91,9 @@ Lập trình viên TV là một kênh vlog định hướng ngành IT dành cho 
 Xem kênh Lập trình viên TV [tại đây](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1)
 
 Bạn thích nhất kênh nào? Hãy để lại comment bên dưới để cùng chia sẻ những kênh video hay nhé.
+
+**Video liên quan**: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NSd4DPxHv3c" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -355,4 +355,10 @@ class api extends restful_api {
 $user_api = new api();
 ```
 
-Hi vọng sau bài viết này, bạn sẽ hiểu thêm và có thể tự triển khai restful api cho project của mình. Toàn bộ source code của bài viết này các bạn có thể tải về trên [Github](https://github.com/buivannguyen/simple_restful). Mọi thắc mắc xin để lại dưới phần comment, mình sẽ trả lời sớm nhất
+Hi vọng sau bài viết này, bạn sẽ hiểu thêm và có thể tự triển khai restful api cho project của mình. Toàn bộ source code của bài viết này các bạn có thể tải về trên [Github](https://github.com/buivannguyen/simple_restful). Mọi thắc mắc xin để lại dưới phần comment, mình sẽ trả lời sớm nhất.
+
+**Video liên quan**: Nhờ cài win hộ, dân IT cảm thấy như thế nào?
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zNCk6jctVW8" frameborder="0" allowfullscreen></iframe>
+</div>
