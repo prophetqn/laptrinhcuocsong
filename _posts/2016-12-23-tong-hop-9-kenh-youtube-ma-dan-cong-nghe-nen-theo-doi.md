@@ -5,6 +5,7 @@ category: Chuyện bên lề
 thumbnail: youtube_colinfurze.jpg
 tags:
   - nganh-lap-trinh-vien
+  - lap-trinh-vien
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html

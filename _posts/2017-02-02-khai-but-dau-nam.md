@@ -6,6 +6,7 @@ category: Chuyện bên lề
 tags:
   - doi-song-lap-trinh-vien
   - nhung-dieu-co-ban-ve-lap-trinh
+  - lap-trinh-vien
 related_posts:
  - title: Cùng nhau tạo restful API đơn giản với php
    link: http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html

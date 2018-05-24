@@ -65,6 +65,8 @@ tags_config:
     name: Bí quyết học lập trình
   nhung-dieu-co-ban-ve-lap-trinh:
     name: Những điều cơ bản về lập trình
+  lap-trinh-vien:
+    name: Lập trình viên
 sass:
   style: :compressed
 plugins:

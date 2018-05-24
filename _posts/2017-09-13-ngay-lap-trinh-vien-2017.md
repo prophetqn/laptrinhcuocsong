@@ -6,6 +6,7 @@ thumbnail: ngay-lap-trinh-vien.png
 tags:
  - doi-song-lap-trinh-vien
  - nganh-lap-trinh-vien
+ - lap-trinh-vien
 related_posts:
  - title: Nếu một ngày những đoạn mã lập trình biến mất
    link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html

@@ -7,6 +7,7 @@ tags:
  - nganh-lap-trinh-vien
  - bi-quyet-hoc-lap-trinh
  - nhung-dieu-co-ban-ve-lap-trinh
+ - lap-trinh-vien
 related_posts:
  - title: Lập trình viên cần học những gì ?
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html

@@ -7,6 +7,7 @@ excerpt: Tổng hợp các ảnh rất vui nhộn về đời sống dân IT tr�
 tags:
   - nganh-lap-trinh-vien
   - doi-song-lap-trinh-vien
+  - lap-trinh-vien
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html

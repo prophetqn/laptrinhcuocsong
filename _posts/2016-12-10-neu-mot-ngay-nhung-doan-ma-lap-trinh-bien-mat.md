@@ -7,6 +7,7 @@ tags:
  - doi-song-lap-trinh-vien
  - bi-quyet-hoc-lap-trinh
  - nhung-dieu-co-ban-ve-lap-trinh
+ - lap-trinh-vien
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
