@@ -51,7 +51,7 @@ related_posts:
 
 ###
 
-![Ảnh vui lập trình viên](images/anh-vui-lap-trinh-vien-9.png)
+![Ảnh vui lập trình viên](images/anh-vui-lap-trinh-vien-9.jpg)
 
 ###
 
