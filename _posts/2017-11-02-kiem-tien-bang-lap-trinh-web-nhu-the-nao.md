@@ -66,3 +66,9 @@ Mình viết bài này cực kỳ ngẫu hứng, như nhật ký viết lại qu
 Chỉ cần bạn có đam mê, chịu khó học hỏi và thật sự làm việc, thì cái gì cũng có thể làm ra tiền. Riêng với lập trình web, ngoài làm web cho khách hàng, còn có nhiều cách khác để kiếm tiền như: Tự tạo lập website để kiếm tiền, làm các task nhỏ trên các trang freelancer, làm SEO, các dịch vụ đi kèm theo website như quảng cáo Facebook, Quảng cáo google...
 
 Hi vọng bài viết này giúp bạn được gì đó, chúc các bạn ngủ ngon.
+
+*Video liên quan*: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N0K7ZONRs6w" frameborder="0" allowfullscreen></iframe>
+</div>
