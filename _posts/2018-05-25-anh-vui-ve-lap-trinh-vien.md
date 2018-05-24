@@ -3,7 +3,7 @@ layout: post
 title: Tổng hợp ảnh vui về lập trình viên
 category: Chuyện bên lề
 thumbnail: anh-vui-thumb.png
-excerpt:
+excerpt: Tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên fanpage của Lập trình cuộc sống
 tags:
   - nganh-lap-trinh-vien
   - doi-song-lap-trinh-vien
@@ -18,6 +18,8 @@ related_posts:
    link: http://laptrinhcuocsong.com/huong-dan-giai-whitehat-wargame-web-security-bai-1-den-bai-4.html
    
 ---
+
+Tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên fanpage của Lập trình cuộc sống.
 
 ## Lập trình có nghĩa là phải biết mọi thứ hay sao?
 
