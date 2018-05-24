@@ -67,7 +67,7 @@ Chỉ cần bạn có đam mê, chịu khó học hỏi và thật sự làm vi�
 
 Hi vọng bài viết này giúp bạn được gì đó, chúc các bạn ngủ ngon.
 
-*Video liên quan*: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+**Video liên quan**: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
 
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N0K7ZONRs6w" frameborder="0" allowfullscreen></iframe>
