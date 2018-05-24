@@ -19,7 +19,7 @@ related_posts:
    
 ---
 
-Tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên fanpage của Lập trình cuộc sống.
+Tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên [fanpage của Lập trình cuộc sống](https://www.facebook.com/laptrinhcuocsongdotcom/)
 
 ## Lập trình có nghĩa là phải biết mọi thứ hay sao?
 
