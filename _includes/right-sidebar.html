@@ -14,7 +14,7 @@
 	</div>
 
 	<div>
-		{% for tag in site.tag_config %}
+		{% for tag in site.tags_config %}
 		<a href="{{ site.site_url }}/tags/{{ tag.slug }}" target="_blank">{{ tag.name }}</a>,
       	{% endfor %}
 	</div>
