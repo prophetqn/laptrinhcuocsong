@@ -13,7 +13,8 @@
 		22h30 chủ nhật 27/05/2018 trên Facebook fanpage
 	</div>
 
-	<div>
+	<div class="tag_cloud">
+		<h4>Tags</h4>
 		{% for tag in site.tags_config %}
 		<a href="{{ site.site_url }}/tags/{{ tag.slug }}" target="_blank">{{ tag.name }}</a>,
       	{% endfor %}

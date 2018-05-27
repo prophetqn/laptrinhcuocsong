@@ -9,13 +9,9 @@ layout: default
     {% if page.tags %}
     <div>
     Tag:
-    {% for tag in page.tags %}
-      {% for site_tag in site.tags_config %}
-      {% if tag == site_tag.slug %}
+    {% for tag in page.tags %}{% for site_tag in site.tags_config %}{% if tag == site_tag.slug %}
       <a href="{{ site.site_url }}/tags/{{ tag }}" target="_blank">{{ site_tag.name }}</a>,
-      {% endif %}
-      {% endfor %}
-    {% endfor %}
+      {% endif %}{% endfor %}{% endfor %}
     </div>
     <div>
     Category:
