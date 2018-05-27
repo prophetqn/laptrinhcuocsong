@@ -11,6 +11,7 @@ layout: default
     Tag:
     {% for tag in page.tags %}
       {% for site_tag in site.tag_config %}
+      {{tag}}{{site_tag}}
       {% if tag == site_tag.slug %}
       <a href="{{ site.site_url }}/tags/{{ tag }}" target="_blank">{{ site_tag.name }}</a>,
       {% endif %}
