@@ -27,45 +27,65 @@ category_configs:
     url: chuyen-cuoc-song.html
 
 tags_config:
-  hacking-co-ban:
+  -
+    slug: hacking-co-ban
     name: Hacking cơ bản
-  hoc-hack-co-ban:
+  -
+    slug: hoc-hack-co-ban
     name: Học hack cơ bản
-  hoc-ubuntu:
+  -
+    slug: hoc-ubuntu
     name: Học ubuntu
-  lap-trinh-game-bang-javascript:
+  -
+    slug: lap-trinh-game-bang-javascript
     name: Lập trình game javascript
-  lap-trinh-javascript:
+  -
+    slug: lap-trinh-javascript
     name: Lập trình javascript
-  lap-trinh-mot-game-don-gian:
+  -
+    slug: lap-trinh-mot-game-don-gian
     name: Lập trình game đơn giản
-  tu-hoc-linux:
+  -
+    slug: tu-hoc-linux
     name: Tự học linux
-  jquery:
+  -
+    slug: jquery
     name: Jquery
-  kinh-nghiem-phong-van-xin-viec-cntt:
+  -
+    slug: kinh-nghiem-phong-van-xin-viec-cntt
     name: Kinh nghiệm phỏng vấn
-  lap-trinh-php:
+  -
+    slug: lap-trinh-php
     name: Lập trình php
-  lap-trinh-web:
+  -
+    slug: lap-trinh-web
     name: Lập trình web
-  live-stream-lap-trinh:
+  -
+    slug: live-stream-lap-trinh
     name: Live stream lập trình
-  cach-tro-thanh-hacker-mu-den:
+  -
+    slug: cach-tro-thanh-hacker-mu-den
     name: Cách trở thành hacker mũ đen
-  day-lam-hacker-tu-a-z:
+  -
+    slug: day-lam-hacker-tu-a-z
     name: Dạy làm hacker từ A đến Z
-  doi-song-lap-trinh-vien:
+  -
+    slug: doi-song-lap-trinh-vien
     name: Đời sống lập trình viên
-  nganh-lap-trinh-vien:
+  -
+    slug: nganh-lap-trinh-vien
     name: Ngành lập trình viên
-  cach-lap-trinh-game:
+  -
+    slug: cach-lap-trinh-game
     name: Cách lập trình game
-  bi-quyet-hoc-lap-trinh:
+  -
+    slug: bi-quyet-hoc-lap-trinh
     name: Bí quyết học lập trình
-  nhung-dieu-co-ban-ve-lap-trinh:
+  -
+    slug: nhung-dieu-co-ban-ve-lap-trinh
     name: Những điều cơ bản về lập trình
-  lap-trinh-vien:
+  -
+    slug: lap-trinh-vien
     name: Lập trình viên
 sass:
   style: :compressed

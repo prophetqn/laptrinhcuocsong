@@ -14,9 +14,9 @@
 	</div>
 
 	<div>
-		{% for tag in site.tags_config %}
-      <a href="{{ site.site_url }}/tags/{{ tag }}" target="_blank">{{ tag.name }}</a>,
-      {% endfor %}
+		{% for tag in site.tag_config %}
+		<a href="{{ site.site_url }}/tags/{{ tag.slug }}" target="_blank">{{ tag.name }}</a>,
+      	{% endfor %}
 	</div>
 
 	<div class="links" id="sidebar_links">
