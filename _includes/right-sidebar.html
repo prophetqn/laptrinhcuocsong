@@ -13,6 +13,12 @@
 		22h30 chủ nhật 27/05/2018 trên Facebook fanpage
 	</div>
 
+	<div>
+		{% for tag in site.tags_config %}
+      <a href="{{ site.site_url }}/tags/{{ tag }}" target="_blank">{{ tag.name }}</a>,
+      {% endfor %}
+	</div>
+
 	<div class="links" id="sidebar_links">
 		<h3>Blog bạn bè</h3>
 		<ul>
