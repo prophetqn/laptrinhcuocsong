@@ -6,7 +6,6 @@ thumbnail: gitlab-ci-thumb.png
 tags:
  - tu-hoc-linux
  - hoc-ubuntu
- - bi-quyet-hoc-lap-trinh
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
