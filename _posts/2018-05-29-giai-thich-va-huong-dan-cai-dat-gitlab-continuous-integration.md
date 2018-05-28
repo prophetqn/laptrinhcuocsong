@@ -84,7 +84,9 @@ Chúng ta đã đặt một job tên là `deploy-test`
 
 Như giải thích ở hình trên, gitlab runner là một tool được cài trên server, chăm chú lắng nghe, khi nào được bảo làm gì thì làm đó.
 
-Cách cài thì trên document của nó có rồi, nhưng theo kinh nghiệm của mình, bạn đừng cài bản 10, lỗi mình không chịu trách nhiệm :) mà cài bản 9 như sau:
+Cách cài thì trên document của nó có rồi, nhưng theo kinh nghiệm của mình, bạn đừng cài bản 10, lỗi mình không chịu trách nhiệm :)
+
+Trên centos mình cài bản 9 như sau:
 
 ```javascript
 curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-ci-multi-runner/script.rpm.sh | sudo bash
