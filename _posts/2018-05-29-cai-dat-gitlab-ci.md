@@ -36,7 +36,9 @@ Thêm cái hình sơ đồ cho nó nguy hiểm:
 ![gitlab](images/gitlab-ci-flow.png)
 
 1. Đầu tiên, một thằng dev nào đó push code lên gitlab.
+
 2. Khi code trên gitlab thay đổi, Gitlab sẽ gọi thằng Gitlab runner đã được cài sẵn trên server của mình.
+
 3. Gitlab runner nghe thấy, nó sẽ làm tất cả các công việc còn lại, lấy code về, cài các packages, copy file, sửa file config... vân vân và vân vân, nó làm tất cả những gì chúng ta chỉ định cho nó.
 
 Đến đây thì có lẽ các bạn đã thấy sướng rồi, việc của dev chỉ là push code lên thôi, tất cả các việc còn lại là tự động.
