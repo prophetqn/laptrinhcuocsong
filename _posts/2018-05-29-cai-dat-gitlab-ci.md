@@ -33,7 +33,7 @@ Gitlab CI - CD là một tool tự động deploy ứng dụng, thật ra thì c
 
 Thêm cái hình sơ đồ cho nó nguy hiểm:
 
-[gitlab](images/gitlab-ci-flow.png)
+![gitlab](images/gitlab-ci-flow.png)
 
 1. Đầu tiên, một thằng dev nào đó push code lên gitlab.
 2. Khi code trên gitlab thay đổi, Gitlab sẽ gọi thằng Gitlab runner đã được cài sẵn trên server của mình.
@@ -95,17 +95,21 @@ Như giải thích ở hình trên, gitlab runner là một tool được cài t
 
 Cách cài thì trên document của nó có rồi, nhưng theo kinh nghiệm của mình, bạn đừng cài bản 10, mà cài bản 9 như sau:
 
+```javascript
 curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-ci-multi-runner/script.rpm.sh | sudo bash
 
 sudo yum install gitlab-ci-multi-runner
+```
 
 Cài đặt xong, bây giờ phải kết nối thằng gitlab runner này với repo của mình, trước hết bạn lên gitlab, vào Settings - CI - DC mở phần Runners settings để lấy token
 
-gitlab-runner-token.png
+![gitlab](images/gitlab-runner-token.png)
 
 Giờ thì bạn tạo runner mới bằng lệnh này:
 
+```javascript
 sudo gitlab-ci-multi-runner register
+```
 
 Quá trình tạo runner nó sẽ hỏi đủ các kiểu, cứ trả lời theo nó thôi, khi nó hỏi token thì paste token ở bước trước vào.
 
@@ -121,10 +125,10 @@ vi ~/.ssh/id_rsa
 
 Quay trở lại gitlab, dán toàn bộ nội dung đã copy dán vào, tên variable key là `SSH_PRIVATE_KEY`
 
-[gitlab](images/gitlab-ci-secret-variable.png)
+![gitlab](images/gitlab-ci-secret-variable.png)
 
 Đến đây thì bạn đã hoàn thành cài đặt Gitlab CI - CD nếu có bất kỳ thắc mắc gì bạn có thể contact mình, viết dài quá :(
 
-[gitlab](images/gitlab-ci-pipelines.png)
+![gitlab](images/gitlab-ci-pipelines.png)
 
 Chúc các bạn thành công
