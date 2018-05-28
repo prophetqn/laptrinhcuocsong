@@ -100,11 +100,10 @@ Như giải thích ở hình trên, gitlab runner là một tool được cài t
 
 Cách cài thì trên document của nó có rồi, nhưng theo kinh nghiệm của mình, bạn đừng cài bản 10, mà cài bản 9 như sau:
 
-```javascript
-curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-ci-multi-runner/script.rpm.sh | sudo bash
 
-sudo yum install gitlab-ci-multi-runner
-```
+> curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-ci-multi-runner/script.rpm.sh | sudo bash
+
+> sudo yum install gitlab-ci-multi-runner
 
 Cài đặt xong, bây giờ phải kết nối thằng gitlab runner này với repo của mình, trước hết bạn lên gitlab, vào Settings - CI - DC mở phần Runners settings để lấy token
 
@@ -112,9 +111,9 @@ Cài đặt xong, bây giờ phải kết nối thằng gitlab runner này với
 
 Giờ thì bạn tạo runner mới bằng lệnh này:
 
-```javascript
-sudo gitlab-ci-multi-runner register
-```
+
+> sudo gitlab-ci-multi-runner register
+
 
 Quá trình tạo runner nó sẽ hỏi đủ các kiểu, cứ trả lời theo nó thôi, khi nó hỏi token thì paste token ở bước trước vào.
 
@@ -124,9 +123,8 @@ Quá trình tạo runner nó sẽ hỏi đủ các kiểu, cứ trả lời theo
 
 Mở nó ra rồi copy nội dung private key:
 
-```javascript
-vi ~/.ssh/id_rsa
-```
+> vi ~/.ssh/id_rsa
+
 
 Quay trở lại gitlab, dán toàn bộ nội dung đã copy dán vào, tên variable key là `SSH_PRIVATE_KEY`
 
