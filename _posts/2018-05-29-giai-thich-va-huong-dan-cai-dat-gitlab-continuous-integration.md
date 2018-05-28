@@ -74,11 +74,11 @@ Giải thích:
 
 Chúng ta đã đặt một job tên là `deploy-test`
 
-`before_script`: là đoạn script mặc đinh, nó sẽ chạy trước tiên, ở đây nó sẽ xác nhận private key (tí mình sẽ nói ở phần dưới), và cd vào thư mục dự án.
+`before_script`: là đoạn script mặc đinh, nó sẽ chạy trước tiên, ở đây nó sẽ xác nhận private key (tí mình sẽ nói ở phần dưới), làm vài thứ linh tinh và cd vào thư mục dự án.
 
 `script`: là tất cả những lệnh mà bạn muốn gitlab runner sẽ chạy, cụ thể ở ví dụ này, mình sửa file .htaccess để đưa website về chế độ bảo dưỡng, lấy code về, copy file cấu hình database vào đúng vị trí, chạy migrate dữ liệu và mở lại website. Tóm lại là bạn muốn nó làm gì thì cứ điền câu lệnh cần làm vào đây.
 
-`only`: là nhánh bạn cần deploy, ở đây mình tạo luôn một nhánh tên là test-server trên gitlab rồi, cứ cái nhánh này có thay đổi code thì job sẽ chạy.
+`only`: là nhánh bạn cần deploy, ở đây mình tạo luôn một nhánh tên là `test-server` rồi, cứ cái nhánh này có thay đổi code thì job sẽ chạy.
 
 ## Phần 2: Cài đặt gitlab runner:
 
@@ -94,21 +94,21 @@ curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-ci-multi-
 sudo yum install gitlab-ci-multi-runner
 ```
 
-Cài đặt xong, bây giờ phải kết nối thằng gitlab runner này với repo của mình, trước hết bạn lên gitlab, vào `Settings` - `CI - DC` mở phần `Runners settings` để lấy token
+Cài đặt xong, bước tiếp theo bạn phải đăng ký một runner, trước hết bạn vào `Settings` - `CI - DC` mở phần `Runners settings` để lấy token.
 
 ![gitlab](images/gitlab-runner-token.png)
 
-Giờ thì bạn tạo runner mới bằng lệnh này:
+Giờ thì bạn đăng ký runner mới bằng lệnh này:
 
 ```javascript
 sudo gitlab-ci-multi-runner register
 ```
 
-Quá trình tạo runner nó sẽ hỏi đủ các kiểu, cứ trả lời theo nó thôi, khi nó hỏi token thì paste token ở bước trước vào.
+Quá trình đăng ký runner khá đơn giản, nó sẽ hỏi đủ các kiểu, việc của bạn là cứ trả lời theo nó thôi, khi nó hỏi token thì paste token ở bước trước vào.
 
 ## Phần 3: Kết nối gitlab runner với repo của mình:
 
-Muốn kết nối được chúng ta cần add key vào gitlab, để gitlab có thể gọi đến server của chúng ta. Bạn chạy `ssh-keygen` để tạo ssh key như bình thường, nếu có key rồi thì thôi.
+Bây giờ gitlab và gitlab runner vẫn chưa nhìn thấy nhau, ta phải kết nối thằng gitlab runner này với repo của mìnhMuốn kết nối được chúng ta cần add key vào gitlab, để gitlab có thể gọi đến server của chúng ta. Bạn chạy `ssh-keygen` để tạo ssh key như bình thường, nếu có key rồi thì thôi.
 
 Mở nó ra bằng trình soạn thảo yêu thích của bạn:
 
