@@ -92,7 +92,7 @@ curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-ci-multi-
 sudo yum install gitlab-ci-multi-runner
 ```
 
-Cài đặt xong, bây giờ phải kết nối thằng gitlab runner này với repo của mình, trước hết bạn lên gitlab, vào Settings - CI - DC mở phần Runners settings để lấy token
+Cài đặt xong, bây giờ phải kết nối thằng gitlab runner này với repo của mình, trước hết bạn lên gitlab, vào `Settings` - `CI - DC` mở phần `Runners settings` để lấy token
 
 ![gitlab](images/gitlab-runner-token.png)
 
@@ -114,12 +114,12 @@ Mở nó ra rồi copy nội dung private key:
 vi ~/.ssh/id_rsa
 ```
 
-Quay trở lại gitlab, dán toàn bộ nội dung đã copy dán vào, tên variable key là `SSH_PRIVATE_KEY`
+Quay trở lại gitlab, dán toàn bộ nội dung đã copy dán vào, tên variable key bắt buộc phải là `SSH_PRIVATE_KEY`
 
 ![gitlab](images/gitlab-ci-secret-variable.png)
 
-Đến đây thì bạn đã hoàn thành cài đặt Gitlab CI - CD nếu có bất kỳ thắc mắc gì bạn có thể contact mình, viết dài quá :(
+Đến đây thì bạn đã hoàn thành cài đặt Gitlab CI - CD, kể từ đây cứ mỗi lần chúng ta push code lên, nó sẽ tự động làm mọi thứ, quá nhàn hạ, cuộc đời thật là tươi đẹp.
 
 ![gitlab](images/gitlab-ci-pipelines.png)
 
-Chúc các bạn thành công
+Chúc các bạn thành công.
