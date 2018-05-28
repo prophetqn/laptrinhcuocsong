@@ -106,15 +106,15 @@ Quá trình tạo runner nó sẽ hỏi đủ các kiểu, cứ trả lời theo
 
 ## Phần 3: Kết nối gitlab runner với repo của mình:
 
-Để kết nối được chúng ta cần add key vào gitlab, để gitlab có thể gọi đến server của chúng ta. Bạn chạy `ssh-keygen` để tạo ssh key như bình thường, nếu có key rồi thì thôi.
+Muốn kết nối được chúng ta cần add key vào gitlab, để gitlab có thể gọi đến server của chúng ta. Bạn chạy `ssh-keygen` để tạo ssh key như bình thường, nếu có key rồi thì thôi.
 
-Mở nó ra rồi copy nội dung private key:
+Mở nó ra bằng trình soạn thảo yêu thích của bạn:
 
 ```javascript
 vi ~/.ssh/id_rsa
 ```
 
-Quay trở lại gitlab, dán toàn bộ nội dung đã copy dán vào, tên variable key bắt buộc phải là `SSH_PRIVATE_KEY`
+Bạn hãy copy nội dung private key, quay trở lại gitlab, dán toàn bộ nội dung đã copy dán vào, tên variable key bắt buộc phải là `SSH_PRIVATE_KEY`
 
 ![gitlab](images/gitlab-ci-secret-variable.png)
 
