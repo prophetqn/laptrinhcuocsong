@@ -108,7 +108,7 @@ Quá trình đăng ký runner khá đơn giản, nó sẽ hỏi đủ các kiể
 
 ## Phần 3: Kết nối gitlab runner với repo của mình:
 
-Bây giờ gitlab và gitlab runner vẫn chưa nhìn thấy nhau, ta phải kết nối thằng gitlab runner này với repo của mìnhMuốn kết nối được chúng ta cần add key vào gitlab, để gitlab có thể gọi đến server của chúng ta. Bạn chạy `ssh-keygen` để tạo ssh key như bình thường, nếu có key rồi thì thôi.
+Bây giờ gitlab và gitlab runner vẫn chưa nhìn thấy nhau, ta phải kết nối thằng gitlab runner này với repo của mình. Muốn kết nối được chúng ta cần add key vào gitlab, để gitlab có thể gọi đến server của chúng ta. Bạn chạy `ssh-keygen` để tạo ssh key như bình thường, nếu có key rồi thì thôi.
 
 Mở nó ra bằng trình soạn thảo yêu thích của bạn:
 
