@@ -50,35 +50,21 @@ Gitlab runner nghe thấy, nó sẽ làm tất cả các công việc còn lại
 Để gitlab hiểu được rằng repo của chúng ta có sử dụng tính năng tự động deploy, chúng ta cần tạo file `.gitlab-ci.yml` đặt ở thư mục gốc của project. Đây là file .gitlab-ci.yml đơn giản của mình:
 
 ```javascript
-# For test server
 deploy-test:
   before_script:
-    ## this get from https://docs.gitlab.com/ee/ci/ssh_keys/
-    ## Install ssh-agent if not already installed, it is required by Docker.
-    ##
     - 'which ssh-agent || ( yum update -y && yum install openssh-client -y )'
-
-    ## Run ssh-agent (inside the build environment)
     - eval $(ssh-agent -s)
-
-    ## Add the SSH key stored in SSH_PRIVATE_KEY variable to the agent store
     - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
-
-    ## Create the SSH directory and give it the right permissions
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
-
-    ## User commands
     - whoami
     - cd /var/www/html/project_folder
   script:
-    #rewrite all to maintain.html
     - sed -i 's/index.php/maintain.html/g' .htaccess
     - git reset --hard HEAD
     - git pull
     - cp app/install/.server_test_db.php app/config/database.php 
     - php index.php migrate
-    # rewrite to index.php again
     - sed -i 's/maintain.html/index.php/g' .htaccess
   only:
     - test-server
@@ -86,7 +72,7 @@ deploy-test:
 
 Giải thích:
 
-Chúng ta đã đặt một job tên là deploy-test
+Chúng ta đã đặt một job tên là `deploy-test`
 
 `before_script`: là đoạn script mặc đinh, nó sẽ chạy trước tiên, ở đây nó sẽ xác nhận private key (tí mình sẽ nói ở phần dưới), và cd vào thư mục dự án.
 
