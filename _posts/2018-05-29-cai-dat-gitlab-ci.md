@@ -2,6 +2,7 @@
 layout: post
 title: Giải thích và hướng dẫn cài đặt Gitlab Continuous Deployment một cách dễ hiểu nhất
 category: Chuyện lập trình
+thumbnail: gitlab-ci-thumb.png
 tags:
  - tu-hoc-linux
  - hoc-ubuntu
