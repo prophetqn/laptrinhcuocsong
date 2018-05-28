@@ -35,11 +35,11 @@ Thêm cái hình sơ đồ cho nó nguy hiểm:
 
 ![gitlab](images/gitlab-ci-flow.png)
 
-1. Đầu tiên, một thằng dev nào đó push code lên gitlab.
+Đầu tiên, một thằng dev nào đó push code lên gitlab.
 
-2. Khi code trên gitlab thay đổi, Gitlab sẽ gọi thằng Gitlab runner đã được cài sẵn trên server của mình.
+Khi code trên gitlab thay đổi, Gitlab sẽ gọi thằng Gitlab runner đã được cài sẵn trên server của mình.
 
-3. Gitlab runner nghe thấy, nó sẽ làm tất cả các công việc còn lại, lấy code về, cài các packages, copy file, sửa file config... vân vân và vân vân, nó làm tất cả những gì chúng ta chỉ định cho nó.
+Gitlab runner nghe thấy, nó sẽ làm tất cả các công việc còn lại, lấy code về, cài các packages, copy file, sửa file config... vân vân và vân vân, nó làm tất cả những gì chúng ta chỉ định cho nó.
 
 Đến đây thì có lẽ các bạn đã thấy sướng rồi, việc của dev chỉ là push code lên thôi, tất cả các việc còn lại là tự động.
 
@@ -87,9 +87,12 @@ deploy-test:
 Giải thích:
 
 Chúng ta đã đặt một job tên là deploy-test
-before_script: là đoạn script mặc đinh, nó sẽ chạy trước tiên, ở đây nó sẽ xác nhận private key (tí mình sẽ nói ở phần dưới), và cd vào thư mục dự án.
-script: là tất cả những lệnh mà bạn muốn gitlab runner sẽ chạy, cụ thể ở ví dụ này, mình sửa file .htaccess để đưa website về chế độ bảo dưỡng, lấy code về, copy file cấu hình database vào đúng vị trí, chạy migrate dữ liệu và mở lại website. Tóm lại là bạn muốn nó làm gì thì cứ điền câu lệnh cần làm vào đây.
-only: là nhánh bạn cần deploy, ở đây mình tạo luôn một nhánh tên là test-server trên gitlab rồi, cứ cái nhánh này có thay đổi code thì job sẽ chạy.
+
+`before_script`: là đoạn script mặc đinh, nó sẽ chạy trước tiên, ở đây nó sẽ xác nhận private key (tí mình sẽ nói ở phần dưới), và cd vào thư mục dự án.
+
+`script`: là tất cả những lệnh mà bạn muốn gitlab runner sẽ chạy, cụ thể ở ví dụ này, mình sửa file .htaccess để đưa website về chế độ bảo dưỡng, lấy code về, copy file cấu hình database vào đúng vị trí, chạy migrate dữ liệu và mở lại website. Tóm lại là bạn muốn nó làm gì thì cứ điền câu lệnh cần làm vào đây.
+
+`only`: là nhánh bạn cần deploy, ở đây mình tạo luôn một nhánh tên là test-server trên gitlab rồi, cứ cái nhánh này có thay đổi code thì job sẽ chạy.
 
 ## Phần 2: Cài đặt gitlab runner:
 
