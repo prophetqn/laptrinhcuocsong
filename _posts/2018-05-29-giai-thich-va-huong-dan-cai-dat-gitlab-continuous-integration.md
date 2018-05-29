@@ -71,7 +71,7 @@ deploy-test:
 
 Giải thích:
 
-Chúng ta đã đặt một job tên là `deploy-test`
+Chúng ta đã đặt một job tên là `deploy-test`, bạn có thể thêm nhiều job khác tương tự tùy theo mong muốn.
 
 `before_script`: là đoạn script mặc đinh, nó sẽ chạy trước tiên, ở đây nó sẽ xác nhận private key (tí mình sẽ nói ở phần dưới), làm vài thứ linh tinh và cd vào thư mục dự án.
 
