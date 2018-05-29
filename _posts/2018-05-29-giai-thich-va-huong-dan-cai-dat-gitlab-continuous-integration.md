@@ -61,7 +61,6 @@ deploy-test:
     - cd /var/www/html/project_folder
   script:
     - sed -i 's/index.php/maintain.html/g' .htaccess
-    - git reset --hard HEAD
     - git pull
     - cp app/install/.server_test_db.php app/config/database.php 
     - php index.php migrate
