@@ -188,8 +188,14 @@ display: inline-block;
     z-index: 2;
     border-left: 1px solid #e5e5e5;
     
-    .tag_cloud a {
-        font-size: 13px;
+    .tag_cloud {
+        margin-top: 20px;
+        h4 {
+            margin-bottom: 20px;
+        }
+        a {
+            font-size: 13px;
+        }
     }
 }
 
