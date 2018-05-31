@@ -41,7 +41,7 @@ Khi code trên gitlab thay đổi, Gitlab sẽ gọi thằng Gitlab runner đã 
 
 Gitlab runner nghe thấy, nó sẽ làm tất cả các công việc còn lại, lấy code về, cài các packages, copy file, sửa file config... vân vân và vân vân, nó làm tất cả những gì chúng ta chỉ định cho nó.
 
-Đến đây thì có lẽ các bạn đã thấy sướng rồi, việc của dev chỉ là push code lên thôi, tất cả các việc còn lại là tự động.
+Đến đây thì có lẽ các bạn đã thấy sướng rồi, việc của dev chỉ là push code lên và đi uống cafe, tất cả các việc còn lại là tự động.
 
 ## Cài đặt như thế nào?
 
@@ -119,8 +119,8 @@ Bạn hãy copy nội dung private key, quay trở lại gitlab, dán toàn bộ
 
 ![gitlab](images/gitlab-ci-secret-variable.png)
 
-Đến đây thì bạn đã hoàn thành cài đặt Gitlab CI - CD, kể từ đây cứ mỗi lần chúng ta push code lên, nó sẽ tự động làm mọi thứ, quá nhàn hạ, cuộc đời thật là tươi đẹp.
+Đến đây thì bạn đã hoàn thành cài đặt đã hoàn tất, chúng ta có thể xem danh sách các task, trạng thái task được run thành công hay không, pass hay fail.
 
 ![gitlab](images/gitlab-ci-pipelines.png)
 
-Chúc các bạn thành công.
+Kể từ đây cứ mỗi lần chúng ta push code lên, nó sẽ tự động làm mọi thứ, quá nhàn hạ, cuộc đời thật là tươi đẹp.
