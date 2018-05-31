@@ -17,7 +17,7 @@ related_posts:
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 ---
 
-Có lẽ bạn đã từng nghe ở đâu đó continuous integration (CI - tích hợp liên tục) và continuous deployment (DC - triển khai liên tục). Trong bài viết này mình sẽ cố gằng giải thích về CI, DC và hướng dẫn các bạn cài đặt CI, DC sử dụng Gitlab một cách dễ hiểu nhất.
+Có lẽ bạn đã từng nghe ở đâu đó continuous integration (CI - tích hợp liên tục) và continuous deployment (CD - triển khai liên tục). Trong bài viết này mình sẽ cố gằng giải thích và hướng dẫn các bạn cài đặt sử dụng Gitlab CI, CD một cách dễ hiểu nhất.
 
 ## CI - Tích hợp liên tục là gì?
 
@@ -93,7 +93,7 @@ curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-ci-multi-
 sudo yum install gitlab-ci-multi-runner
 ```
 
-Cài đặt xong, bước tiếp theo bạn phải đăng ký một runner, trước hết bạn vào `Settings` - `CI - DC` mở phần `Runners settings` để lấy token.
+Cài đặt xong, bước tiếp theo bạn phải đăng ký một runner, trước hết bạn vào `Settings` - `CI - CD` mở phần `Runners settings` để lấy token.
 
 ![gitlab](images/gitlab-runner-token.png)
 
