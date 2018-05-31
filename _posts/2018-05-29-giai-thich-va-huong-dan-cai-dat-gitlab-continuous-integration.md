@@ -29,7 +29,7 @@ Nghe tên thôi là cũng gần gần hiểu rồi, nôm na nó là phương ph�
 
 ## Continuous Deployment với Gitlab CI - CD
 
-Gitlab CI - CD là một tool tự động deploy ứng dụng, giảm gánh nặng cho lập trình viên, để lập trình viên tập trung vào việc code mà thôi. Thật ra thì có rất nhiều tool tương tự (ví dụ Jenkins, Travis CI) nhưng tại công ty mình dùng gitlab nên mình chỉ viết về cái này thôi :))
+Gitlab CI - CD là một tool tự động deploy ứng dụng, giảm gánh nặng cho [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien), để lập trình viên tập trung vào việc code mà thôi. Thật ra thì có rất nhiều tool tương tự (ví dụ Jenkins, Travis CI) nhưng tại công ty mình dùng gitlab nên mình chỉ viết về cái này thôi :))
 
 Thêm cái hình sơ đồ cho nó nguy hiểm:
 
