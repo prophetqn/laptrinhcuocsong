@@ -29,13 +29,13 @@ Nghe tên thôi là cũng gần gần hiểu rồi, nôm na nó là phương ph�
 
 ## Continuous Deployment với Gitlab CI - CD
 
-Gitlab CI - CD là một tool tự động deploy ứng dụng, thật ra thì có rất nhiều tool tương tự (ví dụ Jenkins) nhưng tại công ty mình dùng gitlab nên mình chỉ viết về cái này thôi :))
+Gitlab CI - CD là một tool tự động deploy ứng dụng, giảm gánh nặng cho lập trình viên, để lập trình viên tập trung vào việc code mà thôi. Thật ra thì có rất nhiều tool tương tự (ví dụ Jenkins, Travis CI) nhưng tại công ty mình dùng gitlab nên mình chỉ viết về cái này thôi :))
 
 Thêm cái hình sơ đồ cho nó nguy hiểm:
 
 ![gitlab](images/gitlab-ci-flow.png)
 
-Đầu tiên, một thằng dev nào đó push code lên gitlab.
+Theo sơ đồ trên, đầu tiên, một thằng dev nào đó push code lên gitlab.
 
 Khi code trên gitlab thay đổi, Gitlab sẽ gọi thằng Gitlab runner đã được cài sẵn trên server của mình.
 
