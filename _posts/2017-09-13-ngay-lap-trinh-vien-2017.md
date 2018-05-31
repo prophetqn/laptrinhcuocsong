@@ -21,7 +21,7 @@ Bạn có biết hôm nay là một ngày đặc biệt, ngày thứ 256 của n
 
 > Ngày lập trình viên là ngày thứ 256 của năm, tức là vào ngày 13/09 năm thường hoặc vào 12/09 nếu vào năm nhuận. Con số 256 với người bình thường thì không có ý nghĩa gì, nhưng với anh em lập trình sẽ thấy con số này lại rất là đẹp, 256 là số có giá trị lớn nhất mà 1 byte (hay 8 bits) thể hiện được trong hệ nhị phân.
 
-Tôi viết bài này để tôn vinh tất cả các lập trình viên, bởi vì không có ai tôn vinh họ cả. Hàng triệu lập trình viên ngoài kia đang chạy deadline, đang miệt mài code. Cảm ơn tất cả các bạn, những con người âm thầm đầy đam mê nhiệt huyết, hàng ngày đang âm thầm xây dựng nên một thế giới mới, thế giới của tri thức và kết nối.
+Tôi viết bài này để tôn vinh tất cả các [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien), bởi vì không có ai tôn vinh họ cả. Hàng triệu lập trình viên ngoài kia đang chạy deadline, đang miệt mài code. Cảm ơn tất cả các bạn, những con người âm thầm đầy đam mê nhiệt huyết, hàng ngày đang âm thầm xây dựng nên một thế giới mới, thế giới của tri thức và kết nối.
 
 Cảm ơn tất cả các bạn đã tạo nên thế giới hiện đại ngày hôm nay nơi mà tất cả mọi thứ, từ xe cộ, điện thoại, điều hòa, tivi, những tòa nhà, đèn giao thông, máy móc... đều được tạo ra từ phần mềm của các bạn, những con người sáng tạo và đầy tài năng.
 

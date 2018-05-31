@@ -50,7 +50,7 @@ Video liên quan: <a target="_blank" href="https://www.youtube.com/watch?v=5lkDO
 
 ## Chuyên môn về kỹ thuật:
 
-Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể lập trình viên cần học những gì? Mình tạm chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
+Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien) cần học những gì? Mình tạm chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
 
 **Mảng mobile**: 
 
@@ -62,7 +62,7 @@ Còn gọi là lập trình nhúng, tức là viết các chương trình chạy
 
 **Mảng web**: 
 
-Web là cái gì thì khỏi phải giới thiệu nữa rồi, nó là thứ lâu đời nhất trên internet. Theo cái này thì khỏi lo thiếu việc, vì công ty nào cũng cần web, nhưng mà nói thật lương bọn làm web chả cao như các mảng khác đâu. Rất nhiều ngôn ngữ có thể dùng lập trình web được, thoải mái chọn: php, java, node, python, ruby... nhưng phải học thêm cả đống lằng nhằng: html, css, javascript...
+Web là cái gì thì khỏi phải giới thiệu nữa rồi, nó là thứ lâu đời nhất trên internet. Theo cái này thì khỏi lo thiếu việc, vì công ty nào cũng cần web, nhưng mà nói thật lương bọn làm web chả cao như các mảng khác đâu. Rất nhiều ngôn ngữ có thể dùng [lập trình web](http://laptrinhcuocsong.com/tags/lap-trinh-web) được, thoải mái chọn: php, java, node, python, ruby... nhưng phải học thêm cả đống lằng nhằng: html, css, javascript...
 
 **Mảng desktop app**:
 

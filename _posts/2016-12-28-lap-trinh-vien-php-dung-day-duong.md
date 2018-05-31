@@ -36,7 +36,7 @@ Sự ra đời của các PHP framework và phiên bản PHP 7 đã phần nào 
 
 ### Chúng ta phải thừa nhận rằng hầu hết các lập trình viên PHP có trình độ yếu
 
-Điều này xuất phát từ chính sự dễ học và thiết kế lỏng lẻo của nó, bạn có thể học nhanh PHP trong vòng vài tháng. PHP không (hoặc rất ít) được dạy một cách bài bản và thực hành chuyên sâu trong các trường đại học, do đó lập trình viên PHP chủ yếu là các tay ngang, không chuyên lập trình hoặc chuyển từ ngôn ngữ khác sang.
+Điều này xuất phát từ chính sự dễ học và thiết kế lỏng lẻo của nó, bạn có thể học nhanh PHP trong vòng vài tháng. PHP không (hoặc rất ít) được dạy một cách bài bản và thực hành chuyên sâu trong các trường đại học, do đó [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien) PHP chủ yếu là các tay ngang, không chuyên lập trình hoặc chuyển từ ngôn ngữ khác sang.
 
 Tớ đã thấy rất nhiều người chưa biết lập trình, học PHP nghiêm túc và sau một hoặc vài tháng có thể nghiễm nhiên đi làm web dạo kiếm tiền. Không có kiến thức nền tảng, cộng thêm làm việc trên một ngôn ngữ không chặt chẽ nên theo tớ trình độ trung bình của một lập trình viên PHP không thể bằng các ngôn ngữ khác được. không có gì là khó hiểu khi PHP không có tên trong [12 ngôn ngữ lập trình được trả lương cao nhất](http://www.doanhnhansaigon.vn/tieu-diem/12-ngon-ngu-lap-trinh-duoc-tra-luong-cao-nhat/1085130/).
 
