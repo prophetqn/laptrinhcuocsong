@@ -17,7 +17,7 @@ related_posts:
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 ---
 
-Có lẽ bạn đã từng nghe ở đâu đó continuous integration (CI - tích hợp liên tục) và continuous deployment (CD - triển khai liên tục). Trong bài viết này mình sẽ cố gằng giải thích và hướng dẫn các bạn cài đặt sử dụng Gitlab CI, CD một cách dễ hiểu nhất.
+Có lẽ bạn đã từng nghe ở đâu đó về continuous integration (CI - tích hợp liên tục) và continuous deployment (CD - triển khai liên tục). Trong bài viết này mình sẽ cố gằng giải thích và hướng dẫn các bạn cài đặt sử dụng Gitlab CI, CD một cách dễ hiểu nhất.
 
 ## CI - Tích hợp liên tục là gì?
 
