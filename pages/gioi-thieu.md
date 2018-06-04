@@ -4,7 +4,7 @@ title: Về blog Lập trình cuộc sống
 permalink: /gioi-thieu.html
 excerpt: Cái tên Lập trình cuộc sống xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn
 ---
-Xin chào tất cả các bạn, mình là [Bùi Văn Nguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n), tác giả của blog Lập Trình Cuộc Sống. mình viết blog này với mục đích nâng cao khả năng diễn đạt, đồng thời chia sẻ những kinh nghiệm mình học được khi làm việc trong ngành lập trình.
+Trước hết xin được cảm ơn bạn vì đã xem trang này, mình là [Bùi Văn Nguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n), tác giả của blog Lập Trình Cuộc Sống. mình viết blog này với mục đích nâng cao khả năng diễn đạt, đồng thời chia sẻ những kinh nghiệm mình học được khi làm việc trong ngành lập trình.
 
 ## Tại sao lại là Lập trình cuộc sống?
 
@@ -28,6 +28,7 @@ Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com
 Twitter: [https://twitter.com/bui_van_nguyen](https://twitter.com/bui_van_nguyen)<br>
 Instagram: [https://www.instagram.com/bui_van_nguyen/](https://www.instagram.com/bui_van_nguyen/)<br>
 Facebook: [https://www.facebook.com/laptrinhcuocsongdotcom/](https://www.facebook.com/laptrinhcuocsongdotcom/)<br>
+Youtube: [https://www.youtube.com/laptrinhvientv](https://www.youtube.com/laptrinhvientv)<br>
 
 ## Những câu hỏi thường gặp về mình và blog này:
 

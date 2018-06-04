@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giải thích và hướng dẫn cài đặt Gitlab Continuous Deployment một cách dễ hiểu nhất
+title: Chúng ta đang lãng phí thời gian đọc báo công nghệ như thế nào?
 category: Chuyện lập trình
 thumbnail: gitlab-ci-thumb.png
 tags:
