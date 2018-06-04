@@ -52,6 +52,6 @@ Mình đang cố giữ cho trang này đơn giản nhất có thể, để bạn
 
 ## Thằng bại não, thằng óc chó, thằng ngu học...
 
-Xin bạn đừng chửi mình như thế, nhất là khi mình đã từng viết về những chủ đề dễ gây tranh cãi. Bài viết chỉ là một cách nhìn nhận về vấn đề, dưới góc nhìn chủ quan của mình ở hoàn cảnh, điều kiện, khả năng của riêng mình. Hãy đọc và coi như là một góc nhìn mới để tham khảo.
+Xin bạn đừng chửi mình như thế, nhất là khi mình đã từng viết về những chủ đề dễ gây tranh cãi. Xin nhắc lại, đây là blog cá nhân. Bài viết chỉ là một cách nhìn nhận về vấn đề, dưới góc nhìn chủ quan của mình ở hoàn cảnh, điều kiện, khả năng của riêng mình. Hãy đọc và coi như là một góc nhìn mới để tham khảo.
 
 **Chúc bạn vui vẻ khi đọc blog này**
