@@ -24,6 +24,6 @@ Với 100 chủ đề chuyên sâu cùng sự góp mặt của các chuyên gia 
 
 Triển lãm với sự trình diễn của các doanh nghiệp và startup. Đây cũng là nơi demo rất nhiều sản phẩm, công nghệ của các doanh nghiệp. Tuyển dụng cũng là một trong những hoạt động mang lại giá trị hữu ích cho cả doanh nghiệp và người tham dự.
 
-Ban tổ chức cũng đã có vé mời Lập Trình Cuộc Sống tham dự và share 15 code giảm 50k/vé cho các bạn, các bạn nhập mã LAPTRINHCUOCSONGCHAMCOM để được giảm giá nhé.
+Ban tổ chức cũng đã có vé mời Lập Trình Cuộc Sống tham dự và share 15 code giảm 50k/vé cho các bạn, các bạn nhập mã `LAPTRINHCUOCSONGCHAMCOM` để được giảm giá nhé.
 
 Hẹn gặp các bạn ở Việt Nam mobile day 2018.
