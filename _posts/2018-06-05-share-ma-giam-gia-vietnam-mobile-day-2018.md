@@ -26,4 +26,6 @@ Triển lãm với sự trình diễn của các doanh nghiệp và startup. Đ�
 
 Ban tổ chức cũng đã có vé mời Lập Trình Cuộc Sống tham dự và share 15 code giảm 50k/vé cho các bạn, các bạn nhập mã `LAPTRINHCUOCSONGCHAMCOM` để được giảm giá nhé.
 
+Link sự kiện: [https://mobileday.vn/](https://mobileday.vn/)
+
 Hẹn gặp các bạn ở Việt Nam mobile day 2018.
