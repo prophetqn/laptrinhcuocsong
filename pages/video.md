@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Mới học lập trình thì làm phần mềm gì để khỏi nhàm chán?
+    id: XCgmcG2lfnw
+  -
     title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
     id: eZKyRRw3Hcs
   -
