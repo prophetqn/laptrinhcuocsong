@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?
+    id: ypY1YU_zJAM
+  -
     title: Mới học lập trình thì làm phần mềm gì để khỏi nhàm chán?
     id: XCgmcG2lfnw
   -
