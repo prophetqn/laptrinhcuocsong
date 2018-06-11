@@ -3,6 +3,7 @@ layout: post
 title: Tổng hợp ảnh vui về lập trình viên
 category: Chuyện bên lề
 thumbnail: anh-vui-thumb.png
+cover: anh-vui-lap-trinh-vien-3.jpg
 excerpt: Tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên fanpage của Lập trình cuộc sống
 tags:
   - nganh-lap-trinh-vien

@@ -2,6 +2,7 @@
 layout: post
 title: Tại sao dân lập trình thường FA
 thumbnail: nguoi-dan-ong-rau-ria.jpg
+cover: coder-love.jpg
 category: Chuyện cuộc sống
 tags:
   - doi-song-lap-trinh-vien

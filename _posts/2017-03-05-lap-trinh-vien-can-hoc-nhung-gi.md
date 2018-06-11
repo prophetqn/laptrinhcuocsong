@@ -2,6 +2,7 @@
 layout: post
 title: Lập trình viên cần học những gì ?
 thumbnail: lap-trinh-vien-thumb.jpg
+cover: lap-trinh-vien.png
 category: Chuyện nghề nghiệp
 tags:
  - doi-song-lap-trinh-vien
