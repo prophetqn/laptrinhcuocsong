@@ -3,7 +3,7 @@ layout: post
 title: Thiền đã cứu rỗi linh hồn tôi như thế nào?
 thumbnail: thien.jpg
 cover: thien-large.jpg
-excerpt: 
+excerpt: Ban đầu mình cũng không tin thiền có tác dụng gì lắm, cũng không hiểu nguyên tắc hoạt động của nó thế nào. Nhưng khi đã thử qua, mình không ngờ rằng nó lại có nhiều tác dụng tích cực đến thế, nên quyết định chia sẻ đến các bạn trải nghiệm này.
 categories:
  - Chuyện bên lề
  - Chuyện cuộc sống
