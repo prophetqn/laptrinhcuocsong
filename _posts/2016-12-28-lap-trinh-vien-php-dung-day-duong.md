@@ -2,6 +2,7 @@
 layout: post
 title: Lập trình viên PHP đứng đầy đường
 thumbnail: php.png
+cover: coding-php.png
 category: Chuyện nghề nghiệp
 tags:
  - lap-trinh-php

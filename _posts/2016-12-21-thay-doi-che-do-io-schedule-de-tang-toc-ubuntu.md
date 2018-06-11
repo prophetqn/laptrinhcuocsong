@@ -3,6 +3,7 @@ layout: post
 title: Thay đổi chế độ đọc ghi lên đĩa cứng (io scheduling) để tăng tốc ubuntu
 category: Linux - ubuntu
 thumbnail: ubuntu-php.jpg
+cover: io-scheduler-before.png
 tags:
  - tu-hoc-linux
  - hoc-ubuntu

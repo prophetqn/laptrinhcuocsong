@@ -2,6 +2,7 @@
 layout: post
 title: 7 công việc đầu tiên trong đời
 thumbnail: 7-cong-viec-dau-tien-thumbnail.jpg
+cover: 7-cong-viec-dau-tien.jpg
 categories:
  - Chuyện bên lề
  - Chuyện cuộc sống

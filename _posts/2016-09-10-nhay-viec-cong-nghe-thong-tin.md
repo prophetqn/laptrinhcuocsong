@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Nhảy việc
+thumbnail: thumb-lap-trinh-vien-met-moi.png
+cover: nhay-viec.jpg
 categories:
  - Chuyện bên lề
  - Chuyện cuộc sống

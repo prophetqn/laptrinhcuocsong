@@ -2,6 +2,7 @@
 layout: post
 title: Học làm hacker
 thumbnail: hacker.png
+cover: hacking-banner.jpg
 category: Chuyện bên lề
 tags:
  - hoc-hack-co-ban

@@ -2,6 +2,7 @@
 layout: post
 title: Series nghịch ngợm - Làm game hứng trứng
 thumbnail: lam-game-hung-trung.png
+cover: game-hung-trung.png
 category: Chuyện lập trình
 tags:
  - lap-trinh-mot-game-don-gian

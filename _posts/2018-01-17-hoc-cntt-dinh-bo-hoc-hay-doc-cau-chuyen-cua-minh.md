@@ -2,6 +2,7 @@
 title: Bạn học CNTT và định bỏ đại học? Hãy đọc câu chuyện của mình
 category: Chuyện bên lề
 thumbnail: bang-cap.png
+cover: learn-boring.png
 excerpt: Đừng bỏ lỡ cơ hội được học nhé, vào thời điểm khó khăn, mình đã phải làm việc chân tay ở một xưởng cao su, thì suy nghĩ được là sinh viên hàng ngày được học những kiến thức lập trình, buổi tối có đủ thời gian để nghiên cứu thêm một cái gì đó theo sở thích, đó là một ước mơ tuyệt vời.
 tags:
   - doi-song-lap-trinh-vien
