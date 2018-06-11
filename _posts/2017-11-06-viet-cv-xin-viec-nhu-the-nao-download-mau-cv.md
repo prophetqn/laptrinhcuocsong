@@ -2,6 +2,7 @@
 title: Viết CV xin việc như thế nào? Download mẫu CV chuẩn cho dân IT
 category: Chuyện nghề nghiệp
 thumbnail: cv-thumb.png
+cover: cv-xin-viec.png
 excerpt: CV là bản tóm tắt thông tin nổi bật của bạn, phản ánh đầy đủ kinh nghiệm, trình độ, tính cách và các kỹ năng liên quan của bạn với vị trí đang ứng tuyển. Nói gì thì nói, đây là một yếu tố quan trọng quyết định việc bạn có gây ấn tượng và có được mời phỏng vấn hay không.
 tags:
  - kinh-nghiem-phong-van-xin-viec-cntt
