@@ -40,7 +40,7 @@ Cách thực hiện không hề khó, vô cùng đơn giản là khác, đây l�
 
 Đây là một bài thiền nằm, tức là bạn sẽ nằm thoải mái, cơ thể thư giãn, mắt nhắm và chỉ có suy nghĩ là di chuyển. Bạn lắng nghe hơi thở của mình, cảm nhận từng bộ phận trên cơ thể và cảm nhận cả tâm hồn mình.
 
-Điều thú vị nhất mà mình thấy trong bài tập này đó là bài tập yêu cầu bạn tưởng tượng đến một ngày hè nắng nóng, mồ hôi đổ trên người, rồi sau đó, bài tập lại yêu cầu bạn tưởng tượng đang ở dưới mưa và một đêm gió rét. Bài tập yêu cầu bạn nghĩ về một ngày vui nhất trong đời mà bạn đã từng trải qua, rồi lại yêu cầu nghĩ đến một trải nghiệm đau buồn nhất.
+Điều thú vị nhất mà mình thấy trong bài tập này đó là bài tập yêu cầu bạn tưởng tượng đến một ngày hè nắng nóng, mồ hôi đổ trên người, rồi sau đó bài tập lại yêu cầu bạn tưởng tượng đang ở dưới mưa vào một đêm gió rét. Bài tập yêu cầu bạn nghĩ về một ngày vui nhất trong đời mà bạn đã từng trải qua, rồi lại yêu cầu nghĩ đến một trải nghiệm đau buồn nhất.
 
 Thật sự là tuyệt vời, nó không chỉ kích thích lại các giác quan của cơ thể (nóng, lạnh) mà còn khơi gợi lại cả cảm xúc trong tâm hồn (buồn, vui). Giúp mình từ một người chai sạn cảm xúc trở thành người yêu bản thân và biết quan tâm đến mọi người hơn, thấy quý giá giây phút hiện tại hơn.
 
