@@ -8,13 +8,19 @@ excerpt: Tổng hợp cập nhật các bài viết hay, được bạn đọc q
 
 [Lập trình viên cần học những gì ?](http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html)
 
+[Thiền đã cứu rỗi linh hồn tôi như thế nào?](http://laptrinhcuocsong.com/thien-da-cuu-roi-linh-hon-toi-nhu-the-nao.html)
+
 [Tại sao dân lập trình thường FA](http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html)
 
 [Lương lập trình viên mới ra trường - sự thật và ảo tưởng](http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html)
 
 [Bạn học CNTT và định bỏ đại học? Hãy đọc câu chuyện của mình](http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html)
 
+[Giải thích và hướng dẫn cài đặt Gitlab Continuous Deployment một cách dễ hiểu nhất](http://laptrinhcuocsong.com/giai-thich-va-huong-dan-cai-dat-gitlab-continuous-integration.html)
+
 [Lập trình viên PHP đứng đầy đường](http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html)
+
+[Kiếm tiền bằng lập trình web như thế nào?](http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html)
 
 [Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi](http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html)
 
