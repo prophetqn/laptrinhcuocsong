@@ -24,11 +24,11 @@ Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http:/
 ## Các bạn có thể kết bạn và tìm hiểu thêm về mình:
 
 > Website: [http://buivannguyen.com](http://buivannguyen.com)<br>
+Youtube: [https://www.youtube.com/laptrinhvientv](https://www.youtube.com/laptrinhvientv)<br>
+Facebook: [https://www.facebook.com/laptrinhcuocsongdotcom/](https://www.facebook.com/laptrinhcuocsongdotcom/)<br>
 Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n)<br>
 Twitter: [https://twitter.com/bui_van_nguyen](https://twitter.com/bui_van_nguyen)<br>
 Instagram: [https://www.instagram.com/bui_van_nguyen/](https://www.instagram.com/bui_van_nguyen/)<br>
-Facebook: [https://www.facebook.com/laptrinhcuocsongdotcom/](https://www.facebook.com/laptrinhcuocsongdotcom/)<br>
-Youtube: [https://www.youtube.com/laptrinhvientv](https://www.youtube.com/laptrinhvientv)<br>
 
 ## Những câu hỏi thường gặp về mình và blog này:
 
