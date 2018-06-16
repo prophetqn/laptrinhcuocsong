@@ -47,7 +47,7 @@ Gitlab runner nghe thấy, nó sẽ làm tất cả các công việc còn lại
 
 ## Phần 1: Cấu hình gitlab CI
 
-Để gitlab hiểu được rằng repo của chúng ta có sử dụng tính năng tự động deploy, chúng ta cần tạo file `.gitlab-ci.yml` đặt ở thư mục gốc của project. Đây là file .gitlab-ci.yml đơn giản của mình:
+Để gitlab hiểu được rằng repo của chúng ta có sử dụng tính năng tự động deploy, chúng ta cần tạo file `.gitlab-ci.yml` đặt ở thư mục gốc của project. Đây là file .gitlab-ci.yml của mình:
 
 ```javascript
 deploy-test:
@@ -60,11 +60,9 @@ deploy-test:
     - whoami
     - cd /var/www/html/project_folder
   script:
-    - sed -i 's/index.php/maintain.html/g' .htaccess
     - git pull
     - cp app/install/.server_test_db.php app/config/database.php 
     - php index.php migrate
-    - sed -i 's/maintain.html/index.php/g' .htaccess
   only:
     - test-server
 ```
