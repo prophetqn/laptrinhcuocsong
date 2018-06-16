@@ -3,7 +3,7 @@ layout: post
 title: Học linux để làm gì? Học thế nào cho hiệu quả?
 category: Linux - ubuntu
 thumbnail: linux-thumb.png
-cover: linux-terminal-laptop.png
+cover: linux-terminal-laptop.jpg
 tags:
  - tu-hoc-linux
  - hoc-ubuntu
