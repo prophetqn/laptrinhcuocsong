@@ -21,3 +21,6 @@ related_posts:
 
 Chắc hẳn các bạn ở đây đã nghe đến hoặc đã từng sử dụng linux, vậy học linux để làm gì ? Nó có thật sự cần cho lập trình viên hay không? Làm thế nào để chuyển sang linux hiệu quả nhất. Trong bài viết này, mình sẽ nói về quá trình mình đến với linux, lý do vì sao chúng ta phải học linux. 
 
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ypY1YU_zJAM" frameborder="0" allowfullscreen></iframe>
+</div>
