@@ -76,7 +76,7 @@ Nhưng không dừng lại ở đó, khi đã vào được tài khoản của v
 
 Tâm lý là khi được chat về sản phẩm đang bán, người dùng rất dễ click vào link, social engineering khá hiệu quả trong trường hợp này.
 
-Hiện tại mình đã report, bên ChoTot đã xác nhận, fix lỗi xong và thông báo lại cho mình
+Mình đánh giá rất cao tinh thần của đội ngũ ChoTot, sau khi gửi report qua email, bên ChoTot đã gọi điện xác nhận, chuyển đến bộ phận kỹ thuật nhanh chóng kiểm tra, fix lỗi, thống báo mình kiểm tra các lỗi tương tự và thông báo lại.
 
 ![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/6uo1x836x9_chotot.png)
 
