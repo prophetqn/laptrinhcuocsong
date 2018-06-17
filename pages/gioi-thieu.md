@@ -30,8 +30,6 @@ Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com
 Twitter: [https://twitter.com/bui_van_nguyen](https://twitter.com/bui_van_nguyen)<br>
 Instagram: [https://www.instagram.com/bui_van_nguyen/](https://www.instagram.com/bui_van_nguyen/)<br>
 
-## Những câu hỏi thường gặp về mình và blog này:
-
 Nếu đây là lần đầu tiên bạn đọc trang này, đây là các câu hỏi thường gặp có thể giúp ích cho bạn.
 
 ## Bạn thì biết cái gì mà "dạy đời" người khác ?
