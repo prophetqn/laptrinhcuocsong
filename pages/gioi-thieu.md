@@ -8,7 +8,7 @@ Trước hết xin được cảm ơn bạn vì đã xem trang này, mình là [
 
 ## Tại sao lại là Lập trình cuộc sống?
 
-Cái tên "Lập trình cuộc sống" xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown: "Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn". Blog này là nơi mình với các bạn có cùng đam mê chia sẻ, tự `lập trình chính mình` không chỉ trong nghề nghiệp mà còn cả trong cuộc sống.
+Cái tên Lập Trình Cuộc Sống xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown: "Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn". Blog này là nơi mình với các bạn có cùng đam mê chia sẻ, tự lập trình chính mình không chỉ trong nghề nghiệp mà còn cả trong cuộc sống.
 
 > "Sai thì sửa, bug thì fix, quan trọng là làm sao tìm ra được bug trong chính con người bạn mà thôi."<br>
 Bùi Văn Nguyện - Laptrinhcuocsong.com
