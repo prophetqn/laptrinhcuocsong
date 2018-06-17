@@ -7,7 +7,7 @@ excerpt: Thỏa thuận, điều khoản khi sử dụng blog Lập trình cuộ
 
 Khi truy cập trang web này, hãy đọc những điều khoản dưới đây một cách cẩn trọng, trong trường hợp không đồng ý với những điều khoản này, xin vui lòng không tiếp tục sử dụng trang web.
 
-Khi bạn đọc, tham khảo, trích dẫn hay bất kỳ hình thức nào có liên quan đến việc sử dụng những câu, chữ, đoạn văn, hình ảnh, âm thanh hay ý tưởng được công bố trên trang web này tức là bạn đã chấp thuận tuân thủ và chịu sự ràng buộc bởi các điều khoản sử dụng dưới đây và không kiện cáo hay phản bác trong bất cứ trường hợp nào:
+Khi bạn đọc, tham khảo, trích dẫn hay bất kỳ hình thức nào có liên quan đến việc sử dụng những câu, chữ, đoạn văn, hình ảnh hay ý tưởng được công bố trên trang web này tức là bạn đã chấp thuận tuân thủ và chịu sự ràng buộc bởi các điều khoản sử dụng dưới đây và không kiện cáo hay phản bác trong bất cứ trường hợp nào:
 
 ## Trang web và tác giả trang web
 
@@ -21,11 +21,11 @@ Tác giả chịu trách nhiệm về tất cả mọi nội dung thông tin cun
 
 ## Về sự truy cập
 
-Tác giả dùng uy tín và năng lực của cá nhân để nỗ lực hết sức mình nhằm bảo đảm sự an toàn cho tất cả người dùng khi những dịch vụ web của anh ta trong mọi trường hợp lây nhiễm virus, sâu mạng, đánh cắp thông tin cá nhân, hay bất cứ phần mềm nào có khả năng gây ra thiệt hại cho người sử dụng.
+Tác giả dùng uy tín và năng lực của cá nhân để nỗ lực hết sức mình nhằm bảo đảm sự an toàn cho tất cả người dùng khi những dịch vụ web của anh ta trong mọi trường hợp lây nhiễm virus, đánh cắp thông tin cá nhân, hay bất cứ nguy cơ nào có khả năng gây ra thiệt hại cho người sử dụng.
 
 Tác giả không đặt bất cứ giới hạn nào về thời gian, không gian cho sự tồn tại của những dịch vụ web của mình cũng như không chịu trách nhiệm với bất kỳ cá nhân hay tổ chức nào cho việc không thể truy cập, gián đoạn, từ chối truy cập tại một thời điểm hay không gian nào đó không được báo trước.
 
-Những dịch vụ web này được tác giả xây dựng dựa trên năng lực, tài chính, thời gian, và ý tưởng của cá nhân. Anh ta có toàn quyền định đoạt số phận của mọi thông tin trong những dịch vụ web của mình, nghĩa là anh ta có quyền xóa, sửa, cắt ghép, thêm, bớt, thay đổi nội dung bất cứ thông tin nào trong những dịch vụ web đó vào bất cứ thời điểm nào mà anh ta cảm thấy thích hợp.
+Những dịch vụ web này được tác giả xây dựng dựa trên năng lực, tài chính, thời gian, và ý tưởng của cá nhân. Anh ta có toàn quyền định đoạt số phận của mọi thông tin trong những dịch vụ web của mình, nghĩa là anh ta có quyền xóa, sửa, thêm, bớt, thay đổi nội dung bất cứ thông tin nào trong những dịch vụ web đó vào bất cứ thời điểm nào mà anh ta cảm thấy thích hợp.
 
 ## Về bản quyền và sao chép nội dung
 
