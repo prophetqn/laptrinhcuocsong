@@ -18,7 +18,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
  - title: 
    link: http://laptrinhcuocsong.com/huong-dan-giai-whitehat-wargame-web-security-bai-1-den-bai-4.html
-   
+related_videos:
+  -
+    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+    id: N0K7ZONRs6w
+  -
+    title: Đang code mà buồn tè thì làm thế nào?
+    id: 5lkDOd8PKHc
+  -
+    title: Lập trình viên và chuyện tình yêu, chia tay, buồn, cắm đầu vào code
+    id: Nbu8tBtef3c
+  -
+    title: Live stream - backend hay frontend dễ kiếm việc làm hơn
+    id: VvPv9kiB01A
 ---
 
 Tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên [fanpage của Lập trình cuộc sống](https://www.facebook.com/laptrinhcuocsongdotcom/)
