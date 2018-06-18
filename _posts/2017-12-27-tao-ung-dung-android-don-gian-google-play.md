@@ -14,6 +14,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
+related_videos:
+  -
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
+  -
+    title: Tạo blog nhanh chóng miễn phí với github
+    id: CpmE5RTpPwQ
+  -
+    title: Phỏng vấn xin việc IT như thế nào? 
+    id: GaMExVaxHc8
+  -
+    title: Nghề lập trình - tiền hay đam mê
+    id: bLC6yA73lFw
 ---
 
 Mình chưa code android bao giờ, nhưng vẫn muốn có một app trên Google Play, điều này có vẻ không khả thi, mission imposible, đặc biệt là với một thằng mù java android như mình. Sau 10 tiếng lăn lộn vật vã cuối cùng cũng ra được ứng dụng đầu tiên, chút ghi chép lại, đồng thời chia sẻ với các bạn cách mà mình làm những dự án pet project nho nhỏ như thế này.

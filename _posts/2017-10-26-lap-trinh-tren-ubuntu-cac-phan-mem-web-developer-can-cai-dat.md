@@ -15,6 +15,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+related_videos:
+  -
+    title: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
+    id: bJqNTFSnNa0
+  -
+    title: Làm product và làm outsource khác nhau như thế nào?
+    id: pAMh5j53BXI
+  -
+    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+    id: N0K7ZONRs6w
+  -
+    title: Đang code mà buồn tè thì làm thế nào?
+    id: 5lkDOd8PKHc
 ---
 Các bạn lập trình viên khi mới chuyển qua môi trường linux, mà cụ thể ở đây là Ubuntu thường hỏi cần phải cài đặt những phần mềm gì để có thể "lập trình được". Đã có rất nhiều bài viết về vấn đề này, ở đây chúng ta sẽ tổng hợp lại, dưới đây là các phần mềm mà bản thân mình đang dùng, có thể tạm gọi là complete setup để lập trình viên PHP lập trình trên Ubuntu.
 
