@@ -17,6 +17,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
  - title: 
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
+related_videos:
+  -
+    title: Nghề lập trình - tiền hay đam mê
+    id: bLC6yA73lFw
+  -
+    title: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
+    id: bJqNTFSnNa0
+  -
+    title: Làm product và làm outsource khác nhau như thế nào?
+    id: pAMh5j53BXI
+  -
+    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+    id: N0K7ZONRs6w
 ---
 Thường thì các trường đại học tuyển sinh ngành công nghệ thông tin là khối A, tuy nhiên theo mình thì khối D mới là khối phù hợp nhất, tại sao không phải là khối A như chúng ta thường nghĩ?
 

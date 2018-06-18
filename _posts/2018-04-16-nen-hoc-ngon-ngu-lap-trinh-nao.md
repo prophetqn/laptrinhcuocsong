@@ -17,6 +17,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: 
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
+related_videos:
+  -
+    title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
+    id: Zo8pGBDi6SA
+  -
+    title: Python làm được gì? Có nên học ngôn ngữ lập trình Python không? 
+    id: 278ig6WPjiI
+  -
+    title: Phỏng vấn php người ta thường hỏi những câu hỏi gì?
+    id: oHPvmdny9QM
+  -
+    title: Khi đi làm php người ta dùng những công cụ gì? 
+    id: fOFKwV7OW7U
 ---
 Đối với các bạn mới học lập trình, [lựa chọn ngôn ngữ lập trình](http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html) để học là một việc rất khó khăn. Có hàng tá ngôn ngữ, mỗi ngôn ngữ có những đặc điểm riêng, không có ngôn ngữ nào mạnh hơn ngôn ngữ nào cả. Bạn không biết ngôn ngữ nào phù hợp với mình, bài viết này sẽ giúp bạn.
 

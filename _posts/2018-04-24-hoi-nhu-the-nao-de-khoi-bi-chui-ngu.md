@@ -17,6 +17,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: 
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
+related_videos:
+  -
+    title: Crush nhờ cài win thì phải làm gì? 
+    id: AecrHFq_9BI
+  -
+    title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
+    id: zNCk6jctVW8
+  -
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
+  -
+    title: Tạo blog nhanh chóng miễn phí với github
+    id: CpmE5RTpPwQ
 ---
 
 Các cụ đã nói rồi, "muốn biết phải hỏi muốn giỏi phải học", điều này đúng, tuy nhiên hỏi như thế nào để được trả lời và không bị chửi ngu lại là vấn đề nhức nhối. Trên facebook, trên diễn đàn, đâu đâu cũng có những câu hỏi gây ức chế bực bội cho người trả lời.
