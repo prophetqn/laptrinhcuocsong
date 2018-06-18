@@ -9,6 +9,20 @@ tags:
  - hoc-ubuntu
 experpt: Học linux để làm gì ? Nó có thật sự cần cho lập trình viên hay không? Làm thế nào để chuyển sang linux hiệu quả nhất.
 
+related_videos:
+  -
+    title: Mới học lập trình thì làm phần mềm gì để khỏi nhàm chán?
+    id: XCgmcG2lfnw
+  -
+    title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
+    id: eZKyRRw3Hcs
+  -
+    title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
+    id: aYA_Jsoe-jM
+  -
+    title: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
+    id: NSd4DPxHv3c
+
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html

@@ -43,6 +43,18 @@ layout: default
   {% endif %}{% endfor %}{% endfor %}
 </ul>
 {% endif %}
+
+{% if page.related_videos %}
+<ul class="related_posts">
+  {% for video in page.related_videos %}
+    <li>
+    <a href="https://www.youtube.com/watch?v={{ video.id }}" target="_blank"><img src="https://img.youtube.com/vi/{{ video.id }}/mqdefault.jpg" alt="{{ video.title }}"></a>
+    <h3><a href="https://www.youtube.com/watch?v={{ video.id }}" title="{{ video.title }}" target="_blank">{{ video.title }}</a></h3>
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
 <div class="facebook-like">
   <div id="fb-root"></div>
 </div>
