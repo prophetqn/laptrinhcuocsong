@@ -15,6 +15,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
    link: http://laptrinhcuocsong.com/7-cong-viec-dau-tien-trong-doi.html
+related_videos:
+  - 
+    title: Một giờ trong đời của lập trình viên (speed 6x)
+    id: jwuxH1BeNG0
+  -
+    title: Live stream hướng dẫn lập trình game hứng trứng
+    id: reN5y17YzCI
+  -
+    title: Lập trình phần mềm paint trên web
+    id: pDSxzvyJ6k8
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
 ---
 
 Có thể khi đọc xong tiêu đề, bạn sẽ nghĩ cái thằng này thật vớ vẩn, lập trình thì liên quan quái gì đến sáng tạo? Đây là blog lập trình, thì viết về code đi chứ viết mấy cái thứ hàn lâm vớ vẩn này để làm gì? Bố cứ code đúng logic theo yêu cầu, hoàn thành các task được giao là được chứ gì?
