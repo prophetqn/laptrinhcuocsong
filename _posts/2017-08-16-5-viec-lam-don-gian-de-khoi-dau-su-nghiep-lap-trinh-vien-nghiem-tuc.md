@@ -15,6 +15,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
    link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+related_videos:
+  -
+    title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
+    id: eZKyRRw3Hcs
+  -
+    title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
+    id: aYA_Jsoe-jM
+  -
+    title: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
+    id: NSd4DPxHv3c
+  -
+    title: Hỏi về lập trình như thế nào để khỏi bị chửi ngu?
+    id: 3KvYW1ECe4c
 ---
 Có những việc rất nhỏ, có thể làm trong vài phút, nhưng hiệu quả mang lại cực kỳ lớn mà bạn có thể làm ngay hôm nay. Cho dù bạn là một developer, bạn có kỹ năng code huyền diệu, khả năng teamwork tuyệt vời, hay bạn là sinh viên, đang dần hoàn thiện kỹ năng để trở thành lập trình viên trong tương lai. Thì những việc làm rất đơn giản sau sẽ giúp bạn có một khởi đầu tốt hơn rất nhiều.
 
