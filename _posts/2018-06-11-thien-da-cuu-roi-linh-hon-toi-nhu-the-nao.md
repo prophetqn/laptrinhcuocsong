@@ -18,6 +18,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
  - title:
    link: http://laptrinhcuocsong.com/7-cong-viec-dau-tien-trong-doi.html
+related_videos:
+  -
+    title: Phỏng vấn xin việc IT như thế nào? 
+    id: GaMExVaxHc8
+  -
+    title: Nghề lập trình - tiền hay đam mê
+    id: bLC6yA73lFw
+  -
+    title: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
+    id: bJqNTFSnNa0
+  -
+    title: Làm product và làm outsource khác nhau như thế nào?
+    id: pAMh5j53BXI
 ---
 
 Ban đầu mình cũng không tin thiền có tác dụng gì lắm, cũng không hiểu nguyên tắc hoạt động của nó thế nào. Nhưng khi đã thử qua, mình không ngờ rằng nó lại có nhiều tác dụng tích cực đến thế, nên quyết định chia sẻ đến các bạn trải nghiệm này.

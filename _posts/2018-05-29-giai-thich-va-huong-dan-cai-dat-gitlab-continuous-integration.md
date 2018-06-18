@@ -15,6 +15,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+related_videos:
+  -
+    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+    id: N0K7ZONRs6w
+  -
+    title: Đang code mà buồn tè thì làm thế nào?
+    id: 5lkDOd8PKHc
+  -
+    title: Lập trình viên và chuyện tình yêu, chia tay, buồn, cắm đầu vào code
+    id: Nbu8tBtef3c
+  -
+    title: Live stream - backend hay frontend dễ kiếm việc làm hơn
+    id: VvPv9kiB01A
 ---
 
 Có lẽ bạn đã từng nghe ở đâu đó về continuous integration (CI - tích hợp liên tục) và continuous deployment (CD - triển khai liên tục). Trong bài viết này mình sẽ cố gằng giải thích và hướng dẫn các bạn cài đặt sử dụng Gitlab CI, CD một cách dễ hiểu nhất.
