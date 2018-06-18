@@ -16,6 +16,22 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
    link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+related_videos:
+  -
+    title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
+    id: zNCk6jctVW8
+  -
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
+  -
+    title: Tạo blog nhanh chóng miễn phí với github
+    id: CpmE5RTpPwQ
+  -
+    title: Phỏng vấn xin việc IT như thế nào? 
+    id: GaMExVaxHc8
+  -
+    title: Nghề lập trình - tiền hay đam mê
+    id: bLC6yA73lFw
 ---
 
 Khai bút đầu năm là truyền thống của các lập trình viên, đoạn mã đầu tiên của năm mới, họ sẽ viết để in ra màn hình những ước mong của họ, và gửi đến những người họ yêu quý.

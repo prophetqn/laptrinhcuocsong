@@ -15,6 +15,22 @@ related_posts:
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
    link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+related_videos:
+  -
+    title: Phỏng vấn xin việc IT như thế nào? 
+    id: GaMExVaxHc8
+  -
+    title: Nghề lập trình - tiền hay đam mê
+    id: bLC6yA73lFw
+  -
+    title: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
+    id: bJqNTFSnNa0
+  -
+    title: Làm product và làm outsource khác nhau như thế nào?
+    id: pAMh5j53BXI
+  -
+    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+    id: N0K7ZONRs6w
 ---
 
 Vừa rồi mình vừa có một buổi live stream trò chuyện cùng bạn đọc Lập Trình Cuộc Sống trên facebook. Một stream đặc biệt, nơi tất cả bạn đọc có thể nói chuyện với nhau thoải mái, chia sẻ những kinh nghiệm, buồn vui trong nghề. Thu hút hơn 2 nghìn lượt xem và hàng trăm bình luận, mình hiểu rằng các bạn rất quan tâm và có rất nhiều băn khoăn, nhất là các bạn sinh viên.

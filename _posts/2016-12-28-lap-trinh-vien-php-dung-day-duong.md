@@ -18,6 +18,21 @@ related_posts:
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title:
    link: http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
+
+related_videos:
+  -
+    title: Đang code mà buồn tè thì làm thế nào?
+    id: 5lkDOd8PKHc
+  -
+    title: Lập trình viên và chuyện tình yêu, chia tay, buồn, cắm đầu vào code
+    id: Nbu8tBtef3c
+  -
+    title: Live stream - backend hay frontend dễ kiếm việc làm hơn
+    id: VvPv9kiB01A
+  - 
+    title: Một giờ trong đời của lập trình viên (speed 6x)
+    id: jwuxH1BeNG0
+
 ---
 Thật khó để đặt tiêu đề bài viết này như thế nào cho sát thực nhất, ban đầu tớ định đặt là "Lập trình viên PHP, những kẻ khờ dại" hoặc "Lập trình viên PHP - Những kẻ đáng thương", thật khó lựa chọn tiêu đề nào để miêu tả hết số phận của những lập trình viên đang theo đuổi một ngôn ngữ củ chuối nhất: PHP.
 
