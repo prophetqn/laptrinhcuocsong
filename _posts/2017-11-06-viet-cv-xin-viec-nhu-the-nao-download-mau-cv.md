@@ -16,6 +16,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/sang-tao-la-gi-lam-the-nao-de-tro-nen-sang-tao.html
  - title: 
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+related_videos:
+  - 
+    title: Một giờ trong đời của lập trình viên (speed 6x)
+    id: jwuxH1BeNG0
+  -
+    title: Live stream hướng dẫn lập trình game hứng trứng
+    id: reN5y17YzCI
+  -
+    title: Lập trình phần mềm paint trên web
+    id: pDSxzvyJ6k8
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
 ---
 Khi bạn đi xin việc, thông thường bạn sẽ được nhà tuyển dụng yêu cầu gửi CV ( Curriculum Vitae) để họ xem trước khi quyết định mời phỏng vấn. CV chính là đơn chào hàng đầu tiên, là bản tóm tắt thông tin nổi bật của bạn, phản ánh đầy đủ kinh nghiệm, trình độ, tính cách và các kỹ năng liên quan của bạn với vị trí đang ứng tuyển. Nói gì thì nói, đây là một yếu tố quan trọng quyết định việc bạn có gây ấn tượng và có được mời phỏng vấn hay không.
 
