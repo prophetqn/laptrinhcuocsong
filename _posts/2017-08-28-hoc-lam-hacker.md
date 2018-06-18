@@ -18,6 +18,22 @@ related_posts:
    link: http://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
  - title:
    link: http://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
+related_videos:
+  -
+    title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
+    id: eZKyRRw3Hcs
+  -
+    title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
+    id: aYA_Jsoe-jM
+  -
+    title: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
+    id: NSd4DPxHv3c
+  -
+    title: Hỏi về lập trình như thế nào để khỏi bị chửi ngu?
+    id: 3KvYW1ECe4c
+  -
+    title: Học lập trình nên tự học hay học ở trung tâm?
+    id: sgkNOWEbLSw
 ---
 
 Để trở thành hacker cần phải học gì, cần có những hiểu biết cơ bản gì, hack như thế nào?  Thật sự nó quá khó để trả lời, ngay cả nếu hỏi một hacker chuyên nghiệp, vì họ không có chuyên môn sư phạm, một câu trả lời không thể giúp bạn trở thành hacker , nó là cả một quá trình tích lũy kinh nghiệm. Để không bị chửi hay ném đá, bài viết này mình chỉ chia sẻ và trả lời câu hỏi "Làm thế nào để hack một website" , câu hỏi mà mình nhận được quá nhiều sau khi đăng bài viết "[tôi đã hack Chợ Tốt như thế nào?](http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html)".

@@ -18,6 +18,22 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title:
    link: http://laptrinhcuocsong.com/sang-tao-la-gi-lam-the-nao-de-tro-nen-sang-tao.html
+related_videos:
+  -
+    title: Phỏng vấn php người ta thường hỏi những câu hỏi gì?
+    id: oHPvmdny9QM
+  -
+    title: Khi đi làm php người ta dùng những công cụ gì? 
+    id: fOFKwV7OW7U
+  -
+    title: Crush nhờ cài win thì phải làm gì? 
+    id: AecrHFq_9BI
+  -
+    title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
+    id: zNCk6jctVW8
+  -
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
 ---
 Hôm bữa valentine, trong khi thiên hạ đang nườm nượp chở gấu đi chơi, tặng hoa hòe các kiểu, nhà nghỉ hết phòng, thì đâu đó trên thế giới ảo vẫn có những thanh niên đang online. Đâu đó skype của các lập trình viên vẫn sáng, họ đang ngồi ở xó xỉnh nào đó, viết những dòng mã lệnh, theo đuổi niềm đam mê tận cùng.
 
