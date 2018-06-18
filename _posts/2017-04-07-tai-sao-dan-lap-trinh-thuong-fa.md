@@ -31,9 +31,6 @@ related_videos:
   -
     title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
     id: zNCk6jctVW8
-  -
-    title: Mình đã học lập trình như thế nào?
-    id: qvjWF0HWeWw
 ---
 Hôm bữa valentine, trong khi thiên hạ đang nườm nượp chở gấu đi chơi, tặng hoa hòe các kiểu, nhà nghỉ hết phòng, thì đâu đó trên thế giới ảo vẫn có những thanh niên đang online. Đâu đó skype của các lập trình viên vẫn sáng, họ đang ngồi ở xó xỉnh nào đó, viết những dòng mã lệnh, theo đuổi niềm đam mê tận cùng.
 
