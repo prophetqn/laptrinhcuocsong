@@ -16,6 +16,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: 
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
+related_videos:
+  -
+    title: Học lập trình nên tự học hay học ở trung tâm?
+    id: sgkNOWEbLSw
+  -
+    title: Thiết kế website cá nhân trên photoshop
+    id: 9RQkB365RwQ
+  -
+    title: Sinh viên IT ngày xưa như thế nào? Dùng máy tính mạnh không?
+    id: ClsOD7jAsQ4
+  -
+    title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
+    id: 0UO9UKjVQ68
 ---
 
 Tớ thấy một điều cực kỳ bức xúc là anh em lập trình nhà mình đẹp trai đã đành, code lại giỏi, ấy thế mà vẫn bị mấy em HR nó bơ. Mà xin việc lại là chuyện hệ trọng liên quan đến miếng cơm manh áo, quyết định đến cả việc ăn mỳ tôm hay ăn cơm. Thế nên phải viết gấp bài này bổ túc cho anh em tí kinh nghiệm "thả thính" nhà tuyển dụng. Hãy cùng Lập Trình Cuộc Sống điểm danh những item cực kỳ lợi hại mà các cao thủ đang dùng, trông bạn sẽ rất cool ngầu trong mắt nhà tuyển dụng nếu bạn có những thứ này.

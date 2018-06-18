@@ -18,6 +18,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: 
    link: http://laptrinhcuocsong.com/tang-5-dolar-wcx-coin-tien-ao-chi-dung-sau-bitcoin.html
+related_videos:
+  -
+    title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?
+    id: ypY1YU_zJAM
+  -
+    title: Mới học lập trình thì làm phần mềm gì để khỏi nhàm chán?
+    id: XCgmcG2lfnw
+  -
+    title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
+    id: eZKyRRw3Hcs
+  -
+    title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
+    id: aYA_Jsoe-jM
 ---
 
 Dạo gần đây có rất nhiều tranh cãi xung quanh vấn đề bằng cấp đối với lập trình viên, người bảo cần thiết, người bảo không. Khi mình bắt đầu chính thức làm việc cho một công ty về phần mềm cách đây 3 năm, lúc đó mình hoàn toàn không có một bằng cấp nào cả. Một vài bạn đã gửi yêu cầu viết bài, tâm sự về ý định bỏ đại học, đây là bài viết dành cho các bạn.
