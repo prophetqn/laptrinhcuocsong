@@ -15,7 +15,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
  - title: 
    link: http://laptrinhcuocsong.com/huong-dan-giai-whitehat-wargame-web-security-bai-1-den-bai-4.html
-   
+related_videos:
+  -
+    title: Tạo blog nhanh chóng miễn phí với github
+    id: CpmE5RTpPwQ
+  -
+    title: Phỏng vấn xin việc IT như thế nào? 
+    id: GaMExVaxHc8
+  -
+    title: Nghề lập trình - tiền hay đam mê
+    id: bLC6yA73lFw
+  -
+    title: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
+    id: bJqNTFSnNa0
 ---
 Thời đại viết blog để chia sẻ kinh nghiệm có lẽ đã qua mất rồi, khi mà tốc độ internet không còn là vấn đề, thì rất nhiều các kênh youtube đã xuất hiện, mang đến một phương pháp học tập, chia sẻ mới sinh động và trực quan. Xin giới thiệu 9 kênh youtube rất bổ ích mà mình thường xuyên theo dõi.
 

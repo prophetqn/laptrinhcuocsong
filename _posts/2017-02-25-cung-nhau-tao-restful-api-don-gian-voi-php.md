@@ -15,6 +15,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+related_videos:
+  -
+    title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
+    id: 0UO9UKjVQ68
+  -
+    title: Troll zero9 - Lập trình viên nghĩ gì khi xem clip của zero9 
+    id: xsI6r6zYTp0
+  -
+    title: Gặp bug thì làm gì? Lập trình viên chiến đấu với bọn tester như thế nào? 
+    id: wFQ1h8RNcEs
+  -
+    title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
+    id: Zo8pGBDi6SA
 ---
 Như các bạn đã biết, các API (Application Programming Interfaces) được sử dụng rất phổ biến, trong thế giới kết nối như bây giờ, một ứng dụng không thể đứng độc lập mà cần phải kết nối với các ứng dụng khác. Có thể nói một sản phẩm nếu không có các API giống như máy tính không được kết nối Internet vậy. Trong bài viết này,  mình sẽ cùng các bạn tạo một restful API đơn giản với php.
 

@@ -19,6 +19,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/gioi-thieu-fluent-interface-cach-de-viet-code-de-doc.html
  - title: 
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+related_videos:
+  -
+    title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
+    id: 0UO9UKjVQ68
+  -
+    title: Troll zero9 - Lập trình viên nghĩ gì khi xem clip của zero9 
+    id: xsI6r6zYTp0
+  -
+    title: Gặp bug thì làm gì? Lập trình viên chiến đấu với bọn tester như thế nào? 
+    id: wFQ1h8RNcEs
+  -
+    title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
+    id: Zo8pGBDi6SA
 ---
 
 Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất mông lung.

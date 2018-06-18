@@ -14,6 +14,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-tren-ubuntu-cac-phan-mem-web-developer-can-cai-dat.html
  - title:
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+related_videos:
+  -
+    title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?
+    id: ypY1YU_zJAM
+  -
+    title: Mới học lập trình thì làm phần mềm gì để khỏi nhàm chán?
+    id: XCgmcG2lfnw
+  -
+    title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
+    id: eZKyRRw3Hcs
+  -
+    title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
+    id: aYA_Jsoe-jM
 ---
 
 Hệ điều hành ubuntu là một nền tảng mở, nhưng một trong những khó khăn khi mới bắt đầu sử dụng ubuntu là trên ubuntu không có những phần mềm quen thuộc, xin giới thiệu các phần mềm thường dùng trên ubuntu để người dùng dễ tiếp cận hơn.
