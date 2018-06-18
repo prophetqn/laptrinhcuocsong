@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Vừa rửa bát vừa nói chuyện lập trình
+    id: J7-eT2TnLVU
+  -
     title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?
     id: ypY1YU_zJAM
   -
