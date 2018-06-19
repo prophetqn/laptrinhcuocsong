@@ -90,6 +90,9 @@ tags_config:
   -
     slug: nghe-lap-trinh-vien-hien-nay
     name: Nghề lập trình viên hiện nay
+  -
+    slug: cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi
+    name: Cách học lập trình cho người chưa biết gì
 sass:
   style: :compressed
 plugins:
