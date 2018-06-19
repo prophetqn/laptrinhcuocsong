@@ -8,6 +8,7 @@ tags:
  - nganh-lap-trinh-vien
  - live-stream-lap-trinh
  - bi-quyet-hoc-lap-trinh
+ - cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html

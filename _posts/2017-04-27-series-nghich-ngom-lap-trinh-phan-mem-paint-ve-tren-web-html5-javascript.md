@@ -6,6 +6,7 @@ category: Chuyện lập trình
 tags:
  - lap-trinh-javascript
  - live-stream-lap-trinh
+ - cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi
 related_posts:
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html

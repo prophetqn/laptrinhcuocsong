@@ -6,6 +6,7 @@ category: Chuyện lập trình
 tags:
  - lap-trinh-php
  - nhung-dieu-co-ban-ve-lap-trinh
+ - cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html

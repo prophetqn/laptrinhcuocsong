@@ -10,6 +10,7 @@ tags:
   - bi-quyet-hoc-lap-trinh
   - nhung-dieu-co-ban-ve-lap-trinh
   - nghe-lap-trinh-vien-hien-nay
+  - cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html

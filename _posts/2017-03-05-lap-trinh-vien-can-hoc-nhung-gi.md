@@ -11,6 +11,7 @@ tags:
  - nhung-dieu-co-ban-ve-lap-trinh
  - lap-trinh-vien
  - nghe-lap-trinh-vien-hien-nay
+ - cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi
 related_posts:
  - title: Tôi đã hack Chợ Tốt như thế nào
    link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
