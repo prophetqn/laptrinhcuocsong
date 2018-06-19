@@ -5,6 +5,7 @@ excerpt: Trong ngành công nghệ thông tin có hai xu hướng rất điển 
 tags:
  - nganh-lap-trinh-vien
  - nhung-dieu-co-ban-ve-lap-trinh
+ - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html

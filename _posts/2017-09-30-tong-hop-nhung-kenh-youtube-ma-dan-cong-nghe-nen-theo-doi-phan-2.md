@@ -6,6 +6,7 @@ thumbnail: youtube-chanel-2.png
 tags:
  - doi-song-lap-trinh-vien
  - lap-trinh-vien
+ - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html

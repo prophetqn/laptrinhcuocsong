@@ -11,6 +11,7 @@ tags:
  - nganh-lap-trinh-vien
  - nhung-dieu-co-ban-ve-lap-trinh
  - lap-trinh-vien
+ - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html

@@ -9,6 +9,7 @@ tags:
  - lap-trinh-web
  - nganh-lap-trinh-vien
  - lap-trinh-vien
+ - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: Lập trình viên cần học những gì ?
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html

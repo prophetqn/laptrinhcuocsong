@@ -87,6 +87,9 @@ tags_config:
   -
     slug: lap-trinh-vien
     name: Lập trình viên
+  -
+    slug: nghe-lap-trinh-vien-hien-nay
+    name: Nghề lập trình viên hiện nay
 sass:
   style: :compressed
 plugins:

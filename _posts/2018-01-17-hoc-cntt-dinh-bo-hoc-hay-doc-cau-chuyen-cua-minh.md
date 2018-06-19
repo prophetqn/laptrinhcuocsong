@@ -9,6 +9,7 @@ tags:
   - nganh-lap-trinh-vien
   - nhung-dieu-co-ban-ve-lap-trinh
   - lap-trinh-vien
+  - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html

@@ -9,6 +9,7 @@ tags:
  - live-stream-lap-trinh
  - nganh-lap-trinh-vien
  - lap-trinh-vien
+ - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
