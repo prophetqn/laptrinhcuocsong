@@ -4,7 +4,7 @@ title: Tổng hợp ảnh vui về lập trình viên
 category: Chuyện bên lề
 thumbnail: anh-vui-thumb.png
 cover: anh-vui-lap-trinh-vien-3.jpg
-excerpt: Tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên fanpage của Lập trình cuộc sống
+excerpt: Dân IT không phải là những người suốt ngày ngồi máy tính, họ còn vô cùng hài hước nữa nhé. Đây là tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên fanpage của Lập trình cuộc sống
 tags:
   - nganh-lap-trinh-vien
   - doi-song-lap-trinh-vien
@@ -33,7 +33,7 @@ related_videos:
     id: VvPv9kiB01A
 ---
 
-Tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên [fanpage của Lập trình cuộc sống](https://www.facebook.com/laptrinhcuocsongdotcom/)
+Dân IT không phải là những người suốt ngày ngồi máy tính, họ còn vô cùng hài hước nữa nhé. Đây là tổng hợp các ảnh rất vui nhộn về đời sống dân IT trên [fanpage của Lập trình cuộc sống](https://www.facebook.com/laptrinhcuocsongdotcom/)
 
 ## Lập trình có nghĩa là phải biết mọi thứ hay sao?
 
