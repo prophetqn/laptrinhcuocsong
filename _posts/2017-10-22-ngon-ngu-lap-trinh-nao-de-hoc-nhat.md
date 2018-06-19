@@ -21,7 +21,7 @@ related_posts:
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
 ---
 
-Khi mới học lập trình, các bạn thường hỏi ngôn ngữ nào dễ học, có hàng tá ngôn ngữ làm bạn bối rối, không biết bắt đầu với cái nào để dễ dàng tiếp cận hơn. Tuy nhiên mình nghĩ rằng việc lựa chọn ngôn ngữ lập trình nào là không quá quan trọng.
+Khi mới học lập trình, các bạn thường hỏi ngôn ngữ nào dễ học, có hàng tá ngôn ngữ làm bạn bối rối, không biết bắt đầu với cái nào để dễ dàng tiếp cận hơn. Tuy nhiên mình nghĩ rằng việc lựa chọn [nên học ngôn ngữ lập trình nào](http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html) là không quá quan trọng.
 
 Thật ra thì tất cả các ngôn ngữ lập trình đều giống nhau cả thôi, ngôn ngữ nào cũng có những thứ căn bản như biến, hàm, hằng số, vòng lặp... Cái quan trọng là bạn phải rèn luyện tư duy lập trình, tức là hiểu cách suy nghĩ của máy tính. Khi đã có cái tư duy lập trình này, thì bạn có thể học một ngôn ngữ mới rất dễ dàng.
 
