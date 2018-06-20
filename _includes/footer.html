@@ -10,7 +10,7 @@
 		<li><a href="#" style="color: #da0000;">Lên đầu trang &uarr;</a></li>
 	  </ul>
 	  <div class="clear"></div>
-	  <div class="links" id="footer_links">
+	  <div class="links">
 			<ul>
 				<li><a target="_blank" href="http://toidicodedao.com">Tôi đi code dạo</a></li>
 				<li><a target="_blank" href="https://cuongquach.com">Cường Quách blog</a></li>
@@ -21,6 +21,12 @@
 			</ul>
 		</div>
 	  <div class="clear"></div>
+	  <div class="tag_cloud">
+		<h4>Tags</h4>
+		{% for tag in site.tags_config %}
+		<a href="{{ site.site_url }}/tags/{{ tag.slug }}" target="_blank">{{ tag.name }}</a>,
+      	{% endfor %}
+	  </div>
 	</footer>
 </div>
 
