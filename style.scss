@@ -118,7 +118,7 @@ a:hover, a:active {
         
         h1 {
             font-size: 20px;
-            color: #f3f3f3;
+            color: #FEFEFE;
             line-height: 40px;
             a {
                 &:hover {
@@ -159,12 +159,12 @@ a:hover, a:active {
     padding: 50px 5px;
     text-align: center;
     h1 {
-        color: white;
+        color: #FEFEFE;
         padding: 10px 5px;
         font-size: 35px;
     }
     h2 {
-        color: white;
+        color: #FEFEFE;
         font-size: 20px;
         font-weight: normal;
         padding: 15px 0px;
@@ -379,7 +379,6 @@ code.highlighter-rouge {
 }
 
 .related_posts {
-    margin-right: 60px;
     padding-top: 35px;
     border-bottom: 1px solid #ebebeb;
     margin-bottom: 30px;
