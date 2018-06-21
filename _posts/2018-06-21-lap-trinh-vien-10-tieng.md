@@ -34,7 +34,7 @@ related_videos:
 
 Là một lập trình viên, chắc hẳn bạn cũng có những ý tưởng phần mềm hay, hữu ích muốn làm. Bạn hăm hở háo hức làm một cách say mê, mong muốn ý tưởng nhanh chóng trở thành hiện thực. Thế rồi bạn không đủ thời gian, được dăm bữa nửa tháng, chán rồi vứt xó.
 
-Có bao giờ bạn lục lại đống code cũ, bạn nhận ra mình đã nghĩ được những ý tưởng đột phá ngang tầm vũ trụ, nhưng cuối cùng nhìn lại, rốt cuộc bạn tốn bao nhiêu công sức, code hoài, code mãi vẫn chỉ là những dòng code dở dang, chẳng cái nào hoàn thiện.
+Có bao giờ bạn lục lại đống code cũ, bạn nhận ra mình đã nghĩ được những ý tưởng đột phá ngang tầm vũ trụ, nhưng cuối cùng nhìn lại, rốt cuộc bạn tốn bao nhiêu công sức, code hoài code mãi vẫn chỉ là những dòng code dở dang, chẳng cái nào hoàn thiện.
 
 Hãy thử "**Quy tắc làm phần mềm trong 10 tiếng**" của mình. Đây là cách mà mình bắt đầu ra được những sản phẩm nho nhỏ, tuyệt nhiên không còn dở dang project nào nữa.
 
@@ -53,7 +53,7 @@ Với quy tắc này, tất cả những gì bạn cần làm là ngồi xuống
 
 - Nếu không đủ thời gian: không được để điều này sảy ra, bạn đã cam kết thì phải làm đúng hạn.
 
-- Bạn chỉ có 10 tiếng để biến ý tưởng của mình thành sự thật, nếu không, bạn sẽ phải vứt bỏ nó đi và không bao giờ được tiếp tục làm nữa.
+- Bạn chỉ có 10 tiếng để biến ý tưởng của mình thành sự thật, nếu không, bạn sẽ phải vứt bỏ nó đi và KHÔNG bao giờ được tiếp tục làm nữa.
 
 ![Lập trình viên](images/bug-programming.jpg)
 
