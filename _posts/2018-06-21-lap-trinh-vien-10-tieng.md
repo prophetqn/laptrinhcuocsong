@@ -1,7 +1,7 @@
 ---
 title: Lập trình viên 10 tiếng
 category: Chuyện lập trình
-thumbnail: lap-trinh-vien-thumb.png
+thumbnail: lap-trinh-vien-thumb.jpg
 excerpt: Là một lập trình viên, chắc hẳn bạn cũng có những ý tưởng phần mềm hay, hữu ích muốn làm. Bạn hăm hở háo hức làm một cách say mê, mong muốn ý tưởng nhanh chóng trở thành hiện thực. Thế rồi bạn không đủ thời gian, được dăm bữa nửa tháng, chán rồi vứt xó.
 tags:
  - bi-quyet-hoc-lap-trinh
