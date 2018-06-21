@@ -2,6 +2,7 @@
 title: Lập trình viên 10 tiếng
 category: Chuyện lập trình
 thumbnail: lap-trinh-vien-thumb.jpg
+cover: bug-programming.jpg
 excerpt: Là một lập trình viên, chắc hẳn bạn cũng có những ý tưởng phần mềm hay, hữu ích muốn làm. Bạn hăm hở háo hức làm một cách say mê, mong muốn ý tưởng nhanh chóng trở thành hiện thực. Thế rồi bạn không đủ thời gian, được dăm bữa nửa tháng, chán rồi vứt xó.
 tags:
  - bi-quyet-hoc-lap-trinh
@@ -37,6 +38,7 @@ Có bao giờ bạn lục lại đống code cũ, bạn nhận ra mình đã ngh
 
 Hãy thử "**Quy tắc làm phần mềm trong 10 tiếng**" của mình. Đây là cách mà mình bắt đầu ra được những sản phẩm nho nhỏ, tuyệt nhiên không còn dở dang project nào nữa.
 
+
 ## Làm phần mềm theo phong cách "tàu nhanh", bí kíp đã thất truyền của chị em Trần Duy Hưng.
 
 Với quy tắc này, tất cả những gì bạn cần làm là ngồi xuống, tắt hết facebook, điện thoại hay bất kỳ cái gì làm ảnh hưởng đến sự tập trung, và hiện thực hóa ý tưởng trong vòng 10 tiếng. Việc này giống như tự tổ chức một cuộc thi Hackathon cho chính mình vậy.
@@ -50,6 +52,8 @@ Với quy tắc này, tất cả những gì bạn cần làm là ngồi xuống
 - Nếu không đủ thời gian: không được để điều này sảy ra, bạn đã cam kết thì phải làm đúng hạn.
 
 - Bạn chỉ có 10 tiếng để biến ý tưởng của mình thành sự thật, nếu không, bạn sẽ phải vứt bỏ nó đi và không bao giờ được tiếp tục làm nữa.
+
+![Lập trình viên](images/bug-programming.jpg)
 
 ## Tại sao phương pháp này hiệu quả:
 
