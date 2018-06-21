@@ -61,7 +61,7 @@ Với quy tắc này, tất cả những gì bạn cần làm là ngồi xuống
 
 **Về mặt cảm xúc**:
 
-Cảm hứng ý tưởng nó mất dần đi theo thời gian, nhanh thích thì nhanh chán, 10 tiếng là đủ ngắn để bạn không bị tụt cảm xúc, chán rồi bỏ dở.
+Cảm hứng ý tưởng nó mất dần đi theo thời gian, nhanh thích thì nhanh chán, 10 tiếng là đủ ngắn để bạn không bị tụt cảm xúc. Một dự án cá nhân kéo dài với một list công việc cần phải làm chỉ cho bạn cảm giác nhanh chán nản mà bỏ dở mà thôi.
 
 **Có được sản phẩm**:
 
