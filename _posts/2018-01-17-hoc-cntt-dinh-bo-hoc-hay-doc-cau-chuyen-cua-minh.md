@@ -38,7 +38,7 @@ Dạo gần đây có rất nhiều tranh cãi xung quanh vấn đề bằng c�
 
 > Trước hết chúng ta xác định với nhau là, nếu bạn cho rằng "Không việc gì phải đọc bài viết vớ vẩn của một thằng không có trình độ đại học", hoặc là thằng này "không học nổi đại học" thì cũng được, không sao cả. Đây chỉ là những gì mình đã trải qua, mang giá trị tham khảo.
 
-Theo quan điểm của mình, nếu bạn muốn bỏ đại học, mình khuyên bạn hãy quay lại trường ngay lập tức, hoàn thành chương trình học và lấy tấm bằng, sẽ ngon lành hơn rất nhiều. Đừng có quá tin tưởng ngưỡng mộ các gương bỏ học mà thành công, số lượng đó nó ít lắm, họ đã giỏi sẵn rồi, có tốt nghiệp hay không thì họ vẫn thành công cả thôi.
+Theo quan điểm của mình, nếu bạn muốn bỏ đại học, mình khuyên bạn hãy quay lại trường ngay lập tức, hoàn thành chương trình học và lấy tấm bằng. Đừng có quá tin tưởng ngưỡng mộ các gương bỏ học mà thành công, số lượng đó nó ít lắm, họ đã giỏi sẵn rồi, có tốt nghiệp hay không thì họ vẫn thành công cả thôi.
 
 Ngành lập trình không quá quan trọng bằng cấp, các đơn vị tuyển dụng quan tâm nhiều đến khả năng của ứng viên có đáp ứng được yêu cầu của công việc hay không, tuy nhiên hãy cân nhắc khi bỏ đại học, sẽ có nhiều cái khổ mà bạn sẽ gặp phải đấy.
 
@@ -58,7 +58,7 @@ May cho mình là lúc đi xin việc, mình đã khá tự tin với kỹ năng
 
 **Khi đi làm**:
 
-Trong thời gian thử việc, người ta sẽ soi bạn nhiều hơn, hoặc ít ra bạn cảm thấy như thế, vì bạn vào đây bằng kinh nghiệm. Người ta có thể "sân siu" cho một bạn mới tốt nghiệp vì cho rằng "bạn ấy vừa tốt nghiệp, chưa có kinh nghiệm nhiều", nhưng với bạn thì không. Bạn thấy khổ chưa
+Trong thời gian thử việc, người ta sẽ soi bạn nhiều hơn, hoặc ít ra bạn cảm thấy như thế. Người ta có thể "sân siu" cho một bạn mới tốt nghiệp vì cho rằng "bạn ấy vừa tốt nghiệp, chưa có kinh nghiệm nhiều", nhưng với bạn thì không, vì bạn vào đây bằng kinh nghiệm.
 .
 ![Học tập](images/learn-boring.png)
 
@@ -70,7 +70,7 @@ Trên báo đài, internet nhan nhản các câu như: "Đại học không ph�
 
 Chương trình đại học được thiết kế để mô phỏng thực tế khi ra trường, tuy nó không thể đạt giống 100% nhưng nó cũng giúp bạn rất nhiều. Nó cung cấp cho bạn kiến thức nền tảng, khả năng tư duy và làm việc nhóm... những yếu tố rất cần thiết sau này, thu được kiến thức nhiều hay ít, đó là ở bạn.
 
-Nhiều bạn cho rằng chương trình học vẫn nặng lý thuyết, tính thực tiễn chưa cao, điều này có phần đúng. Tuy nhiên, chương trình vẫn đang được cải tiến rất nhiều, mình nhớ là thời mình học đại học, chưa có môn lập trình android như bây giờ, vì lúc đó android chưa được google mua lại nên chưa có người dùng. Chứng tỏ rằng chương trình đại học cũng được cải cách đổi mới để phù hợp với thực tiễn.
+Nhiều bạn cho rằng chương trình học vẫn nặng lý thuyết, tính thực tiễn chưa cao, điều này có phần đúng. Tuy nhiên, chương trình vẫn đang được cải tiến, mình nhớ là thời mình học đại học, chưa có môn lập trình android như bây giờ, vì lúc đó android chưa được google mua lại nên chưa có người dùng. Chứng tỏ rằng chương trình đại học cũng được cải cách đổi mới rất nhiều để phù hợp với thực tiễn.
 
 Tất cả là ở cách học của bạn, có một cái hay nữa đó là khi đang còn là sinh viên, bạn có thừa thời gian để tìm hiểu công nghệ mới, tự học những gì mà bạn cảm thấy thích và làm một cái gì đó có ích. Ý tưởng được bay cao hơn, là sinh viên, bạn không giàu, nhưng chưa phải lo nghĩ gì đến việc kiếm miếng cơm. Đó là quãng thời gian khá thú vị, thực tế là không ít các dự án phần mềm thành công là từ thời sinh viên, facebook chẳng hạn.
 
@@ -82,4 +82,4 @@ Giá trị của tấm bằng chính là nó tượng trưng cho quá trình b�
 
 Theo cách nhìn này, thì với một người học chỉ để có cái bằng, không chịu nâng cao kỹ năng bản thân, tấm bằng không có giá trị nhiều. Còn với một người khác, họ đã rất cố gắng trong quá trình học, không những học, họ còn chịu khó tìm hiểu nâng cao kiến thức, thì tấm bằng quả là có giá trị như vàng.
 
-Bỏ học không giúp bạn thành công, bỏ học chỉ thành công khi bạn có kế hoạch vững chắc, hãy thành công theo cách của bạn, mỗi người có một định nghĩa về thành công khác nhau, con đường đi đến thành công cũng khác nhau. Mình **strongly recommend** bạn đừng bỏ lỡ cơ hội được học, dù ở bất kỳ hoàn cảnh nào.
+Bỏ học không giúp bạn thành công, bỏ học chỉ thành công khi bạn có kế hoạch vững chắc, hãy suy nghĩ thật kỹ trước khi quyết định. Mỗi người có một định nghĩa về thành công khác nhau, con đường đi đến thành công cũng khác nhau, hãy thành công theo cách của bạn. Và để thành công bạn cần học hỏi không ngừng nghỉ, kể cả khi rời trường đại học, mình **strongly recommend** bạn đừng bỏ lỡ cơ hội được học, dù ở bất kỳ hoàn cảnh nào.
