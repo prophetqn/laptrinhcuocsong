@@ -73,7 +73,7 @@ Khi đưa ra ý tưởng, chúng ta có xu hướng thêm thắt nhiều tính n
 
 **Học được nhiều thứ**:
 
-Không tốn quá nhiều thời gian nhưng bạn học được kỹ năng dứt điểm dự án, quản lý cân đong thời gian,  không bỏ dở, rèn luyện phong cách  làm việc ra ngôn ra khoai...
+Không tốn quá nhiều thời gian nhưng bạn học được kỹ năng dứt điểm dự án, quản lý cân đong thời gian, không bỏ dở, rèn luyện phong cách làm việc kỷ luật, ra ngôn ra khoai...
 
 ## Cái con số 10 tiếng nghe có vẻ ngớ ngẩn
 
