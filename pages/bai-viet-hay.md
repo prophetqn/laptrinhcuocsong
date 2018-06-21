@@ -22,6 +22,8 @@ excerpt: Tổng hợp cập nhật các bài viết hay, được bạn đọc q
 
 [Kiếm tiền bằng lập trình web như thế nào?](http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html)
 
+[Lập trình viên 10 tiếng](http://laptrinhcuocsong.com/lap-trinh-vien-10-tieng.html)
+
 [Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi](http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html)
 
 [Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi - Phần 2](http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html)
