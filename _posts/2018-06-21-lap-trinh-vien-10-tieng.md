@@ -41,9 +41,11 @@ Hãy thử "**Quy tắc làm phần mềm trong 10 tiếng**" của mình. Đây
 
 ## Làm phần mềm theo phong cách "tàu nhanh", bí kíp đã thất truyền của chị em Trần Duy Hưng.
 
-Với quy tắc này, tất cả những gì bạn cần làm là ngồi xuống, tắt hết facebook, điện thoại hay bất kỳ cái gì làm ảnh hưởng đến sự tập trung, và hiện thực hóa ý tưởng trong vòng 10 tiếng. Việc này giống như tự tổ chức một cuộc thi Hackathon cho chính mình vậy.
+Với quy tắc này, tất cả những gì bạn cần làm là ngồi xuống và hiện thực hóa ý tưởng trong vòng 10 tiếng. Việc này giống như tự tổ chức một cuộc thi Hackathon cho chính mình vậy.
 
 **Những quy tắc quan trọng**:
+
+- Tắt hết facebook, điện thoại hay bất kỳ cái gì làm ảnh hưởng đến sự tập trung, chỉ có bạn và code.
 
 - Không quan trọng bạn làm như thế nào, dùng công nghệ gì, chỉ cần ra sản phẩm là được.
 
