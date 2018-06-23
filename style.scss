@@ -435,10 +435,14 @@ code.highlighter-rouge {
         margin-bottom: 5px;
         display: block;
         text-align: center;
+        background-color: #3e3e3e;
     }
     .prev-link:hover, .next-link:hover {
-        background-color: #9c9c9c;
+        background-color: #212121;
         color: white;
+        -webkit-transition: background-color 200ms linear;
+        -ms-transition: background-color 200ms linear;
+        transition: background-color 200ms linear;
     }
 }
 
