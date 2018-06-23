@@ -627,10 +627,16 @@ code.highlighter-rouge {
         }
     }
 
-    .post.post-detail h1 {
-        font-size: 20px;
-        line-height: 25px;
-        margin-bottom: 10px;
+    .post.post-detail {
+        h1 {
+            font-size: 24px;
+            line-height: 30px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 18px;
+            padding-bottom: 0px;
+        }
     }
     .post_thumbnail {
         margin-right: 10px;
