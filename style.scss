@@ -163,6 +163,12 @@ a:hover, a:active {
         color: #FEFEFE;
         padding: 10px 5px;
         font-size: 35px;
+        a {
+            color: #efefef;
+            &:hover {
+                color: #d4d4d4;
+            }
+        }
     }
     h2 {
         color: #FEFEFE;
