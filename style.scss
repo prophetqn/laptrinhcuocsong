@@ -445,39 +445,52 @@ code.highlighter-rouge {
     background: #2A2E31;
     color: white;
     border-top: 1px solid #e5e5e5;
-    padding: 20px 0px;
+    padding: 40px 0px;
     margin-top: 30px;
 }
 #footer {
     p {
         float: left;
     }
-    ul {
-        float: right;
-        li {
-            display: inline-block;
-            padding: 0px 20px;
-            &:last-child {
-                padding-right: 0px;
-                border-right: none;
-            }
-            a {
-                color: white;
-                font-size: 15px;
-                &:hover {
-                    color: black;
+    .box {
+        width: 24%;
+        float: left;
+        h4 {
+            font-size: 18px;
+            font-weight: 500;
+            color: white;
+            margin-bottom: 10px;
+        }
+        ul {
+            li {
+                a {
+                    padding: 9px 0px;
+                    color: #757575;
+                    font-size: 15px;
+                    display: inline-block;
+                    width: 100%;
+                    &:hover {
+                        color: white;
+                    }
                 }
             }
         }
     }
     .tag_cloud {
         margin-top: 20px;
+        color: #757575;
+        border-top: 1px solid #4e4e4e;
+        padding-top: 20px;
         h4 {
             margin-bottom: 20px;
+            color: white;
         }
         a {
-            color: white;
+            color: #757575;
             font-size: 12px;
+            &:hover {
+                color: white;
+            }
         }
     }
 }
@@ -514,13 +527,17 @@ code.highlighter-rouge {
         padding: 0px;
         margin-right: 0px;
     }
+    #footer {
+        padding: 10px;
+    }
     #footer p {
         float: none;
         text-align: center;
     }
+    .box {
+    }
     #footer ul {
         float: none;
-        text-align: center;
         margin-top: 15px;
         margin-bottom: 20px;    
     }
@@ -669,6 +686,34 @@ code.highlighter-rouge {
     .excerpt {
         line-height: 25px;
         font-size: 16px;
+    }
+
+    #footer {
+        .box {
+            width: 100%;
+            float: none;
+            padding: 10px;
+            h4 {
+                margin-bottom: 0px;
+            }
+            ul {
+                text-align: left;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                li {
+                    display: inline-block;
+                    a {
+                        padding: 5px;
+                    }
+                }
+            }
+        }
+    }
+    .tag_cloud {
+        padding: 10px;
+        h4 {
+            margin-bottom: 0px;
+        }
     }
 
 }
