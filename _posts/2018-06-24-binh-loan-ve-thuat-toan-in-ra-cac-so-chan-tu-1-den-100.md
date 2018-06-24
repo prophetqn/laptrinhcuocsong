@@ -52,7 +52,7 @@ Tại sao lại là lời giải tốt, mà không phải là lời giải đún
 
 ## Code chỉ là phù du, sản phẩm mới là quan trọng
 
-Có hàng tỉ cách để in ra được dãy số này, nhưng ai mà quan tâm cơ chứ? Cái mà người ta mong muốn là gì? Là chương trình in ra được dãy số trên. Là sản phẩm, chứ không phải code hay thuật toán gì cả. Như blogger Hoàng code dạo đã viết "[Éo ai quan tâm đến code của bạn đâu](https://toidicodedao.com/2015/05/21/eo-ai-quan-tam-den-code-ban-viet-dau/)".
+Có hàng tỉ cách để in ra được dãy số này, nhưng ai mà quan tâm cơ chứ? Cái mà người ta mong muốn là gì? Là chương trình in ra được dãy số trên. Là sản phẩm, chứ không phải code hay thuật toán gì cả. Như blogger Hoàng code dạo đã viết "[Éo ai quan tâm đến code bạn viết đâu](https://toidicodedao.com/2015/05/21/eo-ai-quan-tam-den-code-ban-viet-dau/)".
 
 ## Hiệu năng và giá trị
 
