@@ -111,7 +111,7 @@ videos:
     id: xfcDMzcqdZ4
 ---
 
-Các video chia sẻ về lập trình, đời sống lập trình viên trên [Lập Trình Viên TV](https://youtube.com/laptrinhvientv), kênh youtube chính thức của Lập trình cuộc sống chấm com
+Các video chia sẻ về lập trình, đời sống lập trình viên trên [Lập Trình Viên TV](https://www.youtube.com/laptrinhvientv?sub_confirmation=1), kênh youtube chính thức của Lập trình cuộc sống chấm com
 
 <div id="videos">
   {% for video in page.videos %}
