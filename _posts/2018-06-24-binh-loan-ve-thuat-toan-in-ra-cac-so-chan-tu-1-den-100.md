@@ -56,7 +56,7 @@ Có hàng tỉ cách để in ra được dãy số này, nhưng ai mà quan tâ
 
 ## Hiệu năng và giá trị
 
-Có thể cách giải trên có vẻ không thông minh cho lắm, nhưng nếu đây là một sản phẩm thực tế, tối sẽ cho nó điểm 10, rõ ràng rằng chương trình đã làm tốt nhiệm vụ, tối ưu về tốc độ, ít (hoặc không có) lỗi phát sinh, sản phẩm dùng tốt đối với khách hàng, mang lại giá trị thực tế.
+Có thể cách giải trên có vẻ không thông minh cho lắm, nhưng nếu đây là một sản phẩm thực tế, tôi sẽ cho nó điểm 10, rõ ràng rằng chương trình đã làm tốt nhiệm vụ, tối ưu về tốc độ, ít (hoặc không có) lỗi phát sinh, sản phẩm dùng tốt đối với khách hàng, mang lại giá trị thực tế.
 
 ## Đây là phương án phù hợp
 
