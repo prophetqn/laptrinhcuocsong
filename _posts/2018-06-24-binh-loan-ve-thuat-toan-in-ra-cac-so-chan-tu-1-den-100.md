@@ -17,21 +17,21 @@ related_videos:
     title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
     id: eZKyRRw3Hcs
   -
-    title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
-    id: aYA_Jsoe-jM
+    title: Vừa rửa bát vừa nói chuyện lập trình
+    id: J7-eT2TnLVU
   -
     title: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
     id: NSd4DPxHv3c
 
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: 
    link: http://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/dieu-gi-se-xay-ra-neu-ta-ve-1-trieu-div-len-man-hinh.html
+   link: http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
  - title:
-   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-10-tieng.html
 ---
 
 Hãy viết chương trình in ra các số chẵn trong khoảng từ 1 đến 100. Đây là một bài tập rất cơ bản và không hề khó đối với những người mới học lập trình.
