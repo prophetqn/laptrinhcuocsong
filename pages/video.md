@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Video trên kênh youtube của Lập Trình Cuộc Sống
+title: Video trên kênh youtube
 permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
 videos:
