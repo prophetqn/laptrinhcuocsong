@@ -68,5 +68,5 @@ Mặc dù diện tích tờ giấy làm bài thi là có hạn, nhưng nó đủ
 
 Về thời gian hoàn thành dự án, thời gian làm bài đủ để viết dãy số trên. Do đó, đây là một phương án tốt đảm bảo tiến độ trước deadline.
 
-Bạn nghĩ sao về bài thi này? Hãy để lại comment ở bên dưới.
+Hi vọng bài viết này đã cho bạn một cái nhìn mới, bạn nghĩ sao về bài thi này? Hãy để lại comment ở bên dưới.
 
