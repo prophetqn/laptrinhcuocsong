@@ -62,7 +62,11 @@ Có thể cách giải trên có vẻ không thông minh cho lắm, nhưng nếu
 
 Sau khi xem ảnh trên, một số bạn comment rằng: "Thế nếu là 10.000 thì viết đến sáng à"
 
-Không, nếu như bài toán là 10.000, chúng ta sẽ chọn phương án khác, các phương án đưa ra phải phù hợp với điều kiện và khả năng thực tế. Mặc dù tờ giấy làm bài thi là có hạn, nhưng nó đủ để đáp ứng trong trường hợp này, thời gian làm bài đủ để viết dãy số trên. Do đó, đây là một phương án tốt đảm bảo tiến độ trước deadline.
+Không, nếu như bài toán là 10.000, chúng ta sẽ chọn phương án khác, các phương án đưa ra phải phù hợp với điều kiện và khả năng thực tế.
+
+Mặc dù diện tích tờ giấy làm bài thi là có hạn, nhưng nó đủ để đáp ứng trong trường hợp này. Liên hệ với thực tiễn, chẳng việc gì phải sử dụng NoSql database cho một bảng chỉ có 100 record cả.
+
+Về thời gian hoàn thành dự án, thời gian làm bài đủ để viết dãy số trên. Do đó, đây là một phương án tốt đảm bảo tiến độ trước deadline. Vì thế, đây là một phương án phù hợp.
 
 Bạn nghĩ sao về bài thi này? Hãy để lại comment ở bên dưới.
 
