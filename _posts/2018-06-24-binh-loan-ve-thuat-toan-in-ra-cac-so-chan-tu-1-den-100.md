@@ -44,7 +44,7 @@ Có thể chương trình trên chỉ mang tính chất hài hước, mang nặn
 
 ## Nếu đây là một dự án thực tế
 
-Hãy tưởng tượng có một ông khách giàu sụ đến và bảo bạn rằng "Hãy viết cho tôi chương trình in ra các số chẵn trong khoảng từ 1 đến 100, hoàn thành trong 01 ngày, tôi sẽ trả cho anh 1000 đô". Và tất nhiên, bạn không thể để lỡ kèo thơm như thế được.
+Hãy tưởng tượng có một ông khách giàu sụ đến và bảo bạn rằng "Viết cho tôi chương trình in ra các số chẵn trong khoảng từ 1 đến 100, hoàn thành trong 01 ngày, tôi sẽ trả cho anh 1000 đô". Và tất nhiên, bạn không thể để lỡ kèo thơm như thế được.
 
 ## Mình cho rằng đây là một lời giải tốt
 
