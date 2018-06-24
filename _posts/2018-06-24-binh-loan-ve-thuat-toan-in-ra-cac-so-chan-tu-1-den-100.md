@@ -40,7 +40,7 @@ Hãy viết chương trình in ra các số chẵn trong khoảng từ 1 đến 
 
 ![thuật toán in ra các số chẵn trong khoảng từ 1 đến 100](images/code-tren-giay.jpg)
 
-Có thể chương trình trên chỉ mang tính chất hài hước, cách giải có vẻ không thông minh cho lắm, tuy nhiên chúng ta sẽ phân tích dưới góc nhìn thực tế.
+Có thể chương trình trên chỉ mang tính chất hài hước, mang nặng tinh thần chống đối, tuy nhiên chúng ta sẽ phân tích theo một cách khác, dưới góc nhìn thực tế.
 
 ## Nếu đây là một dự án thực tế
 
@@ -56,7 +56,7 @@ Có hàng tỉ cách để in ra được dãy số này, nhưng ai mà quan tâ
 
 ## Hiệu năng và giá trị
 
-Nếu đây là một sản phẩm thực tế, chương trình đã làm tốt nhiệm vụ, tối ưu tốc độ, ít (hoặc không có) lỗi phát sinh, sản phẩm dùng tốt đối với khách hàng, mang lại giá trị thực tế.
+Có thể cách giải trên có vẻ không thông minh cho lắm, nhưng nếu đây là một sản phẩm thực tế, tối sẽ cho nó điểm 10, vì chương trình đã làm tốt nhiệm vụ, tối ưu tốc độ, ít (hoặc không có) lỗi phát sinh, sản phẩm dùng tốt đối với khách hàng, mang lại giá trị thực tế.
 
 ## Phương án phù hợp
 
