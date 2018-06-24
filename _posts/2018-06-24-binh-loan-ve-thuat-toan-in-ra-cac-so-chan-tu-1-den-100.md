@@ -48,7 +48,7 @@ Có một ông khách giàu sụ đến và bảo bạn rằng "Hãy viết cho 
 
 ## Mình cho rằng đây là một lời giải tốt
 
-Tại sao lại là lời giải tốt, mà không phải là lời giải đúng? Bởi vì trong trường học, nếu bạn đưa ra lời giải đúng bạn sẽ được điểm cao. Nhưng trong thực tế, cùng một vấn đề có rất nhiều cách để giải quyết, và không có phương án nào là đúng tuyệt đối cả, chỉ có cách giải quyết này tốt hơn cách kia mà thôi.
+Tại sao lại là lời giải tốt, mà không phải là lời giải đúng? Bởi vì trong trường học, nếu bạn đưa ra lời giải đúng bạn sẽ được điểm cao. Nhưng trong thực tế, cùng một vấn đề có rất nhiều cách để giải quyết, và không có phương án nào là đúng tuyệt đối cả, chỉ có phương án này tốt hơn cách kia mà thôi.
 
 ## Code chỉ là phù du, sản phẩm mới là quan trọng
 
