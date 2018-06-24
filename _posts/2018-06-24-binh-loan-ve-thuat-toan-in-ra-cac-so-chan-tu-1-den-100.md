@@ -7,7 +7,7 @@ cover: code-tren-giay.jpg
 tags:
  - bi-quyet-hoc-lap-trinh
  - nhung-dieu-co-ban-ve-lap-trinh
-experpt: Bình loạn về thuật toán in ra các số chẵn trong khoảng từ 1 đến 100
+experpt: Hãy viết chương trình in ra các số chẵn trong khoảng từ 1 đến 100. Đây là một bài tập rất cơ bản với những người mới học lập trình, nó không hề khó, thậm chí dễ như ăn kẹo.
 
 related_videos:
   -
@@ -34,7 +34,7 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-10-tieng.html
 ---
 
-Hãy viết chương trình in ra các số chẵn trong khoảng từ 1 đến 100. Đây là một bài tập rất cơ bản và không hề khó đối với những người mới học lập trình.
+Hãy viết chương trình in ra các số chẵn trong khoảng từ 1 đến 100. Đây là một bài tập rất cơ bản với những người mới học lập trình, nó không hề khó, thậm chí dễ như ăn kẹo.
 
 Đây là cách giải:
 
