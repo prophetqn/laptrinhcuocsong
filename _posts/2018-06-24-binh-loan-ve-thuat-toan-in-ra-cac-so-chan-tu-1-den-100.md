@@ -40,7 +40,7 @@ Hãy viết chương trình in ra các số chẵn trong khoảng từ 1 đến 
 
 ![thuật toán in ra các số chẵn trong khoảng từ 1 đến 100](images/code-tren-giay.jpg)
 
-Có thể chương trình trên chỉ mang tính chất hài hước, tuy nhiên chúng ta sẽ phân tích dưới góc nhìn thực tế.
+Có thể chương trình trên chỉ mang tính chất hài hước, cách giải có vẻ không thông minh cho lắm, tuy nhiên chúng ta sẽ phân tích dưới góc nhìn thực tế.
 
 ## Nếu đây là một dự án thực tế
 
@@ -52,7 +52,7 @@ Tại sao lại là lời giải tốt, mà không phải là lời giải đún
 
 ## Code chỉ là phù du, sản phẩm mới là quan trọng
 
-Có hàng tỉ cách để in ra được dãy số này, nhưng ai mà quan tâm cơ chứ? Cái mà người ta mong muốn là gì? Là chương trình in ra được dãy số trên. Là sản phẩm, chứ không phải code hay thuật toán gì cả. Như blogger Hoàng code dạo đã viết "Éo ai quan tâm đến code của bạn đâu".
+Có hàng tỉ cách để in ra được dãy số này, nhưng ai mà quan tâm cơ chứ? Cái mà người ta mong muốn là gì? Là chương trình in ra được dãy số trên. Là sản phẩm, chứ không phải code hay thuật toán gì cả. Như blogger Hoàng code dạo đã viết "[Éo ai quan tâm đến code của bạn đâu](https://toidicodedao.com/2015/05/21/eo-ai-quan-tam-den-code-ban-viet-dau/)".
 
 ## Hiệu năng và giá trị
 
