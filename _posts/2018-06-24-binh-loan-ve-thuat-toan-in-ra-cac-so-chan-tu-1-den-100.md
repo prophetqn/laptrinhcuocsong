@@ -62,5 +62,5 @@ Có thể cách giải trên có vẻ không thông minh cho lắm, nhưng nếu
 
 Sau khi xem ảnh trên, một số bạn comment rằng: "Thế nếu là 10.000 thì viết đến sáng à"
 
-Không, nếu như bài toán là 10.000, chúng ta sẽ làm theo phương án khác, các phương án đưa ra phải phù hợp với điều kiện và khả năng thực tế của công ty. Tờ giấy làm bài thi có hạn, nhưng nó đủ để đáp ứng trong trường hợp này, thời gian làm bài đủ để viết dãy số trên. Do đó, đây là một phương án tốt đảm bảo tiến độ trước deadline.
+Không, nếu như bài toán là 10.000, chúng ta sẽ chọn phương án khác, các phương án đưa ra phải phù hợp với điều kiện và khả năng thực tế của công ty. Tờ giấy làm bài thi có hạn, nhưng nó đủ để đáp ứng trong trường hợp này, thời gian làm bài đủ để viết dãy số trên. Do đó, đây là một phương án tốt đảm bảo tiến độ trước deadline.
 
