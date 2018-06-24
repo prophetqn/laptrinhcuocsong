@@ -113,6 +113,8 @@ videos:
 
 # Video trên youtube
 
+Các video về lập trình, đời sống lập trình viên trên kênh youtube của Lập trình cuộc sống chấm com
+
 <div id="videos">
   {% for video in page.videos %}
   <div class="video">
