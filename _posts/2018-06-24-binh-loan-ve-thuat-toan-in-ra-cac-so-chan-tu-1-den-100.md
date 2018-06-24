@@ -44,7 +44,7 @@ Có thể chương trình trên chỉ mang tính chất hài hước, mang nặn
 
 ## Nếu đây là một dự án thực tế
 
-Có một ông khách giàu sụ đến và bảo bạn rằng "Hãy viết cho tôi chương trình in ra các số chẵn trong khoảng từ 1 đến 100, tôi sẽ trả cho anh 1000 đô".
+Hãy tưởng tượng có một ông khách giàu sụ đến và bảo bạn rằng "Hãy viết cho tôi chương trình in ra các số chẵn trong khoảng từ 1 đến 100, hoàn thành trong 01 ngày, tôi sẽ trả cho anh 1000 đô".
 
 ## Mình cho rằng đây là một lời giải tốt
 
