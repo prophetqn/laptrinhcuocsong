@@ -40,7 +40,7 @@ Hãy viết chương trình in ra các số chẵn trong khoảng từ 1 đến 
 
 ![thuật toán in ra các số chẵn trong khoảng từ 1 đến 100](images/code-tren-giay.jpg)
 
-Có thể chương trình trên chỉ mang tính chất hài hước, mang nặng tinh thần chống đối, tuy nhiên chúng ta sẽ phân tích theo một cách khác, dưới góc nhìn thực tế.
+Có thể chương trình trên chỉ mang tính chất hài hước, mang nặng tinh thần chống đối. Sau khi đăng ảnh này lên facebook, đã có rất nhiều ý kiến chê bai kiểu như "thằng trâu bò" hoặc "Đề bài mà yêu cầu đến 10.000 thì viết đến sáng à?". Tuy nhiên chúng ta sẽ phân tích theo một cách khác, dưới góc nhìn thực tế.
 
 ## Nếu đây là một dự án thực tế
 
