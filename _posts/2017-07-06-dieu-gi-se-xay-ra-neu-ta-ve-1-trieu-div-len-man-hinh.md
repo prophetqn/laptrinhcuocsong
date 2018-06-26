@@ -27,8 +27,8 @@ $image = imagecreatefromjpeg('image.jpg');
 $image_width = imagesx($image);
 $image_height = imagesy($image);
 
-for($y = 0; $y < $image_width; $y++){
-	for($x = 0; $x < $image_height; $x++){
+for($y = 0; $y < $image_height; $y++){
+	for($x = 0; $x < $image_width; $x++){
 		$rgb = imagecolorat($image, $x, $y);
 		$color = imagecolorsforindex($image, $rgb);
 		echo '<div style="background-color: rgb('.$color['red'].','.$color['green'].','.$color['blue'].')"></div>';
