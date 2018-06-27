@@ -18,6 +18,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
+related_videos:
+  -
+    title: Python làm được gì? Có nên học ngôn ngữ lập trình Python không? 
+    id: 278ig6WPjiI
+  -
+    title: Phỏng vấn php người ta thường hỏi những câu hỏi gì?
+    id: oHPvmdny9QM
+  -
+    title: Khi đi làm php người ta dùng những công cụ gì? 
+    id: fOFKwV7OW7U
+  -
+    title: Crush nhờ cài win thì phải làm gì? 
+    id: AecrHFq_9BI
 ---
 Làm gì cũng phải có công cụ, tất nhiên rồi, bạn không thể tạo ra một trang web bằng tay không. Nếu bạn là một web developer, những món "đồ nghề" sau đây sẽ giúp ích rất nhiều cho bạn, đây là những công cụ mà mình đang thường xuyên sử dụng trong công việc hàng ngày.
 

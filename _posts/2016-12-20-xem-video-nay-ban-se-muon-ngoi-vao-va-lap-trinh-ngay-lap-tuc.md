@@ -16,6 +16,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title: 
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
+related_videos:
+  -
+    title: Crush nhờ cài win thì phải làm gì? 
+    id: AecrHFq_9BI
+  -
+    title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
+    id: zNCk6jctVW8
+  -
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
+  -
+    title: Tạo blog nhanh chóng miễn phí với github
+    id: CpmE5RTpPwQ
 ---
 
 Một phóng sự của VTV, thật sự là xem lại 2 lần video này vẫn còn thấy lâng lâng. Giọng đọc hào hùng làm mình thấy sao mà tự hào quá, một nền công nghiệp của tri thức, vĩ mô, thân thiện với môi trường và theo kịp xu thế thời đại.

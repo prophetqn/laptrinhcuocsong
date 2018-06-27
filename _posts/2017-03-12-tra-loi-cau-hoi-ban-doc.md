@@ -28,9 +28,6 @@ related_videos:
   -
     title: Làm product và làm outsource khác nhau như thế nào?
     id: pAMh5j53BXI
-  -
-    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
-    id: N0K7ZONRs6w
 ---
 
 Vừa rồi mình vừa có một buổi live stream trò chuyện cùng bạn đọc Lập Trình Cuộc Sống trên facebook. Một stream đặc biệt, nơi tất cả bạn đọc có thể nói chuyện với nhau thoải mái, chia sẻ những kinh nghiệm, buồn vui trong nghề. Thu hút hơn 2 nghìn lượt xem và hàng trăm bình luận, mình hiểu rằng các bạn rất quan tâm và có rất nhiều băn khoăn, nhất là các bạn sinh viên.

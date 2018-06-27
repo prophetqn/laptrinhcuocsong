@@ -14,6 +14,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
    link: http://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
+related_videos:
+  -
+    title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
+    id: Zo8pGBDi6SA
+  -
+    title: Python làm được gì? Có nên học ngôn ngữ lập trình Python không? 
+    id: 278ig6WPjiI
+  -
+    title: Phỏng vấn php người ta thường hỏi những câu hỏi gì?
+    id: oHPvmdny9QM
+  -
+    title: Khi đi làm php người ta dùng những công cụ gì? 
+    id: fOFKwV7OW7U
 ---
 
 Chắc hẳn bạn thấy rất nhiều trang web cung cấp cho người dùng những url như thế này: `username.tenmien.com` trong đó username là do người dùng tự chọn. Những sub-domain kiểu này trông rất thân thiện và chuyên nghiệp, rất tuyệt vời phải không? Mình rất thích những trang web như thế, và trong bài viết này, chúng ta sẽ làm tính năng tương tự.

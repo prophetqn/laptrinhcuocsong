@@ -20,6 +20,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: 
    link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
+related_videos:
+  -
+    title: Thiết kế website cá nhân trên photoshop
+    id: 9RQkB365RwQ
+  -
+    title: Sinh viên IT ngày xưa như thế nào? Dùng máy tính mạnh không?
+    id: ClsOD7jAsQ4
+  -
+    title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
+    id: 0UO9UKjVQ68
+  -
+    title: Troll zero9 - Lập trình viên nghĩ gì khi xem clip của zero9 
+    id: xsI6r6zYTp0
 ---
 
 Khi mới học lập trình, các bạn thường hỏi ngôn ngữ nào dễ học, có hàng tá ngôn ngữ làm bạn bối rối, không biết bắt đầu với cái nào để dễ dàng tiếp cận hơn. Tuy nhiên mình nghĩ rằng việc lựa chọn [nên học ngôn ngữ lập trình nào](http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html) là không quá quan trọng.

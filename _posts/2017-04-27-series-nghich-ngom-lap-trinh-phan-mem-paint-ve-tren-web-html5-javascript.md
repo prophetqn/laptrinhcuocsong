@@ -16,6 +16,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title:
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
+related_videos:
+  -
+    title: Khi đi làm php người ta dùng những công cụ gì? 
+    id: fOFKwV7OW7U
+  -
+    title: Crush nhờ cài win thì phải làm gì? 
+    id: AecrHFq_9BI
+  -
+    title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
+    id: zNCk6jctVW8
+  -
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
 ---
 Lập trình phần mềm vẽ là một trong những đề tài mà hầu hết các bạn đang học IT muốn làm, bởi vì nó rất thú vị. Hiểu đơn giản nó giống phần mềm paint của windows, người dùng có thể chọn màu, chọn độ dày nét bút và vẽ tự do lên đó.
 

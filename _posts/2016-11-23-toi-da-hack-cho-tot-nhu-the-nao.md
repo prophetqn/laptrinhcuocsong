@@ -17,6 +17,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
  - title: 
    link: http://laptrinhcuocsong.com/huong-dan-giai-whitehat-wargame-web-security-bai-1-den-bai-4.html
+related_videos:
+  -
+    title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
+    id: 0UO9UKjVQ68
+  -
+    title: Troll zero9 - Lập trình viên nghĩ gì khi xem clip của zero9 
+    id: xsI6r6zYTp0
+  -
+    title: Gặp bug thì làm gì? Lập trình viên chiến đấu với bọn tester như thế nào? 
+    id: wFQ1h8RNcEs
+  -
+    title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
+    id: Zo8pGBDi6SA
 ---
 
 Hôm nay thử dạo một vòng Chợ Tốt kiếm mấy món hàng cũ, thì phát hiện lỗi XSS, đây là lỗi không mới, cách thức tấn công cũng đơn giản, nhưng nhiều khi cần rất nhiều sáng tạo trong quá trình khai thác.

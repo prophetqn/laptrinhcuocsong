@@ -15,6 +15,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
  - title: 
    link: http://laptrinhcuocsong.com/tang-5-dolar-wcx-coin-tien-ao-chi-dung-sau-bitcoin.html
+related_videos:
+  -
+    title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?
+    id: ypY1YU_zJAM
+  -
+    title: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
+    id: NSd4DPxHv3c
+  -
+    title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
+    id: eZKyRRw3Hcs
+  -
+    title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
+    id: aYA_Jsoe-jM
 ---
 Bạn là web developer trên ngôn ngữ php và muốn sử dụng ubuntu trong công việc của mình. Ubuntu hoàn toàn có đủ khả năng và hỗ trợ tốt công việc của bạn. Trong bài viết này mình sẽ giới thiệu cách thiết lập môi trường cho lập trình viên web trên ubuntu.
 

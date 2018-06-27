@@ -12,6 +12,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
+related_videos:
+  -
+    title: Thiết kế website cá nhân trên photoshop
+    id: 9RQkB365RwQ
+  -
+    title: Sinh viên IT ngày xưa như thế nào? Dùng máy tính mạnh không?
+    id: ClsOD7jAsQ4
+  -
+    title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
+    id: 0UO9UKjVQ68
+  -
+    title: Troll zero9 - Lập trình viên nghĩ gì khi xem clip của zero9 
+    id: xsI6r6zYTp0
 ---
 
 Khi cắt giao diện html/css chúng ta luôn được dạy rằng phải sử dụng ít thẻ html nhất có thể nhằm tăng tốc độ khi trình duyệt render mã html, số lượng thẻ html ít hơn thì trình duyệt sẽ không phải tính toán chiều rộng, chiều cao, màu sắc... của các element không cần thiết, từ đó tăng tốc độ hiển thị trang web. Trong series nghịch ngợm (nghịch dại) lần này, chúng ta sẽ cùng thử nghiệm khả năng xử lý của trình duyệt chrome bằng cách vẽ 1 triệu thẻ div lên màn hình.

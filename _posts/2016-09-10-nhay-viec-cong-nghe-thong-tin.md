@@ -18,6 +18,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
  - title:
    link: http://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
+related_videos:
+  -
+    title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
+    id: Zo8pGBDi6SA
+  -
+    title: Python làm được gì? Có nên học ngôn ngữ lập trình Python không? 
+    id: 278ig6WPjiI
+  -
+    title: Phỏng vấn php người ta thường hỏi những câu hỏi gì?
+    id: oHPvmdny9QM
+  -
+    title: Khi đi làm php người ta dùng những công cụ gì? 
+    id: fOFKwV7OW7U
 ---
 Tôi quyết định nhảy việc, tôi đã xin nghỉ công việc hiện tại để đi tìm một chỗ làm mới phù hợp hơn. Một chút ghi lại, bởi đây là một quyết định khó khăn nhất mà tôi đã từng trải qua.
 

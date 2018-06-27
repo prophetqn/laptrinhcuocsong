@@ -14,6 +14,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
  - title:
    link: http://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
+related_videos:
+  - 
+    title: Một giờ trong đời của lập trình viên (speed 6x)
+    id: jwuxH1BeNG0
+  -
+    title: Live stream hướng dẫn lập trình game hứng trứng
+    id: reN5y17YzCI
+  -
+    title: Lập trình phần mềm paint trên web
+    id: pDSxzvyJ6k8
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
 ---
 
 Tech Expo được xem là sự kiện tuyển dụng công nghệ lớn nhất Việt Nam có sự tham gia của các đơn vị hàng đầu trong lĩnh vực công nghệ thông tin và truyền thông. Với nhiều các hoạt động: tuyển dụng, hội thảo và trình diễn công nghệ, Tech Expo năm thứ 2 đã thu hút hàng nghìn lập trình viên tham dự.

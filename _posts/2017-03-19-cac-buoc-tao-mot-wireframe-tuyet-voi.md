@@ -13,6 +13,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
  - title:
    link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+related_videos:
+  -
+    title: Nghề lập trình - tiền hay đam mê
+    id: bLC6yA73lFw
+  -
+    title: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
+    id: bJqNTFSnNa0
+  -
+    title: Làm product và làm outsource khác nhau như thế nào?
+    id: pAMh5j53BXI
+  -
+    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+    id: N0K7ZONRs6w
 ---
 Wireframe là bản phác thảo thô mô tả tổng quan về sản phẩm cuối cùng, việc vẽ wireframe là một bước quan trọng trong quy trình phát triển phần mềm. Wireframe giúp dễ dàng truyền đạt ý tưởng tăng hiệu quả giao tiếp giữa các thành viên trong team, từ đó giảm chi phí và thời gian cho toàn bộ dự án.
 

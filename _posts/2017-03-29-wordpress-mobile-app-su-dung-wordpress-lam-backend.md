@@ -14,6 +14,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
    link: http://laptrinhcuocsong.com/dieu-gi-se-xay-ra-neu-ta-ve-1-trieu-div-len-man-hinh.html
+related_videos:
+  -
+    title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
+    id: zNCk6jctVW8
+  -
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
+  -
+    title: Tạo blog nhanh chóng miễn phí với github
+    id: CpmE5RTpPwQ
+  -
+    title: Phỏng vấn xin việc IT như thế nào? 
+    id: GaMExVaxHc8
 ---
 Trong series này mình sẽ cùng các bạn lập trình ứng dụng mobile (android, ios) với backend sử dụng website wordpress. Trong thời buổi kết nối di động, có một ứng dụng mobile dành riêng cho website, blog sẽ làm nội dung của bạn tiếp cận người dùng nhanh hơn, tiện hơn. Giống như facebook có ứng dụng facebook, haivl có ứng dụng haivl, chúng ta cũng sẽ làm như họ.
 

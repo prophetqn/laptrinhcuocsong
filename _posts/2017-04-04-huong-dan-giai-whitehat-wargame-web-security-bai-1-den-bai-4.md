@@ -17,6 +17,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title:
    link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
+related_videos:
+  -
+    title: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
+    id: bJqNTFSnNa0
+  -
+    title: Làm product và làm outsource khác nhau như thế nào?
+    id: pAMh5j53BXI
+  -
+    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+    id: N0K7ZONRs6w
+  -
+    title: Đang code mà buồn tè thì làm thế nào?
+    id: 5lkDOd8PKHc
 ---
 WhiteHat WarGame là trang web hacking test của diễn đàn hacker mũ trắng Việt Nam do sếp Quảng nhà ta tạo ra :) được thiết kế dạng capture the flag (CTF) với nhiều cấp độ từ dễ đến khó. Rất hữu ích cho các bạn mới tìm hiểu về lĩnh vực bảo mật thông tin. Trong bài viết này mình sẽ hướng dẫn các bạn giải từ bài 1 đến bài 4 của web security challenge.
 

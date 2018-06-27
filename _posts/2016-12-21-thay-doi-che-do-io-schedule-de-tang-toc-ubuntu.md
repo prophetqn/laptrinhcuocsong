@@ -16,6 +16,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-tren-ubuntu-cac-phan-mem-web-developer-can-cai-dat.html
  - title: 
    link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
+related_videos:
+  -
+    title: Lập trình phần mềm paint trên web
+    id: pDSxzvyJ6k8
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
+  -
+    title: Làm game html5 đơn giản
+    id: kuwn8vkmqyM
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
 ---
 
 IO scheduling là cách thức mà hệ điều hành quyết định thứ tự các khối lệnh vào/ra sẽ được chuyển đến bộ nhớ lưu trữ. Mặc định ubuntu 14.04 sử dụng chế độ deadline, đây không phải là chế độ đạt tốc độ cao nhất mà ổ cứng hỗ trợ, tuy nhiên chúng ta có thể thay đổi chế độ này để đạt hiệu quả cao nhất cho ubuntu.

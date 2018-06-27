@@ -12,6 +12,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title:
    link: http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html
+related_videos:
+  -
+    title: Lập trình phần mềm paint trên web
+    id: pDSxzvyJ6k8
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
+  -
+    title: Làm game html5 đơn giản
+    id: kuwn8vkmqyM
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
 ---
 Cùng với sự phát triển của các thiết bị di động, lượng người sử dụng smartphone và máy tính bảng để truy cập internet ngày càng tăng. Do đó việc test một website trên thiết bị di động trước khi xuất bản nó là rất quan trọng và cần thiết.
 

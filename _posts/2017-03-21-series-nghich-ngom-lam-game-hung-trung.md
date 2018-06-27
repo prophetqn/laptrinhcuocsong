@@ -20,6 +20,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
  - title: 
    link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+related_videos:
+  -
+    title: Lập trình phần mềm paint trên web
+    id: pDSxzvyJ6k8
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
+  -
+    title: Làm game html5 đơn giản
+    id: kuwn8vkmqyM
+  -
+    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
+    id: xfcDMzcqdZ4
 ---
 
 Những lúc rảnh rỗi không có việc gì làm, gấu thì chưa có, mình hay live stream để code mấy thứ linh tinh cùng các bạn trên page facebook cùng xem. Lần này mình làm một cái game cổ điển đơn giản, chắc hẳn các bạn cũng đã chơi qua rồi.

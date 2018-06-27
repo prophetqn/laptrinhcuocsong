@@ -15,6 +15,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
    link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+related_videos:
+  -
+    title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
+    id: Zo8pGBDi6SA
+  -
+    title: Python làm được gì? Có nên học ngôn ngữ lập trình Python không? 
+    id: 278ig6WPjiI
+  -
+    title: Phỏng vấn php người ta thường hỏi những câu hỏi gì?
+    id: oHPvmdny9QM
+  -
+    title: Khi đi làm php người ta dùng những công cụ gì? 
+    id: fOFKwV7OW7U
 ---
 Nếu bạn có ý định phát hành code php của mình ra cộng đồng, hãy nghĩ đến việc tạo cho nó tính năng tự động cập nhật phiên bản ngay từ khi bắt đầu. Bởi vì khi code đã được sử dụng, việc nâng cấp là hết sức khó khăn với người dùng, phải copy đè file này file kia, chạy câu lệnh này câu lệnh kia cực kỳ phiền phức và dễ sai sót.
 

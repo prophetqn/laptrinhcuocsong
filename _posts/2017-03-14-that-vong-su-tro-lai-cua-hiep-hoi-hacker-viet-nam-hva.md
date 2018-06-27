@@ -15,6 +15,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title: 
    link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
+related_videos:
+  -
+    title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
+    id: N0K7ZONRs6w
+  -
+    title: Đang code mà buồn tè thì làm thế nào?
+    id: 5lkDOd8PKHc
+  -
+    title: Lập trình viên và chuyện tình yêu, chia tay, buồn, cắm đầu vào code
+    id: Nbu8tBtef3c
+  -
+    title: Live stream - backend hay frontend dễ kiếm việc làm hơn
+    id: VvPv9kiB01A
 ---
 Trong khi cả nước đang xôn xao vụ [tin tặc 15 tuổi tấn công hàng loạt sân bay](http://news.zing.vn/tin-tac-tan-cong-hang-loat-website-san-bay-moi-15-tuoi-post727665.html) thì hôm qua (14/03/2017) hiệp hội hacker Việt Nam đã bất ngờ tuyên bố trở lại với cái tên HVA Zone sau gần 3 năm kể từ khi diễn đàn HVA đóng cửa, chuyển sang trạng thái read-only.
 

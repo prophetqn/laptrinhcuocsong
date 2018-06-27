@@ -16,6 +16,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
    link: http://laptrinhcuocsong.com/trong-ban-se-cool-hon-trong-mat-nha-tuyen-dung.html
+related_videos:
+  -
+    title: Thiết kế website cá nhân trên photoshop
+    id: 9RQkB365RwQ
+  -
+    title: Sinh viên IT ngày xưa như thế nào? Dùng máy tính mạnh không?
+    id: ClsOD7jAsQ4
+  -
+    title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
+    id: 0UO9UKjVQ68
+  -
+    title: Troll zero9 - Lập trình viên nghĩ gì khi xem clip của zero9 
+    id: xsI6r6zYTp0
 ---
 Bạn không biết phải làm gì, đáng lẽ nó phải hoàn thành sớm hơn bạn nghĩ, bạn bị nhấn chìm bởi những ý nghĩ tiêu cực bao quanh, những ý nghĩ kiểu như: mình không thể làm kịp việc này trong thời gian ngắn như thế, trông mình thật thảm hại trong mắt đồng nghiệp. Bạn thất vọng, nghi ngờ chính bản thân mình.
 

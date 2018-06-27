@@ -12,6 +12,20 @@ related_posts:
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
  - title:
    link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+
+related_videos:
+  -
+    title: Vừa rửa bát vừa nói chuyện lập trình
+    id: J7-eT2TnLVU
+  -
+    title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?
+    id: ypY1YU_zJAM
+  -
+    title: Mới học lập trình thì làm phần mềm gì để khỏi nhàm chán?
+    id: XCgmcG2lfnw
+  -
+    title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
+    id: eZKyRRw3Hcs
 ---
 Xin chào các bạn yêu mến Lập Trình Cuộc Sống Chấm Com! Với mong muốn kết nối tất cả các bạn. Chúng tôi có ý tưởng thành lập team để cùng nhau phát triển một sản phẩm hoàn thiện. Qua đó, các lập trình viên và sinh viên có thể làm việc cùng nhau, để học hỏi hoàn thiện kỹ năng và xa hơn nữa, là đóng góp chút gì đó cho xã hội.
 
