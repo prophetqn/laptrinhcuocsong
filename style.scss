@@ -687,9 +687,16 @@ code.highlighter-rouge {
         margin-right: 0px;
         li {
             width: 100%;
-            a {
+            > a {
                 img {
-                    width: 20%;
+                    width: 100%;
+                }
+            }
+            h3 {
+                width: 75%;
+                a {
+                    float: none;
+                    width: 100%;
                 }
             }
         }
