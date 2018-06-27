@@ -33,7 +33,11 @@ related_videos:
     id: fOFKwV7OW7U
 ---
 
-Mình đã học lập trình như thế nào? Trong video này, mình chia sẻ về quãng thời gian đã học lập trình của mình từ thời cấp 3 đến lúc trở thành lập trình viên. Mỗi người có một con đường khác, cuộc sống không có ai giống ai cả, nhưng rồi cuối cùng chúng ta gặp nhau ở đây, tôi gặp bạn, những người có cùng niềm đam mê.
+Mình đã học lập trình như thế nào? Trong video này, mình chia sẻ về quãng thời gian đã học lập trình của mình từ khi học cấp 3 đến lúc trở thành lập trình viên. Tất tần tật, từ khi là một cậu nhóc, tương lai mịt mù về một nghề mà lúc đó nó quá mơ hồ ở miền quê lạc hậu với nghề nông, về ước mơ được code.
+
+Mỗi người có một con đường khác, cuộc sống không có ai giống ai cả, nhưng rồi cuối cùng chúng ta gặp nhau ở đây, tôi gặp bạn, những người có cùng niềm đam mê.
+
+Mình tin rằng gặp được nhau cũng là một cái duyên, theo một nghề lại là một cái duyên khác nữa. Câu chuyện của mình để các bạn xem giải trí, nó cũng không là cái gì hết, chỉ là một chút tâm sự.
 
 Mời các bạn xem video:
 
