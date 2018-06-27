@@ -100,6 +100,7 @@ Với nhu cầu này, mình dùng [Pencil project](https://pencil.evolus.vn/), �
 ![Pencil project](http://laptrinhcuocsong.com/images/pencil-project-wireframe.png)
 
 ## Các thứ lặt vặt khác:
+
 Ngoài các công cụ trên, còn lặt vặt nhiều phần mềm khác, chỉ cần chịu khó tìm hiểu, sau một thời gian bạn hoàn toàn có thể sử dụng tốt Ubuntu phục vụ công việc của mình.
 Ví dụ: Công cụ chọn màu nhanh [Gpick](http://www.gpick.org/), [composer](https://getcomposer.org/), [Bower](https://bower.io/), [npm](https://www.npmjs.com/), [gulp](https://gulpjs.com/)
 
