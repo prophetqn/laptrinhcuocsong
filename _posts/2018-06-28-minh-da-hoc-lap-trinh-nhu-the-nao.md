@@ -39,4 +39,4 @@ Mình đã học lập trình như thế nào? Chia sẻ về quãng thời gian
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qvjWF0HWeWw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Web developer](images/web-developer-big-banner.jpg)
+![Web developer](images/web-developer-big-banner.png)
