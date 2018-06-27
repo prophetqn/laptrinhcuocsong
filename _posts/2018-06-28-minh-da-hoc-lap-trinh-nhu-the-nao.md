@@ -3,7 +3,7 @@ title: Mình đã học lập trình như thế nào?
 category: Chuyện nghề nghiệp
 thumbnail: thanh-cong.png
 cover: web-developer-big-banner.png
-excerpt: Mình đã học lập trình như thế nào? Trong video này, mình chia sẻ về quãng thời gian đã học lập trình của mình từ thời cấp 3 đến lúc trở thành lập trình viên.
+excerpt: Mình đã học lập trình như thế nào? Trong video này, mình chia sẻ về quãng thời gian đã học lập trình của mình từ thời cấp 3 đến lúc trở thành lập trình viên. Mỗi người có một con đường khác, cuộc sống không có ai giống ai cả, nhưng rồi cuối cùng chúng ta gặp nhau ở đây, tôi gặp bạn, những người có cùng niềm đam mê
 tags:
  - nganh-lap-trinh-vien
  - live-stream-lap-trinh
@@ -33,9 +33,7 @@ related_videos:
     id: fOFKwV7OW7U
 ---
 
-Mình đã học lập trình như thế nào? Trong video này, mình chia sẻ về quãng thời gian đã học lập trình của mình từ thời cấp 3 đến lúc trở thành lập trình viên.
-
-Mỗi người có một con đường khác, cuộc sống không có ai giống ai cả, nhưng rồi cuối cùng chúng ta gặp nhau ở đây, tôi gặp bạn, những người có cùng niềm đam mê.
+Mình đã học lập trình như thế nào? Trong video này, mình chia sẻ về quãng thời gian đã học lập trình của mình từ thời cấp 3 đến lúc trở thành lập trình viên. Mỗi người có một con đường khác, cuộc sống không có ai giống ai cả, nhưng rồi cuối cùng chúng ta gặp nhau ở đây, tôi gặp bạn, những người có cùng niềm đam mê.
 
 Mời các bạn xem video:
 
