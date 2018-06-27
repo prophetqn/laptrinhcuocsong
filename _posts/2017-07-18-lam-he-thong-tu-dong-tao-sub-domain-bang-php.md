@@ -23,7 +23,8 @@ Nghe thì có vẻ phức tạp thế thôi chứ nguyên tắc thì đơn giả
 ```javascript
 *.tenmien.com
 ```
-Dấu sao (*) chỉ định cho DNS server biết rằng mọi truy vấn bắt đầu bằng ký tự bất kỳ, sẽ cùng trỏ về webserver của chúng ta. Khi đã cấu hình xong, thì tất cả sub-domain sẽ đều trỏ về root của webserver, mở trình duyệt web lên, gõ thử vài sub linh tinh:
+
+Dấu sao \(\*\) chỉ định cho DNS server biết rằng mọi truy vấn bắt đầu bằng ký tự bất kỳ, sẽ cùng trỏ về webserver của chúng ta. Khi đã cấu hình xong, thì tất cả sub-domain sẽ đều trỏ về root của webserver, mở trình duyệt web lên, gõ thử vài sub linh tinh:
 
 ```javascript
 abc.tenmien.com
