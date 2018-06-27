@@ -34,9 +34,13 @@ related_posts:
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 ---
 
+Thói quen đọc, thoạt đầu tưởng như rất có ích
 Đọc báo công nghệ cũng tốn thời giản chả khác gì facebook
 
+## Đọc thì rất tốt, nhưng quan trọng là đọc cái gì?
+
 Hôm nay mình sẽ nói về một vấn đề mà mình đã từng gặp phải
+Cái gì cũng thấy hay ho cả
 
 Đọc báo công nghệ từ sáng đến tối, công nghệ mới nhất nào cũng biết cả
 
@@ -56,6 +60,8 @@ Hãy đọc những thứ có ích hơn cho bản thân, làm giàu kiến thứ
 Thánh ăn mỳ tôm nói chuyện oto tự lái của Google
 Biết thời sự đông tây nam bắc mà không viết được đoạn code ra hồn
 Thói quen đọc, thoạt đầu tưởng như rất có ích
+
+## Làm thế nào để tránh lãng phí thời gian
 
 Vì vậy trước khi click vào một link nào đó, hãy tự hỏi rằng:
 Liệu bài viết này có mang lại lợi ích gì cho tôi không?
