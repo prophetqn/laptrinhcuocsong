@@ -35,7 +35,7 @@ related_videos:
 
 Mình đã học lập trình như thế nào? Trong video này, mình chia sẻ về quãng thời gian đã học lập trình của mình từ thời cấp 3 đến lúc trở thành lập trình viên.
 
-Mỗi người có một con đường khác nhau, nhưng rồi cuối cùng chúng ta gặp nhau ở đây, tôi gặp bạn, những người có cùng niềm đam mê.
+Mỗi người có một con đường khác, cuộc sống không có ai giống ai cả, nhưng rồi cuối cùng chúng ta gặp nhau ở đây, tôi gặp bạn, những người có cùng niềm đam mê.
 
 Mời các bạn xem video:
 
