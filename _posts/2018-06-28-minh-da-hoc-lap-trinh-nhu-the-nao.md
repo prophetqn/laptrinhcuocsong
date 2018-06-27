@@ -40,5 +40,3 @@ Mình đã học lập trình như thế nào? Trong video này, mình chia sẻ
 </div>
 
 Mỗi người có một con đường khác nhau, nhưng rồi cuối cùng chúng ta gặp nhau ở đây, tôi gặp bạn, những người có cùng niềm đam mê.
-
-![Web developer](images/web-developer-big-banner.png)
