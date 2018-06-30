@@ -64,7 +64,7 @@ Trong thời gian thử việc, người ta sẽ soi bạn nhiều hơn, hoặc 
 
 ## Dù thế nào, đừng bỏ lỡ cơ hội được học
 
-Trên báo đài, internet nhan nhản các câu như: "Đại học không phải là con đường duy nhất đến thành công, có đôi khi bạn sẽ thấy có thằng nào đó bỏ học đại học, sau đó có được tí công trạng, quay lại nói rằng đại học là vô bổ tốn thời gian. Tuy nhiên, trường học dạy bạn khá nhiều thứ, dù ở bất cứ nơi đâu, đừng bỏ lỡ cơ hội được học.
+Trên báo đài, internet nhan nhản các câu như: "Đại học không phải là con đường duy nhất đến thành công", có đôi khi bạn sẽ thấy có thằng nào đó bỏ học đại học, sau đó có được tí công trạng, quay lại nói rằng đại học là vô bổ tốn thời gian. Tuy nhiên, trường học dạy bạn khá nhiều thứ, dù ở bất cứ nơi đâu, đừng bỏ lỡ cơ hội được học.
 
 ## Những điều đại học dạy bạn
 
