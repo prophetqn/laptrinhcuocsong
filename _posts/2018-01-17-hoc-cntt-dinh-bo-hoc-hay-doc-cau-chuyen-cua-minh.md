@@ -40,7 +40,7 @@ Dạo gần đây có rất nhiều tranh cãi xung quanh vấn đề bằng c�
 
 Theo quan điểm của mình, nếu bạn muốn bỏ đại học, mình khuyên bạn hãy quay lại trường ngay lập tức, hoàn thành chương trình học và lấy tấm bằng. Đừng có quá tin tưởng ngưỡng mộ các gương bỏ học mà thành công, số lượng đó nó ít lắm, họ đã giỏi sẵn rồi, có tốt nghiệp hay không thì họ vẫn thành công cả thôi.
 
-Ngành lập trình không quá quan trọng bằng cấp, các đơn vị tuyển dụng quan tâm nhiều đến khả năng của ứng viên có đáp ứng được yêu cầu của công việc hay không, tuy nhiên hãy cân nhắc khi bỏ đại học, sẽ có nhiều cái khổ mà bạn sẽ gặp phải đấy.
+Ngành lập trình không quá quan trọng bằng cấp, các đơn vị tuyển dụng quan tâm nhiều đến khả năng của ứng viên có đáp ứng được yêu cầu của công việc hay không. Tuy nhiên một cái CV xin việc với đủ loại kiến thức nhưng thiếu cái bằng thì vẫn chỉ mang tính chất chém gió. Hãy cân nhắc khi bỏ đại học, sẽ có nhiều cái khổ mà bạn sẽ gặp phải đấy.
 
 ## Những cái khổ khi không có bằng cấp
 
@@ -50,7 +50,7 @@ Cái đầu tiên mà mình muốn kể đến đó là áp lực tâm lý. Khi 
 
 **Cảm giác mình yếu kém**:
 
-Bây giờ có nhiều trường, nên số lượng người có trình độ đại học mà mình gặp cũng rất nhiều, thậm chí có cả cụm từ "phổ cập đại học" nữa. Thế nên đi đâu, không có bằng mình luôn cảm thấy yếu kém so với người đối diện. Ngay lúc này, thời điểm mà mình đang viết bài tâm sự cùng các bạn, mình vẫn chưa có tấm bằng nào, và trong thâm tâm vẫn có một mong ước thầm kín là ước gì mình cũng có một cái.
+Bây giờ có nhiều trường, nên số lượng người có trình độ đại học mà mình gặp cũng rất nhiều, thậm chí có cả cụm từ "phổ cập đại học" nữa. Thế nên đi đâu, không có bằng mình luôn cảm thấy yếu kém so với người đối diện. Điều này cũng có một tí mặt tốt, cảm giác yếu kém làm bạn phải nỗ lực không ngừng nghỉ học hỏi hơn nữa. Thế nhưng, ngay lúc này, thời điểm mà mình đang viết bài tâm sự cùng các bạn, mình vẫn chưa có tấm bằng nào, và trong thâm tâm vẫn có một mong ước thầm kín là ước gì mình cũng có một cái.
 
 **Đi xin việc**:
 
@@ -58,7 +58,7 @@ May cho mình là lúc đi xin việc, mình đã khá tự tin với kỹ năng
 
 **Khi đi làm**:
 
-Trong thời gian thử việc, người ta sẽ soi bạn nhiều hơn, hoặc ít ra bạn cảm thấy như thế. Người ta có thể "sân siu" cho một bạn mới tốt nghiệp vì cho rằng "bạn ấy vừa tốt nghiệp, chưa có kinh nghiệm nhiều", nhưng với bạn thì không, vì bạn vào đây bằng kinh nghiệm.
+Trong thời gian thử việc, người ta sẽ soi bạn nhiều hơn, hoặc ít ra bạn cảm thấy như thế. Người ta có thể "sân siu" cho một bạn mới tốt nghiệp vì cho rằng "bạn ấy vừa tốt nghiệp, chưa có kinh nghiệm nhiều", nhưng với bạn thì không, vì bạn vào đây bằng kinh nghiệm. Một lần nữa, bạn lại hì hục không ngừng để chứng tỏ cái kiến thức và kinh nghiệm của bạn, điều mà mặc định những người có bằng cấp là có cả rồi.
 .
 ![Học tập](images/learn-boring.png)
 
@@ -76,10 +76,12 @@ Tất cả là ở cách học của bạn, có một cái hay nữa đó là kh
 
 Mình bỏ học năm cuối, nên cũng được trải nghiệm quãng thời gian thú vị bổ ích này. Đừng bỏ lỡ cơ hội được học nhé, vào thời điểm khó khăn, mình đã phải làm việc chân tay ở một xưởng cao su, thì suy nghĩ được là sinh viên hàng ngày được học những kiến thức lập trình, buổi tối có đủ thời gian để nghiên cứu thêm một cái gì đó theo sở thích, đó là một ước mơ tuyệt vời.
 
-## Kết luận
+## Giá trị của tấm bằng
 
 Giá trị của tấm bằng chính là nó tượng trưng cho quá trình bạn đã cố gắng trong suốt một quãng thời gian, chứng tỏ bạn đã học được nhiều điều từ đó.
 
 Theo cách nhìn này, thì với một người học chỉ để có cái bằng, không chịu nâng cao kỹ năng bản thân, tấm bằng không có giá trị nhiều. Còn với một người khác, họ đã rất cố gắng trong quá trình học, không những học, họ còn chịu khó tìm hiểu nâng cao kiến thức, thì tấm bằng quả là có giá trị như vàng.
+
+## Kết luận
 
 Bỏ học không giúp bạn thành công, bỏ học chỉ thành công khi bạn có kế hoạch vững chắc, hãy suy nghĩ thật kỹ trước khi quyết định. Mỗi người có một định nghĩa về thành công khác nhau, con đường đi đến thành công cũng khác nhau, hãy thành công theo cách của bạn. Và để thành công bạn cần học hỏi không ngừng nghỉ, kể cả khi rời trường đại học, mình **strongly recommend** bạn đừng bỏ lỡ cơ hội được học, dù ở bất kỳ hoàn cảnh nào.
