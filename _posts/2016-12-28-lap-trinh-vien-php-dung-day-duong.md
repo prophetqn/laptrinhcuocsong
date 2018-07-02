@@ -47,17 +47,17 @@ Sự ra đời của các PHP framework và phiên bản PHP 7 đã phần nào 
 
 ![Lập trình viên php](images/coding-php.png)
 
-### PHP được thiết kế cho một mục đích duy nhất
+## PHP được thiết kế cho một mục đích duy nhất
 
 Đó là tạo ra các trang web động, nếu bạn theo C# bạn có thể làm web, desktop app hay ứng dụng windows phone, nếu bạn theo java, bạn có thể làm web, desktop app hay ứng dụng android, còn với PHP bạn chỉ có thể làm web mà thôi.
 
-### Chúng ta phải thừa nhận rằng hầu hết các lập trình viên PHP có trình độ yếu
+## Chúng ta phải thừa nhận rằng hầu hết các lập trình viên PHP có trình độ yếu
 
 Điều này xuất phát từ chính sự dễ học và thiết kế lỏng lẻo của nó, bạn có thể học nhanh PHP trong vòng vài tháng. PHP không (hoặc rất ít) được dạy một cách bài bản và thực hành chuyên sâu trong các trường đại học, do đó [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien) PHP chủ yếu là các tay ngang, không chuyên lập trình hoặc chuyển từ ngôn ngữ khác sang.
 
 Tớ đã thấy rất nhiều người chưa biết lập trình, học PHP nghiêm túc và sau một hoặc vài tháng có thể nghiễm nhiên đi làm web dạo kiếm tiền. Không có kiến thức nền tảng, cộng thêm làm việc trên một ngôn ngữ không chặt chẽ nên theo tớ trình độ trung bình của một lập trình viên PHP không thể bằng các ngôn ngữ khác được. không có gì là khó hiểu khi PHP không có tên trong [12 ngôn ngữ lập trình được trả lương cao nhất](http://www.doanhnhansaigon.vn/tieu-diem/12-ngon-ngu-lap-trinh-duoc-tra-luong-cao-nhat/1085130/).
 
-### Số lượng lập trình viên PHP đông như kiến cỏ
+## Số lượng lập trình viên PHP đông như kiến cỏ
 
 Khi mới bước vào kỷ nguyên internet, người người làm web, nhà nhà làm web, các công ty chỉ làm web cho có, để in lên card visit, thì dịch vụ thiết kế website mọc lên tràn lan, giá website đẩy xuống giá rau ngoài chợ.
 
@@ -65,7 +65,7 @@ Và tất nhiên họ lựa chọn PHP khi nó miễn phí, nhanh gọn, và có
 
 Nếu một ngày, nhu cầu thiết kế website bị bão hòa, người ta cần chất lượng hơn số lượng, thì các lập trình viên PHP tay ngang yếu kém sẽ đi về đâu? PHP chỉ để phục vụ một mục đích duy nhất là làm web, khi lập trình viên C#, java có thể dễ dàng chuyển sang mảng mobile, thì các lập trình viên PHP đang loay hoay lựa chọn con đường của mình, họ có 2 lựa chọn, học một ngôn ngữ mới hoặc tự nâng cao trình độ ngôn ngữ hiện tại.
 
-### Nếu bạn là lập trình viên PHP hãy là lập trình viên PHP giỏi
+## Nếu bạn là lập trình viên PHP hãy là lập trình viên PHP giỏi
 
 Đọc đến đây mà bạn vẫn xác định theo đuổi ngôn ngữ PHP đến cùng, hãy hãy trở thành một lập trình viên PHP giỏi thay vì trung bình. Hãy cùng tớ học lại những thứ thật căn bản, không phải chạy đua deadline để nhanh chóng bàn giao web cho khách hàng. Có một sự khác biệt rất lớn của một lập trình viên PHP giỏi và trung bình, khi bạn giỏi bạn sẽ nổi bật giữa hàng triệu lập trình viên PHP đang đứng ngoài đường (như tớ).
 
