@@ -27,7 +27,7 @@ Bạn có thể kết bạn với tôi bằng cách xem [website cá nhân của
 
 ## Bạn có điều gì muốn hỏi?
 
-Nếu đây là lần đầu tiên bạn đọc trang này, đây là các câu hỏi thường gặp có thể giúp ích cho bạn.
+Nếu đây là lần đầu tiên bạn đọc blog này, bạn cảm thấy hoang mang và bối rối, dưới đây là các câu hỏi thường gặp có thể giúp ích cho bạn.
 
 ## Bạn thì biết cái gì mà "dạy đời" người khác?
 
