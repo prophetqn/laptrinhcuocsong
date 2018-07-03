@@ -17,7 +17,7 @@ Bùi Văn Nguyện - Laptrinhcuocsong.com
 
 Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html), mình bắt đầu làm freelance thiết kế web từ năm 2010 đến 2014, sau đó mình rời Sài Gòn về quê làm vài công việc chân tay (làm xưởng cao su, phục vụ nhà hàng) để học kế toán với mong muốn làm nhà nước, sáng cắp cặp đi tối cắp cặp về.
 
-Đầu năm 2015, mình [xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê của mình](http://www.ddth.com/showthread.php/1314521-X%C3%A1ch-ba-l%C3%B4-ra-HN-theo-%C4%91u%E1%BB%95i-ngh%E1%BB%81-l%E1%BA%ADp-tr%C3%ACnh-web), từ đó đến nay mình làm cho công ty, và hiện tại đang khá enjoy với công việc của mình.
+Đầu năm 2015, mình [xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê của mình](http://www.ddth.com/showthread.php/1314521-X%C3%A1ch-ba-l%C3%B4-ra-HN-theo-%C4%91u%E1%BB%95i-ngh%E1%BB%81-l%E1%BA%ADp-tr%C3%ACnh-web), từ đó đến nay mình bôn ba code dạo, hiện tại mình đang lead một cái team nhỏ nhỏ, trong một công ty nhỏ nhỏ, cũng khá enjoy với công việc của mình.
 
 ![Bùi Văn Nguyện](images/bui-van-nguyen-img.jpg)
 
