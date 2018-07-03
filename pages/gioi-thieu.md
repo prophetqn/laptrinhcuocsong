@@ -21,14 +21,11 @@ Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http:/
 
 ![Bùi Văn Nguyện](images/bui-van-nguyen-img.jpg)
 
-## Các bạn có thể kết bạn và tìm hiểu thêm:
+## Kết bạn với tôi nhé
 
-> Website: [http://buivannguyen.com](http://buivannguyen.com)<br>
-Youtube: [https://www.youtube.com/laptrinhvientv](https://www.youtube.com/laptrinhvientv)<br>
-Facebook: [https://www.facebook.com/laptrinhcuocsongdotcom/](https://www.facebook.com/laptrinhcuocsongdotcom/)<br>
-Google Plus: [https://plus.google.com/+BùiVănNguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n)<br>
-Twitter: [https://twitter.com/bui_van_nguyen](https://twitter.com/bui_van_nguyen)<br>
-Instagram: [https://www.instagram.com/bui_van_nguyen/](https://www.instagram.com/bui_van_nguyen/)<br>
+Bạn có thể kết bạn với tôi bằng cách xem [website cá nhân của tôi](http://buivannguyen.com), xem tôi chém gió trên kênh youtube [Lập Trình Viên TV](https://www.youtube.com/laptrinhvientv), theo dõi tôi trên [facebook fan page](https://www.facebook.com/laptrinhcuocsongdotcom/) hoặc [google+](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n) ngoài ra bạn có thể xem ảnh sống ảo của tôi trên [instagram](https://www.instagram.com/bui_van_nguyen/).
+
+## Bạn có điều gì muốn hỏi?
 
 Nếu đây là lần đầu tiên bạn đọc trang này, đây là các câu hỏi thường gặp có thể giúp ích cho bạn.
 
