@@ -4,7 +4,7 @@ title: Về blog Lập trình cuộc sống
 permalink: /gioi-thieu.html
 excerpt: Cái tên Lập trình cuộc sống xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn
 ---
-Trước hết xin được cảm ơn bạn vì đã xem trang này, mình là [Bùi Văn Nguyện](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n), tác giả của blog Lập Trình Cuộc Sống. Mình viết blog này với mục đích nâng cao khả năng diễn đạt, đồng thời chia sẻ những kinh nghiệm mình học được khi làm việc trong ngành lập trình.
+Trước hết xin được cảm ơn bạn vì đã xem trang này, mình là <a href="https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n" target="_blank">Bùi Văn Nguyện</a>, tác giả của blog Lập Trình Cuộc Sống. Mình viết blog này với mục đích nâng cao khả năng diễn đạt, đồng thời chia sẻ những kinh nghiệm mình học được khi làm việc trong ngành lập trình.
 
 ## Tại sao lại là Lập trình cuộc sống?
 
@@ -23,7 +23,7 @@ Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http:/
 
 ## Kết bạn với tôi nhé
 
-Bạn có thể kết bạn với tôi bằng cách xem [website cá nhân của tôi](http://buivannguyen.com), xem tôi chém gió trên kênh youtube [Lập Trình Viên TV](https://www.youtube.com/laptrinhvientv), theo dõi tôi trên [facebook fan page](https://www.facebook.com/laptrinhcuocsongdotcom/) hoặc [google+](https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n) ngoài ra bạn có thể xem ảnh sống ảo của tôi trên [instagram](https://www.instagram.com/bui_van_nguyen/).
+Bạn có thể kết bạn với tôi bằng cách xem <a href="http://buivannguyen.com" target="_blank">website cá nhân của tôi</a>, xem tôi chém gió trên kênh youtube <a href="https://www.youtube.com/laptrinhvientv" target="_blank">Lập Trình Viên TV</a>, theo dõi tôi trên <a href="https://www.facebook.com/laptrinhcuocsongdotcom/" target="_blank">facebook fan page</a> hoặc <a href="https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n" target="_blank">google+</a> ngoài ra bạn có thể xem ảnh sống ảo của tôi trên <a href="https://www.instagram.com/bui_van_nguyen/" target="_blank">instagram</a>.
 
 ## Bạn có điều gì muốn hỏi?
 
