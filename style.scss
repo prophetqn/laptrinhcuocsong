@@ -179,10 +179,9 @@ a:hover, a:active {
     #categories {
         ul {
             li {
-                display: inline;
+                display: inline-block;
                 a {
                     padding: 0px 10px;
-                    border-right: none;
                     height: 50px;
                     line-height: 50px;
                     color: #d8d8d8;
@@ -592,8 +591,8 @@ code.highlighter-rouge {
     }
     #categories ul li a {
         display: inline;
-        padding: 6px 10px;
-        border: 1px solid #e5e5e5;
+        padding: 3px 10px !important;
+        border: 1px solid #5d5d5d;
         border-radius: 4px;
         text-align: center;
         font-size: 14px;
