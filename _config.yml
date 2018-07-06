@@ -93,6 +93,9 @@ tags_config:
   -
     slug: cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi
     name: Cách học lập trình cho người chưa biết gì
+  -
+    slug: hoc-lap-trinh-nhu-the-nao
+    name: học lập trình như thế nào
 sass:
   style: :compressed
 plugins:

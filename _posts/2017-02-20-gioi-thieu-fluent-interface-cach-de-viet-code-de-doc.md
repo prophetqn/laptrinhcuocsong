@@ -5,6 +5,7 @@ thumbnail: hour-of-code.jpg
 category: Chuyện lập trình
 tags:
  - bi-quyet-hoc-lap-trinh
+ - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: Cùng nhau tạo restful API đơn giản với php
    link: http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html

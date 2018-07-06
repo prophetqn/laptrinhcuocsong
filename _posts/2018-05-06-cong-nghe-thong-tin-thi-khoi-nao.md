@@ -9,6 +9,7 @@ tags:
  - bi-quyet-hoc-lap-trinh
  - lap-trinh-vien
  - nghe-lap-trinh-vien-hien-nay
+ - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html

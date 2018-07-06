@@ -7,6 +7,7 @@ cover: linux-terminal-laptop.jpg
 tags:
  - tu-hoc-linux
  - hoc-ubuntu
+ - hoc-lap-trinh-nhu-the-nao
 experpt: Học linux để làm gì ? Nó có thật sự cần cho lập trình viên hay không? Làm thế nào để chuyển sang linux hiệu quả nhất.
 
 related_videos:

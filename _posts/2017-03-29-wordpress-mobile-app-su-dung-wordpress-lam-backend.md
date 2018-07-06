@@ -5,6 +5,7 @@ thumbnail: mobile-app.png
 category: Chuyện lập trình
 tags:
  - bi-quyet-hoc-lap-trinh
+ - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/viet-tinh-nang-tu-dong-cap-nhat-phien-ban-code-php.html
