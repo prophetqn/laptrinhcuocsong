@@ -38,7 +38,9 @@ Nghe tên thôi là cũng gần gần hiểu rồi, nôm na nó là phương ph�
 
 ## CD - Triển khai liên tục là gì?
 
-Đồng hành cùng tích hợp liên tục, triển khai liên tục là thường xuyên release phiên bản mới lên môi trường test, việc này được diễn ra tự động. Ví dụ bình thường, để xuất bản website, bạn phải làm rất nhiều thứ, từ upload code lên server, chạy migrate dữ liệu, cấu hình file config các kiểu, rất tốn thời gian và dễ sai sót. Nội dung chính của bài viết này sẽ hướng dẫn bạn cài đặt làm sao để nó "tự động" được.
+Đồng hành cùng tích hợp liên tục, triển khai liên tục là thường xuyên release phiên bản mới lên môi trường test, việc này được diễn ra tự động. Ví dụ bình thường, để xuất bản website, bạn phải làm rất nhiều thứ, từ upload code lên server, chạy migrate dữ liệu, cấu hình file config các kiểu, rất tốn thời gian và dễ sai sót.
+
+Nội dung chính của bài viết này sẽ hướng dẫn bạn cài đặt làm sao để nó "tự động" được.
 
 ## Continuous Deployment với Gitlab CI - CD
 
