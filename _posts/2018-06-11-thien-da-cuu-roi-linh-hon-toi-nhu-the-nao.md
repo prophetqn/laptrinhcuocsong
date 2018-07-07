@@ -37,9 +37,9 @@ Ban đầu mình cũng không tin thiền có tác dụng gì lắm, cũng khôn
 
 ![Ngồi thiền](images/thien-large.jpg)
 
-Mình cũng không nhớ là lần đầu tiên mình thiền là hôm nào, chỉ biết buổi tối đó mình rất căng thẳng, stress, lòng rối bời và lo lắng. Mình lên youtube tìm một bản nhạc nhẹ nhàng tĩnh tâm để nghe thì bắt gặp video "Hướng dẫn 30 phút ngồi thiền mỗi ngày", mình làm theo thử, vì chỉ tốn có 30 phút, cách thức thực hiện lại cũng đơn giản.
+Mình cũng không nhớ là lần đầu tiên mình thiền là hôm nào, chỉ biết buổi tối đó mình rất căng thẳng, stress, lòng rối bời và lo lắng. Mình lên youtube tìm một bản nhạc nhẹ nhàng tĩnh tâm để nghe thì bắt gặp video "Hướng dẫn 30 phút ngồi thiền mỗi ngày", mình làm theo thử, vì đằng nào chỉ tốn có 30 phút, cách thức thực hiện lại cũng đơn giản.
 
-Không ngờ rằng, 30 phút ấy đã làm cho mình thấy tâm trạng được cải thiện rất nhiều. Những vấn đề mà mình đang lo lắng giờ được suy nghĩ lại một cách chín chắn và tích cực hơn. Buổi sáng mình thức dậy trong tâm trạng thoải mái sau một đêm ngủ ngon, và tuyệt vời hơn nữa là hôm đó mình làm việc tự tin và hiệu quả hơn bình thường.
+Không ngờ rằng, 30 phút ấy đã làm cho mình thấy tâm trạng được cải thiện rất nhiều. Những vấn đề mà mình đang lo lắng giờ được suy nghĩ lại một cách chín chắn và tích cực hơn. Buổi sáng mình thức dậy trong tâm trạng thoải mái sau một đêm ngủ ngon, và tuyệt vời hơn nữa là hôm đó mình làm việc tự tin và hiệu quả hơn bình thường rất nhiều.
 
 ## Không thể lý giải
 
