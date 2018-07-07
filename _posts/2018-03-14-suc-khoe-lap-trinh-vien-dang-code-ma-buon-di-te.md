@@ -10,6 +10,7 @@ tags:
  - nganh-lap-trinh-vien
  - lap-trinh-vien
  - nghe-lap-trinh-vien-hien-nay
+ - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html

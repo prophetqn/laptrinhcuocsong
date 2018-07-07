@@ -1,27 +1,28 @@
 ---
 layout: post
-title: Chúng ta đang lãng phí thời gian đọc các báo công nghệ như thế nào?
+title: Những ức chế mà lập trình viên nào cũng phải đối mặt
 category: Chuyện nghề nghiệp
 thumbnail: clock.png
 cover: lap-trinh-vien-ton-thoi-gian.jpg
-excerpt: Chúng ta đang lãng phí thời gian đọc các báo công nghệ như thế nào
+excerpt: Những ức chế mà lập trình viên nào cũng phải đối mặt
 tags:
  - nganh-lap-trinh-vien
  - lap-trinh-vien
  - doi-song-lap-trinh-vien
+ - nhung-dieu-co-ban-ve-lap-trinh
 related_videos:
   -
-    title: Lập trình phần mềm paint trên web
-    id: pDSxzvyJ6k8
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Tạo blog nhanh chóng miễn phí với github
+    id: CpmE5RTpPwQ
   -
-    title: Làm game html5 đơn giản
-    id: kuwn8vkmqyM
+    title: Phỏng vấn xin việc IT như thế nào? 
+    id: GaMExVaxHc8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Nghề lập trình - tiền hay đam mê
+    id: bLC6yA73lFw
 ---
 related_posts:
  - title: 
@@ -34,34 +35,19 @@ related_posts:
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 ---
 
-Thói quen đọc, thoạt đầu tưởng như rất có ích
-Đọc báo công nghệ cũng tốn thời giản chả khác gì facebook
+Lập trình cũng như bao nhiêu nghề khác, cũng có 
+Dù bạn giỏi cỡ nào, thì những điều sau đây vẫn sẽ làm bạn muốn đập bàn phím ngay lập tức
 
-## Đọc thì rất tốt, nhưng quan trọng là đọc cái gì?
 
-Hôm nay mình sẽ nói về một vấn đề mà mình đã từng gặp phải
-Cái gì cũng thấy hay ho cả
+Không ai hiểu bạn
+Không ai hiểu công việc bạn làm, kể cả leader của bạn, bạn cảm thấy đơn độc, giải quyết những vấn đề mà chỉ bạn hiểu.
+Đôi lúc bạn cảm thấy mình cô đơn.
 
-Đọc báo công nghệ từ sáng đến tối, công nghệ mới nhất nào cũng biết cả
+Thay đổi requirements
+Đôi khi, bạn đã thiết kế database ngon lành rồi, thì yêu cầu bị thay đổi
 
-Cùng nhìn lại những thông tin đã và đang đi vào đầu của chúng ta nhé
+Bug
 
-Github phát hiện 4 triệu lỗi bảo mật
+Người thân nhờ sửa máy tính
 
-Trí tuệ nhân tạo Alexa giờ đây đã có thể tự soạn nhạc
-
-Bí kíp tán gái (Kỳ 1): Cách cua gái cơ bản
-
-Biết thì cũng tốt, không biết cũng chả sao
-
-Rất xa xôi, không liên quan đến bạn
-Hãy đọc những thứ có ích hơn cho bản thân, làm giàu kiến thức
-
-Thánh ăn mỳ tôm nói chuyện oto tự lái của Google
-Biết thời sự đông tây nam bắc mà không viết được đoạn code ra hồn
-Thói quen đọc, thoạt đầu tưởng như rất có ích
-
-## Làm thế nào để tránh lãng phí thời gian
-
-Vì vậy trước khi click vào một link nào đó, hãy tự hỏi rằng:
-Liệu bài viết này có mang lại lợi ích gì cho tôi không?
+Thời gian

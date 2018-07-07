@@ -5,6 +5,7 @@ thumbnail: sub-domain.png
 category: Chuyện lập trình
 tags:
  - lap-trinh-php
+ - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: Viết tính năng tự động nâng cấp phiên bản cho code PHP (PHP auto-upgrade system)
    link: http://laptrinhcuocsong.com/viet-tinh-nang-tu-dong-cap-nhat-phien-ban-code-php.html
