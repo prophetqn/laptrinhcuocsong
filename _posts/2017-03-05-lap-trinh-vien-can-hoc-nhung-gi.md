@@ -45,7 +45,7 @@ Dạo này có tham gia vài nhóm lập trình trên facebook nên mình phát 
 
 ## Kỹ năng mềm:
 
-Bạn phải nhớ rằng: lập trình là "giải quyết vấn đề bằng máy tính" chứ không phải "lập trình là viết code" như được dạy trong trường đại học. Khách hàng của bạn gặp vấn đề trong việc quản lý nhân viên, bạn viết một phần mềm giúp họ, khách hàng của bạn cần quảng bá sản phẩm thương hiệu, bạn thiết kế website giúp họ, quán cafe kia order đồ uống rất chậm vì nhân viên phải ghi ra giấy, bạn làm ứng dụng android cho họ. Lập trình giải quyết các vấn đề rất thực trong cuộc sống, do đó bạn cần phải rèn luyện nhiều kỹ năng khác để giải quyết được vấn đề, đây mới là thứ quan trọng nhất, không phải là kỹ năng code của bạn. Kỹ năng mềm bao gồm cả kỹ năng xin việc, phỏng vấn, trình bày vấn đề, phác họa đề xuất ý tưởng, văn hóa văn nghệ...
+Bạn phải nhớ rằng: lập trình là "giải quyết vấn đề bằng máy tính" chứ không phải "lập trình là viết code" như được dạy trong trường đại học. Khách hàng của bạn gặp vấn đề trong việc quản lý nhân viên, bạn viết một phần mềm giúp họ, khách hàng của bạn cần quảng bá sản phẩm thương hiệu, bạn thiết kế website giúp họ, quán cafe kia order đồ uống rất chậm vì nhân viên phải ghi ra giấy, bạn làm ứng dụng android cho họ. Lập trình giải quyết các vấn đề rất thực trong cuộc sống, do đó bạn cần phải rèn luyện nhiều kỹ năng khác để giải quyết được vấn đề, đây mới là thứ quan trọng nhất, không phải là kỹ năng code của bạn. Kỹ năng mềm bao gồm cả kỹ năng phỏng vấn xin việc, trình bày vấn đề, phác họa đề xuất ý tưởng, văn hóa văn nghệ...
 
 **Team work**:
 
@@ -69,7 +69,7 @@ Video liên quan: <a target="_blank" href="https://www.youtube.com/watch?v=5lkDO
 
 Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien) cần học những gì?
 
-Mình tạm chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
+Mình tạm chia lập trình viên ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
 
 **Mảng mobile**: 
 
