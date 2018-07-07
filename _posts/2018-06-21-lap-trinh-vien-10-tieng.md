@@ -81,4 +81,4 @@ Tại sao mình lại tin vào con số 10 tiếng thần thánh này? Bởi vì
 
 Hãy khởi đầu những cái nhỏ nhỏ, thằng Mark viết ra facebook chắc cũng trong khoảng 10 tiếng thôi, có phải ngay từ đầu đã thiết kế cho hàng tỉ người dùng ngay được đâu.
 
-Nếu bạn thuộc kiểu người có rất nhiều ý tưởng nhưng lại cũng nhanh tụt cảm hứng, thì phương pháp này sẽ rất hữu ích cho bạn. Chúc các bạn thành công.
+Đây là phương pháp tuyệt vời và cực kỳ hữu ích nếu bạn thuộc kiểu người có rất nhiều ý tưởng nhưng lại cũng nhanh tụt cảm hứng. Chúc các bạn thành công.
