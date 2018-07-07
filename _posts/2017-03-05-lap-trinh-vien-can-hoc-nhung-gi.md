@@ -38,7 +38,7 @@ related_videos:
 
 Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất mông lung.
 
-Mình có tham gia vài nhóm lập trình trên facebook, mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? [Dùng ngôn ngữ gì](http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html)? Có mệt không? Và làm thế nào để sống sót.
+Dạo này có tham gia vài nhóm lập trình trên facebook nên mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? [Dùng ngôn ngữ gì](http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html)? Có mệt không? Và làm thế nào để sống sót.
 
 ![lập trình viên](images/lap-trinh-vien.png)
 
@@ -48,7 +48,7 @@ Bạn phải nhớ rằng: lập trình là "giải quyết vấn đề bằng m
 
 **Team work**:
 
-Làm việc nhóm, tức là làm việc với người khác, chẳng ai viết code một mình cả đâu, bạn phải biết viết code chạy được với code của những thằng khác, thế nên từ khi còn trong trường, hãy học cách sử dụng git và giao tiếp thật tốt với mọi người nếu sau này không muốn chửi nhau. Chấp nhận làm việc với những thằng ngu hơn bạn và học hỏi từ những thằng giỏi hơn bạn. Rảnh thì kiếm mấy quyển sách về giao tiếp với tâm lý học về mà đọc. Chân thành hòa nhã với mọi người, biết trình độ mình ở đâu và luôn có tinh thần nâng cao, mà nói chung bạn cũng không giấu dốt được đâu, sau vài lần review code là mọi người đều biết nhau ở trình độ nào cả. Thi thoảng có over time muộn quá thì cũng vui vẻ đi nhậu, trà đá hay mát-xa với anh em cho nó tăng tinh thần đoàn kết :))
+Làm việc nhóm, tức là làm việc với người khác, chẳng ai viết code một mình cả đâu, bạn phải biết viết code chạy được với code của những thằng khác, thế nên từ khi còn trong trường, hãy học cách giao tiếp thật tốt với mọi người nếu sau này không muốn chửi nhau. Chấp nhận làm việc với những thằng ngu hơn bạn và học hỏi từ những thằng giỏi hơn bạn. Rảnh thì kiếm mấy quyển sách về giao tiếp với tâm lý học về mà đọc. Chân thành hòa nhã với mọi người, biết trình độ mình ở đâu và luôn có tinh thần nâng cao, mà nói chung bạn cũng không giấu dốt được đâu, sau vài lần review code là mọi người đều biết nhau ở trình độ nào cả. Thi thoảng có over time muộn quá thì cũng vui vẻ đi nhậu, trà đá hay mát-xa với anh em cho nó tăng tinh thần đoàn kết :))
 
 **Tiếng Anh**:
 
@@ -66,7 +66,9 @@ Video liên quan: <a target="_blank" href="https://www.youtube.com/watch?v=5lkDO
 
 ## Chuyên môn về kỹ thuật:
 
-Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien) cần học những gì? Mình tạm chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
+Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien) cần học những gì?
+
+Mình tạm chia lũ "code thuê" ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
 
 **Mảng mobile**: 
 
