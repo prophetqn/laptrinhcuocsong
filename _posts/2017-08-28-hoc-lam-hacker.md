@@ -34,13 +34,13 @@ related_videos:
 
 ---
 
-Để trở thành hacker cần phải học gì, cần có những hiểu biết cơ bản gì, hack như thế nào?  Thật sự nó quá khó để trả lời, ngay cả nếu hỏi một hacker chuyên nghiệp, vì họ không có chuyên môn sư phạm, một câu trả lời không thể giúp bạn trở thành hacker , nó là cả một quá trình tích lũy kinh nghiệm. Để không bị chửi hay ném đá, bài viết này mình chỉ chia sẻ và trả lời câu hỏi "Làm thế nào để hack một website" , câu hỏi mà mình nhận được quá nhiều sau khi đăng bài viết "[tôi đã hack Chợ Tốt như thế nào?](http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html)".
+Để trở thành hacker cần phải học gì, cần có những hiểu biết cơ bản gì, hack như thế nào?  Thật sự nó quá khó để trả lời, ngay cả nếu hỏi một hacker chuyên nghiệp, vì họ không có chuyên môn sư phạm, một câu trả lời không thể giúp bạn trở thành hacker, nó là cả một quá trình tích lũy kiến thức và kinh nghiệm. Để không bị chửi hay ném đá, bài viết này mình chỉ chia sẻ và trả lời câu hỏi "Làm thế nào để hack một website", câu hỏi mà mình nhận được quá nhiều sau khi đăng bài viết "[tôi đã hack Chợ Tốt như thế nào?](http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html)".
 
 ![hacker](images/hacking-banner.jpg)
 
-Trước hết phải xác định rằng bạn không phải đang đọc bài viết của một hacker, mà chỉ là một thằng coder quèn bỏ học đại học lang thang code dạo, cá kiếm ít cơm cháo sống qua ngày. Mình hoàn toàn không học về bảo mật thông tin, cũng không kiếm tiền ở lĩnh vực này, chỉ chịu khó tìm tòi nghiên cứu, thi thoảng check những lỗi rất-thông-thường của các website và báo lỗi cho họ. Điển hình là báo lỗi cho Chợ Tốt, VietnamWorks, và hệ thống quản trị thông tin hành chính tỉnh X phát triển bởi VNPT...
+Trước hết phải xác định rằng bạn không phải đang đọc bài viết của một hacker, mà chỉ là một thằng coder quèn bỏ học đại học lang thang code dạo, cá kiếm ít cơm cháo sống qua ngày. Mình hoàn toàn không học về bảo mật thông tin, cũng không kiếm tiền ở lĩnh vực này, chỉ chịu khó tìm tòi nghiên cứu, thi thoảng check những lỗi rất-thông-thường của các website và báo lỗi cho họ. Điển hình là báo lỗi cho Chợ Tốt, hệ thống quản trị thông tin hành chính tỉnh X phát triển bởi VNPT...
 
-Họ thương thì cho ít tiền cafe, không thì mình cũng rất vui vì giúp được một chút gì đó cho họ, cho người dùng, cho ai đó mà mình không biết nữa. Cái mình nhận được từ những ngày nghiên cứu, nghịch ngợm "như một hacker" là một góc nhìn rất mới lạ, thú vị, giúp ích rất nhiều cho công việc lập trình của mình.
+Cái mình nhận được từ những ngày nghiên cứu, nghịch ngợm "như một hacker" là một góc nhìn rất mới lạ, thú vị, giúp ích rất nhiều cho công việc lập trình của mình.
 
 ## Hacker phải biết lập trình
 
@@ -54,7 +54,7 @@ Có, cho vui thì được, hiện có rất nhiều tools, hướng dẫn trên
 
 Có thể bạn đã xem ở bộ phim nào đó cảnh một hacker tay lướt trên bàn phím, trên màn hình hiện rất nhiều dòng chữ chạy loạn xạ trên màn hình đen và chỉ vài giây sau hiện lên dòng chữ xanh "Access granted ". Hay một anh chàng đẹp trai vài phút đã có thể hack được hệ thống giao thông sau đó chơi luôn cả một cái vệ tinh.
 
-Ngoài đời hoàn toàn không giống như thế đâu, cũng không phải lúc nào cũng có sẵn một cái vệ tinh trên đầu bạn. Hack tốn thời gian và công sức hơn thế rất nhiềuuuuu. Bạn phải theo dõi thu thập thông tin, xem từng request, phân tích từng cái url, đọc từng mẩu code, viết code để thực hiện cái gì đó... có thể kéo dài cả ngày thậm chí cả tuần, và hơn thế nữa. Cũng không phải cái gì cũng có thể hack được, có những cái cần phải có thiết bị hỗ trợ ở gần mục tiêu... tóm lại là mệt mỏi hơn bạn tưởng tượng rất là nhiều.
+Ngoài đời hoàn toàn không giống như thế đâu, cũng không phải lúc nào cũng có sẵn một cái vệ tinh trên đầu bạn. Hack tốn thời gian và công sức hơn thế rất nhiềuuuuu. Bạn phải theo dõi thu thập thông tin, xem từng request, phân tích từng cái url, đọc từng mẩu code, viết code để thực hiện cái gì đó... có thể kéo dài cả ngày thậm chí cả tuần và hơn thế nữa. Cũng không phải cái gì cũng có thể hack được, có những cái cần phải có thiết bị hỗ trợ ở gần mục tiêu... tóm lại là mệt mỏi hơn bạn tưởng tượng rất là nhiều.
 
 ## Làm thế nào để hack một website?
 
@@ -88,4 +88,4 @@ Thực tế thì vẫn có những con đường khác, cái này thì tùy từ
 
 ## Kết luận
 
-Hack cần tư duy lập trình tốt và sự sáng tạo, tìm hiểu về bảo mật thông tin, Những mánh khóe, thủ thuật mà hacker sử dụng có ích giúp bạn lập trình tốt hơn. Tất cả các lập trình viên nên tạo thói quen "đa nghi", đứng dưới góc nhìn của hacker để lập trình tốt hơn khi xây dựng một ứng dụng an toàn.
+Hack cần tư duy lập trình tốt và sự sáng tạo, tìm hiểu về bảo mật thông tin, Những mánh khóe, thủ thuật mà hacker sử dụng có ích giúp bạn lập trình tốt hơn. Tất cả các lập trình viên nên tạo thói quen "đa nghi", đứng dưới góc nhìn của hacker để lập trình tốt hơn để xây dựng một ứng dụng an toàn.
