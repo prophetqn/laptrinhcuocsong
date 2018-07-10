@@ -39,6 +39,58 @@ Bài viết đang được hoàn thiện, link github toàn bộ code ở đây:
 
 [https://github.com/buivannguyen/girl-puzzle-android-app](https://github.com/buivannguyen/girl-puzzle-android-app)
 
+```javascript
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="scene" id="welcome">
+    <div>
+        <div>
+            <p id="loadingText">Đang tải...</p>
+            <button id="startButton">Bắt đầu</button>
+        </div>
+    </div>
+</div>
+
+<div class="scene" id="image">
+    <p>Level: <span id="level">1</span></p>
+    <div>
+        <div id="imageWrapper"></div>
+        <div id="imageLoading">Đang tải...</div>
+    </div>
+</div>
+
+<div class="scene" id="question">
+    <div>
+        <div>
+            <p id="questionText"></p>
+            <button id="answerButton0"></button>
+            <button id="answerButton1"></button>
+            <button id="answerButton2"></button>
+            <button id="answerButton3"></button>
+        </div>
+    </div>
+</div>
+
+<div class="scene" id="gameOver">
+    <div>
+        <div>
+            <p>Rất tiếc bạn đã trả lời sai</p>
+            <button id="restartGame">Chơi lại</button>
+        </div>
+    </div>
+</div>
+
+</body>
+<script type="text/javascript" src="app.js"></script>
+</html>
+```
 
 ```javascript
 var app = function(){
