@@ -43,7 +43,7 @@ Link github toàn bộ code ở đây:
 
 [https://github.com/buivannguyen/girl-puzzle-android-app](https://github.com/buivannguyen/girl-puzzle-android-app)
 
-Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở đây...
+Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
 
 File index.html
 
