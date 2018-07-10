@@ -28,7 +28,11 @@ related_videos:
     id: VvPv9kiB01A
 ---
 
-Sê-ri này gồm 4 phần:
+Trong sê-ri này mình sẽ cùng các bạn xây dựng một ứng dụng android chỉ bằng html, css và javascript. Hiện nay có rất nhiều framework javascript giúp phát triển ứng dụng nhanh hơn, tuy nhiên chúng ta sẽ cùng trở lại với javascript thuần, bắt đầu từ con số không cho đến khi app của chúng ta lên Play Store.
+
+Đây không phải là cách tốt nhất để tạo app android, tuy nhiên với tinh thần học là chính, sê-ri này sẽ giúp bạn để hiểu thêm một chút, rằng javascript tương tác với DOM document như thế nào? Hybird app là gì? Đưa app lên Play Store như thế nào?
+
+Toàn bộ sê-ri này gồm 4 phần:
 
 > Phần 1: Viết code javascript<br>
 Phần 2: Mông má lại cho đẹp bằng css<br>
