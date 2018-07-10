@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Làm app android chỉ bằng html, css và javascript thuần, phần 1 - Viết code javascript
+title: Làm app android chỉ bằng html, css và javascript thuần, phần một - Viết code javascript
 category: Chuyện lập trình
 tags:
  - lap-trinh-javascript
@@ -34,6 +34,11 @@ Sê-ri này gồm 4 phần:
 Phần 2: Mông má lại cho đẹp bằng css<br>
 Phần 3: App signing và build thành apk
 Phần 4: Đưa app lên Google Play
+
+Bài viết đang được hoàn thiện, link github toàn bộ code ở đây:
+
+[https://github.com/buivannguyen/girl-puzzle-android-app](https://github.com/buivannguyen/girl-puzzle-android-app)
+
 
 ```javascript
 var app = function(){
