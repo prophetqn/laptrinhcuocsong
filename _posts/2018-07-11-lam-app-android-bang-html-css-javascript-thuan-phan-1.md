@@ -39,9 +39,11 @@ Phần 2: Mông má lại cho đẹp bằng css<br>
 Phần 3: App signing và build thành apk
 Phần 4: Đưa app lên Google Play
 
-Bài viết đang được hoàn thiện, link github toàn bộ code ở đây:
+Link github toàn bộ code ở đây:
 
 [https://github.com/buivannguyen/girl-puzzle-android-app](https://github.com/buivannguyen/girl-puzzle-android-app)
+
+Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở đây...
 
 ```javascript
 <!DOCTYPE html>
@@ -312,3 +314,5 @@ var ui = function(app){
     }
 }
 ```
+
+To be continue...
