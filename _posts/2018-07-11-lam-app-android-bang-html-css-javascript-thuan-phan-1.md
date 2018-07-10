@@ -2,6 +2,7 @@
 layout: post
 title: Làm app android chỉ bằng html, css và javascript thuần, phần một - Viết code javascript
 category: Chuyện lập trình
+cover: lam-app-android.jpg
 tags:
  - lap-trinh-javascript
 related_post:
