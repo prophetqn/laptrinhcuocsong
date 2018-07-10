@@ -45,6 +45,8 @@ Link github toàn bộ code ở đây:
 
 Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở đây...
 
+File index.html
+
 ```javascript
 <!DOCTYPE html>
 <html>
@@ -97,6 +99,8 @@ Bài viết đang được hoàn thiện, sẽ được update, sửa dần dầ
 <script type="text/javascript" src="app.js"></script>
 </html>
 ```
+
+Object chính của ứng dụng
 
 ```javascript
 var app = function(){
@@ -194,6 +198,7 @@ var app = function(){
 }
 ```
 
+Network object
 
 ```javascript
 var network = function(app){
@@ -226,6 +231,8 @@ var network = function(app){
     }
 }
 ```
+
+Object UI
 
 ```javascript
 var ui = function(app){
