@@ -36,7 +36,7 @@ Toàn bộ sê-ri này gồm 4 phần:
 
 > Phần 1: Viết code javascript<br>
 Phần 2: Mông má lại cho đẹp bằng css<br>
-Phần 3: App signing và build thành apk
+Phần 3: App signing và build thành apk<br>
 Phần 4: Đưa app lên Google Play
 
 Link github toàn bộ code ở đây:
