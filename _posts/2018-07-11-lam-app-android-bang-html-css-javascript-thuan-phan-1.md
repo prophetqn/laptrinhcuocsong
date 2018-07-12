@@ -273,7 +273,7 @@ var network = function(app){
 
 ## UI Object
 
-UI (user interface) là object đảm nhiện vai trò quản lý giao diện, nôm na là ẩn cái này hiện cái kia, đồng thời nhận event khi người dùng nhấn nút này nút nọ, rồi gọi hàm ở object chính.
+UI (user interface) là object đảm nhiện vai trò quản lý giao diện, nôm na là ẩn cái này hiện cái kia, đồng thời nhận event khi người dùng nhấn nút này nút nọ, rồi gọi hàm ở object chính. Có lẽ không cần giải thích nhiều vì ở đây mình chỉ sử dụng các hàm javascript tương tác với DOM cơ bản thôi.
 
 ```javascript
 var ui = function(app){
@@ -377,6 +377,8 @@ window.onload = function(){
 }
 ```
 
-Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
+## Kết bài
 
-To be continue...
+Không cần sử dụng kỹ thuật gì cao siêu, cũng không dùng framework nào cả, thông qua bài viết này bạn đã tự mình học được các kiến thức javascript căn bản, hiểu được javascript làm việc với các thành phần DOM như thế nào. Trong phần sau, mình sẽ cùng các bạn mông má lại cái app này cho đẹp hơn, chứ đưa lên app store xấu như thế này người ta cười cho.
+
+Hẹn gặp các bạn ở phần 2.
