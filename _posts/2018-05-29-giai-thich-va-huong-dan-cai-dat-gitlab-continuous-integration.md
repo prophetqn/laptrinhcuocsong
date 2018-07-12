@@ -38,13 +38,15 @@ Nghe tên thôi là cũng gần gần hiểu rồi, nôm na nó là phương ph�
 
 ## CD - Triển khai liên tục là gì?
 
-Đồng hành cùng tích hợp liên tục, triển khai liên tục là thường xuyên release phiên bản mới lên môi trường test, việc này được diễn ra tự động. Ví dụ bình thường, để xuất bản website, bạn phải làm rất nhiều thứ, từ upload code lên server, chạy migrate dữ liệu, cấu hình file config các kiểu, rất tốn thời gian và dễ sai sót.
+Đồng hành cùng tích hợp liên tục, triển khai liên tục là thường xuyên release phiên bản mới lên môi trường test, việc này được diễn ra tự động, giảm gánh nặng cho [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien) để lập trình viên tập trung vào việc code mà thôi.
+
+Ví dụ bình thường, để xuất bản website, bạn phải làm rất nhiều thứ, từ upload code lên server, chạy migrate dữ liệu, cấu hình file config các kiểu, rất tốn thời gian và dễ sai sót. Thì với triển khai liên tục, bạn chỉ cần push code lên git là mọi thứ được tự động deploy lên server test mà bạn không cần phải đụng chân đụng tay gì.
 
 Nội dung chính của bài viết này sẽ hướng dẫn bạn cài đặt làm sao để nó "tự động" được.
 
 ## Continuous Deployment với Gitlab CI - CD
 
-Gitlab CI - CD là một tool tự động deploy ứng dụng, giảm gánh nặng cho [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien), để lập trình viên tập trung vào việc code mà thôi. Thật ra thì có rất nhiều tool tương tự (ví dụ Jenkins, Travis CI) nhưng tại công ty mình dùng gitlab nên mình chỉ viết về cái này thôi :))
+Gitlab là mã nguồn mở để tạo git server, nôm na là để tạo hệ thống giống github. Gitlab CI - CD là một tool tự động deploy ứng dụng, thật ra thì có rất nhiều tool tương tự (ví dụ Jenkins, Travis CI) nhưng trong khuôn khổ bài viết này, mình sẽ hướng dẫn bạn sử dụng Gitlab CI - CD để tự động deploy ứng dụng.
 
 Thêm cái hình sơ đồ cho nó nguy hiểm:
 
