@@ -56,15 +56,12 @@ Hình trên là màn hình dạng thô, chưa thêm thắt trang trí cho các b
 
 Chúng ta sẽ có các màn hình như sau:
 
-- Màn hình loading, để tải dữ liệu câu hỏi và link ảnh về
-- Màn hình start, để hiện nút "Bắt đầu"
-- Màn hình hiện hình ảnh cho họ xem
-- Màn hình hiện câu hỏi
-- Màn hình game over, thông báo trả lời sai
+- Màn hình start, để tải dữ liệu câu hỏi và link ảnh về, khi tải xong sẽ hiện nút "Bắt đầu"
+- Màn hình hiện hình ảnh cho họ xem, hiện số level ở trên đầu
+- Màn hình hiện câu hỏi với 4 đáp án
+- Màn hình game over, thông báo trả lời sai, nút cho chơi lại
 
-Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
-
-File index.html
+Theo phân tích trên, chúng ta viết file index.html như sau:
 
 ```javascript
 <!DOCTYPE html>
@@ -118,6 +115,8 @@ File index.html
 <script type="text/javascript" src="app.js"></script>
 </html>
 ```
+
+Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
 
 Object chính của ứng dụng
 
