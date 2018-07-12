@@ -218,6 +218,11 @@ var app = function(){
     
 }
 ```
+
+Theo code trên, ban đầu mình tạo ra một object tên là `app`, đừng hỏi mình tại sao lại là `var app = function()` nhé, vì trong javascript mọi thứ đều là object cả.
+
+Trong object này, mình tạo ra các object như `ui` để quản lý giao diện, `network` để làm các việc liên quan đến lấy dữ liệu, `data` là một mảng để chứa data đã lấy về, data là một file json bạn có thể xem [ở đây](https://github.com/buivannguyen/girl-puzzle-android-app/blob/master/sample_data.json). `level` là một con số để lưu level hiện tại, `question` để chứa câu hỏi hiện tại.
+
 Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
 
 
