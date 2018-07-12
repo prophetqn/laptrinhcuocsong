@@ -44,6 +44,24 @@ Link github toàn bộ code ở đây:
 
 [https://github.com/buivannguyen/girl-puzzle-android-app](https://github.com/buivannguyen/girl-puzzle-android-app)
 
+## Phân tích một chút
+
+Đây là một app giải trí, khi mở app lên sẽ có một cái hình gái xinh, bấm vào cái hình gái xinh nó sẽ cho một câu hỏi, trả lời đúng thì được qua hình gái xinh tiếp theo, sai phải chơi lại từ đầu. Điểm vui của trò này là người chơi không biết sẽ bị hỏi câu gì, nó sẽ hỏi những câu trời ơi đất hỡi như là "Cô gái có hình xăm trên chân trái hay chân phải".
+
+Các màn hình cơ bản:
+
+![Android app](images/android-app.png)
+
+Hình trên là màn hình dạng thô, chưa thêm thắt trang trí cho các bạn dễ hiểu, ở phần 2 chúng ta mới mông má lại cho đẹp sau.
+
+Chúng ta sẽ có các màn hình như sau:
+
+- Màn hình loading, để tải dữ liệu câu hỏi và link ảnh về
+- Màn hình start, để hiện nút "Bắt đầu"
+- Màn hình hiện hình ảnh cho họ xem
+- Màn hình hiện câu hỏi
+- Màn hình game over, thông báo trả lời sai
+
 Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
 
 File index.html
