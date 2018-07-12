@@ -362,6 +362,21 @@ var ui = function(app){
     }
 }
 ```
+
+## Now we are ready to go
+
+Sau khi đã định nghĩa hết các object, mình tạo luôn object chính ở cuối file `app.js` trong sự kiện onload của window và gọi ngay hàm `boot`
+
+```javascript
+/*
+ * Now we are ready to go
+ */
+window.onload = function(){
+    var girlPuzzle = new app();
+    girlPuzzle.boot();
+}
+```
+
 Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
 
 To be continue...
