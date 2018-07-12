@@ -5,7 +5,7 @@ category: Chuyện lập trình
 cover: lam-app-android.jpg
 tags:
  - lap-trinh-javascript
-related_post:
+related_posts:
  - title: 
    link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
  - title: 
