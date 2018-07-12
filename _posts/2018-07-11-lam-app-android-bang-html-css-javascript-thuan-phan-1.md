@@ -119,7 +119,7 @@ Như các bạn thấy, mình tạo ra 4 div tương ứng với 4 màn hình v�
 
 ## Object chính của ứng dụng
 
-Object chính của ứng dụng, gọi cho sang mồm là `Application super object` là object chứa toàn bộ mọi thứ, ui, network, data... tóm lại là tất tần tật những cái gì có trong ứng dụng, các thành phần này tương tác với nhau. Kiểu như bạn làm một website, thì ban đầu bạn tạo là 1 class tên là `website` sau đó trong class này bạn định nghĩa thêm các class con như form, menu, header, footer... để dễ dàng quản lý.
+Object chính của ứng dụng, gọi cho sang mồm là `Application super object` là object chứa toàn bộ mọi thứ, từ UI, network, data... tóm lại là tất tần tật những cái gì có trong ứng dụng, các thành phần này tương tác với nhau. Kiểu như bạn làm một website, thì ban đầu bạn tạo là 1 class tên là `website` sau đó trong class này bạn định nghĩa thêm các class con như form, menu, header, footer... để dễ dàng quản lý.
 
 Hãy xem qua code này và đừng vội hiểu gì cả, mình sẽ giải thích ở bên dưới.
 
@@ -241,10 +241,9 @@ Ngoài ra mình còn định nghĩa `data` là một mảng để chứa data đ
 
 **restart**: Hàm này được gọi khi người dùng bấm nút "chơi lại", reset level rồi chuyển về màn hình welcome.
 
-Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
-
-
 ## Network object
+
+Đây là object đảm nhiệm vai trò lấy dữ liệu từ server về, tải trước ảnh để hiện chữ "loading image". Đây chỉ là request ajax thuần mà các bạn đã biết. Sau khi tải dữ liệu xong, nó gọi hàm `successCallback`
 
 ```javascript
 var network = function(app){
@@ -279,6 +278,8 @@ var network = function(app){
 ```
 
 ## UI Object
+
+UI (user interface) là object đảm nhiện vai trò quản lý giao diện, nôm na là ẩn cái này hiện cái kia, đồng thời nhận event khi người dùng nhấn nút này nút nọ, rồi gọi hàm ở object chính.
 
 ```javascript
 var ui = function(app){
@@ -367,5 +368,6 @@ var ui = function(app){
     }
 }
 ```
+Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
 
 To be continue...
