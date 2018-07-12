@@ -225,7 +225,7 @@ Trong object này, mình tạo ra các object như `ui` để quản lý giao di
 
 Ngoài ra mình còn định nghĩa `data` là một mảng để chứa data đã lấy về, data là một file json bạn có thể xem [ở đây](https://github.com/buivannguyen/girl-puzzle-android-app/blob/master/sample_data.json). `level` là một con số để lưu level hiện tại, `question` để chứa câu hỏi hiện tại, để thuận tiện cho thao tác :)
 
-### Giải thích ý nghĩa các method:
+**Giải thích ý nghĩa các method**:
 
 - **Boot**: Đặt tên là `boot` cho nó có vẻ chuyên nghiệp tí, đây là hàm chạy lần đầu tiên, hiện màn hình welcome, load data và listen các event cho các nút.
 - **loadData**: Đây là hàm lấy dữ liệu từ server về, nó sử dụng object network, sẽ giải thích sau. Sau khi lấy được dữ liệu thì ẩn dòng chữ "Loading data" và hiện nút start lên.
