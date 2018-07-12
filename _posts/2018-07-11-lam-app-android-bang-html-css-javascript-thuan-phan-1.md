@@ -381,4 +381,4 @@ window.onload = function(){
 
 Không cần sử dụng kỹ thuật gì cao siêu, cũng không dùng framework nào cả, thông qua bài viết này bạn đã tự mình học được các kiến thức javascript căn bản, hiểu được javascript làm việc với các thành phần DOM như thế nào. Trong phần sau, mình sẽ cùng các bạn mông má lại cái app này cho đẹp hơn, chứ đưa lên app store xấu như thế này người ta cười cho.
 
-Hẹn gặp các bạn ở phần 2.
+Bạn có thể xem và tải code ở link github trên về chạy thử để hiểu rõ hơn. Hẹn gặp các bạn ở phần 2.
