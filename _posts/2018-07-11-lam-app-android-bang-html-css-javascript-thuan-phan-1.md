@@ -7,11 +7,11 @@ tags:
  - lap-trinh-javascript
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
+   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
-   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
+   link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
  - title: 
-   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+   link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
  - title:
    link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 related_videos:
