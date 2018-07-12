@@ -227,19 +227,13 @@ Ngoài ra mình còn định nghĩa `data` là một mảng để chứa data đ
 
 ### Giải thích ý nghĩa các method:
 
-**Boot**: Đặt tên là `boot` cho nó có vẻ chuyên nghiệp tí, đây là hàm chạy lần đầu tiên, hiện màn hình welcome, load data và listen các event cho các nút.
-
-**loadData**: Đây là hàm lấy dữ liệu từ server về, nó sử dụng object network, sẽ giải thích sau. Sau khi lấy được dữ liệu thì ẩn dòng chữ "Loading data" và hiện nút start lên.
-
-**loadImage**: Tải trước một hình ảnh trước khi hiện nó lên, nó sẽ tải hình ảnh ở level hiện tại.
-
-**pickAndShowQuestion**: Chọn ngẫu nhiên một câu hỏi và hiện nó lên màn hình câu hỏi.
-
-**checkAnswer**: Hàm này được gọi khi người dùng bấm trả lời câu hỏi, nó sẽ kiểm tra xem trả lời đúng chưa, nếu đúng, thì nhảy qua level tiếp theo, nếu sai thì hiện màn hình game over.
-
-**nextLevel**: Tải hình ảnh và nhảy sang level tiếp theo.
-
-**restart**: Hàm này được gọi khi người dùng bấm nút "chơi lại", reset level rồi chuyển về màn hình welcome.
+- **Boot**: Đặt tên là `boot` cho nó có vẻ chuyên nghiệp tí, đây là hàm chạy lần đầu tiên, hiện màn hình welcome, load data và listen các event cho các nút.
+- **loadData**: Đây là hàm lấy dữ liệu từ server về, nó sử dụng object network, sẽ giải thích sau. Sau khi lấy được dữ liệu thì ẩn dòng chữ "Loading data" và hiện nút start lên.
+- **loadImage**: Tải trước một hình ảnh trước khi hiện nó lên, nó sẽ tải hình ảnh ở level hiện tại.
+- **pickAndShowQuestion**: Chọn ngẫu nhiên một câu hỏi và hiện nó lên màn hình câu hỏi.
+- **checkAnswer**: Hàm này được gọi khi người dùng bấm trả lời câu hỏi, nó sẽ kiểm tra xem trả lời đúng chưa, nếu đúng, thì nhảy qua level tiếp theo, nếu sai thì hiện màn hình game over.
+- **nextLevel**: Tải hình ảnh và nhảy sang level tiếp theo.
+- **restart**: Hàm này được gọi khi người dùng bấm nút "chơi lại", reset level rồi chuyển về màn hình welcome.
 
 ## Network object
 
