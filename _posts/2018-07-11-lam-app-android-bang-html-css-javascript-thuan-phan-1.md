@@ -119,6 +119,10 @@ Như các bạn thấy, mình tạo ra 4 div tương ứng với 4 màn hình v�
 
 ## Object chính của ứng dụng
 
+Object chính của ứng dụng, gọi cho sang mồm là `Application super object` là object chứa toàn bộ mọi thứ, ui, network, data... tóm lại là tất tần tật những cái gì có trong ứng dụng, các thành phần này tương tác với nhau. Kiểu như bạn làm một website, thì ban đầu bạn tạo là 1 class tên là `website` sau đó trong class này bạn định nghĩa thêm các class con như form, menu, header, footer... để dễ dàng quản lý.
+
+Hãy xem qua code này và đừng vội hiểu gì cả, mình sẽ giải thích ở bên dưới.
+
 ```javascript
 var app = function(){
     this.ui       = new ui(this);
