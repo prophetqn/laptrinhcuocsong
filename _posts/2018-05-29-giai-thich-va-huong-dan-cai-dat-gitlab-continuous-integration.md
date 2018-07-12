@@ -34,7 +34,7 @@ Có lẽ bạn đã từng nghe ở đâu đó về continuous integration (CI -
 
 ## CI - Tích hợp liên tục là gì?
 
-Nghe tên thôi là cũng gần gần hiểu rồi, nôm na nó là phương pháp phát triển phần mềm yêu cầu dev nộp code thường xuyên, nộp code hàng ngày. Code được "tích hợp" liên tục lên test server để sớm phát hiện ra lỗi.
+Nghe tên thôi là cũng gần gần hiểu rồi, nôm na nó là phương pháp phát triển phần mềm yêu cầu dev nộp code thường xuyên, nộp code hàng ngày. Code được "tích hợp" liên tục lên test server, khi một đoạn code bị lỗi, cả team có thể sớm phát hiện và sửa chữa ngay lập tức.
 
 ## CD - Triển khai liên tục là gì?
 
