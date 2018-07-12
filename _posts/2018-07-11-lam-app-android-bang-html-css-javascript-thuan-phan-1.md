@@ -115,10 +115,9 @@ Theo phân tích trên, chúng ta viết file index.html như sau:
 <script type="text/javascript" src="app.js"></script>
 </html>
 ```
+Như các bạn thấy, mình tạo ra 4 div tương ứng với 4 màn hình với class là `.scene` để dễ dàng ẩn hiện khi cần thiết. Ban đầu tất cả các div này ẩn (`display: none`) sau đó muốn hiện màn hình nào thì đặt nó là `display: block`
 
-Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
-
-Object chính của ứng dụng
+## Object chính của ứng dụng
 
 ```javascript
 var app = function(){
@@ -215,6 +214,8 @@ var app = function(){
     
 }
 ```
+Bài viết đang được hoàn thiện, sẽ được update, sửa dần dần ở bài viết này...
+
 
 Network object
 
