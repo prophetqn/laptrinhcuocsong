@@ -13,6 +13,8 @@ Cái tên Lập Trình Cuộc Sống xuất phát từ một câu danh ngôn mà
 > "Sai thì sửa, bug thì fix, quan trọng là làm sao tìm ra bug trong chính con người bạn mà thôi."<br>
 Bùi Văn Nguyện - Laptrinhcuocsong.com
 
+Vì là blog Lập trình cuộc sống, cộng thêm tính tình vui vẻ nên blog này không quá nặng về yếu tố kỹ thuật, chủ yếu là chia sẻ về kỹ năng lập trình, kỹ năng cuộc sống. Nếu có viết về kỹ thuật cũng là các kiến thức dễ hiểu, dưới góc nhìn thú vị mà ai cũng có thể dễ dàng tiếp cận được.
+
 ## Về bản thân:
 
 Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html), mình bắt đầu làm freelance thiết kế web từ năm 2010 đến 2014, sau đó mình rời Sài Gòn về quê làm vài công việc chân tay (làm xưởng cao su, phục vụ nhà hàng) để học kế toán với mong muốn làm nhà nước, sáng cắp cặp đi tối cắp cặp về.
