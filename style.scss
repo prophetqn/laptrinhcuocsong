@@ -138,6 +138,7 @@ a:hover, a:active {
 
     ul {
         float: right;
+        padding-right: 10px;
 
         li {
             display: inline;
@@ -149,7 +150,7 @@ a:hover, a:active {
                 font-size: 14px;
                 line-height: 40px;
                 &:hover {
-                    color: #a7a7a7;
+                    color: #fff;
                 }
             }
         }
@@ -565,6 +566,7 @@ code.highlighter-rouge {
         ul {
             float: none;
             display: block;
+            padding-right: 0px;
             text-align: center;
             li {
                 a {
