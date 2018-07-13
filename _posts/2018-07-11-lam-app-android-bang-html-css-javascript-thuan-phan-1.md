@@ -219,7 +219,7 @@ var app = function(){
 }
 ```
 
-Theo code trên, ban đầu mình tạo ra một object tên là `app`, đừng hỏi mình tại sao lại là `var app = function()` nhé, vì trong javascript mọi thứ đều là object cả.
+Theo code trên, ban đầu mình tạo ra một object tên là `app`, đừng hỏi mình tại sao lại là `var app = function()` nhé, vì trong javascript mọi thứ đều là object cả. Hiện tại ES6 đã hõ trợ từ khóa `Class` thì phải, nhưng sợ không tương thích nên chưa dám dùng :))
 
 Trong object này, mình tạo ra các object như `ui` để quản lý giao diện, `network` để làm các việc liên quan đến lấy dữ liệu, các object này mình sẽ giải thích cụ tỉ ở bên dưới.
 
