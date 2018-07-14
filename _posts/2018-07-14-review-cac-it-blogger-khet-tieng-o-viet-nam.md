@@ -35,23 +35,27 @@ Cũng như các bạn, ngoài thời gian code và FAP ra thì thời gian rản
 
 Tôi đi code dạo là một blog rất nổi tiếng và có nhiều người đọc, chủ blog là anh Phạm Huy Hoàng với câu châm ngôn "Lập trình viên không chỉ biết code"
 
-<h2><a href="http://science-technology.vn" target="_blank">John Vu - Science & technology</a></h2>
+<h2><a href="http://science-technology.vn" target="_blank">Science & technology</a></h2>
 
+Theo mình biết thì đây là blog của John Vũ, giảng viên tại trường đại học Carnegie Mellon. Một blog đồ sộ với số lượng bài viết lên đến hàng nghìn.
 
 <h2><a href="https://niviki.com/" target="_blank">Khoa Nguyễn - Niviki</a></h2>
 
+Thật sự lần đầu đọc blog Niviki mình không nghĩ rằng Khoa lại đang là sinh viên CNTT, vì không phải ai cũng có được cách nhìn, nhận định chính xác đầy kinh nghiệm như bạn ấy. Blog Niviki viết về kỹ năng, định hướng nghề nghiệp rất có ích cho developer.
 
 <h2><a href="http://www.giaosucan.com/" target="_blank">Giáo sư Căn</a></h2>
 
+Đây là blog của một lão cao thủ võ lâm nào đó hiện đang làm việc ở FPT. Dù viết về IT nhưng cách viết phóng khoáng, văn phong hài hước theo kiểu kiếm hiệp rất thu hút người đọc. Ngoài các bài viết về lập trình thì xem trên fan page còn thấy lão làm thơ với vẽ vời nữa. Có lẽ lão này đã chọn nhầm nghề.
 
 <h2><a href="https://quan-cam.com/" target="_blank">Quần Cam</a></h2>
 
 <h2><a href="https://vnhacker.blogspot.com/" target="_blank">Thái - vnhacker</a></h2>
 
+Anh Thái là một developer đã làm việc tại Việt Nam nhiều năm. Sau đó, anh chuyển đến Sillicon Valley và hiện tại đang là kỹ sư bảo mật tại Google
+
 <h2><a href="https://thefullsnack.com/" target="_blank">The full snack</a></h2>
 
 <h2><a href="https://huydx.com/" target="_blank">Huydx</a></h2>
-
 
 <h2><a href="https://ehkoo.com/" target="_blank">Ân Cao - ehkoo blog</a></h2>
 
