@@ -45,7 +45,7 @@ Thật sự lần đầu đọc blog Niviki mình không nghĩ rằng Khoa lại
 
 <h2><a href="http://www.giaosucan.com/" target="_blank">Giáo sư Căn</a></h2>
 
-Đây là blog của một lão cao thủ võ lâm nào đó hiện đang làm việc ở FPT. Dù viết về IT nhưng cách viết phóng khoáng, văn phong hài hước theo kiểu kiếm hiệp rất thu hút người đọc. Ngoài các bài viết về lập trình thì xem trên fan page còn thấy lão làm thơ với vẽ vời nữa. Có lẽ lão này đã chọn nhầm nghề.
+Đây là blog của anh Đỗ Trọng Nguyên, một lão cao thủ võ lâm hiện đang làm việc ở FPT. Dù viết về IT nhưng cách viết phóng khoáng, văn phong hài hước theo kiểu kiếm hiệp rất thu hút người đọc. Ngoài các bài viết về lập trình thì xem trên fan page còn thấy anh làm thơ với vẽ vời nữa. Có lẽ anh này đã chọn nhầm nghề.
 
 <h2><a href="https://quan-cam.com/" target="_blank">Quần Cam</a></h2>
 
