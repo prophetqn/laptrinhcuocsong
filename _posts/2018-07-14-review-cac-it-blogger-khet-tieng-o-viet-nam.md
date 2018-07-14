@@ -29,7 +29,7 @@ related_videos:
     id: xfcDMzcqdZ4
 ---
 
-Cũng như các bạn, ngoài thời gian code và FAP ra thì thời gian rảnh mình cũng hay la cà mấy blog IT, hóng hớt xem thiên hạ đang code như thế nào, bàn tán về công nghệ gì. Trong bài viết này mình sẽ giới thiệu các blog IT ~~nổi~~ khét tiếng ở Việt Nam mà mình thường xuyên ghé thăm.
+Cũng như các bạn, ngoài thời gian code và FAP ra thì thời gian rảnh mình cũng hay la cà mấy blog IT, hóng hớt xem thiên hạ đang code như thế nào, bàn tán về công nghệ gì. Trong bài viết này mình sẽ giới thiệu các blog IT ~~nổi tiếng~~ khét tiếng ở Việt Nam mà mình thường xuyên ghé thăm.
 
 <h2><a href="https://toidicodedao.com/" target="_blank">Tôi đi code dạo</a></h2>
 
@@ -53,7 +53,7 @@ Mình đọc lâu rồi nhưng vẫn không hiểu tại sao lại lấy tên bl
 
 <h2><a href="https://vnhacker.blogspot.com/" target="_blank">Thái - vnhacker</a></h2>
 
-Anh Thái là một developer đã làm việc tại Việt Nam nhiều năm. Sau đó, anh chuyển đến Sillicon Valley và hiện tại đang là kỹ sư bảo mật tại Google. Điểm nhấn của blog chính là các bài viết về bảo mật, hacking được anh chia sẻ từ những gì anh đã làm, rất thật và hữu ích với các bạn đang tìm hiểu về bảo mật.
+Anh Thái là một developer đã làm việc tại Việt Nam nhiều năm. Sau đó, anh chuyển đến Sillicon Valley và hiện tại đang là kỹ sư bảo mật tại Google. Điểm nhấn của blog chính là các bài viết về security, hacking được anh chia sẻ từ những gì anh đã làm, rất thật và hữu ích với các bạn đang tìm hiểu về bảo mật.
 
 <h2><a href="https://thefullsnack.com/" target="_blank">The full snack</a></h2>
 
