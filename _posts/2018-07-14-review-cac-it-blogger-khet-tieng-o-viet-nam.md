@@ -35,8 +35,7 @@ Cũng như các bạn, ngoài thời gian code và FAP ra thì thời gian rản
 
 Tôi đi code dạo là một blog rất nổi tiếng và có nhiều người đọc, chủ blog là anh Phạm Huy Hoàng với câu châm ngôn "Lập trình viên không chỉ biết code"
 
-<h2><a href="http://science-technology.vn" target="_blank">John Vu</a></h2>
-
+<h2><a href="http://science-technology.vn" target="_blank">John Vu - Science & technology</a></h2>
 
 
 <h2><a href="https://niviki.com/" target="_blank">Khoa Nguyễn - Niviki</a></h2>
