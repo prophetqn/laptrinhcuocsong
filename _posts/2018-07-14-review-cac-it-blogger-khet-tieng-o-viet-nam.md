@@ -32,7 +32,6 @@ related_videos:
 Cũng như các bạn, ngoài thời gian code và FAP ra thì thời gian rảnh mình cũng hay la cà mấy blog IT, hóng hớt xem thiên hạ đang code như thế nào, bàn tán về công nghệ gì. Trong bài viết này mình sẽ giới thiệu các blog IT mà mình thường xuyên ghé thăm.
 
 <h2><a href="https://toidicodedao.com/" target="_blank">Tôi đi code dạo</a></h2>
-https://toidicodedao.com/
 
 Tôi đi code dạo là một blog rất nổi tiếng và có nhiều người đọc, chủ blog là anh Phạm Huy Hoàng với câu châm ngôn "Lập trình viên không chỉ biết code"
 
