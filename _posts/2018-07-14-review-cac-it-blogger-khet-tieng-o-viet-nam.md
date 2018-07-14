@@ -49,6 +49,8 @@ Thật sự lần đầu đọc blog Niviki mình không nghĩ rằng Khoa lại
 
 <h2><a href="https://quan-cam.com/" target="_blank">Quần Cam</a></h2>
 
+Mình đọc lâu rồi nhưng vẫn không hiểu tại sao lại lấy tên blog là Quần Cam. Đây là blog của Cẩm Huỳnh, một developer đang làm việc tại Thụy Điển. Blog Quần Cam chia sẻ kinh nghiệm lập trình một cách chuyên sâu nhưng lại rất dễ hiểu và đặc biệt cách viết vô cùng gần gũi.
+
 <h2><a href="https://vnhacker.blogspot.com/" target="_blank">Thái - vnhacker</a></h2>
 
 Anh Thái là một developer đã làm việc tại Việt Nam nhiều năm. Sau đó, anh chuyển đến Sillicon Valley và hiện tại đang là kỹ sư bảo mật tại Google
