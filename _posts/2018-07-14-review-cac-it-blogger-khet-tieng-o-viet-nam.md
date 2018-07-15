@@ -61,7 +61,7 @@ Anh Thái là một developer đã làm việc tại Việt Nam nhiều năm. Sa
 
 <h2><a href="https://ehkoo.com/" target="_blank">Ân Cao - ehkoo blog</a></h2>
 
-Ehkoo là blog chuyên về lập trình web của Ân Cao, một Front-end Developer hiện đang sống và làm việc tại Phần Lan
+Ehkoo là blog chuyên về lập trình web của Ân Cao, một Front-end Developer hiện đang sống và làm việc tại Phần Lan. Bạn sẽ tìm thấy rất nhiều bài viết về frontend chất lượng trên blog Ehkoo.
 
 <h2><a href="https://codeaholicguy.com/" target="_blank">Code holi guy</a></h2>
 
