@@ -43,7 +43,7 @@ Theo mình biết thì đây là blog của John Vũ, giảng viên tại trư�
 
 Thật sự lần đầu đọc blog Niviki mình không nghĩ rằng Khoa lại đang là sinh viên CNTT, vì không phải ai cũng có được cách nhìn, nhận định chính xác đầy kinh nghiệm như bạn ấy. Blog Niviki viết về kỹ năng, định hướng nghề nghiệp rất có ích cho developer.
 
-<h2><a href="http://www.giaosucan.com/" target="_blank">Giáo sư Căn</a></h2>
+<h2><a href="http://www.giaosucan.com/" target="_blank">Giáo sư cận</a></h2>
 
 Đây là blog của anh Đỗ Trọng Nguyên, một lão cao thủ võ lâm hiện đang làm việc ở FPT. Dù viết về IT nhưng cách viết phóng khoáng, văn phong hài hước theo kiểu kiếm hiệp rất thu hút người đọc. Ngoài các bài viết về lập trình thì xem trên fan page còn thấy anh làm thơ với vẽ vời nữa. Có lẽ anh này đã chọn nhầm nghề.
 
