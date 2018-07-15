@@ -37,7 +37,7 @@ Có lẽ không cần phải giới thiệu nhiều, đây là một blog rất 
 
 <h2><a href="http://science-technology.vn" target="_blank">Science & technology</a></h2>
 
-Theo mình biết thì đây là blog của John Vũ, giảng viên tại trường đại học Carnegie Mellon. Một blog đồ sộ với số lượng bài viết lên đến hàng nghìn.
+Theo mình biết thì đây là blog của John Vũ, giảng viên tại trường đại học Carnegie Mellon. Một blog với chủ đề khá đa dạng xoay quanh công nghệ, phân tích dưới góc nhìn của một người có kiến thức rất chuyên sâu, số lượng bài viết đồ sộ lên đến hàng nghìn.
 
 <h2><a href="https://niviki.com/" target="_blank">Khoa Nguyễn - Niviki</a></h2>
 
