@@ -57,6 +57,8 @@ Anh Thái là một developer đã làm việc tại Việt Nam nhiều năm. Sa
 
 <h2><a href="https://thefullsnack.com/" target="_blank">The full snack</a></h2>
 
+Lại là một blog về kỹ thuật, tuy nhiên cách truyền tải của The fill snack lại có một cách viết rất duyên, đậm chất cá nhân và thu hút người đọc.
+
 <h2><a href="https://huydx.com/" target="_blank">Huydx</a></h2>
 
 <h2><a href="https://ehkoo.com/" target="_blank">Ân Cao - ehkoo blog</a></h2>
