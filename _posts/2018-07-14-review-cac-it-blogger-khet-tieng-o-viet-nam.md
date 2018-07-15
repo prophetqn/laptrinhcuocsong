@@ -29,7 +29,7 @@ related_videos:
     id: xfcDMzcqdZ4
 ---
 
-Cũng như các bạn, ngoài thời gian code và FAP ra thì thời gian rảnh mình cũng hay la cà mấy blog IT, hóng hớt xem thiên hạ đang code như thế nào, bàn tán về công nghệ gì. Trong bài viết này mình sẽ giới thiệu các blog IT ~~nổi tiếng~~ khét tiếng ở Việt Nam mà mình thường xuyên ghé thăm.
+Cũng như các bạn, ngoài code và FAP ra thì thời gian rảnh mình cũng hay la cà mấy blog IT, hóng hớt xem thiên hạ đang code như thế nào, bàn tán về công nghệ gì. Trong bài viết này mình sẽ giới thiệu các blog IT ~~nổi tiếng~~ khét tiếng ở Việt Nam mà mình thường xuyên ghé thăm.
 
 <h2><a href="https://toidicodedao.com/" target="_blank">Tôi đi code dạo</a></h2>
 
