@@ -61,4 +61,8 @@ Anh Thái là một developer đã làm việc tại Việt Nam nhiều năm. Sa
 
 <h2><a href="https://ehkoo.com/" target="_blank">Ân Cao - ehkoo blog</a></h2>
 
+Ehkoo là blog chuyên về lập trình web của Ân Cao, một Front-end Developer hiện đang sống và làm việc tại Phần Lan
+
 <h2><a href="https://codeaholicguy.com/" target="_blank">Code holi guy</a></h2>
+
+Ai đã từng biết đến Tôi đi code dạo mà mình đã nói ở trên chắc hẳn sẽ biết blog này, vì thấy hai ông này thân thiết với nhau lắm, còn làm chung kênh youtube nữa. Code holi guy blog có rất nhiều bài viết hướng dẫn hữu ích cho lập trình viên.
