@@ -2,6 +2,7 @@
 layout: post
 title: Viết cho sinh viên IT
 excerpt: Rồi ngày mai cuộc sống sẽ cuốn các bạn đi, code của các bạn sẽ không còn là những dòng code đầy đam mê như trước nữa, mà code của bạn phải làm ra tiền. Tôi nói thật đấy, bạn sẽ phải trả tiền phòng, tiền điện nước, internet, code của bạn trước khi làm thỏa mãn đam mê, thì trước hết nó phải đáp ứng được tầng thấp nhất của tháp nhu cầu Maslow cái đã.
+
 category: Chuyện bên lề
 tags:
  - hoc-hack-co-ban
@@ -9,27 +10,27 @@ tags:
  - cach-tro-thanh-hacker-mu-den
  - day-lam-hacker-tu-a-z
 related_posts:
- - title: Tôi đã hack Chợ Tốt như thế nào
-   link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
- - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
- - title: Thất vọng sự trở lại của hiệp hội hacker Việt Nam - HVA
-   link: http://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
  - title:
-   link: http://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
+   link: http://laptrinhcuocsong.com/minh-da-hoc-lap-trinh-nhu-the-nao.html
+ - title:
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+ - title:
+   link: http://laptrinhcuocsong.com/hoc-linux-de-lam-gi-hoc-the-nao-cho-hieu-qua.html
+ - title:
+   link: http://laptrinhcuocsong.com/lap-trinh-vien-10-tieng.html
 related_videos:
   -
-    title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
-    id: eZKyRRw3Hcs
+    title: Crush nhờ cài win thì phải làm gì? 
+    id: AecrHFq_9BI
   -
-    title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
-    id: aYA_Jsoe-jM
+    title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
+    id: zNCk6jctVW8
   -
-    title: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
-    id: NSd4DPxHv3c
+    title: Mình đã học lập trình như thế nào?
+    id: qvjWF0HWeWw
   -
-    title: Hỏi về lập trình như thế nào để khỏi bị chửi ngu?
-    id: 3KvYW1ECe4c
+    title: Tạo blog nhanh chóng miễn phí với github
+    id: CpmE5RTpPwQ
 
 ---
 
