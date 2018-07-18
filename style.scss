@@ -308,6 +308,12 @@ del {
 blockquote p {
     padding-bottom: 0px !important;
 }
+.post hr {
+    background-color: #f3f3f3;
+    border: none;
+    height: 1px;
+    margin-bottom: 25px;
+}
 blockquote, q {
     quotes          : none;
     background-color: #f1f1f1;
