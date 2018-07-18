@@ -37,7 +37,7 @@ related_videos:
 
 Tôi nghĩ rằng tôi là người hiểu các bạn, hoặc ít ra cũng là một người mà các bạn tin tưởng mà đưa ra những vướng mắc của mình... Nếu ai đó hỏi tôi rằng: Điều gì đã khiến một tên coder quèn như tôi cũng muốn viết gì đó cho sinh viên IT, thì câu trả lời là, tôi viết bài này cả cho bản thân tôi nữa.
 
-Tôi đã từng code trên cái máy tính với chip lõi đôi, tốc độ xử lý chỉ bằng 1/3 cái điện thoại tôi đang dùng bây giờ. Bây giờ, chúng ta có rất nhiều thứ, có nguồn tài liệu từ internet vô hạn, có điện thoại thông minh, có những đám mây cloud trên bầu trời... 
+Tôi đã từng code trên cái máy tính với chip lõi đôi, tốc độ xử lý chỉ bằng 1/3 cái điện thoại tôi đang dùng hiện nay. Bây giờ, chúng ta có rất nhiều thứ, có nguồn tài liệu từ internet vô hạn, có điện thoại thông minh, có những đám mây cloud trên bầu trời... 
 
 Nhưng dù ở thời đại nào, trong điều kiện hoàn cảnh nào đi nữa, chúng ta cũng có chung niềm đam mê lập trình như nhau...
 
@@ -53,17 +53,17 @@ Tôi biết các bạn đang mong ước một cuộc sống tốt đẹp sau kh
 
 Nhưng bạn phải làm cái gì đó trước đã.
 
-Ngay lúc này, bạn có đủ thời gian để làm những gì bạn thích, bạn không nhiều tiền nhưng cũng không phải nặng gánh mưu sinh. Nếu không muốn trở thành một lão già nuối tiếc như tôi, hãy làm gì đó.
+Ngay lúc này, bạn có đủ thời gian để làm những gì bạn thích, bạn không nhiều tiền nhưng cũng không phải nặng gánh mưu sinh. Nếu không muốn trở thành một lão già tiếc nuối như tôi, hãy làm gì đó.
 
-Đừng hoang phí tuổi trẻ thêm nữa,  đừng bỏ lỡ cơ hội, nếu đang yêu, hãy cứ yêu đi, hãy cứ dại khờ theo đuổi những gì bạn muốn. Bởi vì khi đã ra bên ngoài cuộc sống, vai đầy những lo toan, thì bạn sẽ chẳng còn thời giờ nào mà nghĩ đến ý tưởng hay muốn làm cái gì cả đâu.
+Đừng hoang phí tuổi trẻ thêm nữa, đừng bỏ lỡ cơ hội, nếu đang yêu, hãy cứ yêu đi, hãy cứ dại khờ theo đuổi những gì bạn muốn. Bởi vì khi đã ra bên ngoài cuộc sống, vai đầy những lo toan, thì bạn sẽ chẳng còn thời giờ nào mà nghĩ đến ý tưởng hay muốn làm cái gì cả đâu.
 
-Hãy dần dần những ý tưởng nho nhỏ thành hiện thực, có thể đó không phải là những dòng code tốt nhất thế giới, nhưng nó mang lại giá trị. Mark cũng đã từng dại khờ mà tạo nên Facebook như thế đấy.
+Hãy dần dần biến những ý tưởng nho nhỏ thành hiện thực, có thể đó không phải là những dòng code tốt nhất thế giới, nhưng nó mang lại giá trị. Mark cũng đã từng dại khờ mà tạo nên Facebook như thế đấy.
 
 -----
 
-Tôi thật sự cảm thấy buồn khi một bạn nào đó mà tôi chưa từng biết mặt gửi tin nhắn cho tôi rằng "anh ơi có lẽ em bỏ IT anh ạ". Tôi biết có bạn đang cảm thấy như thế, và chính tôi cũng đã từng cảm thấy như thế.
+Tôi thật sự cảm thấy buồn khi một bạn nào đó mà tôi chưa từng biết mặt gửi tin nhắn cho tôi rằng "anh ơi có lẽ em bỏ IT anh ạ". Tôi biết có bạn đang cảm thấy như thế, và chính tôi cũng đã từng có lúc cảm thấy như thế.
 
-Rồi sẽ có lúc, cuộc sống làm bạn cảm thấy chán nản, trên con đường của mỗi người đều sẽ có những khó khăn, đó là một điều tất yếu, nhưng đừng bao giờ quên đi niềm đam mê với code nhé.
+Rồi sẽ có lúc, cuộc sống làm bạn cảm thấy chán nản, trên con đường của mỗi người đều sẽ có những khó khăn, đó là một điều tất yếu, nhưng đừng bao giờ quên đi niềm đam mê với code bạn nhé.
 
 -----
 
