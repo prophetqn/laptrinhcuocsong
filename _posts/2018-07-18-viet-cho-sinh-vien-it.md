@@ -2,7 +2,8 @@
 layout: post
 title: Viết cho sinh viên IT
 excerpt: Rồi ngày mai cuộc sống sẽ cuốn các bạn đi, code của các bạn sẽ không còn là những dòng code đầy đam mê như trước nữa, mà code của bạn phải làm ra tiền. Tôi nói thật đấy, bạn sẽ phải trả tiền phòng, tiền điện nước, internet, code của bạn trước khi làm thỏa mãn đam mê, thì trước hết nó phải đáp ứng được tầng thấp nhất của tháp nhu cầu Maslow cái đã.
-
+cover: sinh-vien-it.png
+thumbnail: web-developer.png
 category: Chuyện bên lề
 tags:
  - hoc-hack-co-ban
