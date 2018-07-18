@@ -51,7 +51,7 @@ Có những lúc tôi ngụp lặn giữa những dòng code, báo cáo,  deadli
 
 Tôi biết các bạn đang mong ước một cuộc sống tốt đẹp sau khi ra trường, một công việc tốt với mức lương cao, được làm việc trong văn phòng đẹp, được đi du lịch nhiều nơi. Điều đó không có gì là sai cả, bạn có quyền xứng đáng được như thế. Và theo những gì tôi biết, điều mà bạn mong muốn như công việc tốt với mức lương vài nghìn đô là hoàn toàn có thể đạt được.
 
-**Nhưng bạn phải làm cái gì đó trước đã.**
+Nhưng bạn phải làm cái gì đó trước đã.
 
 Ngay lúc này, bạn có đủ thời gian để làm những gì bạn thích, bạn không nhiều tiền nhưng cũng không phải nặng gánh mưu sinh. Nếu không muốn trở thành một lão già nuối tiếc như tôi, hãy làm gì đó.
 
