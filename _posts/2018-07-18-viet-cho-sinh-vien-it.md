@@ -6,10 +6,10 @@ cover: sinh-vien-it.png
 thumbnail: web-developer.png
 category: Chuyện bên lề
 tags:
- - hoc-hack-co-ban
- - hacking-co-ban
- - cach-tro-thanh-hacker-mu-den
- - day-lam-hacker-tu-a-z
+ - nganh-lap-trinh-vien
+ - lap-trinh-vien
+ - nghe-lap-trinh-vien-hien-nay
+ - doi-song-lap-trinh-vien
 related_posts:
  - title:
    link: http://laptrinhcuocsong.com/minh-da-hoc-lap-trinh-nhu-the-nao.html
