@@ -12,6 +12,8 @@ excerpt: Tổng hợp cập nhật các bài viết hay, được bạn đọc q
 
 [Tại sao dân lập trình thường FA](http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html)
 
+[Viết cho sinh viên IT](http://laptrinhcuocsong.com/viet-cho-sinh-vien-it.html)
+
 [Lương lập trình viên mới ra trường - sự thật và ảo tưởng](http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html)
 
 [Bạn học CNTT và định bỏ đại học? Hãy đọc câu chuyện của mình](http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html)
