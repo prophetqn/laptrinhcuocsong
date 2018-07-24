@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Làm frontend chỉ html css thôi phải không, con gái theo lập trình game
+    id: 8iqvQe46ViU
+  -
     title: Dân IT ngày xưa tán gái như thế nào?
     id: H6FmYVzTuVU
   -
