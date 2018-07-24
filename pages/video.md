@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Dân IT ngày xưa tán gái như thế nào?
+    id: H6FmYVzTuVU
+  -
     title: Vừa rửa bát vừa nói chuyện lập trình
     id: J7-eT2TnLVU
   -
