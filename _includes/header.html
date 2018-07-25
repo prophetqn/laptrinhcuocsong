@@ -23,15 +23,21 @@
     {% if page.url %}
     <meta property="og:url" content="{{ site.site_url }}{{ page.url }}" />
     {% endif %}
+
     {% if page.cover %}
     <meta property='og:image' content='{{ site.site_url }}/images/{{ page.cover }}' />
-    <meta property="og:image:type" content="image/jpeg" /> 
     {% elsif page.thumbnail %}
     <meta property='og:image' content='{{ site.site_url }}/images/{{ page.thumbnail }}' />
-    <meta property="og:image:type" content="image/jpeg" /> 
+    <meta property="og:image:width" content="250" />
+    <meta property="og:image:height" content="250" />
+    {% else %}
+    <meta property='og:image' content='{{ site.site_url }}/images/programming-thumb.png' />
     <meta property="og:image:width" content="250" />
     <meta property="og:image:height" content="250" />
     {% endif %}
+    <meta property="og:image:type" content="image/jpeg" /> 
+
+
     <link rel='stylesheet' async defer type='text/css' href='{{ site.site_url }}/style.css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.site_url }}/feed.xml" />
     <meta property="fb:app_id" content="299675953750632"/>
