@@ -2,6 +2,7 @@
 layout: post
 title: Review các IT blogger khét tiếng ở Việt Nam
 category: Chuyện bên lề
+thumbnail: blog-thumb.png
 tags:
   - doi-song-lap-trinh-vien
   - nganh-lap-trinh-vien
