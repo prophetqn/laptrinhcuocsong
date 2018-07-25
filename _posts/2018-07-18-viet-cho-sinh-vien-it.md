@@ -47,6 +47,8 @@ Rồi ngày mai cuộc sống sẽ cuốn các bạn đi, code của các bạn 
 
 Có những lúc tôi ngụp lặn giữa những dòng code, báo cáo,  deadline... Có lúc tôi lơ đễnh, những đam mê, ý tưởng và ước vọng của tôi ngày xưa đâu rồi? Nó vẫn còn, nhưng tôi không có thời gian để làm nó nữa. Thì cái ngày lên giảng đường, tối được về nghiên cứu và làm những gì mình thích như các bạn, nó thật là tuyệt vời, như một giấc mơ vậy.
 
+![sinh vien it](images/sinh-vien-it.png)
+
 -----
 
 Tôi biết các bạn đang mong ước một cuộc sống tốt đẹp sau khi ra trường, một công việc tốt với mức lương cao, được làm việc trong văn phòng đẹp, được đi du lịch nhiều nơi. Điều đó không có gì là sai cả, bạn có quyền xứng đáng được như thế. Và theo những gì tôi biết, điều mà bạn mong muốn như công việc tốt với mức lương vài nghìn đô là hoàn toàn có thể đạt được.
