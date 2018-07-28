@@ -69,4 +69,4 @@ Rồi sẽ có lúc, cuộc sống làm bạn cảm thấy chán nản, trên co
 
 -----
 
-Cuộc sống này là thay đổi, cũng như SQL lại có NoSQL vậy. Những gì tôi viết trên blog này, có thể sau vài năm sẽ không còn đúng nữa. Vài năm nữa bạn lại như tôi, ngồi viết bài cho những người trẻ đi sau. Thế giới là thay đổi, và thay đổi ngày càng nhanh, các bạn là những chiến binh mới, hãy nhanh tay mà nắm bắt, công nghệ tương lai đang nằm trong tay các bạn.
+Cuộc sống này là thay đổi, cũng như SQL lại có NoSQL vậy. Những gì tôi viết trên blog này, có thể sau vài năm sẽ không còn đúng nữa. Vài năm nữa bạn lại như tôi, lại lầm lũi ngồi viết những tâm sự như thế này. Thế giới là thay đổi, và thay đổi ngày càng nhanh, các bạn là những chiến binh mới, hãy nhanh tay mà nắm bắt, công nghệ tương lai đang nằm trong tay các bạn.
