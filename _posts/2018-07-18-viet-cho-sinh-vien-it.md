@@ -55,7 +55,7 @@ Tôi biết các bạn đang mong ước một cuộc sống tốt đẹp sau kh
 
 Nhưng bạn phải làm cái gì đó trước đã.
 
-Ngay lúc này, bạn có đủ thời gian để làm những gì bạn thích, bạn không nhiều tiền nhưng cũng không phải nặng gánh mưu sinh. Nếu không muốn trở thành một lão già tiếc nuối như tôi, hãy làm gì đó.
+Ngay lúc này, bạn có thừa thời gian để làm những gì bạn thích, bạn không nhiều tiền nhưng cũng không phải nặng gánh mưu sinh. Tâm trí của các bạn được tự do cho những ước mơ lớn, nếu không muốn trở thành một lão già tiếc nuối như tôi, hãy làm gì đó.
 
 Đừng hoang phí tuổi trẻ thêm nữa, đừng bỏ lỡ cơ hội, nếu đang yêu, hãy cứ yêu đi, hãy cứ dại khờ theo đuổi những gì bạn muốn. Bởi vì khi đã ra bên ngoài cuộc sống, vai đầy những lo toan, thì bạn sẽ chẳng còn thời giờ nào mà nghĩ đến ý tưởng hay muốn làm cái gì cả đâu.
 
