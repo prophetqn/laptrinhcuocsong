@@ -43,7 +43,7 @@ Nhưng dù ở thời đại nào, trong điều kiện hoàn cảnh nào đi n�
 
 -----
 
-Rồi ngày mai cuộc sống sẽ cuốn các bạn đi, code của các bạn sẽ không còn là những dòng code đầy đam mê như trước nữa, mà code của bạn phải làm ra tiền. Tôi nói thật đấy, bạn sẽ phải trả tiền phòng, tiền điện nước, internet, code của bạn trước khi làm thỏa mãn đam mê, thì trước hết nó phải đáp ứng được tầng thấp nhất của tháp nhu cầu Maslow cái đã.
+Rồi ngày mai cuộc sống sẽ cuốn các bạn đi, code của các bạn sẽ không còn là những dòng code đầy đam mê như trước nữa, đến một lúc nào đó, code của bạn phải làm ra tiền. Tôi nói thật đấy, bạn sẽ phải trả tiền phòng, tiền điện nước, internet, code của bạn trước khi làm thỏa mãn đam mê, thì trước hết nó phải đáp ứng được tầng thấp nhất của tháp nhu cầu Maslow cái đã.
 
 Có những lúc tôi ngụp lặn giữa những dòng code, báo cáo,  deadline... Có lúc tôi lơ đễnh, những đam mê, ý tưởng và ước vọng của tôi ngày xưa đâu rồi? Nó vẫn còn, nhưng tôi không có thời gian để làm nó nữa. Thì cái ngày lên giảng đường, tối được về nghiên cứu và làm những gì mình thích như các bạn, nó thật là tuyệt vời, như một giấc mơ vậy.
 
