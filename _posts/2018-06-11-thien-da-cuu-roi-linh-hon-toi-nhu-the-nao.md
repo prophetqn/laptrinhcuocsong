@@ -57,7 +57,7 @@ Cách thực hiện không hề khó, vô cùng đơn giản là khác, đây l�
 
 Thật sự là tuyệt vời, nó không chỉ kích thích lại các giác quan của cơ thể (nóng, lạnh) mà còn khơi gợi lại cả cảm xúc trong tâm hồn (buồn, vui). Giúp mình từ một người chai sạn cảm xúc trở thành người yêu bản thân và biết quan tâm đến mọi người hơn, thấy quý giá giây phút hiện tại hơn.
 
-Video cách thực hiện ở bên dưới, rất đáng để thử, tất cả chỉ có 30 phút mỗi ngày, nếu bạn đã thử tập và cảm thấy có ích, hãy để lại comment, mình sẽ thấy rất vui khi đã chia sẻ được với bạn trải nghiệm thú vị này.
+Video cách thực hiện ở bên dưới, rất đáng để thử, tất cả chỉ có 30 phút mỗi ngày, trong trạng thái bất động, bạn có cơ hội nuôi dưỡng sức mạnh từ bên trong, mình thấy rất vui khi đã chia sẻ được với bạn trải nghiệm thú vị này.
 
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c7Dw2KqFSdM" frameborder="0" allowfullscreen></iframe>
