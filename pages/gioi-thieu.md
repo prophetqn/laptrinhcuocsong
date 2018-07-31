@@ -31,23 +31,23 @@ Bạn có thể kết bạn với tôi bằng cách xem <a href="http://buivanng
 
 Nếu đây là lần đầu tiên bạn đọc blog này, bạn cảm thấy hoang mang và bối rối, dưới đây là các câu hỏi thường gặp có thể giúp ích cho bạn.
 
-## Bạn thì biết cái gì mà "dạy đời" người khác?
+### Bạn thì biết cái gì mà "dạy đời" người khác?
 
 Trước hết, mình không "dạy" ai cả, đây là blog cá nhân, có nghĩa rằng đây là cách nhìn nhận vấn đề trong hoàn cảnh điều kiện và khả năng của riêng mình, các bài viết có thể không hoàn toàn đúng trong mọi hoàn cảnh. Rất hoan nghênh ý kiến đóng góp của các bạn để mình hoàn thiện bản thân cũng như blog hơn. Nếu blog này làm bạn thấy phiền, bực bội, bức xúc, phản đối... hay bất kỳ cảm xúc tiêu cực nào, xin dừng truy cập blog.
 
-## Bạn ăn trộm bài viết của TechTalk với VietnamWorks à?
+### Bạn ăn trộm bài viết của TechTalk với VietnamWorks à?
 
 Tất cả các bài viết trên blog này hoàn toàn do mình viết, có thể bạn đã được đọc ở đâu đó nên cảm thấy quen quen. Đó là vì các trang web khác đã đăng tải lại bài viết trên blog này và được sự đồng ý của mình như đã nêu trong [trang điều khoản](http://laptrinhcuocsong.com/policies.html).
 
-## Blog này hay quá, tôi muốn bạn viết cái này, cái kia
+### Blog này hay quá, tôi muốn bạn viết cái này, cái kia
 
 Bạn có thể yêu cầu mình viết về bất kỳ chủ đề nào liên quan đến lĩnh vực công nghệ, đời sống lập trình viên bằng cách click vào menu yêu cầu viết bài. Mình sẵn sàng chia sẻ hết những gì mình biết với mong muốn các bài viết có thể giúp ích được gì đó cho bạn.
 
-## Trang này đơn giản thế? Bạn làm lập trình mà không làm được cái web cho ra hồn à?
+### Trang này đơn giản thế? Bạn làm lập trình mà không làm được cái web cho ra hồn à?
 
 Mình đang cố giữ cho trang này đơn giản nhất có thể, để bạn tập trung vào việc đọc mà không bị phân tâm bởi các họa tiết hoa lá cành trang trí không cần thiết. Đồng thời giúp mình tiết kiệm thời gian tập trung vào việc viết, điều đó không có nghĩa rằng mình không thể tạo một giao diện phức tạp hơn.
 
-## Thằng bại não, thằng óc chó, thằng ngu học...
+### Thằng bại não, thằng óc chó, thằng ngu học...
 
 Xin bạn đừng chửi mình như thế, nhất là khi mình đã từng viết về những chủ đề dễ gây tranh cãi. Xin nhắc lại, đây là blog cá nhân. Bài viết chỉ là một cách nhìn nhận về vấn đề, dưới góc nhìn chủ quan ở hoàn cảnh, điều kiện, khả năng của riêng mình. Hãy đọc và coi như là một góc nhìn mới để tham khảo.
 
