@@ -47,7 +47,7 @@ Bạn tham gia nhiều mạng xã hội, facebook, youtube, google+ hay instagra
 
 ## 3. Nắm chắc tin học căn bản
 
-Đừng tưởng là lập trình viên thì không cần biết tin học căn bản, bạn vẫn cần biết định dạng văn bản để viết báo cáo, hay trình chiếu thuyết trình bằng power point. Những kiến thức cơ bản như mở, soạn thảo văn bản, gửi nhận email, thiết lập email client, cài đặt phần mềm, xử lý sự cố máy tính... là luôn luôn cần thiết trong suốt "quãng đời còn lại". Bỗng một ngày máy in của em kế toán xinh đẹp ngừng hoạt động, máy của em tester hot girl dính virus, hay nhà cô hàng xóm mất wifi... là những lúc bạn giúp đỡ được mọi người và tăng nguy cơ có gấu. Cùng lắm, để sếp không biết bạn đang lướt facebook trong lúc làm việc, bạn cũng phải biết tổ hợp phím tắt CTRL + L huyền thoại của windows phải không?
+Đừng tưởng là lập trình viên thì không cần biết tin học căn bản, bạn vẫn cần biết định dạng văn bản để viết báo cáo, hay trình chiếu thuyết trình bằng power point. Những kiến thức cơ bản như mở, soạn thảo văn bản, gửi nhận email, thiết lập email client, cài đặt phần mềm, xử lý sự cố máy tính... là luôn luôn cần thiết trong suốt "quãng đời còn lại". Bỗng một ngày máy in của em kế toán xinh đẹp ngừng hoạt động, máy của em tester hot girl dính virus, hay nhà cô hàng xóm mất wifi... là những lúc bạn giúp đỡ được mọi người và tăng nguy cơ có gấu. Cùng lắm, để sếp không biết bạn đang lướt facebook trong lúc làm việc, bạn cũng phải biết tổ hợp phím tắt Alt + tab huyền thoại của windows phải không?
 
 ## 4. Hãy bắt đầu viết blog ngay hôm nay
 
