@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: 3 việc lập trình viên cần làm mỗi ngày
+    id: 3MaNtHk4XB0
+  -
     title: Lộ trình học lập trình web gồm những gì?
     id: L1CYEjXN1pc
   -
