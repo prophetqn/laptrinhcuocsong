@@ -3,6 +3,7 @@ layout: post
 title: 3 việc lập trình viên cần làm mỗi ngày
 excerpt: Tôi tin rằng sự thành công của một người trong tương lai phụ thuộc vào những việc mà hàng ngày anh ta làm. Tôi thấy có người rảnh rỗi xem phim lướt facebook và băn khoăn làm thế nào để trở thành developer giỏi. Và cũng thấy những người suốt ngày bận bịu làm hết việc này đến việc khác nhưng vẫn không đi đến đâu.
 thumbnail: work.png
+cover: 3-viec-lap-trinh-vien-can-lam-moi-ngay.jpg
 category: Chuyện bên lề
 tags:
  - nganh-lap-trinh-vien
