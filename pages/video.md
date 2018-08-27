@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Ngôn ngữ java có thể làm gì? Học java có thể đi theo hướng nào?
+    id: 2WkHUIBWDhY
+  -
     title: Tương lai của blockchain, bây giờ có nên học blockchain không?
     id: QAICgXDqx2g
   -
