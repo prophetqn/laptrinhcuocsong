@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Đâu là môi trường tốt nhất cho sự phát triển của lập trình viên?
+    id: YW0sWK9OAXI
+  -
     title: Ngôn ngữ java có thể làm gì? Học java có thể đi theo hướng nào?
     id: 2WkHUIBWDhY
   -
