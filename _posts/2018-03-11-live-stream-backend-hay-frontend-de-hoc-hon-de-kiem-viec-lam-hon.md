@@ -11,13 +11,13 @@ tags:
  - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: Trông bạn sẽ cool hơn trong mắt nhà tuyển dụng nếu bạn có những thứ này
-   link: http://laptrinhcuocsong.com/trong-ban-se-cool-hon-trong-mat-nha-tuyen-dung.html
+   link: https://laptrinhcuocsong.com/trong-ban-se-cool-hon-trong-mat-nha-tuyen-dung.html
  - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
-   link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
+   link: https://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
  - title:
-   link: http://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
+   link: https://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
 related_videos:
   -
     title: Học lập trình nên tự học hay học ở trung tâm?

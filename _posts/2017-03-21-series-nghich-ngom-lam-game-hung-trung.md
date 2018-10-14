@@ -13,13 +13,13 @@ tags:
  - cach-lap-trinh-game
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
-   link: http://laptrinhcuocsong.com/dieu-gi-se-xay-ra-neu-ta-ve-1-trieu-div-len-man-hinh.html
+   link: https://laptrinhcuocsong.com/dieu-gi-se-xay-ra-neu-ta-ve-1-trieu-div-len-man-hinh.html
  - title: 
-   link: http://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
+   link: https://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
  - title: 
-   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+   link: https://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 related_videos:
   -
     title: Lập trình phần mềm paint trên web

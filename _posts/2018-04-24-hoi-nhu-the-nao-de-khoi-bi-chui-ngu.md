@@ -10,13 +10,13 @@ thumbnail: question.png
 excerpt: Muốn biết phải hỏi muốn giỏi phải học, điều này đúng, tuy nhiên hỏi như thế nào để được trả lời và không bị chửi ngu lại là vấn đề nhức nhối. Trên facebook, trên diễn đàn, đâu đâu cũng có những câu hỏi gây ức chế bực bội cho người trả lời.
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: 
-   link: http://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
+   link: https://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: 
-   link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
 related_videos:
   -
     title: Crush nhờ cài win thì phải làm gì? 

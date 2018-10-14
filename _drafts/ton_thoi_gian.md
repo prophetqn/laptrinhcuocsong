@@ -26,13 +26,13 @@ related_videos:
 ---
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
+   link: https://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
  - title: 
-   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
+   link: https://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
  - title: 
-   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+   link: https://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
-   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+   link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 ---
 
 Lập trình cũng như bao nhiêu nghề khác, cũng có 

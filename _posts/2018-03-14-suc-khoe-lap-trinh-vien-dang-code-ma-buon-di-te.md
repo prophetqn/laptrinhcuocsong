@@ -13,13 +13,13 @@ tags:
  - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
-   link: http://laptrinhcuocsong.com/test-website-tren-thiet-bi-di-dong-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/test-website-tren-thiet-bi-di-dong-nhu-the-nao.html
  - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title: 
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
 related_videos:
   -
     title: Sinh viên IT ngày xưa như thế nào? Dùng máy tính mạnh không?

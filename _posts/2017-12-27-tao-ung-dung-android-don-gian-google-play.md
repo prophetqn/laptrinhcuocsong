@@ -7,13 +7,13 @@ tags:
  - bi-quyet-hoc-lap-trinh
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html
+   link: https://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html
  - title: 
-   link: http://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
+   link: https://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
  - title: 
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
 related_videos:
   -
     title: Mình đã học lập trình như thế nào?

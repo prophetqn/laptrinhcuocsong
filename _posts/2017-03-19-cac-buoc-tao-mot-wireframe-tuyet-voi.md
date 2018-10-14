@@ -6,13 +6,13 @@ cover: wireframe-pencil.png
 category: Chuyện nghề nghiệp
 related_posts:
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
-   link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
+   link: https://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: Trả lời câu hỏi của bạn đọc
-   link: http://laptrinhcuocsong.com/tra-loi-cau-hoi-ban-doc.html
+   link: https://laptrinhcuocsong.com/tra-loi-cau-hoi-ban-doc.html
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
-   link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
+   link: https://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
  - title:
-   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+   link: https://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 related_videos:
   -
     title: Nghề lập trình - tiền hay đam mê

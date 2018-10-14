@@ -11,13 +11,13 @@ tags:
   - doi-song-lap-trinh-vien
 related_posts:
  - title:
-   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+   link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
  - title:
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title:
-   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+   link: https://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
  - title:
-   link: http://laptrinhcuocsong.com/7-cong-viec-dau-tien-trong-doi.html
+   link: https://laptrinhcuocsong.com/7-cong-viec-dau-tien-trong-doi.html
 related_videos:
   -
     title: Phỏng vấn xin việc IT như thế nào? 

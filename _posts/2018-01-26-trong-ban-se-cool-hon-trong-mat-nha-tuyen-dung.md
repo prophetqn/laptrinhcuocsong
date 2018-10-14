@@ -9,13 +9,13 @@ tags:
  - nganh-lap-trinh-vien
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
+   link: https://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
  - title: 
-   link: http://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
+   link: https://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
+   link: https://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
 related_videos:
   -
     title: Học lập trình nên tự học hay học ở trung tâm?
@@ -61,7 +61,7 @@ Mình nghĩ là ai cũng thích làm việc với những người tự tin cả
 
 Tầm quan trọng của CV mình đã có đề cập đến ở bài viết trước, nó là tấm vé chào mời đầu tiên mà bạn gửi đến nhà tuyển dụng.
 
-Yêu hay chia tay, thì CV quyết định khá nhiều, thế nên đầu tư thời gian viết một cái CV ngon lành là rất xứng đáng. Hãy soát lỗi chính tả, dùng địa chỉ email chuyên nghiệp, trình bày cẩn thận ... vân vân, [cách viết CV cho dân IT](http://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html) mình cũng đã có đăng trong bài viết trước.
+Yêu hay chia tay, thì CV quyết định khá nhiều, thế nên đầu tư thời gian viết một cái CV ngon lành là rất xứng đáng. Hãy soát lỗi chính tả, dùng địa chỉ email chuyên nghiệp, trình bày cẩn thận ... vân vân, [cách viết CV cho dân IT](https://laptrinhcuocsong.com/viet-cv-xin-viec-nhu-the-nao-download-mau-cv.html) mình cũng đã có đăng trong bài viết trước.
 
 Nhà tuyển dụng cũng có thể xem trang facebook cá nhân của bạn, thế nên hãy chắc chắn là hình ảnh của mình tốt nhất có thể. Mạng xã hội là nơi bạn lan tỏa cảm xúc tích cực này đến những người khác, phải cực kỳ cẩn thận khi đăng những trạng thái, hình ảnh mang tính tiêu cực. Chém thế thôi, chứ tớ biết cái này tớ không làm được :)
 

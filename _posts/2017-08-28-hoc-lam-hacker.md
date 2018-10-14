@@ -11,13 +11,13 @@ tags:
  - day-lam-hacker-tu-a-z
 related_posts:
  - title: Tôi đã hack Chợ Tốt như thế nào
-   link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
  - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Thất vọng sự trở lại của hiệp hội hacker Việt Nam - HVA
-   link: http://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
+   link: https://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
  - title:
-   link: http://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
+   link: https://laptrinhcuocsong.com/hoi-nhu-the-nao-de-khoi-bi-chui-ngu.html
 related_videos:
   -
     title: Nghề lập trình, khó có vợ, khó giàu, có bao giờ bạn cảm thấy chán nản
@@ -34,7 +34,7 @@ related_videos:
 
 ---
 
-Để trở thành hacker cần phải học gì, cần có những hiểu biết cơ bản gì, hack như thế nào?  Thật sự nó quá khó để trả lời, ngay cả nếu hỏi một hacker chuyên nghiệp, vì họ không có chuyên môn sư phạm, một câu trả lời không thể giúp bạn trở thành hacker, nó là cả một quá trình tích lũy kiến thức và kinh nghiệm. Để không bị chửi hay ném đá, bài viết này mình chỉ chia sẻ và trả lời câu hỏi "Làm thế nào để hack một website", câu hỏi mà mình nhận được quá nhiều sau khi đăng bài viết "[tôi đã hack Chợ Tốt như thế nào?](http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html)".
+Để trở thành hacker cần phải học gì, cần có những hiểu biết cơ bản gì, hack như thế nào?  Thật sự nó quá khó để trả lời, ngay cả nếu hỏi một hacker chuyên nghiệp, vì họ không có chuyên môn sư phạm, một câu trả lời không thể giúp bạn trở thành hacker, nó là cả một quá trình tích lũy kiến thức và kinh nghiệm. Để không bị chửi hay ném đá, bài viết này mình chỉ chia sẻ và trả lời câu hỏi "Làm thế nào để hack một website", câu hỏi mà mình nhận được quá nhiều sau khi đăng bài viết "[tôi đã hack Chợ Tốt như thế nào?](https://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html)".
 
 ![hacker](images/hacking-banner.jpg)
 

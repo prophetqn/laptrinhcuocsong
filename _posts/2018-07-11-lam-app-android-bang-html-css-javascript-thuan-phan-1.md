@@ -8,13 +8,13 @@ tags:
  - lap-trinh-javascript
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
  - title: 
-   link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
  - title:
-   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+   link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 related_videos:
   -
     title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam

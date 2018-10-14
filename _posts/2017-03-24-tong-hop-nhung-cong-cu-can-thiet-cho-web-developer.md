@@ -11,13 +11,13 @@ tags:
  - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Lập trình viên PHP đứng đầy đường
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: Thay đổi chế độ đọc ghi lên đĩa cứng (io scheduling) để tăng tốc ubuntu
-   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+   link: https://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
 related_videos:
   -
     title: Python làm được gì? Có nên học ngôn ngữ lập trình Python không? 
@@ -92,7 +92,7 @@ Mình cũng chưa từng được dùng các hệ thống quản lý nào khác 
 
 ## Vẽ wireframe và thể hiện ý tưởng:
 
-Wireframe là bản phác thảo thô mô tả tổng quan về sản phẩm, giúp dễ dàng truyền đạt ý tưởng tăng hiệu quả giao tiếp giữa các thành viên trong team. Mình đã có một bài viết về tầm quan trọng của wireframe và [cách để vẽ một wireframe tuyệt vời](http://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html). Mình sử dụng Balsamiq Mockups, đây là một phần mềm rất hay, nhưng tại vì nó phải trả phí, chỉ cho trial 30 ngày nên mình chuyển qua một phần mềm miễn phí là  [Pencil project](http://pencil.evolus.vn/).
+Wireframe là bản phác thảo thô mô tả tổng quan về sản phẩm, giúp dễ dàng truyền đạt ý tưởng tăng hiệu quả giao tiếp giữa các thành viên trong team. Mình đã có một bài viết về tầm quan trọng của wireframe và [cách để vẽ một wireframe tuyệt vời](https://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html). Mình sử dụng Balsamiq Mockups, đây là một phần mềm rất hay, nhưng tại vì nó phải trả phí, chỉ cho trial 30 ngày nên mình chuyển qua một phần mềm miễn phí là  [Pencil project](http://pencil.evolus.vn/).
 
 ## Tạo và quản lý task với [Jira](https://www.atlassian.com/software/jira)
 

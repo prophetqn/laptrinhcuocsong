@@ -15,13 +15,13 @@ tags:
  - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: Tôi đã hack Chợ Tốt như thế nào
-   link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
  - title: Trả lời câu hỏi của bạn đọc
-   link: http://laptrinhcuocsong.com/tra-loi-cau-hoi-ban-doc.html
+   link: https://laptrinhcuocsong.com/tra-loi-cau-hoi-ban-doc.html
  - title: Giới thiệu fluent interface - một cách để code dễ đọc hơn
-   link: http://laptrinhcuocsong.com/gioi-thieu-fluent-interface-cach-de-viet-code-de-doc.html
+   link: https://laptrinhcuocsong.com/gioi-thieu-fluent-interface-cach-de-viet-code-de-doc.html
  - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 related_videos:
   -
     title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
@@ -39,7 +39,7 @@ related_videos:
 
 Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất mông lung.
 
-Dạo này có tham gia vài nhóm lập trình trên facebook nên mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? [Dùng ngôn ngữ gì](http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html)? Có mệt không? Và làm thế nào để sống sót.
+Dạo này có tham gia vài nhóm lập trình trên facebook nên mình phát hiện ra là hầu hết các bạn sinh viên vẫn chưa tưởng tượng được ra trường đi làm sẽ như thế nào. Thế nên trong bài viết này, mình sẽ dùng hết kinh nghiệm bao nhiêu năm đi "code thuê" của mình, như một lời tâm sự, để cố gắng miêu tả cho các bạn sinh viên về đời sống thật của các lập trình viên ngoài kia, họ đang làm gì? [Dùng ngôn ngữ gì](https://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html)? Có mệt không? Và làm thế nào để sống sót.
 
 ![lập trình viên](images/lap-trinh-vien.png)
 
@@ -67,7 +67,7 @@ Video liên quan: <a target="_blank" href="https://www.youtube.com/watch?v=5lkDO
 
 ## Chuyên môn về kỹ thuật:
 
-Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien) cần học những gì?
+Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể [lập trình viên](https://laptrinhcuocsong.com/tags/lap-trinh-vien) cần học những gì?
 
 Mình tạm chia lập trình viên ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
 
@@ -81,7 +81,7 @@ Còn gọi là lập trình nhúng, tức là viết các chương trình chạy
 
 **Mảng web**: 
 
-Web là cái gì thì khỏi phải giới thiệu nữa rồi, nó là thứ lâu đời nhất trên internet. Theo cái này thì khỏi lo thiếu việc, vì công ty nào cũng cần web, nhưng mà nói thật lương bọn làm web chả cao như các mảng khác đâu. Rất nhiều ngôn ngữ có thể dùng [lập trình web](http://laptrinhcuocsong.com/tags/lap-trinh-web) được, thoải mái chọn: php, java, node, python, ruby... nhưng phải học thêm cả đống lằng nhằng: html, css, javascript...
+Web là cái gì thì khỏi phải giới thiệu nữa rồi, nó là thứ lâu đời nhất trên internet. Theo cái này thì khỏi lo thiếu việc, vì công ty nào cũng cần web, nhưng mà nói thật lương bọn làm web chả cao như các mảng khác đâu. Rất nhiều ngôn ngữ có thể dùng [lập trình web](https://laptrinhcuocsong.com/tags/lap-trinh-web) được, thoải mái chọn: php, java, node, python, ruby... nhưng phải học thêm cả đống lằng nhằng: html, css, javascript...
 
 **Mảng desktop app**:
 

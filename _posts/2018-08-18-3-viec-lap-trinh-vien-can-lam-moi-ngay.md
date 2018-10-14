@@ -12,13 +12,13 @@ tags:
  - doi-song-lap-trinh-vien
 related_posts:
  - title:
-   link: http://laptrinhcuocsong.com/minh-da-hoc-lap-trinh-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/minh-da-hoc-lap-trinh-nhu-the-nao.html
  - title:
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title:
-   link: http://laptrinhcuocsong.com/hoc-linux-de-lam-gi-hoc-the-nao-cho-hieu-qua.html
+   link: https://laptrinhcuocsong.com/hoc-linux-de-lam-gi-hoc-the-nao-cho-hieu-qua.html
  - title:
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-10-tieng.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-10-tieng.html
 related_videos:
   -
     title: Crush nhờ cài win thì phải làm gì? 

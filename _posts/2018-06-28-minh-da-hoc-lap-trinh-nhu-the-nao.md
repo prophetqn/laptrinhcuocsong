@@ -12,13 +12,13 @@ tags:
  - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: 
-   link: http://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
+   link: https://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: 
-   link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
 related_videos:
   -
     title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 

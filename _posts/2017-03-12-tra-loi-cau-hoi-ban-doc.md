@@ -8,13 +8,13 @@ tags:
  - doi-song-lap-trinh-vien
 related_posts:
  - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Lập trình viên PHP đứng đầy đường
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: Thay đổi chế độ đọc ghi lên đĩa cứng (io scheduling) để tăng tốc ubuntu
-   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+   link: https://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
-   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+   link: https://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 related_videos:
   -
     title: Phỏng vấn xin việc IT như thế nào? 
@@ -40,15 +40,15 @@ Link trên facebook: [https://www.facebook.com/laptrinhcuocsongdotcom/posts/4089
 
 > **Khổng Văn Hiếu**: Ad cho em hỏi về tài liệu thì ở VN mình viết nhiều nhưng không chất lượng lắm, đọc tài liệu nước ngoài thì trình độ tiếng Anh của em còn hạn chế, ad có kinh nghiệm nào không?
 
-Mình nghĩ rằng đã theo nghành này thì phải biết tiếng Anh mới có thể làm tốt được. Trong bài viết [Lập trình viên cần học những gì](http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html), mình đã đề cập đến tầm quan trọng của nó. Như bạn nói, tài liệu tiếng Việt rất ít và không chất lượng, bởi vì nhiều từ ngữ chuyên ngành không thể dịch chính xác ra tiếng Việt được. Khi làm việc, bạn phải đọc tài liệu tiếng Anh, gặp lỗi thì tìm google cũng phải tìm bằng tiếng Anh mới nhanh ra đáp án. Chưa kể trong thời buổi toàn cầu hóa, outsouce nhiều, nước ngoài thuê Việt Nam, Việt Nam thuê nước ngoài, code của bạn có thể được (hoặc bị) đọc bởi một thằng Tây là chuyện bình thường, do đó nhất thiết phải luyện tiếng Anh thường xuyên. Nhưng bạn đừng lo lắng quá về trình độ tiếng Anh của mình, chịu khó đọc tài liệu, tìm kiếm bằng tiếng Anh nhiều, gặp từ nào khó thì tra từ điển và ghi nhớ, sau một thời gian sẽ tự đọc được thôi.
+Mình nghĩ rằng đã theo nghành này thì phải biết tiếng Anh mới có thể làm tốt được. Trong bài viết [Lập trình viên cần học những gì](https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html), mình đã đề cập đến tầm quan trọng của nó. Như bạn nói, tài liệu tiếng Việt rất ít và không chất lượng, bởi vì nhiều từ ngữ chuyên ngành không thể dịch chính xác ra tiếng Việt được. Khi làm việc, bạn phải đọc tài liệu tiếng Anh, gặp lỗi thì tìm google cũng phải tìm bằng tiếng Anh mới nhanh ra đáp án. Chưa kể trong thời buổi toàn cầu hóa, outsouce nhiều, nước ngoài thuê Việt Nam, Việt Nam thuê nước ngoài, code của bạn có thể được (hoặc bị) đọc bởi một thằng Tây là chuyện bình thường, do đó nhất thiết phải luyện tiếng Anh thường xuyên. Nhưng bạn đừng lo lắng quá về trình độ tiếng Anh của mình, chịu khó đọc tài liệu, tìm kiếm bằng tiếng Anh nhiều, gặp từ nào khó thì tra từ điển và ghi nhớ, sau một thời gian sẽ tự đọc được thôi.
 
 > **Thanh Nguyễn**: cho e hỏi hiện e mún theo front-end, mà nghe làm rất cực cũng hơi sợ nên e cũng đang phân vân nên theo front-end hay php.
 
-Việc [lựa chọn theo frontend hay backend](http://laptrinhcuocsong.com/live-stream-backend-hay-frontend-de-hoc-hon-de-kiem-viec-lam-hon.html) là ở chính bạn, và không hề cực (khổ theo tiếng miền Bắc) nếu bạn yêu thích. Nếu bạn thích tư duy logic, thích tìm hiểu sâu về hệ thống, ngày xưa bạn học khá môn toán hay vật lý chẳng hạn, thì bạn nên chọn backend. Còn nếu bạn thích màu mè, hoa lá cành, thích vài thứ liên quan đến nghệ thuật như vẽ, chơi nhạc cụ nào đó, thì bạn nên chọn frontend. Không có cái nào là cực cả, cực là khi mình không lựa chọn đúng với sở thích của mình thôi. Cũng có nhiều nơi yêu cầu bạn làm fullstack, có nghĩa là cả backend và frontend, bạn có thể theo hướng này cũng được không sao cả
+Việc [lựa chọn theo frontend hay backend](https://laptrinhcuocsong.com/live-stream-backend-hay-frontend-de-hoc-hon-de-kiem-viec-lam-hon.html) là ở chính bạn, và không hề cực (khổ theo tiếng miền Bắc) nếu bạn yêu thích. Nếu bạn thích tư duy logic, thích tìm hiểu sâu về hệ thống, ngày xưa bạn học khá môn toán hay vật lý chẳng hạn, thì bạn nên chọn backend. Còn nếu bạn thích màu mè, hoa lá cành, thích vài thứ liên quan đến nghệ thuật như vẽ, chơi nhạc cụ nào đó, thì bạn nên chọn frontend. Không có cái nào là cực cả, cực là khi mình không lựa chọn đúng với sở thích của mình thôi. Cũng có nhiều nơi yêu cầu bạn làm fullstack, có nghĩa là cả backend và frontend, bạn có thể theo hướng này cũng được không sao cả
 
 > **Trần Duy Thiên**: Em học cao đẳng FPT, chuyên ngành thiết kế website, đang làm thêm ở An Phước lương tháng 9tr, k biết ra trường lương IT ngon hơn k, đang tính bỏ -_- vì k thể vừa học vừa làm, học k hiệu quả. Em đang nghĩ sẽ làm 2 năm, trong thời gian đó tự học, có đủ tiền rồi thì tập trung vào học. Em mới học kì 2 năm 1. mong a tư vấn
 
-Thực sự mình nghĩ bạn mới học năm 1 mà đã làm thêm với mức lương 9 triệu là khá tốt rồi, nhiều bạn bè của mình ra trường còn chưa được mức đó nữa. Tất nhiên [lúc ra trường thì lương cao hơn lúc đang học](http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html), mình nghĩ bạn không nên bỏ làm thêm khi vừa có mức lương khá vừa có cơ hội học hỏi nhiều điều. Bạn nên cân bằng việc học và làm thêm thì sẽ tốt hơn.
+Thực sự mình nghĩ bạn mới học năm 1 mà đã làm thêm với mức lương 9 triệu là khá tốt rồi, nhiều bạn bè của mình ra trường còn chưa được mức đó nữa. Tất nhiên [lúc ra trường thì lương cao hơn lúc đang học](https://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html), mình nghĩ bạn không nên bỏ làm thêm khi vừa có mức lương khá vừa có cơ hội học hỏi nhiều điều. Bạn nên cân bằng việc học và làm thêm thì sẽ tốt hơn.
 
 > **Lan Anh**: Mình đang theo php mà nhiều người bảo còn gái ko lên theo lập trình làm mình nản quá
 
@@ -60,7 +60,7 @@ Theo mình thấy bạn có khả năng về frontend, bạn có thể đi theo 
 
 > **Không Gì Đổi Thay**: Mất hứng thú với code rồi làm sao để lấy lại động lực code đây bạn?
 
-Mình đã từng trải qua cảm giác này, nó thật tồi tệ, cảm giác [không còn hứng thú để viết code nữa](http://laptrinhcuocsong.com/cham-tien-do-khi-ban-khong-con-muon-viet-code-nua.html). Nó bắt nguồn từ nguyên nhân sâu xa tùy từng người, bạn phải biết tại sao lại thấy chán code thì mới giải quyết được. Ví dụ như: code thật là mệt mà không ra được sản phẩm gì đáng kể, hãy nghỉ ngơi lấy lại sức khỏe để tìm ra cách làm nhanh hơn. Có phải điều bạn mong đợi từ lập trình khác xa so với thực tế? Bạn sốt ruột muốn giỏi thật nhanh và bị choáng ngợp bởi tất cả? Đừng lo lắng, hãy cứ bắt đầu công việc lập trình một cách nghiêm túc, dần dần kinh nghiệm của bạn sẽ tăng lên, không ai biết tất cả, kể cả những người giỏi nhất. Cảm giác chán lập trình là rất bình thường, nếu bạn vẫn yêu nghề này và muốn theo đuổi nó đến cùng, hãy nhìn lại tất cả. Với mình thì mỗi lần chán là một lần mình tiến bộ.
+Mình đã từng trải qua cảm giác này, nó thật tồi tệ, cảm giác [không còn hứng thú để viết code nữa](https://laptrinhcuocsong.com/cham-tien-do-khi-ban-khong-con-muon-viet-code-nua.html). Nó bắt nguồn từ nguyên nhân sâu xa tùy từng người, bạn phải biết tại sao lại thấy chán code thì mới giải quyết được. Ví dụ như: code thật là mệt mà không ra được sản phẩm gì đáng kể, hãy nghỉ ngơi lấy lại sức khỏe để tìm ra cách làm nhanh hơn. Có phải điều bạn mong đợi từ lập trình khác xa so với thực tế? Bạn sốt ruột muốn giỏi thật nhanh và bị choáng ngợp bởi tất cả? Đừng lo lắng, hãy cứ bắt đầu công việc lập trình một cách nghiêm túc, dần dần kinh nghiệm của bạn sẽ tăng lên, không ai biết tất cả, kể cả những người giỏi nhất. Cảm giác chán lập trình là rất bình thường, nếu bạn vẫn yêu nghề này và muốn theo đuổi nó đến cùng, hãy nhìn lại tất cả. Với mình thì mỗi lần chán là một lần mình tiến bộ.
 
 > **Hàn Dương**: An ninh mạng ở việt nam giờ có nhiều việc không anh? em bây giờ năm 2 thì có thể đi làm việc gì mà không yêu cầu kinh nghiệm không anh?
 

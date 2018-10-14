@@ -5,13 +5,13 @@ category: Chuyện bên lề
 thumbnail: we-need-you.png
 related_posts:
  - title: Nếu một ngày những đoạn mã lập trình biến mất
-   link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
+   link: https://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
-   link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
+   link: https://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: Tại sao dân lập trình thường FA
-   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+   link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
  - title:
-   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+   link: https://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 
 related_videos:
   -

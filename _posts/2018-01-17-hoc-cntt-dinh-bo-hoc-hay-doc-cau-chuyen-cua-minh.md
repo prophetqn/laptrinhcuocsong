@@ -12,13 +12,13 @@ tags:
   - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+   link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
  - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
+   link: https://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
  - title: 
-   link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
+   link: https://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/tang-5-dolar-wcx-coin-tien-ao-chi-dung-sau-bitcoin.html
+   link: https://laptrinhcuocsong.com/tang-5-dolar-wcx-coin-tien-ao-chi-dung-sau-bitcoin.html
 related_videos:
   -
     title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?

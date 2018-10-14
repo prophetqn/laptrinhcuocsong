@@ -10,13 +10,13 @@ tags:
   - doi-song-lap-trinh-vien
 related_posts:
  - title: Tại sao dân lập trình thường FA
-   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+   link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
  - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp 9 kênh youtube mà dân công nghệ nên theo dõi
-   link: http://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
+   link: https://laptrinhcuocsong.com/tong-hop-9-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi.html
  - title:
-   link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
+   link: https://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
 related_videos:
   -
     title: Sinh viên IT ngày xưa như thế nào? Dùng máy tính mạnh không?
@@ -58,7 +58,7 @@ Ngược với công việc trên, đây lại là công việc sướng và th�
 
 ## 6, Thiết kế web dạo
 
-Mình bắt đầu [thiết kế web dạo](http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html) từ năm 2010, nói một cách sang chảnh là freelance web design, nhưng thật ra, người ta thuê mình làm thì nhận làm hết, đủ các thể loại, từ web công ty, doanh nghiệp đến cả web chơi lô đề online. Lúc đầu chỉ làm một mình, nên mình phải làm tất cả các công đoạn, gặp khách hàng, ký hợp đồng, thiết kế và lập trình ra web, rồi bảo trì, hỗ trợ. Khổ trăm bề, nhưng mình thích lắm, nó đem lại rất nhiều kinh nghiệm cho công việc hiện tại của mình.
+Mình bắt đầu [thiết kế web dạo](https://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html) từ năm 2010, nói một cách sang chảnh là freelance web design, nhưng thật ra, người ta thuê mình làm thì nhận làm hết, đủ các thể loại, từ web công ty, doanh nghiệp đến cả web chơi lô đề online. Lúc đầu chỉ làm một mình, nên mình phải làm tất cả các công đoạn, gặp khách hàng, ký hợp đồng, thiết kế và lập trình ra web, rồi bảo trì, hỗ trợ. Khổ trăm bề, nhưng mình thích lắm, nó đem lại rất nhiều kinh nghiệm cho công việc hiện tại của mình.
 
 ## 7, Làm mọi thứ
 

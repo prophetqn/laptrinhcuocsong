@@ -5,13 +5,13 @@ thumbnail: benchmark.png
 category: Chuyện lập trình
 related_posts:
  - title: Series nghịch ngợm - Lập trình phần mềm paint, vẽ trên web với html5 và javascript
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: Nếu một ngày những đoạn mã lập trình biến mất
-   link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
+   link: https://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lam-game-hung-trung.html
 related_videos:
   -
     title: Thiết kế website cá nhân trên photoshop

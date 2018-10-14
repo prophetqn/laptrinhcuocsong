@@ -9,13 +9,13 @@ tags:
  - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: 
-   link: http://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
+   link: https://laptrinhcuocsong.com/neu-mot-ngay-nhung-doan-ma-lap-trinh-bien-mat.html
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 related_videos:
   -
     title: Thiết kế website cá nhân trên photoshop

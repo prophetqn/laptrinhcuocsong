@@ -9,13 +9,13 @@ tags:
  - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
+   link: https://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
  - title: 
-   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
+   link: https://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
  - title: 
-   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+   link: https://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
-   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+   link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 related_videos:
   -
     title: Ngôn ngữ lập trình nào dễ học nhất? Rèn luyện tư duy lập trình
@@ -32,7 +32,7 @@ related_videos:
 ---
 Các bạn lập trình viên khi mới chuyển qua môi trường linux, mà cụ thể ở đây là Ubuntu thường hỏi cần phải cài đặt những phần mềm gì để có thể "lập trình được". Đã có rất nhiều bài viết về vấn đề này, ở đây chúng ta sẽ tổng hợp lại, dưới đây là các phần mềm mà bản thân mình đang dùng, có thể tạm gọi là complete setup để lập trình viên PHP lập trình trên Ubuntu.
 
-Lưu ý đây là các phần mềm dành cho PHP developer, các nhu cầu khác như xem phim nghe nhạc, chơi game, chat chit tán gái các bạn tham khảo ở bài [Những phần mềm nên cài đặt trên ubuntu](http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html)
+Lưu ý đây là các phần mềm dành cho PHP developer, các nhu cầu khác như xem phim nghe nhạc, chơi game, chat chit tán gái các bạn tham khảo ở bài [Những phần mềm nên cài đặt trên ubuntu](https://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html)
 
 ## Trình soạn thảo code:
 
@@ -42,7 +42,7 @@ Với nhu cầu đó mình chọn [Sublime text](http://www.sublimetext.com/) v�
 
 Ngoài ra còn có nhiều phần mềm khác cho các bạn lựa chọn: [Brackets](http://brackets.io/), [Visual Studio Code](https://code.visualstudio.com/), [Netbeans](https://netbeans.org/), [Eclipse](https://www.eclipse.org/) ...
 
-![sublime](http://laptrinhcuocsong.com/images/vn-ime.png)
+![sublime](https://laptrinhcuocsong.com/images/vn-ime.png)
 
 ## Trình duyệt:
 
@@ -50,7 +50,7 @@ Hầu hết thời gian web developer làm việc trên trình duyệt, mà trì
 
 Mình dùng chủ yếu [Chrome](https://www.google.com/intl/vi_vn/chrome/browser/desktop/index.html) và [Firefox](https://www.mozilla.org/vi/firefox/new/) cho việc hiển thị, debug javascript
 
-![chrome](http://laptrinhcuocsong.com/images/google-chrome-ubuntu.png)
+![chrome](https://laptrinhcuocsong.com/images/google-chrome-ubuntu.png)
 
 ## Technical stack: tôi chọn LAMP
 
@@ -72,7 +72,7 @@ Quản lý cơ sở dữ liệu cũng là nhu cầu rất cần thiết, nhưng 
 
 Mình dùng [Valentina studio](https://www.valentina-db.com/en/get-free-valentina-studio), [Mysql workbench](https://www.mysql.com/products/workbench/) và Emma (có trên ubuntu software store)
 
-![Mysql workbench](http://laptrinhcuocsong.com/images/mysql-workbench.png)
+![Mysql workbench](https://laptrinhcuocsong.com/images/mysql-workbench.png)
 
 ## Phần mềm FTP
 
@@ -86,11 +86,11 @@ Với php developer bạn thường xuyên sử dụng command line để build 
 
 ## Phần mềm đồ họa:
 
-Bạn vẫn có thể cài đặt photoshop trên ubuntu theo như mình đã giới thiệu trong bài [Cài đặt môi trường lập trình web trên ubuntu - Phần 2](http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-2.html) . Tuy nhiên vẫn có các phần mềm đồ họa miễn phí nhưng lại rất tốt, nhanh và tiện lợi.
+Bạn vẫn có thể cài đặt photoshop trên ubuntu theo như mình đã giới thiệu trong bài [Cài đặt môi trường lập trình web trên ubuntu - Phần 2](https://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-2.html) . Tuy nhiên vẫn có các phần mềm đồ họa miễn phí nhưng lại rất tốt, nhanh và tiện lợi.
 
 Ngoài photoshop mình dùng thêm cả [Inkscape](https://inkscape.org/) và [Gimp](https://www.gimp.org/)
 
-![gimp](http://laptrinhcuocsong.com/images/gimp.png)
+![gimp](https://laptrinhcuocsong.com/images/gimp.png)
 
 ## Vẽ wireframe với Pencil project
 
@@ -98,7 +98,7 @@ Khi cần vẽ wireframe và thể hiện ý tưởng, wireframe là bản phác
 
 Với nhu cầu này, mình dùng [Pencil project](https://pencil.evolus.vn/), đây là một phần mềm rất hay, dễ sử dụng và miễn phí.
 
-![Pencil project](http://laptrinhcuocsong.com/images/pencil-project-wireframe.png)
+![Pencil project](https://laptrinhcuocsong.com/images/pencil-project-wireframe.png)
 
 ## Các thứ lặt vặt khác:
 

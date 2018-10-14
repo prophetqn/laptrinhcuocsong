@@ -17,7 +17,7 @@ Vì là blog Lập trình cuộc sống, cộng thêm tính tình vui vẻ nên 
 
 ## Về bản thân:
 
-Sau khi [bỏ đại học ở một trường không mấy danh tiếng](http://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html), mình bắt đầu làm freelance thiết kế web từ năm 2010 đến 2014, sau đó mình rời Sài Gòn về quê làm vài công việc chân tay (làm xưởng cao su, phục vụ nhà hàng) để học kế toán với mong muốn làm nhà nước, sáng cắp cặp đi tối cắp cặp về.
+Sau khi [bỏ đại học ở một trường không mấy danh tiếng](https://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html), mình bắt đầu làm freelance thiết kế web từ năm 2010 đến 2014, sau đó mình rời Sài Gòn về quê làm vài công việc chân tay (làm xưởng cao su, phục vụ nhà hàng) để học kế toán với mong muốn làm nhà nước, sáng cắp cặp đi tối cắp cặp về.
 
 Đầu năm 2015, mình bỏ tất cả [xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê lập trình](http://www.ddth.com/showthread.php/1314521-X%C3%A1ch-ba-l%C3%B4-ra-HN-theo-%C4%91u%E1%BB%95i-ngh%E1%BB%81-l%E1%BA%ADp-tr%C3%ACnh-web), quay trở lại nghiệp code, từ đó đến nay bôn ba code dạo, hiện tại mình đang lead một cái team nhỏ nhỏ, trong một công ty nhỏ nhỏ, cũng khá enjoy với công việc của mình.
 
@@ -37,7 +37,7 @@ Trước hết, mình không "dạy" ai cả, đây là blog cá nhân, có ngh�
 
 ### Bạn ăn trộm bài viết của TechTalk với VietnamWorks à?
 
-Tất cả các bài viết trên blog này hoàn toàn do mình viết, có thể bạn đã được đọc ở đâu đó nên cảm thấy quen quen. Đó là vì các trang web khác đã đăng tải lại bài viết trên blog này và được sự đồng ý của mình như đã nêu trong [trang điều khoản](http://laptrinhcuocsong.com/policies.html).
+Tất cả các bài viết trên blog này hoàn toàn do mình viết, có thể bạn đã được đọc ở đâu đó nên cảm thấy quen quen. Đó là vì các trang web khác đã đăng tải lại bài viết trên blog này và được sự đồng ý của mình như đã nêu trong [trang điều khoản](https://laptrinhcuocsong.com/policies.html).
 
 ### Blog này hay quá, tôi muốn bạn viết cái này, cái kia
 

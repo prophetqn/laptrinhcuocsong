@@ -5,13 +5,13 @@ thumbnail: mobile.png
 category: Chuyện lập trình
 related_posts:
  - title: Các bước tạo một wireframe tuyệt vời
-   link: http://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html
+   link: https://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html
  - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Lập trình viên PHP đứng đầy đường
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title:
-   link: http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html
+   link: https://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html
 related_videos:
   -
     title: Lập trình phần mềm paint trên web

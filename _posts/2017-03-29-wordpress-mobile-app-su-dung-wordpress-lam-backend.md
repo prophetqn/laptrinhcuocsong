@@ -8,13 +8,13 @@ tags:
  - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/viet-tinh-nang-tu-dong-cap-nhat-phien-ban-code-php.html
+   link: https://laptrinhcuocsong.com/viet-tinh-nang-tu-dong-cap-nhat-phien-ban-code-php.html
  - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title: 
-   link: http://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
+   link: https://laptrinhcuocsong.com/series-nghich-ngom-lap-trinh-phan-mem-paint-ve-tren-web-html5-javascript.html
  - title: 
-   link: http://laptrinhcuocsong.com/dieu-gi-se-xay-ra-neu-ta-ve-1-trieu-div-len-man-hinh.html
+   link: https://laptrinhcuocsong.com/dieu-gi-se-xay-ra-neu-ta-ve-1-trieu-div-len-man-hinh.html
 related_videos:
   -
     title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
@@ -56,7 +56,7 @@ Trong file main.php mình đặt các thông tin cơ bản trong comment như sa
 <?php
 /**
  * Plugin Name: Open Hybrid
- * Plugin URI: http://laptrinhcuocsong.com
+ * Plugin URI: https://laptrinhcuocsong.com
  * Description: Plugin for the OpenHybirdWordpress, OpenHybirdWordpress is a free opensource project to build mobile applications use phonegap and wordpress.
  * Version: 0.2
  * Author: Bùi văn Nguyện
@@ -193,7 +193,7 @@ Trong phần 2, chúng ta sẽ cùng lập trình app mobile để tương tác 
 <?php
 /**
  * Plugin Name: Open Hybrid
- * Plugin URI: http://laptrinhcuocsong.com
+ * Plugin URI: https://laptrinhcuocsong.com
  * Description: Plugin for the OpenHybirdWordpress, OpenHybirdWordpress is a free opensource project to build mobile applications use phonegap and wordpress.
  * Version: 0.2
  * Author: Bùi văn Nguyện

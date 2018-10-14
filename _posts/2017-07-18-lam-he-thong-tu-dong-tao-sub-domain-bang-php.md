@@ -8,13 +8,13 @@ tags:
  - hoc-lap-trinh-nhu-the-nao
 related_posts:
  - title: Viết tính năng tự động nâng cấp phiên bản cho code PHP (PHP auto-upgrade system)
-   link: http://laptrinhcuocsong.com/viet-tinh-nang-tu-dong-cap-nhat-phien-ban-code-php.html
+   link: https://laptrinhcuocsong.com/viet-tinh-nang-tu-dong-cap-nhat-phien-ban-code-php.html
  - title: Test website trên thiết bị di động như thế nào?
-   link: http://laptrinhcuocsong.com/test-website-tren-thiet-bi-di-dong-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/test-website-tren-thiet-bi-di-dong-nhu-the-nao.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
-   link: http://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
+   link: https://laptrinhcuocsong.com/tao-va-xuat-ban-jquery-plugin-trong-30-phut.html
 related_videos:
   -
     title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 

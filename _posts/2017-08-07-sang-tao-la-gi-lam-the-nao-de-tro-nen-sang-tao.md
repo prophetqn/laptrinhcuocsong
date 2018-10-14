@@ -8,13 +8,13 @@ tags:
   - nganh-lap-trinh-vien
 related_posts:
  - title: Các bước tạo một wireframe tuyệt vời
-   link: http://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html
+   link: https://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html
  - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
-   link: http://laptrinhcuocsong.com/7-cong-viec-dau-tien-trong-doi.html
+   link: https://laptrinhcuocsong.com/7-cong-viec-dau-tien-trong-doi.html
 related_videos:
   - 
     title: Một giờ trong đời của lập trình viên (speed 6x)
@@ -34,7 +34,7 @@ Có thể khi đọc xong tiêu đề, bạn sẽ nghĩ cái thằng này thật
 
 ## Bạn đã sai.
 
-Bản chất việc tạo ra phần mềm là một quá trình sáng tạo, chứ không phải là "chuyển yêu cầu của cấp trên thành mã máy" như bạn nghĩ. Trong hầu hết các trường hợp, bạn sẽ phải đóng góp ý tưởng cho dự án, vì đến cả ông project owner cũng chỉ tượng tượng chung chung về dự án mà thôi. Tất cả các tính năng, giao diện, UI & UX khi lên [wireframe](http://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html) đều thường do các thành viên cùng đóng góp cả.
+Bản chất việc tạo ra phần mềm là một quá trình sáng tạo, chứ không phải là "chuyển yêu cầu của cấp trên thành mã máy" như bạn nghĩ. Trong hầu hết các trường hợp, bạn sẽ phải đóng góp ý tưởng cho dự án, vì đến cả ông project owner cũng chỉ tượng tượng chung chung về dự án mà thôi. Tất cả các tính năng, giao diện, UI & UX khi lên [wireframe](https://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html) đều thường do các thành viên cùng đóng góp cả.
 
 Tin xấu là không phải tất cả chúng ta sinh ra đã có tư duy suy nghĩ sáng tạo, tin tốt là kỹ năng sáng tạo hoàn toàn có thể học và rèn luyện được. Tin xấu là quá trình rèn luyện tư duy suy nghĩ sáng tạo rất tốn thời gian và công sức phải rèn luyện thường xuyên, tin tốt là nếu bạn đã có lối tư duy sáng tạo, thì hiệu quả công việc sẽ được cải thiện rất, rất nhiều.
 

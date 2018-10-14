@@ -25,13 +25,13 @@ related_videos:
 
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: 
-   link: http://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
+   link: https://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
+   link: https://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
  - title:
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-10-tieng.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-10-tieng.html
 ---
 
 Hãy viết chương trình in ra các số chẵn trong khoảng từ 1 đến 100. Đây là một bài tập rất cơ bản với những người mới học lập trình, nó không hề khó, thậm chí dễ như ăn kẹo.

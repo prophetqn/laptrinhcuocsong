@@ -8,13 +8,13 @@ tags:
  - hoc-ubuntu
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
+   link: https://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-tren-ubuntu-cac-phan-mem-web-developer-can-cai-dat.html
+   link: https://laptrinhcuocsong.com/lap-trinh-tren-ubuntu-cac-phan-mem-web-developer-can-cai-dat.html
  - title: 
-   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+   link: https://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title: 
-   link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
+   link: https://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
 related_videos:
   -
     title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?
@@ -29,7 +29,7 @@ related_videos:
     title: Công nghệ thông tin theo khối nào? khối D là câu trả lời
     id: aYA_Jsoe-jM
 ---
-Trong [phần 1](http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html), mình đã hướng dẫn các bạn cài đặt apache, php, mysql trên ubuntu, hôm nay chúng ta sẽ tiếp tục cài đặt các phần mềm liên quan để ubuntu để phục vụ công việc lập trình web.
+Trong [phần 1](https://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html), mình đã hướng dẫn các bạn cài đặt apache, php, mysql trên ubuntu, hôm nay chúng ta sẽ tiếp tục cài đặt các phần mềm liên quan để ubuntu để phục vụ công việc lập trình web.
 
 ### Cài đặt và cấu hình sublime text
 

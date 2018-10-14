@@ -11,13 +11,13 @@ tags:
  - cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: 
-   link: http://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
+   link: https://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-php-dung-day-duong.html
  - title: 
-   link: http://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/kiem-tien-bang-lap-trinh-web-nhu-the-nao.html
 related_videos:
   -
     title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
@@ -32,7 +32,7 @@ related_videos:
     title: Khi đi làm php người ta dùng những công cụ gì? 
     id: fOFKwV7OW7U
 ---
-Đối với các bạn mới học lập trình, [lựa chọn ngôn ngữ lập trình](http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html) để học là một việc rất khó khăn. Có hàng tá ngôn ngữ, mỗi ngôn ngữ có những đặc điểm riêng, không có ngôn ngữ nào mạnh hơn ngôn ngữ nào cả. Bạn không biết ngôn ngữ nào phù hợp với mình, bài viết này sẽ giúp bạn.
+Đối với các bạn mới học lập trình, [lựa chọn ngôn ngữ lập trình](https://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html) để học là một việc rất khó khăn. Có hàng tá ngôn ngữ, mỗi ngôn ngữ có những đặc điểm riêng, không có ngôn ngữ nào mạnh hơn ngôn ngữ nào cả. Bạn không biết ngôn ngữ nào phù hợp với mình, bài viết này sẽ giúp bạn.
 
 Thường thì mỗi ngôn ngữ được thiết kế để tập trung vào giải quyết một hoặc vài việc cụ thể, ví dụ php chỉ để làm web, swift để làm ứng dụng ios. Tất nhiên vẫn có những ngôn ngữ phục vụ nhiều mục đích khác nhau, java chẳng hạn, nó được thiết kế để làm rất nhiều thứ.
 

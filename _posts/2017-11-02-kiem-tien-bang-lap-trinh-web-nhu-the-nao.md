@@ -14,13 +14,13 @@ tags:
  - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
  - title: 
-   link: http://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
+   link: https://laptrinhcuocsong.com/5-viec-lam-don-gian-de-khoi-dau-su-nghiep-lap-trinh-vien-nghiem-tuc.html
  - title: 
-   link: http://laptrinhcuocsong.com/cham-tien-do-khi-ban-khong-con-muon-viet-code-nua.html
+   link: https://laptrinhcuocsong.com/cham-tien-do-khi-ban-khong-con-muon-viet-code-nua.html
  - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 related_videos:
   - 
     title: Một giờ trong đời của lập trình viên (speed 6x)

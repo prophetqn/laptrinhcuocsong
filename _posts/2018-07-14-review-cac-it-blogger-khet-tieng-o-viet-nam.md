@@ -8,13 +8,13 @@ tags:
   - nganh-lap-trinh-vien
 related_posts:
  - title: Các bước tạo một wireframe tuyệt vời
-   link: http://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html
+   link: https://laptrinhcuocsong.com/cac-buoc-tao-mot-wireframe-tuyet-voi.html
  - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
-   link: http://laptrinhcuocsong.com/7-cong-viec-dau-tien-trong-doi.html
+   link: https://laptrinhcuocsong.com/7-cong-viec-dau-tien-trong-doi.html
 related_videos:
   - 
     title: Một giờ trong đời của lập trình viên (speed 6x)

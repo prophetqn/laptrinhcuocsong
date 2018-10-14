@@ -11,13 +11,13 @@ tags:
   - cach-hoc-lap-trinh-cho-nguoi-chua-biet-gi
 related_posts:
  - title: Cùng nhau tạo restful API đơn giản với php
-   link: http://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html
+   link: https://laptrinhcuocsong.com/cung-nhau-tao-restful-api-don-gian-voi-php.html
  - title: Tôi đã hack Chợ Tốt như thế nào
-   link: http://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
+   link: https://laptrinhcuocsong.com/toi-da-hack-cho-tot-nhu-the-nao.html
  - title: Tổng hợp tất tần tật những công cụ cần thiết cho web developer
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
  - title:
-   link: http://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
+   link: https://laptrinhcuocsong.com/nen-hoc-ngon-ngu-lap-trinh-nao.html
 related_videos:
   -
     title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 

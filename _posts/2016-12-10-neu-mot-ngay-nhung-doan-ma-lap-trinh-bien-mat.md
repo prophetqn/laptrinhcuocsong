@@ -10,13 +10,13 @@ tags:
  - lap-trinh-vien
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
+   link: https://laptrinhcuocsong.com/hoc-lam-hacker.html
  - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
  - title: 
-   link: http://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
+   link: https://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
  - title: 
-   link: http://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
+   link: https://laptrinhcuocsong.com/that-vong-su-tro-lai-cua-hiep-hoi-hacker-viet-nam-hva.html
 ---
 
 Có bao giờ bạn đặt câu hỏi: Nếu không có những lập trình viên như chúng ta, thế giới sẽ như thế nào không? Thật khủng khiếp, không có điện thoại, không có facebook và xe cộ sẽ tông nhau loạn xạ, vì cả những cột đèn giao thông cũng phải được lập trình ra.

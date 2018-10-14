@@ -8,13 +8,13 @@ tags:
  - hoc-ubuntu
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
+   link: https://laptrinhcuocsong.com/nhung-phan-mem-nen-cai-dat-tren-ubuntu.html
  - title: 
-   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
+   link: https://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
  - title: 
-   link: http://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
+   link: https://laptrinhcuocsong.com/thay-doi-che-do-io-schedule-de-tang-toc-ubuntu.html
  - title:
-   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+   link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 related_videos:
   -
     title: Sự khác nhau giữa lập trình viên miền Bắc và miền Nam
@@ -38,7 +38,7 @@ Nghe tên thôi là cũng gần gần hiểu rồi, nôm na nó là phương ph�
 
 ## CD - Triển khai liên tục là gì?
 
-Đồng hành cùng tích hợp liên tục, triển khai liên tục là thường xuyên release phiên bản mới lên môi trường test, việc này được diễn ra tự động, giảm gánh nặng cho [lập trình viên](http://laptrinhcuocsong.com/tags/lap-trinh-vien) để lập trình viên tập trung vào việc code mà thôi.
+Đồng hành cùng tích hợp liên tục, triển khai liên tục là thường xuyên release phiên bản mới lên môi trường test, việc này được diễn ra tự động, giảm gánh nặng cho [lập trình viên](https://laptrinhcuocsong.com/tags/lap-trinh-vien) để lập trình viên tập trung vào việc code mà thôi.
 
 Ví dụ bình thường, để xuất bản website, bạn phải làm rất nhiều thứ, từ upload code lên server, chạy migrate dữ liệu, cấu hình file config các kiểu, rất tốn thời gian và dễ sai sót. Thì với triển khai liên tục, bạn chỉ cần push code lên git là mọi thứ được tự động deploy lên server test mà bạn không cần phải đụng chân đụng tay gì.
 

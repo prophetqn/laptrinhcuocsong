@@ -6,13 +6,13 @@ thumbnail: bitcoin.png
 excerpt: Đồng tiền WCX coin được một nhóm các kĩ sư cũ của Apple và IBM tách ra phát triển nên cực kì tiềm năng, phục vụ trong lĩnh vực giao dịch điện tử. Hiện đồng tiền đang trong giai đoạn phát triển nên sẽ tặng cho mỗi người đăng ký tài khoản mới là 50 WCX.
 related_posts:
  - title: 
-   link: http://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
+   link: https://laptrinhcuocsong.com/tong-hop-nhung-kenh-youtube-ma-dan-cong-nghe-nen-theo-doi-phan-2.html
  - title: 
-   link: http://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
+   link: https://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html
  - title: 
-   link: http://laptrinhcuocsong.com/hoc-lam-hacker.html
+   link: https://laptrinhcuocsong.com/hoc-lam-hacker.html
  - title: Tại sao dân lập trình thường FA
-   link: http://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
+   link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
 ---
 WCX – đồng tiền ảo mới dựa trên nền tảng Ethereum (đứng thứ 2 thế giới chỉ sau đồng tiền ảo Bitcoin). Dự kiến sẽ hoạt động vào ngày 31 tháng 10 năm 2017.
 
