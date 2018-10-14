@@ -4,6 +4,7 @@ seo_description: Lập trình cuộc sống, blog  về kỹ thuật, rèn luy�
 avatar: images/logo.gif
 baseurl: 
 site_url: "https://laptrinhcuocsong.com"
+site_url_http: "http://laptrinhcuocsong.com"
 default_post_avatar: images/logo.gif
 permalink: /:title.html
 version: v1.2.0
