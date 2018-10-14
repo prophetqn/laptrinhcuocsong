@@ -12,13 +12,13 @@ tags:
  - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: Lập trình viên cần học những gì ?
-   link: http://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
+   link: https://laptrinhcuocsong.com/lap-trinh-vien-can-hoc-nhung-gi.html
  - title: Trả lời câu hỏi của bạn đọc
-   link: http://laptrinhcuocsong.com/tra-loi-cau-hoi-ban-doc.html
+   link: https://laptrinhcuocsong.com/tra-loi-cau-hoi-ban-doc.html
  - title: Xem video này bạn sẽ muốn ngồi vào bàn và lập trình ngay lập tức
-   link: http://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
+   link: https://laptrinhcuocsong.com/xem-video-nay-ban-se-muon-ngoi-vao-va-lap-trinh-ngay-lap-tuc.html
  - title:
-   link: http://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
+   link: https://laptrinhcuocsong.com/luong-lap-trinh-vien-moi-ra-truong.html
 
 related_videos:
   -
