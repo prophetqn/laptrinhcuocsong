@@ -70,17 +70,17 @@ $ vi /etc/selinux/config
 
 Rồi sửa thành như thế này:
 
-`
-\# This file controls the state of SELinux on the system.
-\# SELINUX= can take one of these three values:
-\#       enforcing - SELinux security policy is enforced.
-\#       permissive - SELinux prints warnings instead of enforcing.
-\#       disabled - SELinux is fully disabled.
+```javascript
+# This file controls the state of SELinux on the system.
+# SELINUX= can take one of these three values:
+#       enforcing - SELinux security policy is enforced.
+#       permissive - SELinux prints warnings instead of enforcing.
+#       disabled - SELinux is fully disabled.
 SELINUX=disabled
-\# SELINUXTYPE= type of policy in use. Possible values are:
-\#       targeted - Only targeted network daemons are protected.
-\#       strict - Full SELinux protection.
+# SELINUXTYPE= type of policy in use. Possible values are:
+#       targeted - Only targeted network daemons are protected.
+#       strict - Full SELinux protection.
 SELINUXTYPE=targeted
-`
+```
 
 Sau đó ra ngoài đi hút thuốc :))
