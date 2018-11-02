@@ -33,10 +33,9 @@ related_videos:
 
 Từ nay mình ghi chép trên trang này luôn, ghi chép linh tinh các vấn đề nhỏ nhỏ mà trong quá trình làm việc mình gặp phải, coi như cái sổ tay.
 
-Khách hàng bên JAV báo hệ thống không ghi được file log. Zồi ôi, cái này thì đơn giản, gấp rút ssh vào server.
+Khách hàng bên JAV báo hệ thống không ghi được file log. Zồi ôi, cái này thì đơn giản, mình gấp rút ssh vào server.
 
-Ơ nhưng sao đã chmod 755 rồi vẫn không ghi được file nhỉ? Permission denied?
-Chắc là thằng apache đang chạy trên user không được quyền ghi file ở thư mục đó. Thôi thì chown luôn sang cho nó.
+Ơ nhưng sao đã chmod 755 rồi vẫn không ghi được file nhỉ? Permission denied? Chắc là thằng apache đang chạy trên user không được quyền ghi file ở thư mục đó. Thôi thì chown luôn sang cho nó.
 
 ```javascript
 $ chown -R apache:apache /var/www/mysite/logs
@@ -48,7 +47,8 @@ Vẫn không được, hừ, đã thế bố chmod 777 luôn:
 $ chmod -R 777 /var/www/mysite/logs
 ```
 
-Hí hửng check lại, wtf, vẫn không ghi được file? Cuối cùng mò mãi, thì ra nó đang bật SELinux
+Hí hửng check lại, wtf, vẫn không ghi được file? Cuối cùng mò mãi, thì ra nó đang bật SELinux.
+
 SELinux (Security-Enhanced Linux) dùng để khóa điều khiển truy cập vào các ứng dụng, tăng bảo mật, nhưng cũng có một vài điều gây khó chịu cho người sử dụng như việc gây chậm cho hệ thống hay khiến cho một vài ứng dụng trở nên khó cài đặt.
 
 Cách giải quyết là: Tắt bố nó đi =))
@@ -83,4 +83,4 @@ SELINUX=disabled
 SELINUXTYPE=targeted
 ```
 
-Sau đó ra ngoài đi hút thuốc :))
+Với một người quản trị server chuyên nghiệp, có lẽ đã không tốn nhiều thời gian. Nhưng với một thằng chỉ dùng các server được cài đặt sẵn như mình, thì đây là một cái chưa gặp bao giờ. Tuy nhiên cuối cùng thì cũng xong, ra ngoài đi hút thuốc lấy lại tinh thần đã.
