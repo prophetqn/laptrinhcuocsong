@@ -80,7 +80,7 @@ Học viên hiểu về thiết kế cơ sở dữ liệu quan hệ đáp ứng 
 
 Đánh giá lại học viên, nếu học viên chưa đạt yêu cầu, tiếp tục học.
 
-### Yêu cầu với học viên:
+## Yêu cầu với học viên:
 
 Với lượng kiến thức cần truyền tải là rất lớn, để tham gia khóa học, học viên cần đạt các yêu cầu sau:
 
