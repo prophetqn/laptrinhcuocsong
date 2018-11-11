@@ -15,7 +15,7 @@ Học viên có một người mentor bên cạnh, như một người bạn, s�
 
 ## Phương thức học:
 
-Học trực tuyến trong một group bí mật, yêu cầu học viên phải kết nối và xem live stream bài giảng, trao đổi trực tiếp với giảng viên.
+Học trực tuyến trong một group bí mật trên facebook, yêu cầu học viên phải kết nối và xem live stream bài giảng, trao đổi trực tiếp với giảng viên.
 
 Mô hình giả lập môi trường làm việc trong thực tế. Học viên tương tác và làm việc với nhau như một development team trong thực tế với đủ các vị trí: developer, tester, technical leader.
 
@@ -60,9 +60,11 @@ Hướng dẫn học viên cài đặt và sử dụng bootstrap, các kiến th
 
 Kiến thức lập trình php căn bản bao gồm: biến, hằng số, vòng lặp, hàm, mảng, data type…
 Lập trình hướng đối tượng trong php: class, namespace, construtor, extends, instance, static methods...
+
 Các kiến thức khác của riêng php như: session, cookie, request param...
 
 ### 10. Database design.
+
 Học viên hiểu về thiết kế cơ sở dữ liệu quan hệ đáp ứng được yêu cầu bài toán đưa ra.
 
 ### 11. Lập trình laravel căn bản.
