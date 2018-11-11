@@ -29,43 +29,43 @@ Với lượng kiến thức cần truyền tải là rất lớn, tổng thời
 
 ## Nội dung khóa học:
 
-### I. Cơ bản về web:
+### 1. Cơ bản về web:
 
 Giới thiệu căn bản, web hoạt động như thế nào? Các kiến thức về http request, ajax, session, cookie, database…
 
-### II. Ngôn ngữ đánh dấu HTML
+### 2. Ngôn ngữ đánh dấu HTML
 
 Học viên học tất tần tật về ngôn ngữ đánh dấu HTML, hiểu và sử dụng các thẻ HTMLmột cách thuần thục.
 
-### III. CSS
+### 3. CSS
 
 Học viên được cung cấp các kiến thức về CSS và đặc biệt là CSS3, hiểu về dựng layout web bằng CSS thuần, các kỹ thuật liên quan đến sass, responsive, media query, pseudo css, fault column, css animation…
 
-### IV. Javascript
+### 4. Javascript
 
 Học javascript căn bản từ đầu, học viên hiểu về biến, hằng, vòng lặp, promise, callback, cách javascript tương tác với DOM document.
 
-### V. Jquery
+### 5. Jquery
 Học viên làm chủ thư viện jquery, hiểu và ứng dụng jquery trong dự án thực tế. Hiểu về selector, fade, animate, event, ajax, plugin…
 
-### VI. Bootstrap
+### 6. Bootstrap
 
 Hướng dẫn học viên cài đặt và sử dụng bootstrap, các kiến thức bootstrap như: grid system, sử dụng các component, kết hợp css thuần để customize bootstrap dựng được giao diện web hoàn chỉnh.
 
-### V. Kết hợp tất cả với webpack.
+### 7. Kết hợp tất cả với webpack.
 
-### VI. Giới thiệu PHP và cài đặt các công cụ liên quan.
+### 8. Giới thiệu PHP và cài đặt các công cụ liên quan.
 
-### VII. Lập trình PHP căn bản.
+### 9. Lập trình PHP căn bản.
 
 Kiến thức lập trình php căn bản bao gồm: biến, hằng số, vòng lặp, hàm, mảng, data type…
 Lập trình hướng đối tượng trong php: class, namespace, construtor, extends, instance, static methods...
 Các kiến thức khác của riêng php như: session, cookie, request param...
 
-### VIII. Database design.
+### 10. Database design.
 Học viên hiểu về thiết kế cơ sở dữ liệu quan hệ đáp ứng được yêu cầu bài toán đưa ra.
 
-### IX. Lập trình laravel căn bản.
+### 11. Lập trình laravel căn bản.
 
 - Giới thiệu về framework, giới thiệu về laravel
 - Cài đặt laravel.
@@ -76,7 +76,7 @@ Học viên hiểu về thiết kế cơ sở dữ liệu quan hệ đáp ứng 
 - Migration và seeder
 - Auth và middleware
 
-### X.Tổng kết khóa học.
+### 12.Tổng kết khóa học.
 
 Đánh giá lại học viên, nếu học viên chưa đạt yêu cầu, tiếp tục học.
 
