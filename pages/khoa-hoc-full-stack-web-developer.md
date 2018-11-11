@@ -13,6 +13,8 @@ Khóa học dành cho các học viên có kiến thức lập trình căn bản
 
 Học viên có một người mentor bên cạnh, như một người bạn, sẵn sàng chia sẻ định hướng để phát triển bản thân trong ngành lập trình.
 
+![Lập trình viên](images/lap-trinh-vien.png)
+
 ## Phương thức học:
 
 Học trực tuyến trong một group bí mật trên facebook, yêu cầu học viên phải kết nối và xem live stream bài giảng, trao đổi trực tiếp với giảng viên.
