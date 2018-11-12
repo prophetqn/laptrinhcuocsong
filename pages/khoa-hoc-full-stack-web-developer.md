@@ -33,7 +33,7 @@ Với lượng kiến thức cần truyền tải là rất lớn, tổng thời
 
 ### 1. Cơ bản về web:
 
-Giới thiệu căn bản, web hoạt động như thế nào? Các kiến thức về http request, ajax, session, cookie, database…
+Giới thiệu căn bản, web hoạt động như thế nào? Các kiến thức về http request, dns, domain, ajax, session, cookie, database…
 
 ### 2. Ngôn ngữ đánh dấu HTML
 
@@ -48,6 +48,7 @@ Học viên được cung cấp các kiến thức về CSS và đặc biệt l�
 Học javascript căn bản từ đầu, học viên hiểu về biến, hằng, vòng lặp, promise, callback, cách javascript tương tác với DOM document.
 
 ### 5. Jquery
+
 Học viên làm chủ thư viện jquery, hiểu và ứng dụng jquery trong dự án thực tế. Hiểu về selector, fade, animate, event, ajax, plugin…
 
 ### 6. Bootstrap
