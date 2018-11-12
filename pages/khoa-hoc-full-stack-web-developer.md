@@ -7,7 +7,7 @@ excerpt: Khóa học become fullstack web developer cung cấp các kiến thứ
 
 Khóa học become fullstack web developer cung cấp các kiến thức căn bản để học viên có thể đi làm được ở vị trí fullstack web developer. Học viên học được cách làm việc nhóm, giải quyết vấn đề, hiểu được quy trình, công cụ làm việc như trong thực tế.
 
-Nếu học viên đã học sơ qua về web, khóa học này là cơ hội để hệ thống hóa kiến thức, học lại một cách bài bản, bù các kiến thức bị thiếu.
+Nếu học viên đã học sơ qua về web, khóa học này là cơ hội để hệ thống hóa kiến thức, học lại một cách bài bản, bù các kiến thức bị thiếu. Bởi vì chỉ cần "một cuốn sách, một người thầy" là đủ.
 
 Khóa học dành cho các học viên có kiến thức lập trình căn bản, có thời gian, sẵn sàng đeo bám khóa học đến cùng :) Học cho đến lúc nào đi làm được thì thôi.
 
@@ -37,7 +37,7 @@ Giới thiệu căn bản, web hoạt động như thế nào? Các kiến thứ
 
 ### 2. Ngôn ngữ đánh dấu HTML
 
-Học viên học tất tần tật về ngôn ngữ đánh dấu HTML, hiểu và sử dụng các thẻ HTMLmột cách thuần thục.
+Học viên học tất tần tật về ngôn ngữ đánh dấu HTML, hiểu và sử dụng các thẻ HTML một cách thuần thục.
 
 ### 3. CSS
 
@@ -58,12 +58,13 @@ Hướng dẫn học viên cài đặt và sử dụng bootstrap, các kiến th
 
 ### 8. Giới thiệu PHP và cài đặt các công cụ liên quan.
 
+Giới thiệu cơ bản về ngôn ngữ lập trình PHP, giúp học viên cài đặt, hiểu và có thể sử dụng các công cụ phát triển web: stack, editor, php package manager, javascript package manager...
+
 ### 9. Lập trình PHP căn bản.
 
-Kiến thức lập trình php căn bản bao gồm: biến, hằng số, vòng lặp, hàm, mảng, data type…
-Lập trình hướng đối tượng trong php: class, namespace, construtor, extends, instance, static methods...
-
-Các kiến thức khác của riêng php như: session, cookie, request param...
+- Kiến thức lập trình php căn bản bao gồm: biến, hằng số, vòng lặp, hàm, mảng, data type…
+- Lập trình hướng đối tượng trong php: class, namespace, construtor, extends, instance, static methods...
+- Các kiến thức khác của riêng php như: session, cookie, request param...
 
 ### 10. Database design.
 
@@ -76,13 +77,14 @@ Học viên hiểu về thiết kế cơ sở dữ liệu quan hệ đáp ứng 
 - Giới thiệu cấu trúc thư mục, artisan
 - Application flow, routing, controller, model và view
 - Blade template, compiling assets
+- Vue framework basic level
 - Eloquent ORM, Relationships
 - Migration và seeder
 - Auth và middleware
 
 ### 12.Tổng kết khóa học.
 
-Đánh giá lại học viên, nếu học viên chưa đạt yêu cầu, tiếp tục học.
+Đánh giá lại trình độ học viên, nếu học viên chưa đạt yêu cầu, tiếp tục học.
 
 ## Yêu cầu với học viên:
 
