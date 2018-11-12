@@ -5,7 +5,7 @@ permalink: khoa-hoc-full-stack-web-developer.html
 excerpt: Khóa học become fullstack web developer cung cấp các kiến thức căn bản để học viên có thể đi làm được ở vị trí fullstack web developer. Học viên học được cách làm việc nhóm, giải quyết vấn đề, hiểu được quy trình, công cụ làm việc như trong thực tế.
 ---
 
-Khóa học become fullstack web developer cung cấp các kiến thức căn bản để học viên có thể đi làm được ở vị trí fullstack web developer. Học viên học được cách làm việc nhóm, giải quyết vấn đề, hiểu được quy trình, công cụ làm việc như trong thực tế.
+Khóa học cung cấp các kiến thức căn bản để học viên có thể đi làm được ở vị trí fullstack web developer. Học viên học được cách làm việc nhóm, giải quyết vấn đề, hiểu được quy trình, công cụ làm việc như trong thực tế.
 
 Nếu học viên đã học sơ qua về web, khóa học này là cơ hội để hệ thống hóa kiến thức, học lại một cách bài bản, bù các kiến thức bị thiếu. Bởi vì chỉ cần "một cuốn sách, một người thầy" là đủ.
 
@@ -69,23 +69,23 @@ Giới thiệu cơ bản về ngôn ngữ lập trình PHP, giúp học viên c�
 
 ### 10. Database design.
 
-Học viên hiểu về thiết kế cơ sở dữ liệu quan hệ đáp ứng được yêu cầu bài toán đưa ra.
+Học viên học cách phân tích và thiết kế cơ sở dữ liệu quan hệ đáp ứng được yêu cầu bài toán đưa ra. Kiến thức về SQL cơ bản.
 
 ### 11. Lập trình laravel căn bản.
 
-- Giới thiệu về framework, giới thiệu về laravel
+- Giới thiệu về framework, giới thiệu về laravel.
 - Cài đặt laravel.
-- Giới thiệu cấu trúc thư mục, artisan
-- Application flow, routing, controller, model và view
-- Blade template, compiling assets
-- Vue framework basic level
-- Eloquent ORM, Relationships
-- Migration và seeder
-- Auth và middleware
+- Giới thiệu cấu trúc thư mục, artisan.
+- Application flow, routing, controller, model và view.
+- Blade template, compiling assets.
+- Vue framework basic level.
+- Eloquent ORM, Relationships.
+- Migration và seeder.
+- Auth và middleware.
 
 ### 12.Tổng kết khóa học.
 
-Đánh giá lại trình độ học viên, nếu học viên chưa đạt yêu cầu, tiếp tục học.
+Hệ thống hóa lại toàn bộ kiến thức đã học. Đánh giá lại trình độ học viên, bồi dưỡng thêm cho các học viên chưa đạt yêu cầu.
 
 ## Yêu cầu với học viên:
 
