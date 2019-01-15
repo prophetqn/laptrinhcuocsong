@@ -8,10 +8,10 @@ videos:
     title: Đi thực tập IT cần chuẩn bị những gì?
     id: PRLr_vIZ1xU
   -
-    title: LiveStream: Lập trình oto rẽ trái rẽ phải bằng toán học lượng giác
+    title: LiveStream - Lập trình oto rẽ trái rẽ phải bằng toán học lượng giác
     id: 58a1mLE40kw
   -
-    title: LiveStream: Lập trình phần mềm paint bằng javascript
+    title: LiveStream - Lập trình phần mềm paint bằng javascript
     id: tKzpM0sWHo0
   -
     title: Đâu là môi trường tốt nhất cho sự phát triển của lập trình viên?
