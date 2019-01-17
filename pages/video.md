@@ -17,6 +17,9 @@ videos:
     title: Đâu là môi trường tốt nhất cho sự phát triển của lập trình viên?
     id: YW0sWK9OAXI
   -
+    title: Bí kíp sống ảo ra tiền cho lập trình viên
+    id: MP1v4PwJqFs
+  -
     title: Ngôn ngữ java có thể làm gì? Học java có thể đi theo hướng nào?
     id: 2WkHUIBWDhY
   -
