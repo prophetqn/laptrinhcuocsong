@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Nằm code hay ngồi code?
+    id: 6UxMV4obWSQ
+  -
     title: Đi thực tập IT cần chuẩn bị những gì?
     id: PRLr_vIZ1xU
   -
