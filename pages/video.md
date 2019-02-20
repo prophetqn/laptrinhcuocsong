@@ -5,6 +5,18 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Làm frontend là làm gì? Frontend developer cần kỹ năng gì?
+    id: Pck8FtlYK1w
+  -
+    title: Lập trình điều khiển oto bằng điện thoại qua wifi
+    id: kcRtaQ_fKFo
+  -
+    title: Nghề IT Có Thật Sự Là Khổ Như Lời Đồn?
+    id: WYs7eJ-tRWI
+  -
+    title: Cảm ơn vì một năm 2018 tuyệt vời
+    id: drGIVbO9pAI
+  -
     title: Code trên giấy?
     id: VT1uT9A7ELE
   -
