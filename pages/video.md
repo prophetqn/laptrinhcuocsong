@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Thực trạng học lập trình của các thanh niên hiện nay =))
+    id: ABxYyQiYYW4
+  -
     title: Làm frontend là làm gì? Frontend developer cần kỹ năng gì?
     id: Pck8FtlYK1w
   -
