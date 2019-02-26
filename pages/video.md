@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Gái xinh nhờ cài win thì làm gì?
+    id: qzGHoksg4N4
+  -
     title: Thực trạng học lập trình của các thanh niên hiện nay =))
     id: ABxYyQiYYW4
   -
