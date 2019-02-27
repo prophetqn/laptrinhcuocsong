@@ -24,14 +24,14 @@ related_posts:
    link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 related_videos:
   -
-    title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
-    id: 0UO9UKjVQ68
+    title: Gái nhờ cài win thì làm gì?
+    id: qzGHoksg4N4
   -
-    title: Troll zero9 - Lập trình viên nghĩ gì khi xem clip của zero9 
-    id: xsI6r6zYTp0
+    title: Thực trạng học lập trình của các thanh niên hiện nay =))
+    id: ABxYyQiYYW4
   -
-    title: Gặp bug thì làm gì? Lập trình viên chiến đấu với bọn tester như thế nào? 
-    id: wFQ1h8RNcEs
+    title: Code trên giấy? 
+    id: VT1uT9A7ELE
   -
     title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
     id: Zo8pGBDi6SA
