@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Vừa ăn mỳ vừa lập trình AI, machine learning =))
+    id: 2okN7BqvE6I
+  -
     title: Gái xinh nhờ cài win thì làm gì?
     id: qzGHoksg4N4
   -
