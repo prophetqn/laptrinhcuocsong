@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Những lý do con gái nên học lập trình
+    id: hsLW1TMvj74
+  -
     title: Vừa ăn mỳ vừa lập trình AI, machine learning =))
     id: 2okN7BqvE6I
   -
