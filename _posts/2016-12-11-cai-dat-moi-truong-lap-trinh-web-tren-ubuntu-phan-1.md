@@ -31,7 +31,7 @@ related_videos:
 ---
 Bạn là web developer trên ngôn ngữ php và muốn sử dụng ubuntu trong công việc của mình. Ubuntu hoàn toàn có đủ khả năng và hỗ trợ tốt công việc của bạn. Trong bài viết này mình sẽ giới thiệu cách thiết lập môi trường cho lập trình viên web trên ubuntu.
 
-### Bước 1: Cài đặt MySql và Apache:
+## Bước 1: Cài đặt MySql và Apache:
 
 Đầu tiên chúng ta sẽ cài MySql:
 
@@ -65,7 +65,7 @@ Các gói này là các gói cơ bản nhất mà các ứng dụng web thườn
 sudo /etc/init.d/apache2 restart
 ```
 
-### Bước 2: Tùy chỉnh thư mục root của apache
+## Bước 2: Tùy chỉnh thư mục root của apache
 
 Khi cài đặt xong, thư mục root của apache mặc định nằm ở /var/www/html mà mình thì lại không thích thư mục này lắm, mình muốn nó ở www luôn cho tiện. Mình lần lượt chạy các câu lệnh sau:
 
@@ -101,7 +101,7 @@ Và thêm đoạn này vào giữa cặp thẻ `<VirtualHost>`
 
 Khởi động lại apache lần nữa để thay đổi có hiệu lực. Thực ra bạn có thể đặt Document Root ở bất kỳ đâu bạn muốn, miễn là bạn cảm thấy tiện lợi khi làm việc là được.
 
-### Bước 3: Cấp quyền cho thư mục làm việc
+## Bước 3: Cấp quyền cho thư mục làm việc
 
 Cài đặt xong, bạn hăm hở mở code editor và lưu file vào thư mục /var/www nhưng không thể lưu được, bạn phải chmod lại thư mục đó để có thể thoải mái tạo, sửa, xóa file trong thư mục này:
 
