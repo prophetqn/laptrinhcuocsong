@@ -56,6 +56,7 @@ Với quy tắc này, tất cả những gì bạn cần làm là ngồi xuống
 - Bạn chỉ có 10 tiếng để biến ý tưởng của mình thành sự thật, nếu không, bạn sẽ phải vứt bỏ nó đi và KHÔNG bao giờ được tiếp tục làm nữa.
 
 ![Lập trình viên](images/bug-programming.jpg)
+Lập trình viên
 
 ## Tại sao phương pháp này hiệu quả:
 
