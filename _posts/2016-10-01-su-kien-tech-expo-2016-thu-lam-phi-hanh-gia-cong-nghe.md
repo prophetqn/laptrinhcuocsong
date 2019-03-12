@@ -37,17 +37,25 @@ Chương trình được thiết kế như một vũ trụ thu nhỏ, nơi các 
 Một vài hình ảnh của chương trình:
 
 ![tech expo 2017](images/tech-expo-2016-1.jpg)
+<span class="image-caption">tech expo 2017</span>
 
 ![tech expo 2017](images/tech-expo-2016-2.jpg)
+<span class="image-caption">tech expo 2017</span>
 
 ![tech expo 2017](images/tech-expo-2016-3.jpg)
+<span class="image-caption">tech expo 2017</span>
 
 ![tech expo 2017](images/tech-expo-2016-4.jpg)
+<span class="image-caption">tech expo 2017</span>
 
 ![tech expo 2017](images/tech-expo-2016-6.jpg)
+<span class="image-caption">tech expo 2017</span>
 
 ![tech expo 2017](images/tech-expo-2016-8.jpg)
+<span class="image-caption">tech expo 2017</span>
 
 ![tech expo 2017](images/tech-expo-2016-10.jpg)
+<span class="image-caption">tech expo 2017</span>
 
 ![tech expo 2017](images/tech-expo-2016-11.jpg)
+<span class="image-caption">tech expo 2017</span>
