@@ -31,7 +31,7 @@ related_videos:
 ---
 Trong [phần 1](https://laptrinhcuocsong.com/cai-dat-moi-truong-lap-trinh-web-tren-ubuntu-phan-1.html), mình đã hướng dẫn các bạn cài đặt apache, php, mysql trên ubuntu, hôm nay chúng ta sẽ tiếp tục cài đặt các phần mềm liên quan để ubuntu để phục vụ công việc lập trình web.
 
-### Cài đặt và cấu hình sublime text
+## Cài đặt và cấu hình sublime text
 
 Sublime text là một text editor rất mạnh, hỗ trợ nhiều plugin hay và được nhiều lập trình viên yêu thích. Đặc biệt, sublime text là một phần mềm đa nền tảng (multi-platform) hỗ trợ cả linux.
 
@@ -62,13 +62,13 @@ Sau đó copy vào thư mục /usr/share/fonts . Quay trở lại sublime text r
 
 Phím tắt để bật/tắt gõ tiếng Việt là phím F2
 
-### Quản lý Mysql với Mysql workbench
+## Quản lý Mysql với Mysql workbench
 
 Mysql workbench là một công cụ quản trị cơ sở dữ liệu một cách dễ dàng. Có rất nhiều các phần mềm khác có tính năng tương tự, nhưng Mysql workbench là một sản phẩm chính thống, được giới thiệu chính thức trên trang chủ mysql.com và có sẵn trên Ubuntu software center.
 
 ![Mysql workbench](images/mysql-workbench.png)
 
-### Cài đặt Svn client
+## Cài đặt Svn client
 
 SVN client là công cụ đắc lực để quản lý mã nguồn, bao gồm các thao tác chính là thêm, bớt, sửa, xóa, checkin, checkout, so sánh phiên bản. Cực kỳ cần thiết khi phát triển phần mềm theo nhóm.
 
@@ -88,7 +88,7 @@ Hoặc bạn có thể sử dụng một phần mềm svn client khác cũng kh�
 
 ![RapidSVN](images/rapidsvn.png)
 
-### Cài đặt Gimp và Photoshop
+## Cài đặt Gimp và Photoshop
 
 GIMP (viết tắt của GNU Image Manipulation Program) là chương trình xử lý hình ảnh được phát triển bởi GNU. Sau khi học gimp một thời gian, mình có thể khẳng định rằng gimp hoàn toàn đủ khả năng để sử dụng trong việc thiết kế và cắt layout web. Hoàn toàn miễn phí và dễ sử dụng. Gimp có sẵn trên Ubuntu software center.
 
