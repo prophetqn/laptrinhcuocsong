@@ -46,6 +46,7 @@ Rất, rất nhiều người có quan điểm cho rằng PHP chưa đáp ứng 
 Sự ra đời của các PHP framework và phiên bản PHP 7 đã phần nào khắc phục những điểm yếu tồn tại của ngôn ngữ này, tuy nhiên thực tế là rất ít các dự án lớn, quan trọng như thương mại điện tử, ngân hàng, thanh toán trực tuyến lựa chọn PHP làm công nghệ chính của họ khi ứng dụng cần môi trường chuẩn hóa cao, với công nghệ mạnh và đáng tin cậy.
 
 ![Lập trình viên php](images/coding-php.png)
+<span class="image-caption">Lập trình viên php</span>
 
 ## PHP được thiết kế cho một mục đích duy nhất
 
