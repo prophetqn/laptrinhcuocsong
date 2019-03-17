@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Bóc phốt em Huyền tester =))
+    id: 85NHe1D0Of4
+  -
     title: Những lý do con gái nên học lập trình
     id: hsLW1TMvj74
   -
