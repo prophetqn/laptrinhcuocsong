@@ -153,7 +153,7 @@ del {
                 font-size  : 14px;
                 line-height: 40px;
                 &:hover {
-                    color: #fff;
+                    color: #d4d4d4;
                 }
             }
         }
@@ -165,12 +165,11 @@ del {
     text-align      : center;
 
     h1 {
-        color    : #fff;
         padding  : 10px 5px;
         font-size: 35px;
 
         a {
-            color: #efefef;
+            color: #fff;
             &:hover {
                 color: #d4d4d4;
             }
@@ -198,7 +197,7 @@ del {
                     font-size  : 15px;
 
                     &:hover {
-                        color: #a7a7a7;
+                        color: #d4d4d4;
                     }
                 }
             }
