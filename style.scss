@@ -109,7 +109,7 @@ del {
 
 #header {
     padding   : 5px 0px;
-    background: #151515;
+    background: #02464b;
     top       : 0px;
     width     : 100%;
     z-index   : 3;
@@ -123,7 +123,7 @@ del {
             font-size  : 18px;
             line-height: 40px;
             a {
-                color: #efefef;
+                color: #fff;
                 font-weight: normal;
                 &:hover {
                     color: #d4d4d4;
@@ -147,7 +147,7 @@ del {
             display: inline;
 
             a {
-                color      : #d8d8d8;
+                color      : #fff;
                 display    : inline-block;
                 padding    : 0px 10px;
                 font-size  : 14px;
@@ -160,12 +160,12 @@ del {
     }
 }
 #jumbotron {
-    background-color: #282828;
+    background-color: #178e96;
     padding         : 50px 5px;
     text-align      : center;
 
     h1 {
-        color    : #FEFEFE;
+        color    : #fff;
         padding  : 10px 5px;
         font-size: 35px;
 
@@ -178,7 +178,7 @@ del {
     }
 
     h2 {
-        color      : #FEFEFE;
+        color      : #fff;
         font-size  : 20px;
         font-weight: normal;
         padding    : 5px 0px 30px 0px;
@@ -194,7 +194,7 @@ del {
                     padding    : 0px 10px;
                     height     : 50px;
                     line-height: 50px;
-                    color      : #d8d8d8;
+                    color      : #fff;
                     font-size  : 15px;
 
                     &:hover {
