@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Live stream 24/7 Nhạc lập trình, music for coding
+    id: 4ywqBkhMrbo
+  -
     title: Cách để yêu một chàng trai IT
     id: LSLurnj_EPI
   -
