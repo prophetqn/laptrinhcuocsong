@@ -66,7 +66,7 @@ Cảm hứng ý tưởng nó mất dần đi theo thời gian, nhanh thích thì
 
 **Có được sản phẩm**:
 
-Sau 10 tiếng nhanh gọn bạn đã có một sản phẩm với tính năng đủ dùng để đem đi khoe hàng. Ý tưởng chỉ đáng giá một xu, sản phẩm mới là quan trọng. Code của bạn đã trở thành sản phẩm thật, có ích, chứ không chỉ là những đoạn mã vô nghĩa.
+Sau 10 tiếng nhanh gọn bạn đã có một sản phẩm với tính năng đủ dùng để đem đi khoe hàng với bạn bè. Ý tưởng chỉ đáng giá một xu, sản phẩm mới là quan trọng. Code của bạn đã trở thành sản phẩm thật, có ích, chứ không chỉ là những đoạn mã vô nghĩa.
 
 **Tập trung vào tính năng chính**:
 
