@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Share mã giảm giá sự kiện Việt Nam mobile day 2018
+title: Share mã giảm giá sự kiện Việt Nam Mobile Day
 category: Chuyện bên lề
 thumbnail: mobile.png
 experpt: Ban tổ chức cũng đã có vé mời Lập Trình Cuộc Sống tham dự và share 15 code giảm 50k/vé cho các bạn, các bạn nhập mã LAPTRINHCUOCSONGCHAMCOM để được giảm giá nhé. Hẹn gặp các bạn ở Việt Nam mobile day 2018.
