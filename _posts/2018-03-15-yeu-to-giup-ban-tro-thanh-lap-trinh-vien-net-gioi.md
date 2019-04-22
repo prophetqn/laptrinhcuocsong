@@ -2,7 +2,7 @@
 layout: post
 title: Yếu tố giúp bạn trở thành một lập trình viên .Net giỏi
 excerpt: Lập trình viên hay bất cứ một ngành nghề nào để thành công chúng ta phải bỏ ra nhiều tâm huyết, nhiều thời gian nghiên cứu, đồng thời phải biết duy trì động lực làm việc học tập, biết hình thành nên đam mê cho bản thân đối với công việc lập trình viên .Net này.
-cover: sinh-vien-it.png
+cover: lap-trinh-vien-good-cv.jpg
 thumbnail: web-developer.png
 category: Chuyện lập trình
 tags:
