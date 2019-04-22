@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Chán lập trình thì làm gì?
+    id: DOD9RLp9xfw
+  -
     title: Live stream 24/7 Nhạc lập trình, music for coding
     id: 4ywqBkhMrbo
   -
