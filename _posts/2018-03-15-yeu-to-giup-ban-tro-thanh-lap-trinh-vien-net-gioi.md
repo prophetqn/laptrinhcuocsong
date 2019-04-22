@@ -66,4 +66,4 @@ Việc tham khảo những dòng code cũng sẽ là một công việc mà bạ
 
 Trên đây là những chia sẻ về những yếu tố giúp bạn có thể trở thành một lập trình viên .Net giỏi, không có sự thành công nào là dễ dàng nếu như chúng ta không có sự cố gắng và nỗ lực, dù đó là [lập trình viên Java](https://goodcv.vn/t%C3%ACm-vi%E1%BB%87c-l%C3%A0m-l%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn+java), hay lập trình viên PHP  vậy nên hãy luôn biết học hỏi để chinh phục được thành công trên con đường sự nghiệp mà mình đã chọn.
 
-> Để tìm việc làm lập trình viên .Net nhanh, lương cao, các ứng viên truy cập ngay vào GoodCV.vn nhé
+> Để tìm việc làm lập trình viên .Net nhanh, lương cao, các ứng viên truy cập ngay vào **GoodCV.vn** nhé
