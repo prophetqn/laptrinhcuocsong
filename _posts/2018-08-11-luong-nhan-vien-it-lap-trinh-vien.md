@@ -7,7 +7,9 @@ categories:
  - Chuyện bên lề
  - Chuyện cuộc sống
 tags:
-  - doi-song-lap-trinh-vien
+ - nganh-lap-trinh-vien
+ - lap-trinh-vien
+ - nghe-lap-trinh-vien-hien-nay
 related_posts:
  - title: Tại sao dân lập trình thường FA
    link: https://laptrinhcuocsong.com/tai-sao-dan-lap-trinh-thuong-fa.html
