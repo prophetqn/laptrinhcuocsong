@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thế chốt lại, lập trình là làm cái gì?
-excerpt: Chúng ta học bao nhiêu ngôn ngữ, công nghệ, những thứ quá cao siêu, để rồi quên đi mục đích ban đầu: Ngày xưa chúng ta đã học lập trình để làm cái gì?
+excerpt: Chúng ta học bao nhiêu ngôn ngữ, công nghệ, những thứ quá cao siêu, để rồi quên đi mục đích ban đầu, Ngày xưa chúng ta đã học lập trình để làm cái gì?
 thumbnail: ngon-ngu-lap-trinh.png
 cover: hoc-lap-trinh.jpg
 category: Chuyện nghề nghiệp
