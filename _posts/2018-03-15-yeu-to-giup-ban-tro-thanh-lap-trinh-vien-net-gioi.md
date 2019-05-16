@@ -48,7 +48,7 @@ Bạn phải hiểu, một [lập trình viên](https://goodcv.vn/t%C3%ACm-vi%E1
 
 ## 3. Biết cách giúp đỡ người khác
 
-Đối với Lập Trình Viên .Net việc giúp đỡ người khác không chỉ đơn giản là cho đi, mà còn được nhận lại rất nhiều, chẳng hạn như bạn đang làm việc trong một môi trường tập thể, làm việc nhóm bạn hãy trợ giúp những người gặp khó khăn trong quá trình giải quyết các vấn đề, việc giúp đỡ người khác sẽ giúp chúng ta hiểu thêm được nhiều vấn đề hay, và phương pháp lý giải mới. Trong công việc thì Teamwork rất quan trọng, các nhà [tuyển dụng](https://goodcv.vn/t%C3%ACm-vi%E1%BB%87c-l%C3%A0m-l%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn) rất yêu thích các ứng viên có khả năng Teamwork tốt, đặc biệt là với lập trình viên. Kỹ năng Teamwork bạn có thể thấy gần như là yêu cầu bắt buộc trong các tin tuyển dụng 
+Đối với Lập Trình Viên .Net việc giúp đỡ người khác không chỉ đơn giản là cho đi, mà còn được nhận lại rất nhiều, chẳng hạn như bạn đang làm việc trong một môi trường tập thể, làm việc nhóm bạn hãy trợ giúp những người gặp khó khăn trong quá trình giải quyết các vấn đề, việc giúp đỡ người khác sẽ giúp chúng ta hiểu thêm được nhiều vấn đề hay, và phương pháp lý giải mới. Trong công việc thì Teamwork rất quan trọng, các nhà [tuyển dụng](https://goodcv.vn) rất yêu thích các ứng viên có khả năng Teamwork tốt, đặc biệt là với lập trình viên. Kỹ năng Teamwork bạn có thể thấy gần như là yêu cầu bắt buộc trong các tin tuyển dụng 
 
 ## 4. Tập trung viết dòng code logic đơn giản
 
