@@ -99,4 +99,4 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 
 Giá khóa học: 2 triệu đồng
 
-Đăng ky [tại đây](https://www.facebook.com/laptrinhcuocsongdotcom)
+Đăng ký [tại đây](https://www.facebook.com/laptrinhcuocsongdotcom)
