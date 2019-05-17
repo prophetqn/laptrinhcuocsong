@@ -99,6 +99,4 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 
 Giá khóa học: 2 triệu đồng
 
-Khóa học này đã start được 3 tháng, không nhận thêm học viên
-
-Tham khảo khóa học frontend [tại đây](https://www.facebook.com/commerce/products/2089083947841124/)
+Đăng ky [tại đây](https://www.facebook.com/laptrinhcuocsongdotcom)
