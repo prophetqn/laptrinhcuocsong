@@ -2,6 +2,7 @@
 layout: post
 title: Nghề IT, lập trình có dễ xin việc không?
 thumbnail: tim-viec.png
+cover: coder.jpg
 category: Chuyện nghề nghiệp
 tags:
   - doi-song-lap-trinh-vien
