@@ -72,4 +72,6 @@ Nếu một ngày, nhu cầu thiết kế website bị bão hòa, người ta c�
 
 Đọc đến đây mà bạn vẫn xác định theo đuổi ngôn ngữ PHP đến cùng, hãy hãy trở thành một lập trình viên PHP giỏi thay vì trung bình. Hãy cùng tớ học lại những thứ thật căn bản, không phải chạy đua deadline để nhanh chóng bàn giao web cho khách hàng. Có một sự khác biệt rất lớn của một lập trình viên PHP giỏi và trung bình, khi bạn giỏi bạn sẽ nổi bật giữa hàng triệu lập trình viên PHP đang đứng ngoài đường (như tớ).
 
+Tham khảo thêm: [PHP không dùng để build hệ thống lớn?](https://techtalk.vn/php-khong-dung-de-build-he-thong-lon.html)
+
 Chúc bạn thành công khi lựa chọn ngôn ngữ củ chuối này !
