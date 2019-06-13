@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Nghề IT, lập trình có dễ xin việc không?
