@@ -50,7 +50,7 @@ Tất nhiên ai cũng có quyền mong muốn có công việc tốt với một
 
 **Cái tư tưởng lúc đi học với đi làm nó khác xa nhau lắm.**
 
-Lúc đi học, chúng ta có thể coi lập trình là theo đuổi đam mê, là xây dựng ước mơ, xây dựng tương lai. Còn khi đi làm, hãy nhìn nó chỉ là một nghề, để kiếm tiền, thế nên có việc để làm là may mắn lắm rồi.
+Lúc đi học, chúng ta có thể coi lập trình là theo đuổi đam mê, là xây dựng ước mơ, xây dựng tương lai. Còn khi đi làm, hãy nhìn nó chỉ là một nghề, tham gia môi trường sản xuất để kiếm tiền, thế nên có việc để làm là may mắn lắm rồi.
 
 Nhiều bạn sinh viên bây giờ, mới ra trường mắc thêm căn bệnh “ảo tưởng sức mạnh”. Nghĩ làm lập trình nó cao siêu lắm, vào doanh nghiệp lương ít cũng chê, bị sai vặt cũng hậm hực, muốn văn phòng đẹp, giờ giấc thoải mái.
 
