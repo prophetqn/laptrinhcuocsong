@@ -50,7 +50,7 @@ các gạch đầu dòng, chẳng hạn như trình độ học vấn, kinh nghi
 có lẽ sẽ giúp nhà tuyển dụng tiết kiệm thời gian đọc và chú ý đến CV ứng tuyển của bạn nhiều
 hơn.
 
-![lưu ý khi viết CV xin việc cho dân IT](luu-khi-viet-cv-it-1.png)
+![lưu ý khi viết CV xin việc cho dân IT](images/luu-khi-viet-cv-it-1.png)
 
 ## 2. Giới hạn độ dài của CV
 
@@ -89,7 +89,7 @@ bạn, chẳng hạn như bóng đá, âm nhạc hay chụp ảnh. Tuy nhiên, n
 toán chạy chương trình máy tính. Vì vậy, hãy đảm mọi thông tin liên quan đến công việc ứng
 tuyển nhé.
 
-![lưu ý khi viết CV xin việc cho dân IT](luu-khi-viet-cv-it-2.png)
+![lưu ý khi viết CV xin việc cho dân IT](images/luu-khi-viet-cv-it-2.png)
 
 ## 6. Nhấn mạnh các kỹ năng
 
