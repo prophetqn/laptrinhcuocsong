@@ -39,7 +39,7 @@ quan tâm và ứng tuyển. Làm thế nào để bạn có thể nổi bật v
 vàn hồ sơ ứng tuyển được gửi đến nhà tuyển dụng? Trong bài viết dưới đây, GoodCV.vn sẽ
 hướng dẫn bạn một số lưu ý khi viết CV xin việc ngành công nghệ thông tin (IT) nhé.
 
-** DƯỚI ĐÂY LÀ MỘT SỐ LƯU Ý KHI VIẾT CV XIN VIỆC CHO DÂN IT **
+*DƯỚI ĐÂY LÀ MỘT SỐ LƯU Ý KHI VIẾT CV XIN VIỆC CHO DÂN IT*
 
 ## 1. Cách trình bày nội dung trong CV
 
