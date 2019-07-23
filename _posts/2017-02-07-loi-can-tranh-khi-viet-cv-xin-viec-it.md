@@ -49,7 +49,7 @@ một CV xin việc nổi bật hơn so với đối thủ của bạn là đi�
 
 ## Mẫu CV chung cho lập trình viên
 
-Trung bình nhà tuyển dụng lướt qua CV của lập trình viên trong vòng 1-2 phút và bắt đầu sàng
+Trung bình nhà tuyển dụng lướt qua CV của [lập trình viên](https://goodcv.vn/t%C3%ACm-vi%E1%BB%87c-l%C3%A0m-l%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn) trong vòng 1-2 phút và bắt đầu sàng
 lọc ứng viên đủ điều kiện phỏng vấn. CV xin việc với màu tối ở phần tiêu đề và cột nội dung
 nằm ở bên phải CV sẽ thu hút hơn một CV thông thường, đây cũng là một cách để bạn gây ấn
 tượng.
@@ -62,7 +62,7 @@ vào CV của bạn, nó phải tái hiện được quá khứ, hiện tại v�
 
 Các đề mục cần đưa vào CV bao gồm: Tóm tắt sự nghiệp, Kỹ năng, Chứng chỉ, Kinh nghiệm
 làm việc, Học vấn, Các chương trình phần mềm đã sử dụng (chẳng hạn như SAS Suite, Java,
-CSS...). Những đề mục này trong CV xin việc lập trình viên sẽ cấu thành nên một CV toàn diện
+CSS...). Những đề mục này trong [CV xin việc lập trình viên](https://goodcv.vn/mau-cv/mau-cv-xin-viec-lap-trinh-vien.html) sẽ cấu thành nên một CV toàn diện
 và nhất quán trong suốt con đường sự nghiệp của bạn.
 
 ## Dẫn link đến sản phẩm trước đây
@@ -70,7 +70,7 @@ và nhất quán trong suốt con đường sự nghiệp của bạn.
 Đây là cách để cho nhà tuyển dụng thấy tổ chức sẽ thu được giá trị gì nếu tuyển bạn vào vị trí lập
 trình. Sử dụng liên kết (link) để trình bày sản phẩm của bạn bằng cách chèn siêu liên kết
 (hyperlink) đến danh mục sản phẩm hay bài đăng trên blog vào CV ứng tuyển. Một số liên kết
-bạn có thể đưa vào khi tạo cv xin việc bao gồm Profile trên LinkedIn, link GitHub... Điều này
+bạn có thể đưa vào khi [tạo cv xin việc](https://goodcv.vn/mau-cv-xin-viec.html) bao gồm Profile trên LinkedIn, link GitHub... Điều này
 giúp nhà tuyển dụng tiết kiệm thời gian trong việc tìm kiếm hồ sơ trực tuyến của bạn, từ đó đưa
 ra quyết định nhanh chóng khi chọn ứng viên cho buổi phỏng vấn.
 
@@ -81,7 +81,7 @@ ra quyết định nhanh chóng khi chọn ứng viên cho buổi phỏng vấn.
 Nhà phát triển phần mềm có nhiều năm kinh nghiệm trong nghề cần viết CV theo trình tự thời
 gian, tức là kinh nghiệm làm việc gần nhất sẽ được đưa lên đầu trong phần Kinh nghiệm làm
 việc và bằng cấp cao nhất sẽ được đưa lên đầu trong phần Trình độ học vấn. Đây là cách viết CV
-hiệu quả cho lập trình viên và nhân viên IT làm việc theo hợp đồng. Bạn cần tránh chồng chéo
+hiệu quả cho lập trình viên và [nhân viên IT](https://goodcv.vn/t%c3%acm-vi%e1%bb%87c-l%c3%a0m-nh%c3%a2n+vi%c3%aan+it) làm việc theo hợp đồng. Bạn cần tránh chồng chéo
 kinh nghiệm làm việc nếu vừa làm việc chính thức ở một công ty vừa làm thêm bên ngoài.
 
 Bắt đầu phần kinh nghiệm làm việc bằng công ty bạn đang làm việc hoặc làm việc gần đây nhất
