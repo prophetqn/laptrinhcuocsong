@@ -119,3 +119,5 @@ dân IT. Mỗi đóng góp quý báu của quý độc giả bằng cách để 
 giúp GoodCV.vn hoàn thiện tốt hơn trong những bài viết tiếp theo.
 
 Chúc bạn thành công!
+
+> Bài viết được mang đến bạn bởi GoodCV.vn
