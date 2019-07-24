@@ -8,6 +8,9 @@ videos:
     title: Thực tập IT là làm gì? Có nên nhận lương hay không?
     id: Y-iGBZKhsW0
   -
+    title: Lập trình và phụ hồ khác gì nhau?
+    id: xMjGIHRMjQ0
+  -
     title: Chán lập trình thì làm gì?
     id: DOD9RLp9xfw
   -
