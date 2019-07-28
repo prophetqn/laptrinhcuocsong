@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Khóa học become fullstack web developer from scratch
+title: Khóa học fullstack web developer
 permalink: khoa-hoc-full-stack-web-developer.html
 excerpt: Khóa học become fullstack web developer cung cấp các kiến thức căn bản để học viên có thể đi làm được ở vị trí fullstack web developer. Học viên học được cách làm việc nhóm, giải quyết vấn đề, hiểu được quy trình, công cụ làm việc như trong thực tế.
 ---
