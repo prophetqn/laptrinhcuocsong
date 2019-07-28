@@ -25,9 +25,9 @@ Học viên phải làm bài tập được giao một cách đầy đủ.
 
 ## Thời gian học:
 
-Mỗi tuần 3 buổi vào các tối thứ 2, thứ 4 và thứ 6, mỗi buổi khoảng 4 tiếng, thứ 7 hoặc chủ nhật học cả ngày.
+Mỗi tuần 3 buổi vào các tối thứ 2, thứ 4 và thứ 6, mỗi buổi khoảng 2 tiếng.
 
-Với lượng kiến thức cần truyền tải là rất lớn, tổng thời gian khóa học dự kiến là 4 tháng, thời gian này có thể bị kéo dài ra nếu học viên vẫn chưa tiếp thu đủ kiến thức.
+Với lượng kiến thức cần truyền tải là rất lớn, tổng thời gian khóa học dự kiến là 6-7 tháng, thời gian này có thể bị kéo dài ra nếu học viên vẫn chưa tiếp thu đủ kiến thức.
 
 ## Nội dung khóa học:
 
