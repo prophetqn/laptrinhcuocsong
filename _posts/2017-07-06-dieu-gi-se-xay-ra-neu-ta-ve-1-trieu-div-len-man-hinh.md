@@ -53,6 +53,14 @@ for($y = 0; $y < $image_height; $y++){
 
 Thẻ div#image dùng để bao toàn bộ các div nhỏ 1x1 mà ta đã nói ở trên, mình đặt kích thước của nó bằng kích thước ảnh, các div nhỏ ở trong mình để float left.
 
+```javascript
+#image div {
+  width: 1px;
+  height: 1px;
+  float: left;
+}
+```
+
 Trong khoảng 100k thẻ div đầu tiên, chrome hiển thị rất nhanh
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-start.gif)
