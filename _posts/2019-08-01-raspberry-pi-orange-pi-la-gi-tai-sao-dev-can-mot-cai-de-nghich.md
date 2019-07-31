@@ -3,7 +3,9 @@ layout: post
 title: Raspberry Pi, Orange Pi là gì và tại sao dev nên có một cái để nghịch?
 excerpt: Raspberry Pi, Orange Pi là một dạng máy tính nhỏ gọn chỉ bằng lòng bàn tay, rẻ và tốn ít năng lượng. Một thiết bị rất đáng để tìm hiểu với lập trình viên với nhiều ứng dụng hữu ích.
 thumbnail: raspberry-pi-thumb.jpg
-category: Chuyện lập trình
+categories:
+ - Chuyện lập trình
+ - Linux - ubuntu
 tags:
  - raspberry-pi
  - may-tinh-nhung
