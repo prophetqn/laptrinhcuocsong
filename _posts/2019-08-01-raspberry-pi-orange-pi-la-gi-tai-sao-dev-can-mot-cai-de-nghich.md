@@ -39,7 +39,7 @@ Theo mình thì đây là thứ đáng mua nhất với anh em Dev.
 
 Raspberry Pi hoặc Orange Pi là một dạng máy tính nhúng nhỏ gọn, giá rẻ. Hiểu đơn giản nó là máy tính, yếu hơn máy bàn và chạy liên tục 24/7 được.
 
-Hiện tại mình đang dùng 1 con Raspberry Pi 3 và giờ mua thêm con Orange Pi này để nghịch thêm, vì nó rẻ hơn.
+Hiện tại mình đang dùng 1 con Raspberry Pi 3 và giờ mua thêm con Orange Pi này để nghịch thêm, vì nó rẻ hơn. Chụp cái hình khoe với anh em tí.
 
 ![Orange pi](images/orange-pi.jpg)
 
@@ -47,7 +47,7 @@ Hiện tại mình đang dùng 1 con Raspberry Pi 3 và giờ mua thêm con Oran
 
 - Nó là máy tính, nên có thể làm đủ trò, cài webserver, deploy code mà ko cần vps tốn tiền, lưu file jav, cày view cho Sếp Tùng...v.v
 - Hiện tại ad đang dùng để cắm auto like ảnh gái, chỉ cần dùng nodejs headless browser và code thêm tí nữa, thế là cứ gái đăng ảnh thì vài giây sau thấy mình like :))
-- Con này dùng nguồn 5V nói chung rất ít tốn điện mà dùng như một con vps luôn, cắm 24/7 cả năm nay rồi.
+- Con này dùng nguồn 5V nói chung rất ít tốn điện mà dùng như một con vps luôn,  hiện mình đang dùng một con PI 3 cắm 24/7 cả năm nay rồi.
 - Dùng con này phải học linux, vừa chơi vừa học rất thú vị.
 - Bất kỳ tác vụ nào cần phải cắm máy ngày đêm thì đẩy sang con này, chạy đỡ xót.
 - Bạn hoàn toàn có thể biến nó thành máy chơi game PS1 :)
