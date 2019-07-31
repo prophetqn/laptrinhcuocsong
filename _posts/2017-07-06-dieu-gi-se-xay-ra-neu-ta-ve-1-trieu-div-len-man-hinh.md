@@ -89,4 +89,4 @@ Và cuối cùng, điều anh không muốn cứ vẫn luôn xảy ra, chrome đ
 
 ![thử nhiệm vẽ 1 triệu thẻ div](images/chrome-test-crash.png)
 
-Kết luận: Trong điều kiện thử nghiệm, Google Chrome đã hiển thị được khoảng 900k thẻ div trong vòng 43 phút.
+Kết luận: Trong điều kiện thử nghiệm, Google Chrome đã hiển thị được khoảng 900k thẻ div trong vòng 43 phút.  Vì chrome hiển thị 100k thẻ div đầu tiên rất nhanh nên chả việc gì phải tiết kiệm vài cái thẻ div trong code html làm gì cho mệt mỏi cả.
