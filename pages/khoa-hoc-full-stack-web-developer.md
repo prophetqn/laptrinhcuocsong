@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Khóa học become fullstack web developer from scratch
+title: Khóa học fullstack web developer
 permalink: khoa-hoc-full-stack-web-developer.html
 excerpt: Khóa học become fullstack web developer cung cấp các kiến thức căn bản để học viên có thể đi làm được ở vị trí fullstack web developer. Học viên học được cách làm việc nhóm, giải quyết vấn đề, hiểu được quy trình, công cụ làm việc như trong thực tế.
 ---
@@ -25,9 +25,9 @@ Học viên phải làm bài tập được giao một cách đầy đủ.
 
 ## Thời gian học:
 
-Mỗi tuần 3 buổi vào các tối thứ 2, thứ 4 và thứ 6, mỗi buổi khoảng 4 tiếng, thứ 7 hoặc chủ nhật học cả ngày.
+Mỗi tuần 3 buổi vào các tối thứ 2, thứ 4 và thứ 6, mỗi buổi khoảng 2 tiếng.
 
-Với lượng kiến thức cần truyền tải là rất lớn, tổng thời gian khóa học dự kiến là 4 tháng, thời gian này có thể bị kéo dài ra nếu học viên vẫn chưa tiếp thu đủ kiến thức.
+Với lượng kiến thức cần truyền tải là rất lớn, tổng thời gian khóa học dự kiến là 6-7 tháng, thời gian này có thể bị kéo dài ra nếu học viên vẫn chưa tiếp thu đủ kiến thức.
 
 ## Nội dung khóa học:
 
@@ -51,27 +51,31 @@ Học javascript căn bản từ đầu, học viên hiểu về biến, hằng,
 
 Học viên làm chủ thư viện jquery, hiểu và ứng dụng jquery trong dự án thực tế. Hiểu về selector, fade, animate, event, ajax, plugin…
 
-### 6. Bootstrap
+### 6. Vuejs
+
+Học viên hiểu các kiến thức về javascript framework nói riêng và vuejs nói chung, có kiến thức về routing, props, components, style binding... có thể làm single page web app.
+
+### 7. Bootstrap
 
 Hướng dẫn học viên cài đặt và sử dụng bootstrap, các kiến thức bootstrap như: grid system, sử dụng các component, kết hợp css thuần để customize bootstrap dựng được giao diện web hoàn chỉnh.
 
-### 7. Kết hợp tất cả với webpack.
+### 8. Kết hợp tất cả với webpack.
 
-### 8. Giới thiệu PHP và cài đặt các công cụ liên quan.
+### 9. Giới thiệu PHP và cài đặt các công cụ liên quan.
 
 Giới thiệu cơ bản về ngôn ngữ lập trình PHP, giúp học viên cài đặt, hiểu và có thể sử dụng các công cụ phát triển web: stack, editor, php package manager, javascript package manager...
 
-### 9. Lập trình PHP căn bản.
+### 10. Lập trình PHP căn bản.
 
 - Kiến thức lập trình php căn bản bao gồm: biến, hằng số, vòng lặp, hàm, mảng, data type…
 - Lập trình hướng đối tượng trong php: class, namespace, construtor, extends, instance, static methods...
 - Các kiến thức khác của riêng php như: session, cookie, request param...
 
-### 10. Database design.
+### 11. Database design.
 
 Học viên học cách phân tích và thiết kế cơ sở dữ liệu quan hệ đáp ứng được yêu cầu bài toán đưa ra. Kiến thức về SQL cơ bản.
 
-### 11. Lập trình laravel căn bản.
+### 12. Lập trình laravel căn bản.
 
 - Giới thiệu về framework, giới thiệu về laravel.
 - Cài đặt laravel.
@@ -80,7 +84,7 @@ Học viên học cách phân tích và thiết kế cơ sở dữ liệu quan h
 - Blade template, compiling assets.
 - Vue framework basic level.
 - Eloquent ORM, Relationships.
-- Migration và seeder.
+- Migration, factory và seeder.
 - Auth và middleware.
 
 ### 12.Tổng kết khóa học.
