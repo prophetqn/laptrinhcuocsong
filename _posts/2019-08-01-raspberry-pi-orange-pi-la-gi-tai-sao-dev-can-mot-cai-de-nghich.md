@@ -49,8 +49,8 @@ Hiện tại mình đang dùng 1 con Raspberry Pi 3 và giờ mua thêm con Oran
 - Hiện tại ad đang dùng để cắm auto like ảnh gái, chỉ cần dùng nodejs headless browser và code thêm tí nữa, thế là cứ gái đăng ảnh thì vài giây sau thấy mình like :))
 - Con này dùng nguồn 5V nói chung rất ít tốn điện mà dùng như một con vps luôn,  hiện mình đang dùng một con PI 3 cắm 24/7 cả năm nay rồi.
 - Dùng con này phải học linux, vừa chơi vừa học rất thú vị.
-- Bất kỳ tác vụ nào cần phải cắm máy ngày đêm thì đẩy sang con này, chạy đỡ xót.
-- Bạn hoàn toàn có thể biến nó thành máy chơi game PS1 :)
-- Giá rổ thì như bèo, thỏa mãn sở thích cài cắm của anh em :v
+- Vì nó được thiết kế ra để chạy 24/7/365 nên bất kỳ tác vụ nào cần phải cắm máy ngày đêm thì đẩy sang con này, chạy đỡ xót máy bàn hoặc laptop.
+- Bạn hoàn toàn có thể biến nó thành một cái máy chơi game PS1 :)
+- Giá rổ thì như bèo, với khoảng trên 1 triệu đồng, bạn đã có một cái "máy tính" cấu hình không quá tệ, lại ít tiêu tốn điện năng, thỏa mãn sở thích cài cắm của anh em :v
 
 Sinh viên có thể cân nhắc dùng Orange Pi thay cho Raspberry Pi cho rẻ. Tận dụng cổng dây mạng thừa của xóm trọ cắm vào con này rất tốt :D
