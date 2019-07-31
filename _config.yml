@@ -97,6 +97,9 @@ tags_config:
   -
     slug: hoc-lap-trinh-nhu-the-nao
     name: học lập trình như thế nào
+  -
+    slug: raspberry-pi
+    name: Raspberry pi, orange pi
 sass:
   style: :compressed
 plugins:
