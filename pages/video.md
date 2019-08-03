@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Cú sốc khi ra trường? Chuẩn bị gì để ra trường tốt?
+    id: uOhADAyndFI
+  -
     title: Thực tập IT là làm gì? Có nên nhận lương hay không?
     id: Y-iGBZKhsW0
   -
