@@ -45,21 +45,21 @@ Hiện tại mình đang dùng 1 con Raspberry Pi 3 và giờ mua thêm con Oran
 
 ## Bạn có thể làm gì với cái cục này?
 
-1. Nó là máy tính, nên có thể làm đủ trò, cài webserver, deploy code mà ko cần vps tốn tiền, lưu file jav, cày view cho Sếp Tùng...v.v
+1\. Nó là máy tính, nên có thể làm đủ trò, cài webserver, deploy code mà ko cần vps tốn tiền, lưu file jav, cày view cho Sếp Tùng...v.v
 
-2. Hiện tại mình đang dùng để cắm auto like ảnh gái, chỉ cần dùng nodejs headless browser và code thêm tí nữa, thế là cứ gái đăng ảnh thì vài giây sau thấy mình like :))
+2\. Hiện tại mình đang dùng để cắm auto like ảnh gái, chỉ cần dùng nodejs headless browser và code thêm tí nữa, thế là cứ gái đăng ảnh thì vài giây sau thấy mình like :))
 
-3. Con này dùng nguồn 5V nói chung rất ít tốn điện mà dùng như một con vps luôn,  hiện mình đang dùng một con PI 3 cắm 24/7 cả năm nay rồi.
+3\. Con này dùng nguồn 5V nói chung rất ít tốn điện mà dùng như một con vps luôn,  hiện mình đang dùng một con PI 3 cắm 24/7 cả năm nay rồi.
 
-4. Dùng con này phải học linux, vừa chơi vừa học rất thú vị.
+4\. Dùng con này phải học linux, vừa chơi vừa học rất thú vị.
 
-5. Vì nó được thiết kế ra để chạy 24/24 nên bất kỳ tác vụ nào cần phải cắm máy ngày đêm thì đẩy sang con này, chạy đỡ xót máy bàn hoặc laptop.
+5\. Vì nó được thiết kế ra để chạy 24/24 nên bất kỳ tác vụ nào cần phải cắm máy ngày đêm thì đẩy sang con này, chạy đỡ xót máy bàn hoặc laptop.
 
-6. Tuy hơi yếu nhưng được cái nó chạy ngày chạy đêm nên mình dùng để train mấy model AI rất tiện.
+6\. Tuy hơi yếu nhưng được cái nó chạy ngày chạy đêm nên mình dùng để train mấy model AI rất tiện.
 
-7. Bạn hoàn toàn có thể biến nó thành một cái máy chơi game PS1 :)
+7\. Bạn hoàn toàn có thể biến nó thành một cái máy chơi game PS1 :)
 
-8. Giá rổ thì như bèo, với khoảng trên 1 triệu đồng, chỉ bằng 2 bữa nhậu, hoặc vài hộp bao cao su, bạn đã có một cái "máy tính" cấu hình không quá tệ, lại ít tiêu tốn điện năng, thỏa mãn sở thích cài cắm của anh em :v
+8\. Giá rổ thì như bèo, với khoảng trên 1 triệu đồng, chỉ bằng 2 bữa nhậu, hoặc vài hộp bao cao su, bạn đã có một cái "máy tính" cấu hình không quá tệ, lại ít tiêu tốn điện năng, thỏa mãn sở thích cài cắm của anh em :v
 
 ## Cài cắm có khó lắm không?
 
