@@ -33,7 +33,7 @@ related_videos:
     id: CpmE5RTpPwQ
 
 ---
-Theo mình thì đây là thứ đáng mua nhất với anh em Dev.
+Theo mình thì đây là thứ đáng mua nhất với anh em Dev. Một thiết bị nhỏ gọn cắm ngay tại nhà, nhưng khả năng của nó là vô hạn. Rất thích hợp cho anh em dev nghiên cứu.
 
 ## Raspberry Pi, Orange Pi là cái gì?
 
@@ -45,13 +45,19 @@ Hiện tại mình đang dùng 1 con Raspberry Pi 3 và giờ mua thêm con Oran
 
 ## Bạn có thể làm gì với cái cục này?
 
-- Nó là máy tính, nên có thể làm đủ trò, cài webserver, deploy code mà ko cần vps tốn tiền, lưu file jav, cày view cho Sếp Tùng...v.v
-- Hiện tại ad đang dùng để cắm auto like ảnh gái, chỉ cần dùng nodejs headless browser và code thêm tí nữa, thế là cứ gái đăng ảnh thì vài giây sau thấy mình like :))
-- Con này dùng nguồn 5V nói chung rất ít tốn điện mà dùng như một con vps luôn,  hiện mình đang dùng một con PI 3 cắm 24/7 cả năm nay rồi.
-- Dùng con này phải học linux, vừa chơi vừa học rất thú vị.
-- Vì nó được thiết kế ra để chạy 24/7/365 nên bất kỳ tác vụ nào cần phải cắm máy ngày đêm thì đẩy sang con này, chạy đỡ xót máy bàn hoặc laptop.
-- Bạn hoàn toàn có thể biến nó thành một cái máy chơi game PS1 :)
-- Giá rổ thì như bèo, với khoảng trên 1 triệu đồng, bạn đã có một cái "máy tính" cấu hình không quá tệ, lại ít tiêu tốn điện năng, thỏa mãn sở thích cài cắm của anh em :v
+Nó là máy tính, nên có thể làm đủ trò, cài webserver, deploy code mà ko cần vps tốn tiền, lưu file jav, cày view cho Sếp Tùng...v.v
+
+Hiện tại mình đang dùng để cắm auto like ảnh gái, chỉ cần dùng nodejs headless browser và code thêm tí nữa, thế là cứ gái đăng ảnh thì vài giây sau thấy mình like :))
+
+Con này dùng nguồn 5V nói chung rất ít tốn điện mà dùng như một con vps luôn,  hiện mình đang dùng một con PI 3 cắm 24/7 cả năm nay rồi.
+
+Dùng con này phải học linux, vừa chơi vừa học rất thú vị.
+
+Vì nó được thiết kế ra để chạy 24/7/365 nên bất kỳ tác vụ nào cần phải cắm máy ngày đêm thì đẩy sang con này, chạy đỡ xót máy bàn hoặc laptop.
+
+Bạn hoàn toàn có thể biến nó thành một cái máy chơi game PS1 :)
+
+Giá rổ thì như bèo, với khoảng trên 1 triệu đồng, bạn đã có một cái "máy tính" cấu hình không quá tệ, lại ít tiêu tốn điện năng, thỏa mãn sở thích cài cắm của anh em :v
 
 ## Cài cắm có khó lắm không?
 
