@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Mất fanpage và lời bàn\: hacker là gì?
-excerpt: Lập trình cuộc sống bị hack fanpage 13k like, lời bàn về\: hacker là gì? 
+title: Mất fanpage và lời bàn "hacker là gì"?
+excerpt: Lập trình cuộc sống bị hack fanpage 13k like, lời bàn về "hacker là gì"? 
 thumbnail: hacker.png
 categories:
  - Chuyện bên lề
