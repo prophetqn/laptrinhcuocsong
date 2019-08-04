@@ -50,5 +50,6 @@ Có lẽ đây là một sơ suất hi hữu và hoàn toàn không đáng có. 
 
 3\. Không biết có thể gọi tôi là một hacker được hay không. Tôi chỉ là một người đam mê nghiên cứu, tôi đã từng báo lỗi cho Chợ Tốt, Vietnamworks, VNPT... như một niềm vui. Tôi và các đồng sự của mình KHÔNG coi những hành động vừa rồi là hack. 
 
+## Thông báo chính thức từ Lập Trình Cuộc Sống:
 
 (continue update)
