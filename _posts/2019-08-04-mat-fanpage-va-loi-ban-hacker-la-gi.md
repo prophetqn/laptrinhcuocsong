@@ -46,8 +46,9 @@ Có lẽ đây là một sơ suất hi hữu và hoàn toàn không đáng có. 
 
 1\. Tôi thừa nhận sai sót của mình, đây là một lỗi sai không thể chấp nhận được đối với một người làm kỹ thuật.
 
-2\. Tôi thành thật xin lỗi toàn bộ những người đang theo dõi và quý mến tôi, chúng ta đã có thể trò chuyện với nhau bằng những bài đăng hài hước, những buổi live stream chia sẻ tuyệt vời. Cảm ơn tất cả mọi người đã ủng hộ tôi.
+2\. Tôi thành thật xin lỗi toàn bộ những người đang theo dõi và quý mến tôi, chúng ta đã có thể trò chuyện với nhau bằng những bài đăng hài hước, những buổi live stream chia sẻ tuyệt vời. Cảm ơn những cuộc gọi hỏi thăm "fanpage bị hack hả anh?", điều đó chứng tỏ tôi Lập trình cuộc sống đã được sự ủng hộ rất nhiều từ các bạn.
 
 3\. Không biết có thể gọi tôi là một hacker được hay không. Tôi chỉ là một người đam mê nghiên cứu, tôi đã từng báo lỗi cho Chợ Tốt, Vietnamworks, VNPT... như một niềm vui. Tôi và các đồng sự của mình KHÔNG coi những hành động vừa rồi là hack. 
+
 
 (continue update)
