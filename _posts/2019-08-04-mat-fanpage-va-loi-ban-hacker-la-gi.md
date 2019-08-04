@@ -48,7 +48,7 @@ Có lẽ đây là một sơ suất hi hữu và hoàn toàn không đáng có. 
 
 2\. Tôi thành thật xin lỗi toàn bộ những người đang theo dõi và quý mến tôi, chúng ta đã có thể trò chuyện với nhau bằng những bài đăng hài hước, những buổi live stream chia sẻ tuyệt vời. Cảm ơn những cuộc gọi hỏi thăm "fanpage bị hack hả anh?", điều đó chứng tỏ tôi Lập trình cuộc sống đã được sự ủng hộ rất nhiều từ các bạn.
 
-3\. Không biết có thể gọi tôi là một hacker được hay không. Tôi chỉ là một người đam mê nghiên cứu, tôi đã từng báo lỗi cho Chợ Tốt, Vietnamworks, VNPT... như một niềm vui. Tôi và các đồng sự của mình KHÔNG coi những hành động vừa rồi là hack. 
+3\. Không biết có thể gọi tôi là một hacker được hay không. Tôi chỉ là một người đam mê nghiên cứu, tôi đã từng báo lỗi cho Chợ Tốt, Vietnamworks, VNPT... như một niềm vui. Tôi và các đồng sự của mình KHÔNG coi những hành động vừa rồi là hack, chỉ là một đứa trẻ ham vui mà thôi, để đạt được cái tầm như chúng tôi, còn xa lắm.
 
 ## Thông báo chính thức từ Lập Trình Cuộc Sống:
 
