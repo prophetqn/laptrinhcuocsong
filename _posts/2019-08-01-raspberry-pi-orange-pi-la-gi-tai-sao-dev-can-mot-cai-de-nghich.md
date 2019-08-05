@@ -59,7 +59,7 @@ Hiện tại mình đang dùng 1 con Raspberry Pi 3 và giờ mua thêm con Oran
 
 7\. Bạn hoàn toàn có thể biến nó thành một cái máy chơi game PS1 :)
 
-8\. Giá rổ thì như bèo, với khoảng trên 1 triệu đồng, chỉ bằng 2 bữa nhậu, hoặc vài hộp bao cao su, bạn đã có một cái "máy tính" cấu hình không quá tệ, lại ít tiêu tốn điện năng, thỏa mãn sở thích cài cắm của anh em :v
+8\. Giá rổ thì như bèo, với khoảng trên 1 triệu đồng, chỉ bằng 2 bữa nhậu, hoặc vài hộp bao cao su, chúng ta đã có một cái "máy tính" cấu hình không quá tệ, lại ít tiêu tốn điện năng, thỏa mãn sở thích cài cắm của anh em :v
 
 ## Cài cắm có khó lắm không?
 
