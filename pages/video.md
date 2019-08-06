@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
+  -
     title: Cú sốc khi ra trường? Chuẩn bị gì để ra trường tốt?
     id: uOhADAyndFI
   -
