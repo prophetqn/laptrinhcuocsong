@@ -58,4 +58,6 @@ Có lẽ đây là một sơ suất hi hữu và hoàn toàn không đáng có. 
 
 3\. Tất cả hoạt động page cũ được chuyển sang page mới: [Hội lập trình viên nhân dân](https://facebook.com/hoilaptrinhviennhandan). Các bạn đăng ký khóa học cũng liên hệ trên page mới này.
 
+4\. Tất cả các học viên cũ của khóa học fullstack vẫn học bình thường theo lộ trình đã định. Mọi thắc mắc liên hệ ở page mới nêu trên.
+
 > Trân trọng
