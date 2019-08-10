@@ -56,8 +56,8 @@ Có lẽ đây là một sơ suất hi hữu và hoàn toàn không đáng có. 
 
 2\. Mọi tin nhắn, bài đăng xuất phát từ Fanpage cũ sau ngày 06/08/2019 đều không thuộc quyền quản lý của Lập Trình Cuộc Sống. Lập Trình Cuộc Sống Chấm Com không chịu bất kỳ trách nhiệm nào trong trường hợp: lừa đảo, chiếm đoạt tài sản, hoặc bất kỳ tác động tiêu cực nào với người đọc.
 
-3\. Tất cả hoạt động page cũ được chuyển sang page mới: [Hội lập trình viên nhân dân](https://facebook.com/hoilaptrinhviennhandan). Các bạn đăng ký khóa học cũng liên hệ trên page mới này.
+3\. Tất cả hoạt động trên page cũ được chuyển sang page mới: [Hội lập trình viên nhân dân](https://facebook.com/hoilaptrinhviennhandan). Các bạn đăng ký khóa học, liên hệ quảng cáo cũng chat trên page mới này.
 
-4\. Tất cả các học viên cũ của khóa học fullstack vẫn học bình thường theo lộ trình đã định. Mọi thắc mắc liên hệ ở page mới nêu trên.
+4\. Tất cả các học viên cũ của khóa học Fullstack vẫn học bình thường vào các buổi tối thứ 2-4-6 theo chương trình học đã định.
 
 > Trân trọng
