@@ -52,4 +52,10 @@ Có lẽ đây là một sơ suất hi hữu và hoàn toàn không đáng có. 
 
 ## Thông báo chính thức từ Lập Trình Cuộc Sống:
 
-(continue update)
+1\. Mọi hoạt động trên fan page cũ sẽ ngừng hoạt động, live stream vẫn sẽ được phát hàng tuần, nhưng không trên facebook mà trên kênh youtube [Lập trình viên TV](https://youtube.com/laptrinhvientv).
+
+2\. Mọi tin nhắn, bài đăng xuất phát từ Fanpage cũ sau ngày 06/08/2019 đều không thuộc quyền quản lý của Lập Trình Cuộc Sống. Lập Trình Cuộc Sống Chấm Com không chịu bất kỳ trách nhiệm nào trong trường hợp: lừa đảo, chiếm đoạt tài sản, hoặc bất kỳ tác động tiêu cực nào với người đọc.
+
+3\. Tất cả hoạt động page cũ được chuyển sang page mới: [Hội lập trình viên nhân dân](https://facebook.com/hoilaptrinhviennhandan). Các bạn đăng ký khóa học cũng liên hệ trên page mới này.
+
+> Trân trọng
