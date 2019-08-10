@@ -57,12 +57,14 @@ html {
 }
 body {
     background : #ffffff;
-    font-family: 'Roboto', Helvetica, Arial, sans-serif;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    font-style: normal;
     color      : #131313;
 }
 h1 {
     font-size  : 35px;
-    font-weight: bold;
+    font-weight: 700;
     color      : #222;
 }
 h1 a {
@@ -70,11 +72,11 @@ h1 a {
 }
 h2 {
     font-size: 30px;
-    font-weight: bold;
+    font-weight: 700;
 }
 h3 {
     font-size: 23px;
-    font-weight: bold;
+    font-weight: 700;
 }
 h4 {
     font-size: 15px;
@@ -97,7 +99,6 @@ del {
 }
 .button{
     display         : inline-block;
-    font-weight     : 500;
     color           : #ffffff;
     padding         : 0 35px;
     border-radius   : 5px;
@@ -124,18 +125,10 @@ del {
             line-height: 40px;
             a {
                 color: #fff;
-                font-weight: normal;
                 &:hover {
                     color: #d4d4d4;
                 }
             }
-        }
-        h2 {
-            font-size  : 15px;
-            margin-top : 10px;
-            font-weight: normal;
-            display    : block;
-            color      : white;
         }
     }
 
@@ -150,8 +143,9 @@ del {
                 color      : #fff;
                 display    : inline-block;
                 padding    : 0px 10px;
-                font-size  : 14px;
+                font-size  : 16px;
                 line-height: 40px;
+                font-weight: 700;
                 &:hover {
                     color: #d4d4d4;
                 }
@@ -178,8 +172,7 @@ del {
 
     h2 {
         color      : #fff;
-        font-size  : 20px;
-        font-weight: normal;
+        font-size  : 18px;
         padding    : 5px 0px 30px 0px;
     }
 
@@ -194,7 +187,8 @@ del {
                     height     : 50px;
                     line-height: 50px;
                     color      : #fff;
-                    font-size  : 15px;
+                    font-size: 16px;
+                    font-weight: 700;
 
                     &:hover {
                         color: #d4d4d4;
@@ -242,8 +236,8 @@ del {
 }
 
 .excerpt {
-    line-height: 30px;
-    font-size: 17px;
+    line-height: 35px;
+    font-size: 20px;
 }
 .post, .category_detail {
     border-bottom : 1px solid #e5e5e5;
@@ -281,7 +275,7 @@ del {
 .post-body p {
     padding-bottom: 25px;
     line-height   : 35px;
-    font-size     : 20px;
+    font-size     : 21px;
 }
 .post-body h2 {
     font-size     : 30px;
@@ -468,7 +462,6 @@ code.highlighter-rouge {
     text-align: center;
     a, em, span {
         display      : inline-block;
-        font-weight  : 500;
         color        : #252525;
         padding      : 0 25px;
         border-radius: 5px;
@@ -504,7 +497,6 @@ code.highlighter-rouge {
         float: left;
         h4 {
             font-size    : 18px;
-            font-weight  : 500;
             color        : white;
             margin-bottom: 10px;
         }
