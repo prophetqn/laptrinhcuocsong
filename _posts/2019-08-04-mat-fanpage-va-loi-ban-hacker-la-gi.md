@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mất fanpage và lời bàn "hacker là gì"?
-excerpt: Lập trình cuộc sống bị hack fanpage 13k like, lời bàn về "hacker là gì"? 
+excerpt: Ngày 04/08/2019 Fanpage chính thức của Lập Trình Cuộc Sống Chấm Com đã mất quyền kiểm soát. Đây là fanpage có tuổi đời 02 năm với trên 13 nghìn lượt thích và theo dõi.
 thumbnail: hacker.png
 categories:
  - Chuyện bên lề
