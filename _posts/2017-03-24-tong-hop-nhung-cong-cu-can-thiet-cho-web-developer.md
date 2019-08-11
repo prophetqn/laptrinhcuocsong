@@ -29,8 +29,8 @@ related_videos:
     title: Khi đi làm php người ta dùng những công cụ gì? 
     id: fOFKwV7OW7U
   -
-    title: Crush nhờ cài win thì phải làm gì? 
-    id: AecrHFq_9BI
+    title: Gái nhờ cài win thì làm gì? 
+    id: qzGHoksg4N4
 ---
 Làm gì cũng phải có công cụ, tất nhiên rồi, bạn không thể tạo ra một trang web bằng tay không. Nếu bạn là một web developer, những món "đồ nghề" sau đây sẽ giúp ích rất nhiều cho bạn, đây là những công cụ mà mình đang thường xuyên sử dụng trong công việc hàng ngày.
 

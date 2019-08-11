@@ -27,8 +27,8 @@ related_videos:
     title: Khi đi làm php người ta dùng những công cụ gì? 
     id: fOFKwV7OW7U
   -
-    title: Crush nhờ cài win thì phải làm gì? 
-    id: AecrHFq_9BI
+    title: Gái nhờ cài win thì làm gì? 
+    id: qzGHoksg4N4
   -
     title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
     id: zNCk6jctVW8

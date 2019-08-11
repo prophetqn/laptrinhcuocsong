@@ -20,8 +20,8 @@ related_posts:
    link: https://laptrinhcuocsong.com/lap-trinh-vien-10-tieng.html
 related_videos:
   -
-    title: Crush nhờ cài win thì phải làm gì? 
-    id: AecrHFq_9BI
+    title: Gái nhờ cài win thì làm gì? 
+    id: qzGHoksg4N4
   -
     title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
     id: zNCk6jctVW8
