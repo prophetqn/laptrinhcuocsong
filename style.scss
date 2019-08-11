@@ -155,10 +155,13 @@ del {
     }
 }
 #jumbotron {
-    background      : #3f3f3f url(images/cover-bg.jpg) no-repeat center center;
-    background-size : cover;
-    padding         : 150px 5px 50px;
-    text-align      : center;
+    background-color    : #3f3f3f;
+    background-image    : linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%), url(images/cover-bg.jpg);
+    background-size     : cover;
+    background-repeat   : no-repeat;
+    background-position : center top;
+    padding             : 150px 5px 50px;
+    text-align          : center;
 
     h1 {
         padding   : 10px 5px;
