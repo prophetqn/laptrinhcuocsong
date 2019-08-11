@@ -110,10 +110,11 @@ del {
 
 #header {
     padding   : 5px 0px;
-    background: #02464b;
+    background: rgba(0, 0, 0, 0.8);
     top       : 0px;
     width     : 100%;
     z-index   : 3;
+    position: fixed;
 
     #logo {
         width      : 300px;
@@ -154,13 +155,14 @@ del {
     }
 }
 #jumbotron {
-    background-color: #00737a;
-    padding         : 50px 5px;
-    text-align      : center;
+    background: #3f3f3f url(images/cover-bg.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 150px 5px 100px;
+    text-align: center;
 
     h1 {
         padding  : 10px 5px;
-        font-size: 35px;
+        font-size: 40px;
 
         a {
             color: #fff;
@@ -205,7 +207,7 @@ del {
 
 #content {
     max-width : 750px;
-    margin    : 40px auto 0px auto;
+    margin    : 90px auto 0px auto;
     min-height: 800px;  
 }
 
