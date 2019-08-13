@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Tốn 50k chỉ để trở thành hacker trẩu tre =))
+    id: Mk64yY82zBg
+  -
     title: Code một php framework bằng php thuần (live coding)
     id: Jv6fADkyvrw
   -
