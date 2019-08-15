@@ -33,7 +33,7 @@ related_videos:
     id: CpmE5RTpPwQ
 
 ---
-Thực tập là giai đoạn cực kỳ quan trọng với các bạn sinh viên, vậy cần chuẩn bị gì để có kỳ thực tập tốt? Thực tập có nên nhận lương hay không? Tất cả sẽ được trả lời ở stream của Lập Trình Cuộc Sống trên kênh yourube [Lập Trình Viên TV](https://www.youtube.com/laptrinhvientv)
+Thực tập là giai đoạn cực kỳ quan trọng với các bạn sinh viên, vậy cần chuẩn bị gì để có kỳ thực tập tốt? Thực tập có nên nhận lương hay không? Tất cả sẽ được trả lời ở stream của Lập Trình Cuộc Sống trên kênh yourube [Lập Trình Viên TV](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
 
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y-iGBZKhsW0" frameborder="0" allowfullscreen></iframe>

@@ -52,7 +52,7 @@ Có lẽ đây là một sơ suất hi hữu và hoàn toàn không đáng có. 
 
 ## Thông báo chính thức từ Lập Trình Cuộc Sống:
 
-1\. Mọi hoạt động trên fan page cũ sẽ ngừng hoạt động, live stream vẫn sẽ được phát hàng tuần, nhưng không trên facebook mà trên kênh youtube [Lập trình viên TV](https://youtube.com/laptrinhvientv).
+1\. Mọi hoạt động trên fan page cũ sẽ ngừng hoạt động, live stream vẫn sẽ được phát hàng tuần, nhưng không trên facebook mà trên kênh youtube [Lập trình viên TV](https://youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg).
 
 2\. Mọi tin nhắn, bài đăng xuất phát từ Fanpage cũ sau ngày 06/08/2019 đều không thuộc quyền quản lý của Lập Trình Cuộc Sống. Lập Trình Cuộc Sống Chấm Com không chịu bất kỳ trách nhiệm nào trong trường hợp: lừa đảo, chiếm đoạt tài sản, hoặc bất kỳ tác động tiêu cực nào với người đọc.
 

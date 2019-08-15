@@ -91,7 +91,7 @@ Việc của bạn là chọn một trong 4 mảng mà mình đã nêu ở trên
 
 Tuy nhiên đừng quá lo lắng rằng trình độ mình chưa đủ đáp ứng yêu cầu công việc, các công ty nơi bạn thực tập sẽ có chương trình đào tạo, cầm tay chỉ việc, bạn sẽ làm được cả thôi. Kể cả các lập trình viên có kinh nghiệm, khi vào một môi trường mới vẫn phải có thời gian để làm quen với hệ thống hiện tại.
 
-> Đăng ký kênh youtube Lập Trình Viên TV để theo dõi các video chia sẻ về định hướng trong nghề lập trình tại đây: [https://www.youtube.com/channel/laptrinhvientv](https://www.youtube.com/laptrinhvientv)
+> Đăng ký kênh youtube Lập Trình Viên TV để theo dõi các video chia sẻ về định hướng trong nghề lập trình tại đây: [https://www.youtube.com/channel/laptrinhvientv](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
 
 Nói chung, lập trình là một thế giới vô cùng thú vị. Đây là bài viết mà mình lảm nhảm tất tần tật những điều bạn cần phải học, những vấn đề mà bạn sẽ gặp trên con đường trở thành một lập trình viên. Hi vọng sẽ giúp được bạn cái gì đó, chúc bạn thành công với đam mê của mình.
 
