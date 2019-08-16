@@ -29,9 +29,6 @@ videos:
     title: Chán lập trình thì làm gì?
     id: DOD9RLp9xfw
   -
-    title: Live stream 24/7 Nhạc lập trình, music for coding
-    id: 4ywqBkhMrbo
-  -
     title: Cách để yêu một chàng trai IT
     id: LSLurnj_EPI
   -
@@ -86,9 +83,6 @@ videos:
     title: Ngôn ngữ java có thể làm gì? Học java có thể đi theo hướng nào?
     id: 2WkHUIBWDhY
   -
-    title: Tương lai của blockchain, bây giờ có nên học blockchain không?
-    id: QAICgXDqx2g
-  -
     title: 3 việc lập trình viên cần làm mỗi ngày
     id: 3MaNtHk4XB0
   -
@@ -97,9 +91,6 @@ videos:
   -
     title: Làm frontend chỉ html css thôi phải không, con gái theo lập trình game
     id: 8iqvQe46ViU
-  -
-    title: Dân IT ngày xưa tán gái như thế nào?
-    id: H6FmYVzTuVU
   -
     title: Vừa rửa bát vừa nói chuyện lập trình
     id: J7-eT2TnLVU
@@ -125,17 +116,11 @@ videos:
     title: Học lập trình nên tự học hay học ở trung tâm?
     id: sgkNOWEbLSw
   -
-    title: Thiết kế website cá nhân trên photoshop
-    id: 9RQkB365RwQ
-  -
     title: Sinh viên IT ngày xưa như thế nào? Dùng máy tính mạnh không?
     id: ClsOD7jAsQ4
   -
     title: Cảm giác khi thử lập trình pascal, trở về tuổi thơ dữ dội sau 10 năm 
     id: 0UO9UKjVQ68
-  -
-    title: Troll zero9 - Lập trình viên nghĩ gì khi xem clip của zero9 
-    id: xsI6r6zYTp0
   -
     title: Gặp bug thì làm gì? Lập trình viên chiến đấu với bọn tester như thế nào? 
     id: wFQ1h8RNcEs
@@ -197,14 +182,8 @@ videos:
     title: Lập trình phần mềm paint trên web
     id: pDSxzvyJ6k8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
-  -
     title: Làm game html5 đơn giản
     id: kuwn8vkmqyM
-  -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
 ---
 
 Các video chia sẻ về lập trình, đời sống lập trình viên trên [Lập Trình Viên TV](https://www.youtube.com/laptrinhvientv?sub_confirmation=1), kênh youtube chính thức của Lập trình cuộc sống chấm com
