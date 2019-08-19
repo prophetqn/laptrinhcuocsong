@@ -17,14 +17,14 @@ related_videos:
     title: Lập trình phần mềm paint trên web
     id: pDSxzvyJ6k8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
   -
     title: Làm game html5 đơn giản
     id: kuwn8vkmqyM
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
 ---
 Cùng với sự phát triển của các thiết bị di động, lượng người sử dụng smartphone và máy tính bảng để truy cập internet ngày càng tăng. Do đó việc test một website trên thiết bị di động trước khi xuất bản nó là rất quan trọng và cần thiết.
 

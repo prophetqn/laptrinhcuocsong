@@ -32,8 +32,8 @@ related_videos:
     title: Lập trình phần mềm paint trên web
     id: pDSxzvyJ6k8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
 ---
 Lập trình web kiếm tiền có lẽ không còn xa lạ với hầu hết các lập trình viên. Bản thân mình trong 6 năm qua hầu hết thu nhập được tạo ra từ mảng lập trình web, cả làm freelance và làm cho công ty, thế nên cũng muốn viết một bài về chủ đề này.
 

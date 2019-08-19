@@ -25,8 +25,8 @@ related_videos:
     title: Lập trình phần mềm paint trên web
     id: pDSxzvyJ6k8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
 ---
 
 Tech Expo được xem là sự kiện tuyển dụng công nghệ lớn nhất Việt Nam có sự tham gia của các đơn vị hàng đầu trong lĩnh vực công nghệ thông tin và truyền thông. Với nhiều các hoạt động: tuyển dụng, hội thảo và trình diễn công nghệ, Tech Expo năm thứ 2 đã thu hút hàng nghìn lập trình viên tham dự.

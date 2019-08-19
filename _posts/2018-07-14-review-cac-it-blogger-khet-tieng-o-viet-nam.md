@@ -26,8 +26,8 @@ related_videos:
     title: Lập trình phần mềm paint trên web
     id: pDSxzvyJ6k8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
 ---
 
 Cũng như các bạn, ngoài code với FAP ra thì thời gian rảnh mình cũng hay la cà mấy blog IT, hóng hớt xem thiên hạ đang code như thế nào, bàn tán về công nghệ gì. Trong bài viết này mình sẽ giới thiệu các blog IT ~~nổi tiếng~~ khét tiếng ở Việt Nam mà mình thường xuyên ghé thăm.

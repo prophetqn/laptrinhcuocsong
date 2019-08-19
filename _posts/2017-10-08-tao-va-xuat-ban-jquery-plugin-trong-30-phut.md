@@ -22,14 +22,14 @@ related_videos:
     title: Lập trình phần mềm paint trên web
     id: pDSxzvyJ6k8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
   -
     title: Làm game html5 đơn giản
     id: kuwn8vkmqyM
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
 ---
 Jquery có lẽ không còn xa lạ với các bạn web developer, nó là một thư viện javascript giúp tạo nhiều hiệu ứng trên website nhanh với cú pháp code đơn giản hơn. Jquery được sử dụng rộng rãi và ngày càng mạnh mẽ bởi nhiều plugin mở rộng. Cũng đú theo phong trào ấy, chúng ta sẽ cùng nhau tạo và xuất bản một plugin đơn giản nhất.
 

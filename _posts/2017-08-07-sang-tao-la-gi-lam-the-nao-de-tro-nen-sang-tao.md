@@ -26,8 +26,8 @@ related_videos:
     title: Lập trình phần mềm paint trên web
     id: pDSxzvyJ6k8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
 ---
 
 Có thể khi đọc xong tiêu đề, bạn sẽ nghĩ cái thằng này thật vớ vẩn, lập trình thì liên quan quái gì đến sáng tạo? Đây là blog lập trình, thì viết về code đi chứ viết mấy cái thứ hàn lâm vớ vẩn này để làm gì? Bố cứ code đúng logic theo yêu cầu, hoàn thành các task được giao là được chứ gì?

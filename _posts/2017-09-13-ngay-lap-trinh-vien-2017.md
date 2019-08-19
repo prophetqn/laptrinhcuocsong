@@ -23,14 +23,14 @@ related_videos:
     title: Lập trình phần mềm paint trên web
     id: pDSxzvyJ6k8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
   -
     title: Làm game html5 đơn giản
     id: kuwn8vkmqyM
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
 ---
 Bạn có biết hôm nay là một ngày đặc biệt, ngày thứ 256 của năm, ngày mà rất nhiều nơi trên thế giới xem là ngày lập trình viên. Người ta đẻ ra bao nhiêu ngày, ngày nhà giáo, ngày phụ nữ,  ngày thiếu nhi, ngày thầy thuốc, ngày thương binh liệt sĩ... Nhưng không ai, kể cả các bạn biết ngày hôm nay là ngày gì cả.
 

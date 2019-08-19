@@ -27,8 +27,8 @@ related_videos:
     title: Lập trình phần mềm paint trên web
     id: pDSxzvyJ6k8
   -
-    title: Cùng làm menu bằng css3 và javascript thuần, không dùng thư viện
-    id: xfcDMzcqdZ4
+    title: Lập trình game flappy bird (live coding)
+    id: HAxkDz2opd4
 ---
 Khi bạn đi xin việc, thông thường bạn sẽ được nhà tuyển dụng yêu cầu gửi CV ( Curriculum Vitae) để họ xem trước khi quyết định mời phỏng vấn. CV chính là đơn chào hàng đầu tiên, là bản tóm tắt thông tin nổi bật của bạn, phản ánh đầy đủ kinh nghiệm, trình độ, tính cách và các kỹ năng liên quan của bạn với vị trí đang ứng tuyển. Nói gì thì nói, đây là một yếu tố quan trọng quyết định việc bạn có gây ấn tượng và có được mời phỏng vấn hay không.
 
