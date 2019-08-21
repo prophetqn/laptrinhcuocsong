@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Code giỏi gái mới theo, mới có gấu
+    id: yFQxFtzaGuw
+  -
     title: Tốn 50k chỉ để trở thành hacker trẩu tre =))
     id: Mk64yY82zBg
   -
