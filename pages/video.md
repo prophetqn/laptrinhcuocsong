@@ -192,7 +192,7 @@ videos:
     id: kuwn8vkmqyM
 ---
 
-Các video chia sẻ về lập trình, đời sống lập trình viên trên [Lập Trình Viên TV](https://www.youtube.comchannel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1), kênh youtube chính thức của Lập trình cuộc sống chấm com
+Các video chia sẻ về lập trình, đời sống lập trình viên trên [Lập Trình Viên TV](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1), kênh youtube chính thức của Lập trình cuộc sống chấm com
 
 <div id="videos">
   {% for video in page.videos %}
