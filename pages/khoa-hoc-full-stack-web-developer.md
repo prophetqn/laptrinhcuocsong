@@ -43,23 +43,25 @@ Học viên học tất tần tật về ngôn ngữ đánh dấu HTML, hiểu v
 
 Học viên được cung cấp các kiến thức về CSS và đặc biệt là CSS3, hiểu về dựng layout web bằng CSS thuần, các kỹ thuật liên quan đến sass, responsive, media query, pseudo css, fault column, css animation…
 
-### 4. Javascript
+### 4. Psd to html
+
+Học viên sử dụng cơ bản được photoshop, tìm hiểu cách cắt giao diện được thiết kế từ photoshop sang html/css.
+
+### 5. Javascript
 
 Học javascript căn bản từ đầu, học viên hiểu về biến, hằng, vòng lặp, promise, callback, cách javascript tương tác với DOM document.
 
-### 5. Jquery
+### 6. Jquery
 
 Học viên làm chủ thư viện jquery, hiểu và ứng dụng jquery trong dự án thực tế. Hiểu về selector, fade, animate, event, ajax, plugin…
 
-### 6. Vuejs
+### 7. Vuejs
 
 Học viên hiểu các kiến thức về javascript framework nói riêng và vuejs nói chung, có kiến thức về routing, props, components, style binding... có thể làm single page web app.
 
-### 7. Bootstrap
+### 8. Bootstrap
 
 Hướng dẫn học viên cài đặt và sử dụng bootstrap, các kiến thức bootstrap như: grid system, sử dụng các component, kết hợp css thuần để customize bootstrap dựng được giao diện web hoàn chỉnh.
-
-### 8. Kết hợp tất cả với webpack.
 
 ### 9. Giới thiệu PHP và cài đặt các công cụ liên quan.
 
