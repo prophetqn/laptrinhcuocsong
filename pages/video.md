@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Biến màn hình đồng nát thành màn hình phụ
+    id: 57LAw2qbHYc
+  -
     title: Nghề lập trình, 5 điều tôi ước rằng mình biết sớm hơn
     id: IY7KntfQ4v0
   -
