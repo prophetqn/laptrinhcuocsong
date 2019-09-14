@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Nghề lập trình - Về quê không được, ở thành phố cũng không xong
+    id: 8P0B3P0p_04
+  -
     title: Biến màn hình đồng nát thành màn hình phụ
     id: 57LAw2qbHYc
   -
