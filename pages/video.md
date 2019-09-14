@@ -107,9 +107,6 @@ videos:
     title: Làm frontend chỉ html css thôi phải không, con gái theo lập trình game
     id: 8iqvQe46ViU
   -
-    title: Vừa rửa bát vừa nói chuyện lập trình
-    id: J7-eT2TnLVU
-  -
     title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?
     id: ypY1YU_zJAM
   -
@@ -182,23 +179,11 @@ videos:
     title: Đang code mà buồn tè thì làm thế nào?
     id: 5lkDOd8PKHc
   -
-    title: Lập trình viên và chuyện tình yêu, chia tay, buồn, cắm đầu vào code
-    id: Nbu8tBtef3c
-  -
     title: Live stream - backend hay frontend dễ kiếm việc làm hơn
     id: VvPv9kiB01A
   - 
     title: Một giờ trong đời của lập trình viên (speed 6x)
     id: jwuxH1BeNG0
-  -
-    title: Live stream hướng dẫn lập trình game hứng trứng
-    id: reN5y17YzCI
-  -
-    title: Lập trình phần mềm paint trên web
-    id: pDSxzvyJ6k8
-  -
-    title: Làm game html5 đơn giản
-    id: kuwn8vkmqyM
 ---
 
 Các video chia sẻ về lập trình, đời sống lập trình viên trên [Lập Trình Viên TV](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg?sub_confirmation=1), kênh youtube chính thức của Lập trình cuộc sống chấm com
