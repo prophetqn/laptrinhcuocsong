@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Nghề lập trình - 5 điều đơn giản nhưng nên làm
+    id: GIGs5UH923o
+  -
     title: Chỉ có dev mới hiểu được cảm giác khi chạy chương trình thành công
     id: lcD9aLAAXvQ
   -
