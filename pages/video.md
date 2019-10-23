@@ -107,9 +107,6 @@ videos:
     title: Lộ trình học lập trình web gồm những gì?
     id: L1CYEjXN1pc
   -
-    title: Làm frontend chỉ html css thôi phải không, con gái theo lập trình game
-    id: 8iqvQe46ViU
-  -
     title: Học linux để làm gì? Học linux như thế nào cho hiệu quả?
     id: ypY1YU_zJAM
   -
@@ -124,9 +121,6 @@ videos:
   -
     title: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
     id: NSd4DPxHv3c
-  -
-    title: Hỏi về lập trình như thế nào để khỏi bị chửi ngu?
-    id: 3KvYW1ECe4c
   -
     title: Học lập trình nên tự học hay học ở trung tâm?
     id: sgkNOWEbLSw
