@@ -82,12 +82,9 @@ videos:
   -
     title: Cảm ơn vì một năm 2018 tuyệt vời
     id: drGIVbO9pAI
-  -
+  - 
     title: Code trên giấy?
     id: VT1uT9A7ELE
-  -
-    title: Nằm code hay ngồi code?
-    id: 6UxMV4obWSQ
   -
     title: Đi thực tập IT cần chuẩn bị những gì?
     id: PRLr_vIZ1xU
@@ -95,14 +92,11 @@ videos:
     title: LiveStream - Lập trình oto rẽ trái rẽ phải bằng toán học lượng giác
     id: 58a1mLE40kw
   -
-    title: LiveStream - Lập trình phần mềm paint bằng javascript
+    title: LiveStream Lập trình phần mềm paint bằng javascript
     id: tKzpM0sWHo0
   -
     title: Đâu là môi trường tốt nhất cho sự phát triển của lập trình viên?
     id: YW0sWK9OAXI
-  -
-    title: Bí kíp sống ảo ra tiền cho lập trình viên
-    id: MP1v4PwJqFs
   -
     title: Ngôn ngữ java có thể làm gì? Học java có thể đi theo hướng nào?
     id: 2WkHUIBWDhY
@@ -188,7 +182,7 @@ videos:
     title: Đang code mà buồn tè thì làm thế nào?
     id: 5lkDOd8PKHc
   -
-    title: Live stream - backend hay frontend dễ kiếm việc làm hơn
+    title: Live stream backend hay frontend dễ kiếm việc làm hơn
     id: VvPv9kiB01A
   - 
     title: Một giờ trong đời của lập trình viên (speed 6x)
