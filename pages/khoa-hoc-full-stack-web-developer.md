@@ -13,6 +13,8 @@ Khóa học dành cho các học viên có kiến thức lập trình căn bản
 
 Học viên có một người mentor bên cạnh, như một người bạn, sẵn sàng chia sẻ định hướng để phát triển bản thân trong ngành lập trình.
 
+Đăng ký [Chat với chúng tôi tại đây](https://www.facebook.com/hoilaptrinhviennhandan)
+
 ![Lập trình viên](images/lap-trinh-vien.png)
 
 ## Phương thức học:
