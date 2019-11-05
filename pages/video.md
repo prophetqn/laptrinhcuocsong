@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Làm freelance lập trình, sướng hay khổ, chuyển từ fulltime sang freelance như thế nào?
+    id: hKuxqaG8Z9o
+  -
     title: Mình đang kiếm tiền như thế nào?
     id: TVWEA97THRI
   -
