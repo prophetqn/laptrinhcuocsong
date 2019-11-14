@@ -8,6 +8,9 @@ videos:
     title: Mới học lập trình đọc sách gì?
     id: 8V8f5iOmEwQ
   -
+    title: Thánh CSS lầy lội =))
+    id: wosJKd9zn5w
+  -
     title: Làm freelance lập trình, sướng hay khổ, chuyển từ fulltime sang freelance như thế nào?
     id: hKuxqaG8Z9o
   -
