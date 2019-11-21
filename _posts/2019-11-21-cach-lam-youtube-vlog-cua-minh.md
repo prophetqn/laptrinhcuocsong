@@ -88,3 +88,4 @@ Có rất nhiều phần mềm để live stream như XSplit, Tinytake, GoStream
 
 ![Cách làm vlog](images/cach-lam-vlog-8.png)
 
+Với tổng chi phí thiết bị không hề đắt, mua dần dần, sau 4 tháng chém gió trên youtube, kênh của mình hiện tại đang 25k lượt đăng ký. Hi vọng bài viết này có thể giúp bạn bắt đầu.
