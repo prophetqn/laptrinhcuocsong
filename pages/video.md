@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Theo lập trình web, những điều nên biết
+    id: HIdsG9vS_Fs
+  -
     title: Mới học lập trình đọc sách gì?
     id: 8V8f5iOmEwQ
   -
