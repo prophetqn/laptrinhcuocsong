@@ -110,7 +110,7 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 Để hoàn tất quá trình đăng ký khóa học, các bạn thực hiện:
 
 - B1: Chuyển khoản học phí vào số tài khoản: 03801010806511 - Ngân hàng Maritime bank, chi nhánh Hà Nội, chủ tài khoản: Bùi Văn Nguyện. Nội dung chuyển khoản ghi: "Fullstack + nick facebook"
-- B2: Gửi yêu cầu vào nhóm của lớp học: https://www.facebook.com/groups/408986649757116/
+- B2: Gửi yêu cầu tham gia vào [group facebook của lớp học](https://www.facebook.com/groups/408986649757116/)
 - B3: [Chat với chúng tôi tại đây](https://m.me/hoilaptrinhviennhandan) để được thêm vào lớp.
 
 Hẹn gặp bạn trong khóa học Fullstack web developer của Lập Trình Cuộc Sống.
