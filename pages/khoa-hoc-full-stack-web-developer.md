@@ -105,6 +105,14 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 - Ham học hỏi, tinh thần học nữa học mãi, đeo bám khóa học đến lúc nào đi làm được thì thôi.
 - Tôn trọng giảng viên, bạn bè. Trong khóa học, sẽ không phải là mình khi live stream tám chuyện với các bạn nữa, mình sẽ là người hướng dẫn các bạn, mong các bạn coi mình như một người bạn, người thầy.
 
-Giá khóa học: 2 triệu đồng
+## Giá khóa học: 2 triệu đồng
 
-Đăng ký [Chat với chúng tôi tại đây](https://m.me/hoilaptrinhviennhandan)
+Để hoàn tất quá trình đăng ký khóa học, các bạn thực hiện:
+
+- B1: Chuyển khoản học phí vào số tài khoản: 03801010806511 - Ngân hàng Maritime bank, chi nhánh Hà Nội, chủ tài khoản: Bùi Văn Nguyện. Nội dung chuyển khoản ghi: "Fullstack + nick facebook"
+- B2: Gửi yêu cầu vào nhóm của lớp học: https://www.facebook.com/groups/408986649757116/
+- B3: [Chat với chúng tôi tại đây](https://m.me/hoilaptrinhviennhandan) để được thêm vào lớp.
+
+Hẹn gặp bạn trong khóa học Fullstack web developer của Lập Trình Cuộc Sống.
+
+Nếu có bất kỳ thắc mắ nào, hãy [Chat với chúng tôi tại đây](https://m.me/hoilaptrinhviennhandan)
