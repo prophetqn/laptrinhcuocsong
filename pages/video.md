@@ -5,6 +5,15 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Lập trình game bắn trứng khủng long
+    id: 2wJhk8is31Q
+  -
+    title: Tôi đã viết phần mềm đặt bún đậu
+    id: Ci-MT5tGZoM
+  -
+    title: Tạo database class với php
+    id: dwGdPru-n4Q
+  -
     title: Theo lập trình web, những điều nên biết
     id: HIdsG9vS_Fs
   -
