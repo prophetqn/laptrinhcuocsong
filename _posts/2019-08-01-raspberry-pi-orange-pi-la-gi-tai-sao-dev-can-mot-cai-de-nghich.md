@@ -64,7 +64,7 @@ Hiện tại mình đang dùng 1 con Raspberry Pi 3 và giờ mua thêm con Oran
 
 ## Cài cắm có khó lắm không?
 
-Không, nếu bạn đã từng cài win thì nó cũng chả khác gì mấy. Tất cả những gì bạn phải làm là lên trang chủ [armbian.org](armbian.org) để tải về. Armbian là phiên bản hệ điều hành linux dành riêng cho các máy tính nhúng. Sau khi tải file có đuôi `.img` về, bạn dùng bất kỳ phần mềm burn usb nào như [etcher](https://www.balena.io/etcher/) để burn file img vào thẻ nhớ. Cắm thẻ nhớ, màn hình, bàn phím, chuột vào Rapberry pi và cài đặt theo hướng dẫn.
+Không, nếu bạn đã từng cài win thì nó cũng chả khác gì mấy. Tất cả những gì bạn phải làm là lên trang chủ [armbian.org](http://armbian.org) để tải về. Armbian là phiên bản hệ điều hành linux dành riêng cho các máy tính nhúng. Sau khi tải file có đuôi `.img` về, bạn dùng bất kỳ phần mềm burn usb nào như [etcher](https://www.balena.io/etcher/) để burn file img vào thẻ nhớ. Cắm thẻ nhớ, màn hình, bàn phím, chuột vào Rapberry pi và cài đặt theo hướng dẫn.
 
 Sinh viên có thể cân nhắc dùng Orange Pi thay cho Raspberry Pi cho rẻ. Tận dụng cổng dây mạng thừa của xóm trọ cắm vào con này rất tốt, hoặc nếu không thừa cổng nào, thì nó cũng có wifi sẵn rồi, chỉ cần cắm nguồn là xong.
 
