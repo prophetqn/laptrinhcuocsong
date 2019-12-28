@@ -5,6 +5,15 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Đọc nhịp tim miband 4 với react native
+    id: sTVtFEirGf4
+  -
+    title: Lập trình phần mềm Paint
+    id: SjNkzlVv0GE
+  -
+    title: Làm game caro online
+    id: dr6CW6Rzatw
+  -
     title: Lập trình game bắn trứng khủng long
     id: 2wJhk8is31Q
   -
