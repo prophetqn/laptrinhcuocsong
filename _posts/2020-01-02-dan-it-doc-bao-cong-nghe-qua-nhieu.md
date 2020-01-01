@@ -3,6 +3,7 @@ layout: post
 title: Chúng ta đang đọc báo công nghệ quá nhiều
 excerpt: Thói quen đọc, thoạt đầu tưởng như rất có ích, đọc là cách để tiếp thu kiến thức, tiếp thu cái mới một cách dễ dàng ít tốn công sức nhất so với tự thực hành. Nhưng, cái gì nên đọc và cái gì không nên đọc? Chúng ta đang sống trong một thế giới mà thông tin tạp nham, vàng cũng có mà cám cũng có. Một vấn đề mà hầu hết chúng ta đều gặp phải, đó là đọc báo tin tức công nghệ quá nhiều.
 thumbnail: focus.png
+categories:
  - Chuyện bên lề
  - Chuyện cuộc sống
 tags:
