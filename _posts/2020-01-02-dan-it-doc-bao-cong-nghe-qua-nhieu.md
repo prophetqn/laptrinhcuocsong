@@ -33,7 +33,7 @@ related_videos:
     id: TVWEA97THRI
 ---
 
-`Trí tuệ nhân tạo Alexa giờ đây đã có thể tự soạn nhạc`
+Trí tuệ nhân tạo Alexa giờ đây đã có thể tự soạn nhạc
 
 Hấp dẫn đúng không? Dân IT mà thấy những bài viết với tiêu đề như trên thì click vào đọc ngay lập tức.
 
