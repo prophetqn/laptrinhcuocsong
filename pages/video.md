@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Lập trình pháo hoa chúc tết
+    id: 3X_cuuHc6no
+  -
     title: Đọc nhịp tim miband 4 với react native
     id: sTVtFEirGf4
   -
