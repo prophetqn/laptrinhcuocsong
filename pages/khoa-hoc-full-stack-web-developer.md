@@ -103,7 +103,7 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 - Ham học hỏi, tinh thần học nữa học mãi, đeo bám khóa học đến lúc nào đi làm được thì thôi.
 - Tôn trọng giảng viên, bạn bè. Trong khóa học, sẽ không phải là mình khi live stream tám chuyện với các bạn nữa, mình sẽ là người hướng dẫn các bạn, mong các bạn coi mình như một người bạn, người thầy.
 
-## Giá khóa học: 2 triệu đồng
+## Giá khóa học: 3 triệu đồng
 
 Để hoàn tất quá trình đăng ký khóa học, các bạn thực hiện:
 
