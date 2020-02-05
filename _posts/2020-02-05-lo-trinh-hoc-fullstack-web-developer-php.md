@@ -3,6 +3,8 @@ layout: post
 title: Lộ trình học fullstack web developer với php
 excerpt: Trong bài viết này chúng ta sẽ tổng hợp tất tần tật những thứ chúng ta sẽ phải học để trở thành fullstack web dev với ngôn ngữ php
 category: Chuyện lập trình
+thumbnail: lap-trinh-vien-thumb.jpg
+cover: lap-trinh-vien.png
 tags:
  - lap-trinh-php
  - lap-trinh-web
