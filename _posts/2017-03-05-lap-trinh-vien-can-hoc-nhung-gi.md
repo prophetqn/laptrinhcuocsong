@@ -63,17 +63,17 @@ Mình nói thật, không biết tiếng Anh thì đừng có hòng lập trình
 
 Đừng tưởng làm lập trình ngồi một chỗ trong phòng máy lạnh thì không lo bệnh tật. Sau vài năm bạn sẽ thấy có vài vấn đề như đau lưng, mỏi vai hay hoa mắt... Hãy bỏ ngay các thói quen thức quá khuya, ăn uống không đúng giờ và sử dụng chất kích thích như rượu bia, thuốc lá... Một số thanh niên sau khi code điên cuồng làm vài ván dota để giải trí, lại ngồi thêm vài tiếng nữa,. Nói chung nếu không chịu khó vận động, sắp xếp thời gian chơi thể thao thì đừng mong tồn tại, bạn có sức khỏe mới theo đuổi đam mê được.
 
-Video liên quan: <a target="_blank" href="https://www.youtube.com/watch?v=5lkDOd8PKHc">Vấn đề sức khỏe của lập trình viên</a>
-
 ## Chuyên môn về kỹ thuật:
 
-Lập trình là một ngành kỹ thuật (of course :smile:) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể [lập trình viên](https://laptrinhcuocsong.com/tags/lap-trinh-vien) cần học những gì?
+Lập trình là một ngành kỹ thuật (of course :)) thế nên bạn phải trang bị cho mình những kiến thức về kỹ thuật nhất định. Vậy cụ thể [lập trình viên](https://laptrinhcuocsong.com/tags/lap-trinh-vien) cần học những gì?
 
 Mình tạm chia lập trình viên ra làm mấy loại như sau, bạn chỉ việc chọn một cái mà bạn thích nhất, và lao vào nghiên cứu.
 
 **Mảng mobile**: 
 
 Bạn sẽ viết phần mềm chạy trên các điện thoại thông minh mà phổ thông nhất là android và ios. Gần đây mảng này khá hot vì thiết bị di động ngày càng đa dạng và giá rẻ, lượng người dùng ngày càng tăng. Theo mảng này bạn học java (nếu bạn theo android) hoặc Objective-C, swift (nếu bạn theo ios)
+
+Hiện nay nổi lên một số công nghệ multi-platform, giúp bạn có thể viết code một lần cho cả android và ios, ví dụ như React native hay Flutter cũng rất hot.
 
 **Mảng embedded**: 
 
@@ -82,6 +82,8 @@ Còn gọi là lập trình nhúng, tức là viết các chương trình chạy
 **Mảng web**: 
 
 Web là cái gì thì khỏi phải giới thiệu nữa rồi, nó là thứ lâu đời nhất trên internet. Theo cái này thì khỏi lo thiếu việc, vì công ty nào cũng cần web, nhưng mà nói thật lương bọn làm web chả cao như các mảng khác đâu. Rất nhiều ngôn ngữ có thể dùng [lập trình web](https://laptrinhcuocsong.com/tags/lap-trinh-web) được, thoải mái chọn: php, java, node, python, ruby... nhưng phải học thêm cả đống lằng nhằng: html, css, javascript...
+
+Trong mảng web, có 3 hướng cho bạn chọn đó là backend, frontend và fullstack. Lập trình viên backend lập trình xử lý phía máy chủ, lưu trữ dữ liệu, trong khi đó lập trình viên frontend xử lý phía máy khách, tức là trên trình duyệt, hiển thị giao diện với người dùng. Lập trình viên fullstack thì đa năng hơn, là người làm cả backend và frontend, bạn có thể tham khảo [khóa học fullstack web developer](https://laptrinhcuocsong.com/khoa-hoc-full-stack-web-developer.html) của blog để hiểu rõ hơn.
 
 **Mảng desktop app**:
 
@@ -94,9 +96,3 @@ Tuy nhiên đừng quá lo lắng rằng trình độ mình chưa đủ đáp �
 > Đăng ký kênh youtube Lập Trình Viên TV để theo dõi các video chia sẻ về định hướng trong nghề lập trình [tại đây](https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg)
 
 Nói chung, lập trình là một thế giới vô cùng thú vị. Đây là bài viết mà mình lảm nhảm tất tần tật những điều bạn cần phải học, những vấn đề mà bạn sẽ gặp trên con đường trở thành một lập trình viên. Hi vọng sẽ giúp được bạn cái gì đó, chúc bạn thành công với đam mê của mình.
-
-**Video liên quan**: Học cấp 3 muốn theo CNTT, không đam mê thì bỏ đi
-
-<div class="youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NSd4DPxHv3c" frameborder="0" allowfullscreen></iframe>
-</div>
