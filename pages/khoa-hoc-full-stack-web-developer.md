@@ -25,9 +25,9 @@ Học viên phải làm bài tập được giao một cách đầy đủ.
 
 ## Thời gian học:
 
-Mỗi tuần 3 buổi vào các tối thứ 3, thứ 5 và thứ 7, mỗi buổi khoảng 2 tiếng.
+Mỗi tuần 3 buổi vào các tối thứ 2, thứ 4 và thứ 6, mỗi buổi khoảng 2 tiếng.
 
-Với lượng kiến thức cần truyền tải là rất lớn, tổng thời gian khóa học dự kiến là 6-7 tháng, thời gian này có thể bị kéo dài ra nếu học viên vẫn chưa tiếp thu đủ kiến thức.
+Với lượng kiến thức cần truyền tải là rất lớn, tổng thời gian khóa học dự kiến là 7-8 tháng, thời gian này có thể bị kéo dài ra nếu học viên vẫn chưa tiếp thu đủ kiến thức.
 
 ## Nội dung khóa học:
 
@@ -70,7 +70,7 @@ Giới thiệu cơ bản về ngôn ngữ lập trình PHP, giúp học viên c�
 ### 10. Lập trình PHP căn bản.
 
 - Kiến thức lập trình php căn bản bao gồm: biến, hằng số, vòng lặp, hàm, mảng, data type…
-- Lập trình hướng đối tượng trong php: class, namespace, construtor, extends, instance, static methods...
+- Lập trình hướng đối tượng trong php: class, namespace, construtor, extends, instance, static methods, interface, abstract, trait...
 - Các kiến thức khác của riêng php như: session, cookie, request param...
 
 ### 11. Database design.
@@ -84,7 +84,7 @@ Học viên học cách phân tích và thiết kế cơ sở dữ liệu quan h
 - Giới thiệu cấu trúc thư mục, artisan.
 - Application flow, routing, controller, model và view.
 - Blade template, compiling assets.
-- Vue framework basic level.
+- Sử dụng Vue framework trong laravel.
 - Eloquent ORM, Relationships.
 - Migration, factory và seeder.
 - Auth và middleware.
@@ -103,6 +103,20 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 - Ham học hỏi, tinh thần học nữa học mãi, đeo bám khóa học đến lúc nào đi làm được thì thôi.
 - Tôn trọng giảng viên, bạn bè. Trong khóa học, sẽ không phải là mình khi live stream tám chuyện với các bạn nữa, mình sẽ là người hướng dẫn các bạn, mong các bạn coi mình như một người bạn, người thầy.
 
+## Một số câu hỏi thường gặp:
+
+*Tại sao phải học trên live stream?*
+
+Có rất nhiều khóa học khác trên internet, nhưng hầu hết các khóa học này là học bằng video, học viên xem một list video để học, tuy nhiên điều này làm cho học viên học lướt, xem lướt mà chưa hiểu vấn đề, không có một khoảng break cần thiết để tư duy. Thông qua khóa học này, mình muốn cùng đồng hành với học viên, cùng học viên học từ đầu đi hết chặng đường.
+
+*Nếu không sắp xếp để online đúng giờ học live stream thì sao?*
+
+Các buổi live stream đều có video để học viên xem lại bất kỳ lúc nào, tuy nhiên vẫn khuyến khích học viên tham gia đầy đủ các buổi học live stream trực tiếp để đạt hiệu quả cao nhất.
+
+*Học xong rồi thì sao?*
+
+Thường mỗi khóa mình sẽ chọn ra vài bạn học khá nhất để giới thiệu thực tập hoặc làm việc tại các công ty mà mình quen biết. Cũng tùy từng đợt mà có số lượng tuyển nhiều hoặc không.
+
 ## Giá khóa học: 3 triệu đồng
 
 Để hoàn tất quá trình đăng ký khóa học, các bạn thực hiện:
@@ -114,3 +128,5 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 Hẹn gặp bạn trong khóa học Fullstack web developer của Lập Trình Cuộc Sống.
 
 Bạn cũng có thể yêu cầu để học thử vài buổi, nếu thấy chất lượng tốt thì mới đóng học phí để theo học. Nếu có bất kỳ thắc mắc nào, hãy [Chat với chúng tôi tại đây](https://m.me/hoilaptrinhviennhandan)
+
+## Hẹn gặp bạn trong khóa học
