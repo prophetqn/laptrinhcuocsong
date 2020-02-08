@@ -85,6 +85,7 @@ Học viên học cách phân tích và thiết kế cơ sở dữ liệu quan h
 - Application flow, routing, controller, model và view.
 - Blade template, compiling assets.
 - Sử dụng Vue framework trong laravel.
+- Request và validation
 - Eloquent ORM, Relationships.
 - Migration, factory và seeder.
 - Auth và middleware.
@@ -105,15 +106,15 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 
 ## Một số câu hỏi thường gặp:
 
-*Tại sao phải học trên live stream?*
+**Tại sao phải học trên live stream?**
 
 Có rất nhiều khóa học khác trên internet, nhưng hầu hết các khóa học này là học bằng video, học viên xem một list video để học, tuy nhiên điều này làm cho học viên học lướt, xem lướt mà chưa hiểu vấn đề, không có một khoảng break cần thiết để tư duy. Thông qua khóa học này, mình muốn cùng đồng hành với học viên, cùng học viên học từ đầu đi hết chặng đường.
 
-*Nếu không sắp xếp để online đúng giờ học live stream thì sao?*
+**Nếu không sắp xếp để online đúng giờ học live stream thì sao?**
 
 Các buổi live stream đều có video để học viên xem lại bất kỳ lúc nào, tuy nhiên vẫn khuyến khích học viên tham gia đầy đủ các buổi học live stream trực tiếp để đạt hiệu quả cao nhất.
 
-*Học xong rồi thì sao?*
+**Học xong rồi thì sao?**
 
 Thường mỗi khóa mình sẽ chọn ra vài bạn học khá nhất để giới thiệu thực tập hoặc làm việc tại các công ty mà mình quen biết. Cũng tùy từng đợt mà có số lượng tuyển nhiều hoặc không.
 
