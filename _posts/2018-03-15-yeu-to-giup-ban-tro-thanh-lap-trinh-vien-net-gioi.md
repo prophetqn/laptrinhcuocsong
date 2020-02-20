@@ -34,6 +34,9 @@ related_videos:
     id: CpmE5RTpPwQ
 
 ---
+
+> Bài viết được đăng và tài trợ bởi Goodcv.vn
+
 Lập trình viên hay bất cứ một ngành nghề nào để thành công chúng ta phải bỏ ra nhiều tâm huyết, nhiều thời gian nghiên cứu, đồng thời phải biết duy trì động lực làm việc học tập, biết hình thành nên đam mê cho bản thân đối với công việc [lập trình viên .Net](https://goodcv.vn/t%C3%ACm-vi%E1%BB%87c-l%C3%A0m-net+developer) này.
 
 ![sinh vien it](images/lap-trinh-vien-good-cv.jpg)

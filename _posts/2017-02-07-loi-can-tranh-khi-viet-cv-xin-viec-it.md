@@ -33,6 +33,9 @@ related_videos:
     title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
     id: zNCk6jctVW8
 ---
+
+> Bài viết được đăng và tài trợ bởi Goodcv.vn
+
 Một trong những phần đau đầu nhất đối với dân lập trình nói riêng và nhân viên IT nói chung là
 viết lại CV cho từng vị trí công việc muốn ứng tuyển trong quá trình tìm việc mới. Đây có lẽ là
 thử thách khó khăn với dân kỹ thuật nói chung, còn khó hơn việc viết báo cáo hay viết code. Vì
@@ -98,5 +101,3 @@ CV ứng tuyển vị trí lập trình. Điều này bao gồm các chứng ch�
 hay số năm kinh nghiệm. Việc phóng đại các kỹ năng bạn sở hữu có thể giúp bạn nhận được
 công việc mới nhưng bạn sẽ không thể làm việc như nhà tuyển dụng mong đợi, kết quả là cả hai
 bên đều mệt mỏi và thất vọng.
-
-> Bài viết được mang đến bạn bởi GoodCV.vn

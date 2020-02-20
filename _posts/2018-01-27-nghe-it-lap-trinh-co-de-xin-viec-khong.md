@@ -32,6 +32,8 @@ related_videos:
     id: xsI6r6zYTp0
 ---
 
+> Bài viết được đăng và tài trợ bởi Goodcv.vn
+
 Đã xa rồi cái thời mà những người làm việc trong ngành công nghệ thông tin (IT) bị coi là tẻ nhạt, thiếu kỹ năng xã hội và khó hòa nhập cộng đồng. Ngày nay, nghề IT ngày càng mở rộng và phát triển, mở ra nhiều cơ hội việc làm thu nhập cao cho người lao động do nhu cầu tuyển dụng gia tăng ở mọi khía cạnh. Tuy không phải ai cũng có thể làm giàu bằng nghề IT nhưng có một điều chắc chắn đó là số lượng công việc trong ngành vẫn không ngừng tăng lên. 
 
 ![Lập trình viên](images/coder.jpg)

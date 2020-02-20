@@ -33,6 +33,9 @@ related_videos:
     title: Nhờ cài win hộ, dân IT cảm thấy như thế nào? 
     id: zNCk6jctVW8
 ---
+
+> Bài viết được đăng và tài trợ bởi Goodcv.vn
+
 Trong thời đại bùng nổ cách mạng công nghiệp 4.0, công nghệ thông tin (IT) là một trong những
 nghề có mức thu nhập cao nhất hiện nay; do đó thường thu hút lượng lớn lao động chất lượng cao
 quan tâm và ứng tuyển. Làm thế nào để bạn có thể nổi bật và thu hút nhà tuyển dụng giữa muôn

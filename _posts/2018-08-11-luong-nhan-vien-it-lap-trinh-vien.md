@@ -34,6 +34,8 @@ related_videos:
     id: wFQ1h8RNcEs
 ---
 
+> Bài viết được đăng và tài trợ bởi Goodcv.vn
+
 Trong thời kỳ cách mạng công nghệ 4.0 lên ngôi, vai trò của công nghệ thông tin cũng ngày càng trở nên quan trọng hơn bao giờ hết. Nguồn cung nhân sự cho ngành IT đang ngày càng khan hiếm nên hiện nay có rất nhiều công ty đang có nhu cầu tuyển dụng cho vị trí này với chế độ đãi ngộ hấp dẫn. Cùng tìm hiểu thêm về ngành IT xem một [lập trình viên](https://goodcv.vn/t%C3%ACm-vi%E1%BB%87c-l%C3%A0m-l%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn) IT làm gì và mức lương là bao nhiêu nhé!
 
 ![Lập trình viên ngàn đô](images/lap-trinh-vien-ngan-do.jpg)
