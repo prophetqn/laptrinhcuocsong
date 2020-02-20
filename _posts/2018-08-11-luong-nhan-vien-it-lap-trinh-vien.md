@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lương nhân viên IT, lập trình viên có cao không?
+excerpt: Trong thời kỳ cách mạng công nghệ 4.0 lên ngôi, vai trò của công nghệ thông tin cũng ngày càng trở nên quan trọng hơn bao giờ hết. Nguồn cung nhân sự cho ngành IT đang ngày càng khan hiếm nên hiện nay có rất nhiều công ty đang có nhu cầu tuyển dụng cho vị trí này với chế độ đãi ngộ hấp dẫn
 thumbnail: web-developer.png
 cover: lap-trinh-vien-ngan-do.jpg
 categories:

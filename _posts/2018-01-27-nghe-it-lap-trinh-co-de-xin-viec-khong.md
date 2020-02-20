@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nghề IT, lập trình có dễ xin việc không?
+excerpt: Ngày nay, nghề IT ngày càng mở rộng và phát triển, mở ra nhiều cơ hội việc làm thu nhập cao cho người lao động do nhu cầu tuyển dụng gia tăng ở mọi khía cạnh. Tuy không phải ai cũng có thể làm giàu bằng nghề IT nhưng có một điều chắc chắn đó là số lượng công việc trong ngành vẫn không ngừng tăng lên
 thumbnail: tim-viec.png
 cover: coder.jpg
 category: Chuyện nghề nghiệp

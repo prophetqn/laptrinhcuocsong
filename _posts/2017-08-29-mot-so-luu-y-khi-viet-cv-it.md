@@ -2,6 +2,10 @@
 layout: post
 title: Một số lưu ý khi viết CV xin việc cho dân IT
 thumbnail: cv-thumb.png
+excerpt: Trong thời đại bùng nổ cách mạng công nghiệp 4.0, công nghệ thông tin là một trong những
+nghề có mức thu nhập cao nhất hiện nay; do đó thường thu hút lượng lớn lao động chất lượng cao
+quan tâm và ứng tuyển. Làm thế nào để bạn có thể nổi bật và thu hút nhà tuyển dụng giữa muôn
+vàn hồ sơ ứng tuyển được gửi đến nhà tuyển dụng?
 cover: luu-khi-viet-cv-it-1.png
 category: Chuyện cuộc sống
 tags:
