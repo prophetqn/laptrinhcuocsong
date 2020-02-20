@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Lỗi cần tránh khi viết CV xin việc lập trình viên, nhân viên IT là gì?
-excerpt: Một trong những phần đau đầu nhất đối với dân lập trình nói riêng và nhân viên IT nói chung là
-viết lại CV cho từng vị trí công việc muốn ứng tuyển trong quá trình tìm việc mới. Đây có lẽ là
-thử thách khó khăn với dân kỹ thuật nói chung, còn khó hơn việc viết báo cáo hay viết code
+excerpt: Một trong những phần đau đầu nhất đối với dân lập trình nói riêng và nhân viên IT nói chung là viết lại CV cho từng vị trí công việc muốn ứng tuyển trong quá trình tìm việc mới. Đây có lẽ là thử thách khó khăn với dân kỹ thuật nói chung, còn khó hơn việc viết báo cáo hay viết code
 thumbnail: cv-thumb.png
 cover: cv-nghe-it-1.png
 category: Chuyện nghề nghiệp
