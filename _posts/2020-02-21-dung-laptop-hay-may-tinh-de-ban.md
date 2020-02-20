@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thay vì dùng laptop, tôi dùng máy bàn
-excerpt: Tôi đã chuyển từ laptop sang máy bàn được 2 năm, đã có người đưa ra đủ lý do vì sao nên dùng laptop, nhưng tôi vẫn thấy happy với quyết định của mình.
+excerpt: Tôi đã chuyển công việc chính từ laptop sang máy bàn được 2 năm, đã có người đưa ra đủ lý do vì sao nên dùng laptop, nhưng tôi vẫn thấy happy với quyết định của mình.
 category: Chuyện bên lề
 thumbnail: may-tinh.png
 cover: laptop-hay-may-tinh-de-ban.png
@@ -35,7 +35,7 @@ related_videos:
 
 Tôi không phải là chuyên gia về phần cứng, nên bài viết này tôi sẽ chẳng viết về hiệu năng, sự tiện dụng, độ mỏng của cái nào, tôi chỉ viết về chuyện tôi đã chuyển sang dùng máy bàn mà thôi.
 
-Tôi đã chuyển từ laptop sang máy bàn được 2 năm, đã có người đưa ra đủ lý do vì sao nên dùng laptop, nhưng tôi vẫn thấy happy với quyết định của mình.
+Tôi đã chuyển công việc chính từ laptop sang máy bàn được 2 năm, đã có người đưa ra đủ lý do vì sao nên dùng laptop, nhưng tôi vẫn thấy happy với quyết định của mình.
 
 Trước đây, cái laptop là vật bất ly thân của tôi, tôi yêu quý nó lắm, tất nhiên tôi sẽ cho nó vào một cái balo thật cẩn thận, đi đâu tôi cũng mang nó theo .
 
