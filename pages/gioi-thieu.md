@@ -25,7 +25,7 @@ Sau khi [bỏ đại học ở một trường không mấy danh tiếng](https:
 
 ## Kết bạn với tôi nhé
 
-Bạn có thể kết bạn với tôi bằng cách xem <a href="http://buivannguyen.com" target="_blank">website cá nhân của tôi</a>, xem tôi chém gió trên kênh youtube <a href="https://www.youtube.com/laptrinhvientv" target="_blank">Lập Trình Viên TV</a> hoặc theo dõi tôi trên <a href="https://www.facebook.com/laptrinhcuocsongdotcom/" target="_blank">facebook fan page</a> ngoài ra bạn cũng có thể xem ảnh sống ảo của tôi trên <a href="https://www.instagram.com/bui_van_nguyen/" target="_blank">instagram</a>.
+Bạn có thể kết bạn với tôi bằng cách xem <a href="http://buivannguyen.com" target="_blank">website cá nhân của tôi</a>, xem tôi chém gió trên kênh youtube <a href="https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg" target="_blank">Lập Trình Viên TV</a> hoặc theo dõi tôi trên <a href="https://www.facebook.com/hoilaptrinhviennhandan/" target="_blank">facebook fan page</a> ngoài ra bạn cũng có thể xem ảnh sống ảo của tôi trên <a href="https://www.instagram.com/bui_van_nguyen/" target="_blank">instagram</a>.
 
 ## Bạn có điều gì muốn hỏi?
 
