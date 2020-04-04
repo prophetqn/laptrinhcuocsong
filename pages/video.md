@@ -5,6 +5,15 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Sinh viên IT cần làm gì để thành công hơn sau khi ra trường?
+    id: nJzlkURPtXY
+  -
+    title: Sinh viên IT cần làm gì để thành công hơn sau khi ra trường?
+    id: nJzlkURPtXY
+  -
+    title: Tại sao nên học javascript? Và học javascript như thế nào?
+    id: Q2S5uMPiyzE
+  -
     title: Lập trình pháo hoa chúc tết
     id: 3X_cuuHc6no
   -
