@@ -8,9 +8,6 @@ videos:
     title: Sinh viên IT cần làm gì để thành công hơn sau khi ra trường?
     id: nJzlkURPtXY
   -
-    title: Sinh viên IT cần làm gì để thành công hơn sau khi ra trường?
-    id: nJzlkURPtXY
-  -
     title: Tại sao nên học javascript? Và học javascript như thế nào?
     id: Q2S5uMPiyzE
   -
