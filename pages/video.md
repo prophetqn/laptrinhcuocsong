@@ -5,6 +5,15 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Lập trình ứng dụng inscard
+    id: VYRGphI4ZWI
+  -
+    title: Lập trình game ai là triệu phú
+    id: Yf536jAhpe0
+  -
+    title: Chuyện đi làm - Những kiểu công ty IT trong thực tế
+    id: ta7sXxT7r9I
+  -
     title: Sinh viên IT cần làm gì để thành công hơn sau khi ra trường?
     id: nJzlkURPtXY
   -
