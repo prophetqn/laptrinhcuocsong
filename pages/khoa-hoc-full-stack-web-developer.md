@@ -89,6 +89,8 @@ Học viên học cách phân tích và thiết kế cơ sở dữ liệu quan h
 - Eloquent ORM, Relationships.
 - Migration, factory và seeder.
 - Auth và middleware.
+- Cache
+- Queue và Shedule
 
 ### 12.Tổng kết khóa học.
 
