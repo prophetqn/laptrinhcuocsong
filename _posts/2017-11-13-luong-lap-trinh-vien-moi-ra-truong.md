@@ -25,7 +25,7 @@ related_videos:
     title: Mình đã học lập trình như thế nào?
     id: qvjWF0HWeWw
   -
-    title: Nghề lập trình: 5 điều đơn giản nhưng nên làm
+    title: Nghề lập trình - 5 điều đơn giản nhưng nên làm
     id: GIGs5UH923o
   -
     title: Phỏng vấn xin việc IT như thế nào? 
