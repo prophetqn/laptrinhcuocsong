@@ -24,17 +24,20 @@ related_posts:
    link: https://laptrinhcuocsong.com/tong-hop-nhung-cong-cu-can-thiet-cho-web-developer.html
 related_videos:
   -
-    title: Gái nhờ cài win thì làm gì?
-    id: qzGHoksg4N4
+    title: Sinh viên IT cần làm gì để thành công hơn sau khi ra trường?
+    id: nJzlkURPtXY
+  -
+    title: Nghề lập trình, 5 điều đơn giản nhưng nên làm
+    id: GIGs5UH923o
   -
     title: Thực trạng học lập trình của các thanh niên hiện nay =))
     id: ABxYyQiYYW4
   -
-    title: Code trên giấy? 
-    id: VT1uT9A7ELE
+    title: Tôi đã viết phần mềm đặt đồ ăn online
+    id: Ci-MT5tGZoM
   -
-    title: Đi thực tập IT bị cho nghỉ việc và nói rằng không có thời gian đào tạo 
-    id: Zo8pGBDi6SA
+    title: Lập trình game flappy bird
+    id: HAxkDz2opd4
 ---
 
 Một trong những câu hỏi được nhiều bạn sinh viên ngành công nghệ quan tâm nhất đó là: Cần học những kiến thức gì, rèn luyện kỹ năng gì để trở thành một lập trình viên? Câu hỏi nghe có vẻ đơn giản nhưng rất khó để trả lời, lập trình là một lĩnh vực rất rộng, có hàng tá ngôn ngữ cần phải học, hàng trăm công nghệ cần nghiên cứu, và môi trường mỗi công ty lại hoàn toàn khác nhau, do đó các thanh niên vẫn cảm thấy rất mông lung.
