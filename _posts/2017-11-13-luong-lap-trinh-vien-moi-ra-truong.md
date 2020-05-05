@@ -25,14 +25,14 @@ related_videos:
     title: Mình đã học lập trình như thế nào?
     id: qvjWF0HWeWw
   -
-    title: Tạo blog nhanh chóng miễn phí với github
-    id: CpmE5RTpPwQ
+    title: Nghề lập trình: 5 điều đơn giản nhưng nên làm
+    id: GIGs5UH923o
   -
     title: Phỏng vấn xin việc IT như thế nào? 
     id: GaMExVaxHc8
   -
-    title: Nghề lập trình - tiền hay đam mê
-    id: bLC6yA73lFw
+    title: Nghề lập trình, 5 điều tôi ước rằng mình biết sớm hơn
+    id: IY7KntfQ4v0
 ---
 Hồi mới ra trường mình tưởng rằng lương lập trình viên cao lắm, giờ thì đỡ nhiều rồi. Đến bây giờ, sau từng ấy năm làm vập mặt mà vẫn loanh quanh nửa con số [lương khởi điểm 2000 đô mà một bạn sinh viên kia mong muốn](https://news.zing.vn/sinh-vien-doi-luong-khoi-diem-2000-usd-co-ao-tuong-post702208.html), mình cho rằng chúng ta đã và đang hi vọng quá nhiều vào môi trường làm việc sau khi ra trường.
 
