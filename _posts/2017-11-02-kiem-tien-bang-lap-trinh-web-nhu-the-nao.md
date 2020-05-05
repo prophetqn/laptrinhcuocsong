@@ -75,6 +75,8 @@ Bí kíp tại sao các web đầu tiên này rất hiệu quả với khách h�
 
 Đến đây thì mình đã dần trở thành một freelance web developer lúc nào không biết, bắt đầu sống được với công việc này, việc không làm xuể, thức đêm nhiều, mình lập một team để chia nhau cùng làm. Lúc này, mình nhận thấy mình đã có tư duy khác, không chỉ là lập trình viên web nữa, mà là tư duy của một "con buôn", nhìn trang web dưới góc nhìn của khách hàng, là sản phẩm mang lại giá trị cho khách hàng. Mình bắt đầu nhận ra yếu tố "con buôn" này, đó là năm 2013, khi mình quyết định trích 20% hoa hồng cho người giới thiệu khách hàng đến với dịch vụ thiết kế web của team mình. Haha.
 
+> Nếu muốn học trở thành fullstack web dev, bạn có thể tham khảo [khóa học của tôi](https://laptrinhcuocsong.com/khoa-hoc-full-stack-web-developer.html)
+
 ## Kết
 
 Mình viết bài này cực kỳ ngẫu hứng, như nhật ký viết lại quãng đường mình đã trải qua, cũng rất nhiều thú vị, một thời tuổi trẻ đã mình đã từng, thế mà bây giờ đã là 6 năm rồi. 4h sáng, đã buồn ngủ rồi, có lẽ ngôn từ nó không suôn mượt lắm, chắc mai phải sửa lại.
