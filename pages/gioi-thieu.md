@@ -4,7 +4,7 @@ title: Về blog Lập trình cuộc sống
 permalink: gioi-thieu.html
 excerpt: Cái tên Lập trình cuộc sống xuất phát từ một câu danh ngôn mà mình rất thích của Les Brown Nếu bạn không tự lập trình chính mình, cuộc sống sẽ lập trình bạn
 ---
-Trước hết xin được cảm ơn bạn vì đã xem trang này, mình là <a href="https://plus.google.com/+B%C3%B9iv%C4%83nNguy%E1%BB%87n" target="_blank">Bùi Văn Nguyện</a>, tác giả của blog Lập Trình Cuộc Sống. Mình viết blog này với mục đích chia sẻ những kinh nghiệm mình học được khi làm việc trong ngành lập trình.
+Trước hết xin được cảm ơn bạn vì đã xem trang này, mình là <a href="http://buivannguyen.com" target="_blank">Bùi Văn Nguyện</a>, tác giả của blog Lập Trình Cuộc Sống. Mình viết blog này với mục đích chia sẻ những kinh nghiệm mình học được khi làm việc trong ngành lập trình.
 
 ## Tại sao lại là Lập trình cuộc sống?
 
@@ -19,7 +19,7 @@ Vì là blog Lập trình cuộc sống, cộng thêm tính tình vui vẻ nên 
 
 Sau khi [bỏ đại học ở một trường không mấy danh tiếng](https://laptrinhcuocsong.com/hoc-cntt-dinh-bo-hoc-hay-doc-cau-chuyen-cua-minh.html), mình bắt đầu làm freelance thiết kế web từ năm 2010 đến 2014, sau đó mình rời Sài Gòn về quê làm vài công việc chân tay (làm xưởng cao su, phục vụ nhà hàng) để học kế toán với mong muốn làm nhà nước, sáng cắp cặp đi tối cắp cặp về.
 
-Đầu năm 2015, mình bỏ tất cả [xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê lập trình](http://www.ddth.com/showthread.php/1314521-X%C3%A1ch-ba-l%C3%B4-ra-HN-theo-%C4%91u%E1%BB%95i-ngh%E1%BB%81-l%E1%BA%ADp-tr%C3%ACnh-web), quay trở lại nghiệp code, từ đó đến nay bôn ba code dạo, hiện tại mình đang lead một cái team nhỏ nhỏ, trong một công ty nhỏ nhỏ, cũng khá enjoy với công việc của mình.
+Năm 2015, mình bỏ tất cả [xách ba lô ra Hà Nội tiếp tục theo đuổi lại đam mê lập trình](http://www.ddth.com/showthread.php/1314521-X%C3%A1ch-ba-l%C3%B4-ra-HN-theo-%C4%91u%E1%BB%95i-ngh%E1%BB%81-l%E1%BA%ADp-tr%C3%ACnh-web), quay trở lại nghiệp code, từ đó đến nay bôn ba code dạo, hiện tại mình đang lead một cái team nhỏ nhỏ, trong một công ty nhỏ nhỏ, cũng khá enjoy với công việc của mình.
 
 ![Bùi Văn Nguyện](images/bui-van-nguyen-img.jpg)
 
