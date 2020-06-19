@@ -41,7 +41,9 @@ Chỉ làm 5 việc một ngày rồi nghỉ, không được làm thêm bất c
 ## Thứ nhất:
 
 Bởi vì mỗi ngày bạn chỉ "được" làm 5 việc thôi, 5 việc là quá ít, vì vậy nên bạn có xu hướng chọn 5 việc quan trọng nhất để làm.
+
 Bạn có rất nhiều việc phải không? Nhưng thật ra đại đa số việc không cần thiết như chúng ta nghĩ. Những việc đó không (hoặc rất ít) ảnh hưởng đến sự thành công của bạn, vậy nên chúng ta làm nó sau.
+
 Nếu bạn làm 100 việc, đó không phải là những việc quan trọng nữa.
 
 ## Thứ hai:
