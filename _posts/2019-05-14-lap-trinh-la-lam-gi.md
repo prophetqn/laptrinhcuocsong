@@ -52,7 +52,7 @@ Mục đích của chúng ta là tạo ra giá trị cho cuộc sống, tạo ra
 
 ## Tôi muốn tất cả lập trình viên đều phải hỏi câu này: Phần mềm có giúp được gì cho vấn đề này không?
 
-Tắc đường quá? hãy làm phần mềm cảnh báo tắc đường, đói quá? hãy làm phần mềm đặt đồ ăn, ốm quá? hãy làm phần mềm kết nối bác sĩ với mọi người, cô đơn quá? hãy làm phần mềm hẹn hò, buồn quá? hãy làm website chia sẻ nỗi buồn... Bạn có thói quen ghi chép? nhưng đi đâu cũng mang 1 cuốn sổ tay bất tiện quá, tốn giấy quá, hãy làm phần mềm ghi chép trên điện thoại đi.
+Tắc đường quá? hãy làm phần mềm cảnh báo tắc đường, đói quá? hãy làm phần mềm đặt đồ ăn, ốm quá? hãy làm phần mềm kết nối bác sĩ với mọi người, cô đơn quá? hãy làm phần mềm hẹn hò, buồn quá? hãy làm website chia sẻ nỗi buồn... Bạn có thói quen ghi chép? nhưng đi đâu cũng mang 1 cuốn sổ tay bất tiện quá, tốn giấy quá, hãy làm phần mềm [ghi chép](http://ghichep.net) trên điện thoại đi.
 
 ## Một câu hỏi khác: Phần mềm ghép với thứ này thì thành cái gì?
 
