@@ -31,7 +31,7 @@ related_videos:
 
 ---
 
-Từ nay mình ghi chép trên trang này luôn, ghi chép linh tinh các vấn đề nhỏ nhỏ mà trong quá trình làm việc mình gặp phải, coi như cái sổ tay.
+Từ nay mình [ghi chép](http://ghichep.net) trên trang này luôn, ghi chép linh tinh các vấn đề nhỏ nhỏ mà trong quá trình làm việc mình gặp phải, coi như cái sổ tay.
 
 Khách hàng bên JAV báo hệ thống không ghi được file log. Zồi ôi, cái này thì đơn giản, mình gấp rút ssh vào server.
 
