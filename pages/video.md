@@ -5,6 +5,9 @@ permalink: /video.html
 excerpt: Các video về lập trình, đời sống lập trình viên trên kênh youtube chính thức của Lập trình cuộc sống chấm com
 videos:
   -
+    title: Lập trình game Slither.io
+    id: M-kEvNz0ubI
+  -
     title: Lập trình ứng dụng inscard
     id: VYRGphI4ZWI
   -
