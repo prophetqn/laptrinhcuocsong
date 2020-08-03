@@ -27,7 +27,7 @@ Học viên phải làm bài tập được giao một cách đầy đủ.
 
 Mỗi tuần 3 buổi vào các tối thứ 2, thứ 4 và thứ 6, mỗi buổi khoảng 2 tiếng.
 
-Với lượng kiến thức cần truyền tải là rất lớn, tổng thời gian khóa học dự kiến là 7-8 tháng, thời gian này có thể bị kéo dài ra nếu học viên vẫn chưa tiếp thu đủ kiến thức.
+Với lượng kiến thức cần truyền tải là rất lớn, tổng thời gian khóa học dự kiến là 8 tháng, thời gian này có thể bị kéo dài ra nếu học viên vẫn chưa tiếp thu đủ kiến thức.
 
 ## Nội dung khóa học:
 
@@ -92,11 +92,11 @@ Học viên học cách phân tích và thiết kế cơ sở dữ liệu quan h
 - Cache
 - Queue và Shedule
 
-### 13. Deploy dự án Laravel
+### 13. Teamwork và Deploy dự án Laravel
 
-Học viên học cách deploy một project laravel lên vps sử dụng docker, CI-CD đơn giản với CircleCI.
+Học viên học cách sử dụng git, thử làm việc với nhau trên một project như một team thực thụ, học deploy một project laravel lên vps sử dụng docker, CI-CD đơn giản với CircleCI.
 
-### 13.Tổng kết khóa học.
+### 14.Tổng kết khóa học.
 
 Hệ thống hóa lại toàn bộ kiến thức đã học. Đánh giá lại trình độ học viên, bồi dưỡng thêm cho các học viên chưa đạt yêu cầu.
 
@@ -114,7 +114,7 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 
 **Học xong có đi làm được không vậy?**
 
-Khóa học này là tổng hợp của tất cả những gì mà mình từng làm ở vị trí lập trình viên, các bạn có thể thấy khóa học này có những kiến thức về git, npm, docker, vps... Những thứ mà một khóa học web thông thường không nhắc đến, hoặc tách thành nhiều khóa học nhỏ như: khóa học git, khóa học docker, khóa học vps...
+Khóa học này là tổng hợp của tất cả những gì mà mình từng làm ở vị trí lập trình viên, như bạn thấy khóa học này có những kiến thức về git, npm, docker, vps... Những thứ mà một khóa học web thông thường không nhắc đến, hoặc bị tách thành nhiều khóa học nhỏ như: khóa học git, khóa học docker, khóa học vps...
 
 **Bao giờ có khóa mới?**
 
@@ -128,7 +128,7 @@ Có rất nhiều khóa học khác trên internet, nhưng hầu hết các khó
 
 **Nếu không sắp xếp để online đúng giờ học live stream thì sao?**
 
-Các buổi live stream đều có video để học viên xem lại bất kỳ lúc nào, tuy nhiên vẫn khuyến khích học viên tham gia đầy đủ các buổi học live stream trực tiếp để đạt hiệu quả cao nhất.
+Các buổi live stream đều có video để bạn xem lại bất kỳ lúc nào, tuy nhiên vẫn khuyến khích bạn tham gia đầy đủ các buổi học live stream trực tiếp để đạt hiệu quả cao nhất.
 
 **Học xong rồi thì sao?**
 
