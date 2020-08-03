@@ -7,7 +7,7 @@ tags:
  - doi-song-lap-trinh-vien
 related_posts:
  - title: 
-   link: https://laptrinhcuocsong.com/khoa-hoc-full-stack-web-developer.html
+   link: https://laptrinhcuocsong.com/dung-laptop-hay-may-tinh-de-ban.html
  - title: 
    link: https://laptrinhcuocsong.com/lap-trinh-la-lam-gi.html
  - title: 
