@@ -57,7 +57,7 @@ Học viên làm chủ thư viện jquery, hiểu và ứng dụng jquery trong 
 
 ### 7. Vuejs
 
-Học viên hiểu các kiến thức về javascript framework nói riêng và vuejs nói chung, có kiến thức về routing, props, components, style binding... có thể làm single page web app.
+Học viên hiểu các kiến thức về javascript framework nói chung và vuejs nói riêng, học cách sử dụng NPM, cài đặt vuejs và học các kiến thức về routing, props, components, binding, methods, filters ... có thể làm single page web app.
 
 ### 8. Bootstrap
 
@@ -86,13 +86,17 @@ Học viên học cách phân tích và thiết kế cơ sở dữ liệu quan h
 - Blade template, compiling assets.
 - Sử dụng Vue framework trong laravel.
 - Request và validation
-- Eloquent ORM, Relationships.
+- Eloquent ORM, Eloquent relationships.
 - Migration, factory và seeder.
 - Auth và middleware.
 - Cache
 - Queue và Shedule
 
-### 12.Tổng kết khóa học.
+### 13. Deploy dự án Laravel
+
+Học viên học cách deploy một project laravel lên vps sử dụng docker, CI-CD đơn giản với CircleCI.
+
+### 13.Tổng kết khóa học.
 
 Hệ thống hóa lại toàn bộ kiến thức đã học. Đánh giá lại trình độ học viên, bồi dưỡng thêm cho các học viên chưa đạt yêu cầu.
 
@@ -107,6 +111,16 @@ Với lượng kiến thức cần truyền tải là rất lớn, để tham gi
 - Tôn trọng giảng viên, bạn bè. Trong khóa học, sẽ không phải là mình khi live stream tám chuyện với các bạn nữa, mình sẽ là người hướng dẫn các bạn, mong các bạn coi mình như một người bạn, người thầy.
 
 ## Một số câu hỏi thường gặp:
+
+**Học xong có đi làm được không vậy?**
+
+Khóa học này là tổng hợp của tất cả những gì mà mình từng làm ở vị trí lập trình viên, các bạn có thể thấy khóa học này có những kiến thức về git, npm, docker, vps... Những thứ mà một khóa học web thông thường không nhắc đến, hoặc tách thành nhiều khóa học nhỏ như: khóa học git, khóa học docker, khóa học vps...
+
+**Bao giờ có khóa mới?**
+
+Qua 4 khóa mình đã dạy, các bài giảng được tổ chức lại ngày một tốt hơn.
+
+Các khóa được mở liên tiếp, học viên có thể đăng ký bất kỳ lúc nào bởi vì: Học viên được học liên tiếp, tức là đang học khóa này, thì khi có khóa mới có thể sang khóa mới để học lại. Như vậy nếu bạn đăng ký vào giữa khóa, thì có thể vào học trước, chờ khóa mới.
 
 **Tại sao phải học trên live stream?**
 
