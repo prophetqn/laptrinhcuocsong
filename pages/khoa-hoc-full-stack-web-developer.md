@@ -134,7 +134,7 @@ Các buổi live stream đều có video để bạn xem lại bất kỳ lúc n
 
 Thường mỗi khóa mình sẽ chọn ra vài bạn học khá nhất để giới thiệu thực tập hoặc làm việc tại các công ty mà mình quen biết. Cũng tùy từng đợt mà có số lượng tuyển nhiều hoặc không.
 
-## Giá khóa học: 3 triệu đồng
+## Học phí: 3 triệu đồng
 
 Để hoàn tất quá trình đăng ký khóa học, các bạn thực hiện:
 
